@@ -65,7 +65,6 @@ abbad	abbude
 
 abbadisse	abbudesse
 
-abelgan	tō
 abelgan	ābealg
 abelgan	ābelg
 abelgan	ābelgan
@@ -81,7 +80,6 @@ abelgan	ābulge
 abelgan	ābulgen
 abelgan	ābulgon
 
-abeodan	tō
 abeodan	āboden
 abeodan	ābude
 abeodan	ābuden
@@ -128,7 +126,6 @@ aberendlic	āberendlīсum
 abiathar	Abiathar
 
 abidan	geābiden
-abidan	tō
 abidan	ābide
 abidan	ābiden
 abidan	ābidon
@@ -149,7 +146,6 @@ ablendan	ablend
 
 abraham	Abrahames
 
-abrecan	tō
 abrecan	ābrec
 abrecan	ābrecan
 abrecan	ābrecaþ
@@ -167,7 +163,6 @@ abrecan	ābrǣсen
 abredan	abræd
 
 abredwian	geābredwod
-abredwian	tō
 abredwian	ābredwa
 abredwian	ābredwast
 abredwian	ābredwaþ
@@ -186,7 +181,6 @@ abredwian	ābredwoden
 abredwian	ābredwodest
 abredwian	ābredwodon
 
-abugan	tō
 abugan	ābogen
 abugan	ābuge
 abugan	ābugen
@@ -218,7 +212,6 @@ acan	ace
 acan	acen
 acan	acende
 acan	geacen
-acan	tō
 acan	æcest
 acan	æceþ
 acan	ōc
@@ -350,7 +343,6 @@ acweorna	ācweornena
 acweorna	ācweornum
 
 acweorran	geācworren
-acweorran	tō
 acweorran	ācwear
 acweorran	ācweorr
 acweorran	ācweorran
@@ -413,10 +405,8 @@ acwician	acwicoden
 acwician	acwicodest
 acwician	acwicodon
 acwician	geacwicod
-acwician	tō
 
 acwinan	geācwinen
-acwinan	tō
 acwinan	ācwine
 acwinan	ācwinen
 acwinan	ācwinon
@@ -431,7 +421,6 @@ acwinan	ācwīnest
 acwinan	ācwīneþ
 
 acwincan	geācwuncen
-acwincan	tō
 acwincan	ācwanc
 acwincan	ācwinc
 acwincan	ācwincan
@@ -553,7 +542,6 @@ adrencan	ādrenсende
 adrencan	ādrenсenne
 
 adreogan	geādrogen
-adreogan	tō
 adreogan	ādrogen
 adreogan	ādruge
 adreogan	ādrugen
@@ -712,7 +700,6 @@ afæran	afærede
 afæran	afæryd
 
 agan	geāgen
-agan	tō
 agan	āgan
 agan	āge
 agan	āgen
@@ -808,7 +795,6 @@ agenung	āgenungum
 
 ageotan	agoten
 
-agiefan	tō
 agiefan	āgeaf
 agiefan	āgeafe
 agiefan	āgief
@@ -824,7 +810,6 @@ agiefan	āgēafen
 agiefan	āgēafon
 
 agifan	geāgifen
-agifan	tō
 agifan	āgeaf
 agifan	āgif
 agifan	āgifan
@@ -853,7 +838,6 @@ aglæca	āglǣcan
 aglæca	āglǣcena
 aglæca	āglǣcum
 
-agnettan	tō
 agnettan	āgnete
 agnettan	āgneted
 agnettan	āgnetest
@@ -867,7 +851,6 @@ agnettan	āgnettest
 agnettan	āgnetton
 
 agnian	geāgnod
-agnian	tō
 agnian	āgna
 agnian	āgnast
 agnian	āgnaþ
@@ -945,7 +928,6 @@ aheawan	ahēow
 aheawan	ahēowe
 aheawan	ahēowen
 aheawan	ahēowon
-aheawan	tō
 
 ahebban	ahebbad
 ahebban	ahof
@@ -965,7 +947,6 @@ ahebban	āhōfen
 ahebban	āhōfon
 
 ahlehhan	geāhlahen
-ahlehhan	tō
 ahlehhan	āhlahen
 ahlehhan	āhlehh
 ahlehhan	āhlehhan
@@ -1083,7 +1064,6 @@ alan	ale
 alan	alen
 alan	alende
 alan	gealen
-alan	tō
 alan	ælest
 alan	æleþ
 alan	ōl
@@ -1091,7 +1071,6 @@ alan	ōle
 alan	ōlen
 alan	ōlon
 
-alecgan	tō
 alecgan	ālecgan
 alecgan	ālecgaþ
 alecgan	ālecge
@@ -1119,7 +1098,6 @@ alexandisc	Alexandiscre
 alexandria	Alexandria
 alexandria	Alexandrian
 
-aliefan	tō
 aliefan	ālīef
 aliefan	ālīefan
 aliefan	ālīefaþ
@@ -1134,7 +1112,6 @@ aliefan	ālīefende
 aliefan	ālīefest
 aliefan	ālīefeþ
 
-aliesan	tō
 aliesan	ālīes
 aliesan	ālīesan
 aliesan	ālīesaþ
@@ -1150,7 +1127,6 @@ aliesan	ālīesest
 aliesan	ālīeseþ
 
 alimpan	geālumpen
-alimpan	tō
 alimpan	ālamp
 alimpan	ālimp
 alimpan	ālimpan
@@ -1185,7 +1161,6 @@ alor	alorum
 
 alpheus	Alphei
 
-alyfan	tō
 alyfan	ālȳf
 alyfan	ālȳfan
 alyfan	ālȳfaþ
@@ -1205,7 +1180,6 @@ alysednys	alysednysse
 alædan	alædan
 
 amarian	geāmarod
-amarian	tō
 amarian	āmara
 amarian	āmarast
 amarian	āmaraþ
@@ -1225,7 +1199,6 @@ amarian	āmarodest
 amarian	āmarodon
 
 amasian	geāmasod
-amasian	tō
 amasian	āmasa
 amasian	āmasast
 amasian	āmasaþ
@@ -1302,7 +1275,6 @@ ametendlic	āmetendlīсre
 ametendlic	āmetendlīсu
 ametendlic	āmetendlīсum
 
-amirran	tō
 amirran	āmirde
 amirran	āmirden
 amirran	āmirdest
@@ -1563,7 +1535,6 @@ andswarian	andswaroden
 andswarian	andswarodest
 andswarian	andswarodon
 andswarian	geandswarod
-andswarian	tō
 
 andswaru	andsware
 
@@ -1617,7 +1588,6 @@ andustrian	andūstroden
 andustrian	andūstrodest
 andustrian	andūstrodon
 andustrian	geandūstrod
-andustrian	tō
 
 andweard	andweard
 andweard	andwearda
@@ -1648,7 +1618,6 @@ andweardian	andweardoden
 andweardian	andweardodest
 andweardian	andweardodon
 andweardian	geandweardod
-andweardian	tō
 
 andweardnes	andweardnes
 andweardnes	andweardnessa
@@ -1825,7 +1794,6 @@ anhealdan	anhēolden
 anhealdan	anhēoldon
 
 animan	geānumen
-animan	tō
 animan	ānam
 animan	ānim
 animan	āniman
@@ -1875,7 +1843,6 @@ anliepig	ānlīepigum
 
 anlipig	anlipig
 
-anlæcan	tō
 anlæcan	ānlǣht
 anlæcan	ānlǣhte
 anlæcan	ānlǣhten
@@ -2068,7 +2035,6 @@ arfæstnes	arfæstnesse
 arfæt	arfata
 
 arian	geārod
-arian	tō
 arian	āra
 arian	ārast
 arian	āraþ
@@ -2190,7 +2156,6 @@ asceadan	āsсēden
 asceadan	āsсēdon
 
 ascian	geāscod
-ascian	tō
 ascian	āsca
 ascian	āscast
 ascian	āscaþ
@@ -2228,7 +2193,6 @@ asecan	āsōhton
 
 asecgan	geāsægd
 asecgan	saga
-asecgan	tō
 asecgan	āsecgan
 asecgan	āsecgaþ
 asecgan	āsecge
@@ -2285,7 +2249,6 @@ aseon	āsīehþ
 
 aseten	aseten
 
-asettan	tō
 asettan	āsete
 asettan	āseted
 asettan	āsetest
@@ -2337,7 +2300,6 @@ asprungennes	āsprungennessum
 
 assa	assan
 
-astandan	tō
 astandan	āstand
 astandan	āstandan
 astandan	āstandaþ
@@ -2368,7 +2330,6 @@ astirian	astirian
 astreccan	astrehte
 astreccan	astrehton
 
-astyrian	tō
 astyrian	āstyre
 astyrian	āstyred
 astyrian	āstyrede
@@ -2401,7 +2362,6 @@ asundrian	āsundroden
 asundrian	āsundrodest
 asundrian	āsundrodon
 
-aswebban	tō
 aswebban	āswebban
 aswebban	āswebbaþ
 aswebban	āswebbe
@@ -2744,7 +2704,6 @@ awyrpan	awurpon
 awægan	awægan
 
 axian	geāxod
-axian	tō
 axian	āxa
 axian	āxast
 axian	āxaþ
@@ -2792,7 +2751,6 @@ aþ	āþe
 aþ	āþes
 aþ	āþum
 
-aþecgan	tō
 aþecgan	āþecgan
 aþecgan	āþecgaþ
 aþecgan	āþecge
@@ -2811,7 +2769,6 @@ aþenian	Aþene
 aþenian	aþenede
 aþenian	aþenode
 
-aþeodan	tō
 aþeodan	āþēod
 aþeodan	āþēodan
 aþeodan	āþēodaþ
@@ -2899,7 +2856,6 @@ bacan	bōce
 bacan	bōcen
 bacan	bōcon
 bacan	gebacen
-bacan	tō
 
 badian	bāda
 badian	bādast
@@ -2919,7 +2875,6 @@ badian	bādoden
 badian	bādodest
 badian	bādodon
 badian	gebādod
-badian	tō
 
 bagsecg	Bachsecg
 bagsecg	Bagsecg
@@ -2996,7 +2951,6 @@ basnian	bāsnoden
 basnian	bāsnodest
 basnian	bāsnodon
 basnian	gebāsnod
-basnian	tō
 
 basu	basone
 basu	basora
@@ -3030,7 +2984,6 @@ batian	batoden
 batian	batodest
 batian	batodon
 batian	gebatod
-batian	tō
 
 batweard	bātweard
 batweard	bātwearda
@@ -3072,7 +3025,6 @@ baþian	baþoden
 baþian	baþodest
 baþian	baþodon
 baþian	gebaþod
-baþian	tō
 
 be	Be
 be	be
@@ -3250,7 +3202,6 @@ beatan	bēoten
 beatan	bēoton
 beatan	bīetst
 beatan	bīett
-beatan	tō
 
 bebaðian	bebaða
 bebaðian	bebaðast
@@ -3383,7 +3334,6 @@ bebugan	bebūgende
 bebugan	bebȳgest
 bebugan	bebȳgeþ
 bebugan	gebebogen
-bebugan	tō
 
 bebycgan	bebohte
 bebycgan	bebohten
@@ -3544,7 +3494,6 @@ becuman	becymþ
 becuman	becōme
 becuman	becōmen
 becuman	becōmon
-becuman	tō
 
 becwelan	becwel
 becwelan	becwelan
@@ -3590,7 +3539,6 @@ becweþan	becwǣde
 becweþan	becwǣden
 becweþan	becwǣdon
 becweþan	gebecweden
-becweþan	tō
 
 becyrran	beсyr
 becyrran	beсyrde
@@ -3630,7 +3578,6 @@ bedecian	bedecoden
 bedecian	bedecodest
 bedecian	bedecodon
 bedecian	gebedecod
-bedecian	tō
 
 bediglian	bediglad
 bediglian	bediglian
@@ -3748,7 +3695,6 @@ bedælan	bedǣlen
 bedælan	bedǣlende
 bedælan	bedǣlest
 bedælan	bedǣleþ
-bedælan	tō
 
 beebbian	beebbade
 
@@ -3829,7 +3775,6 @@ befindan	befintt
 befindan	befunde
 befindan	befunden
 befindan	befundon
-befindan	tō
 
 befleogan	beflogen
 befleogan	befluge
@@ -3976,7 +3921,6 @@ befylan	befȳlen
 befylan	befȳlende
 befylan	befȳlest
 befylan	befȳleþ
-befylan	tō
 
 befæstan	befæst
 befæstan	befæstan
@@ -3988,7 +3932,6 @@ befæstan	befæstende
 befæstan	befæstest
 befæstan	befæsteþ
 befæstan	befæston
-befæstan	tō
 
 befæstnian	befæstna
 befæstnian	befæstnast
@@ -4015,7 +3958,6 @@ began	beēode
 began	beēoden
 began	beēodest
 began	beēodon
-began	tō
 
 begang	begang
 begang	beganga
@@ -4058,7 +4000,6 @@ begeotan	begēotende
 begeotan	begīetst
 begeotan	begīett
 begeotan	begīetþ
-begeotan	tō
 
 begietan	begeat
 begietan	begiet
@@ -4072,7 +4013,6 @@ begietan	begiett
 begietan	begēate
 begietan	begēaten
 begietan	begēaton
-begietan	tō
 
 beginnan	began
 beginnan	beginn
@@ -4087,7 +4027,6 @@ beginnan	begunen
 beginnan	begunne
 beginnan	begunnen
 beginnan	begunnon
-beginnan	tō
 
 begitan	begeton
 
@@ -4254,7 +4193,6 @@ behealdan	behēold
 behealdan	behēolde
 behealdan	behēolden
 behealdan	behēoldon
-behealdan	tō
 
 beheawan	behēaw
 beheawan	behēawan
@@ -4399,7 +4337,6 @@ behreosan	behrēosende
 behreosan	behrīesest
 behreosan	behrīeseþ
 behreosan	gebehroren
-behreosan	tō
 
 behropan	behrēop
 behropan	behrēope
@@ -4429,7 +4366,6 @@ behweorfan	behwurfe
 behweorfan	behwurfen
 behweorfan	behwurfon
 behweorfan	gebehworfen
-behweorfan	tō
 
 behycgan	behogde
 behycgan	behogden
@@ -4474,7 +4410,6 @@ beirnan	beurne
 beirnan	beurnen
 beirnan	beurnon
 beirnan	gebeurnen
-beirnan	tō
 
 beladian	belāda
 beladian	belādast
@@ -4494,7 +4429,6 @@ beladian	belādoden
 beladian	belādodest
 beladian	belādodon
 beladian	gebelādod
-beladian	tō
 
 belean	belagen
 belean	belēa
@@ -4507,7 +4441,6 @@ belean	belōg
 belean	belōge
 belean	belōgen
 belean	belōgon
-belean	tō
 
 belecgan	belegd
 belecgan	belegde
@@ -4553,7 +4486,6 @@ belgan	bulge
 belgan	bulgen
 belgan	bulgon
 belgan	gebolgen
-belgan	tō
 
 belicgan	belegen
 belicgan	beligest
@@ -4598,7 +4530,6 @@ belifan	belīfende
 belifan	belīfest
 belifan	belīfeþ
 belifan	gebelifen
-belifan	tō
 
 belimpan	belamp
 belimpan	belimp
@@ -4631,7 +4562,6 @@ bellan	bulle
 bellan	bullen
 bellan	bullon
 bellan	gebollen
-bellan	tō
 
 belle	bellan
 belle	belle
@@ -4802,7 +4732,6 @@ beneotan	benēotende
 beneotan	benīetest
 beneotan	benīeteþ
 beneotan	gebenoten
-beneotan	tō
 
 beniman	benam
 beniman	benim
@@ -4853,7 +4782,6 @@ bensian	bēnsoden
 bensian	bēnsodest
 bensian	bēnsodon
 bensian	gebēnsod
-bensian	tō
 
 benæman	benæmed
 
@@ -4887,7 +4815,6 @@ beodan	bēodende
 beodan	bīet
 beodan	bīetst
 beodan	geboden
-beodan	tō
 
 beofor	beofora
 beofor	beoforas
@@ -4933,7 +4860,6 @@ beon	bēom
 beon	bēon
 beon	bēoþ
 beon	gebēon
-beon	tō
 beon	wesende
 beon	wæs
 beon	wǣre
@@ -4954,7 +4880,6 @@ beorcan	burcon
 beorcan	byrcest
 beorcan	byrceþ
 beorcan	geborcen
-beorcan	tō
 
 beorg	beorg
 beorg	beorga
@@ -5062,7 +4987,6 @@ beotian	bēotoden
 beotian	bēotodest
 beotian	bēotodon
 beotian	gebēotod
-beotian	tō
 
 beow	bēow
 beow	bēowa
@@ -5102,7 +5026,6 @@ beran	bær
 beran	bǣre
 beran	bǣren
 beran	bǣron
-beran	tō
 
 bereafian	bereafian
 bereafian	berēafa
@@ -5138,7 +5061,6 @@ bereofan	berēofende
 bereofan	berīefest
 bereofan	berīefeþ
 bereofan	geberofen
-bereofan	tō
 
 beridan	beride
 beridan	beriden
@@ -5168,7 +5090,6 @@ berstan	burste
 berstan	bursten
 berstan	burston
 berstan	bærst
-berstan	tō
 
 berædan	berædde
 berædan	berǣd
@@ -5321,7 +5242,6 @@ bescufan	bescūfende
 bescufan	bescȳfest
 bescufan	bescȳfeþ
 bescufan	gebescofen
-bescufan	tō
 
 bescyldian	besсylda
 bescyldian	besсyldast
@@ -5583,7 +5503,6 @@ besteman	bestēmen
 besteman	bestēmende
 besteman	bestēmest
 besteman	bestēmeþ
-besteman	tō
 
 besteppan	bestapen
 besteppan	bestepest
@@ -5686,7 +5605,6 @@ bestyman	bestȳmen
 bestyman	bestȳmende
 bestyman	bestȳmest
 bestyman	bestȳmeþ
-bestyman	tō
 
 bestyrian	bestyre
 bestyrian	bestyred
@@ -5717,7 +5635,6 @@ beswican	beswīcende
 beswican	beswīcest
 beswican	beswīceþ
 beswican	gebeswicen
-beswican	tō
 
 beswicend	beswicend
 
@@ -5764,7 +5681,6 @@ besyrwan	besyrwaþ
 besyrwan	besyrwe
 besyrwan	besyrwen
 besyrwan	besyrwende
-besyrwan	tō
 
 bet	bet
 
@@ -5814,7 +5730,6 @@ beterian	beteroden
 beterian	beterodest
 beterian	beterodon
 beterian	gebeterod
-beterian	tō
 
 bethania	Bethania
 bethania	Bethaniam
@@ -6341,7 +6256,6 @@ beæwnian	beǣwnoden
 beæwnian	beǣwnodest
 beæwnian	beǣwnodon
 beæwnian	gebeǣwnod
-beæwnian	tō
 
 beþeccan	beþeaht
 beþeccan	beþeahte
@@ -6407,7 +6321,6 @@ beþian	beþoden
 beþian	beþodest
 beþian	beþodon
 beþian	gebeþod
-beþian	tō
 
 beþrawan	beþrāw
 beþrawan	beþrāwan
@@ -6513,7 +6426,6 @@ bidan	bīdende
 bidan	bīdest
 bidan	bīdeþ
 bidan	gebiden
-bidan	tō
 
 biddan	bedden
 biddan	bidd
@@ -6528,7 +6440,6 @@ biddan	bæd
 biddan	bǣde
 biddan	bǣden
 biddan	bǣdon
-biddan	tō
 
 bieme	bīeman
 bieme	bīeme
@@ -6548,7 +6459,6 @@ biernan	burne
 biernan	burnen
 biernan	burnon
 biernan	geburnen
-biernan	tō
 
 bifian	bifa
 bifian	bifast
@@ -6568,7 +6478,6 @@ bifian	bifoden
 bifian	bifodest
 bifian	bifodon
 bifian	gebifod
-bifian	tō
 
 bigan	bigdon
 
@@ -6601,7 +6510,6 @@ bihreosan	bihrēosende
 bihreosan	bihrīesest
 bihreosan	bihrīeseþ
 bihreosan	gebihroren
-bihreosan	tō
 
 bil	bil
 bil	billa
@@ -6651,7 +6559,6 @@ bindan	bunde
 bindan	bunden
 bindan	bundon
 bindan	gebunden
-bindan	tō
 
 binnan	binnan
 
@@ -6676,7 +6583,6 @@ birnan	burne
 birnan	burnen
 birnan	burnon
 birnan	geburnen
-birnan	tō
 
 bisceop	bisceop
 bisceop	bisceopas
@@ -6718,7 +6624,6 @@ bisgian	bisgoden
 bisgian	bisgodest
 bisgian	bisgodon
 bisgian	gebisgod
-bisgian	tō
 
 bisig	bisga
 bisig	bisgan
@@ -6766,7 +6671,6 @@ bitan	bītende
 bitan	bītest
 bitan	bīteþ
 bitan	gebiten
-bitan	tō
 
 biter	bitee
 biter	biter
@@ -6845,7 +6749,6 @@ blacian	blācoden
 blacian	blācodest
 blacian	blācodon
 blacian	geblācod
-blacian	tō
 
 blanc	blanc
 blanc	blanca
@@ -6877,7 +6780,6 @@ blandan	blēnd
 blandan	blēnde
 blandan	blēnden
 blandan	blēndon
-blandan	tō
 
 blatian	blāta
 blatian	blātast
@@ -6897,7 +6799,6 @@ blatian	blātoden
 blatian	blātodest
 blatian	blātodon
 blatian	geblātod
-blatian	tō
 
 blawan	blāw
 blawan	blāwan
@@ -6912,7 +6813,6 @@ blawan	blēowen
 blawan	blēowon
 blawan	blǣwst
 blawan	blǣwþ
-blawan	tō
 
 bleat	blēat
 bleat	blēata
@@ -6955,7 +6855,6 @@ bledan	blēdende
 bledan	blēdest
 bledan	blēdeþ
 bledan	geblēded
-bledan	tō
 
 bledsian	blēdsa
 bledsian	blēdsast
@@ -6975,7 +6874,6 @@ bledsian	blēdsoden
 bledsian	blēdsodest
 bledsian	blēdsodon
 bledsian	geblēdsod
-bledsian	tō
 
 blencan	blencte
 blencan	blencten
@@ -6991,7 +6889,6 @@ blencan	blenсende
 blencan	blenсest
 blencan	blenсeþ
 blencan	geblenсed
-blencan	tō
 
 blendan	blend
 blendan	blendan
@@ -7040,7 +6937,6 @@ bletsian	blētsoden
 bletsian	blētsodest
 bletsian	blētsodon
 bletsian	geblētsod
-bletsian	tō
 
 bletsung	bledsunge
 
@@ -7057,7 +6953,6 @@ blican	blīcende
 blican	blīcest
 blican	blīceþ
 blican	geblicen
-blican	tō
 
 blind	blind
 blind	blinda
@@ -7091,7 +6986,6 @@ blinnan	blinþ
 blinnan	blunne
 blinnan	blunnen
 blinnan	blunnon
-blinnan	tō
 
 blis	blisse
 blis	blysse
@@ -7114,7 +7008,6 @@ blissian	blissoden
 blissian	blissodest
 blissian	blissodon
 blissian	geblissod
-blissian	tō
 
 bliðe	bliðe
 bliðe	bliðum
@@ -7235,7 +7128,6 @@ blostmian	blōstmoden
 blostmian	blōstmodest
 blostmian	blōstmodon
 blostmian	geblōstmod
-blostmian	tō
 
 blotan	blēot
 blotan	blēote
@@ -7250,7 +7142,6 @@ blotan	blōte
 blotan	blōten
 blotan	blōtende
 blotan	geblōten
-blotan	tō
 
 blowan	blēow
 blowan	blēowe
@@ -7265,7 +7156,6 @@ blowan	blōwe
 blowan	blōwen
 blowan	blōwende
 blowan	blōwo
-blowan	tō
 
 blæc	blaca
 blæc	blacan
@@ -7362,7 +7252,6 @@ bocian	bōcoden
 bocian	bōcodest
 bocian	bōcodon
 bocian	gebōcod
-bocian	tō
 
 boclar	bōclār
 boclar	bōclāra
@@ -7436,7 +7325,6 @@ bodian	bododen
 bodian	bododest
 bodian	bododon
 bodian	gebodod
-bodian	tō
 
 bodig	bodig
 bodig	bodiga
@@ -7543,7 +7431,6 @@ borgian	borgoden
 borgian	borgodest
 borgian	borgodon
 borgian	geborgod
-borgian	tō
 
 borian	bora
 borian	borast
@@ -7563,7 +7450,6 @@ borian	boroden
 borian	borodest
 borian	borodon
 borian	geborod
-borian	tō
 
 bosm	bōsm
 bosm	bōsma
@@ -7588,7 +7474,6 @@ botettan	bōtetten
 botettan	bōtettende
 botettan	bōtettest
 botettan	bōtetton
-botettan	tō
 
 botl	botle
 
@@ -7680,7 +7565,6 @@ brecan	brǣce
 brecan	brǣcen
 brecan	brǣcon
 brecan	gebrocen
-brecan	tō
 
 bregdan	bregd
 bregdan	bregdan
@@ -7696,7 +7580,6 @@ bregdan	brugden
 bregdan	brugdon
 bregdan	brægd
 bregdan	gebrogden
-bregdan	tō
 
 brego	brega
 brego	brego
@@ -7740,7 +7623,6 @@ breotan	brēotende
 breotan	brīet
 breotan	brīetst
 breotan	brīett
-breotan	tō
 
 breowan	browen
 breowan	bruwe
@@ -7756,7 +7638,6 @@ breowan	brēowende
 breowan	brēowest
 breowan	brēoweþ
 breowan	gebrowen
-breowan	tō
 
 breoþan	broþen
 breoþan	bruþe
@@ -7772,7 +7653,6 @@ breoþan	brēoþende
 breoþan	brēoþest
 breoþan	brēoþeþ
 breoþan	gebroþen
-breoþan	tō
 
 bretwalda	bretwalda
 bretwalda	bretwaldan
@@ -7819,7 +7699,6 @@ bringan	brōhtest
 bringan	brōhton
 bringan	gebrungen
 bringan	gebrōht
-bringan	tō
 
 briw	brīw
 briw	brīwa
@@ -7936,7 +7815,6 @@ brucan	brūcende
 brucan	brūcest
 brucan	brūceþ
 brucan	brȳcþ
-brucan	tō
 
 brun	brūn
 brun	brūna
@@ -8091,7 +7969,6 @@ buan	būst
 buan	bȳn
 buan	bȳþ
 buan	gebūn
-buan	tō
 
 buc	būc
 buc	būca
@@ -8133,7 +8010,6 @@ bugan	būgende
 bugan	bȳgest
 bugan	bȳgeþ
 bugan	gebogen
-bugan	tō
 
 bune	Bunnan
 
@@ -8213,7 +8089,6 @@ bycgan	byge
 bycgan	bygest
 bycgan	bygeþ
 bycgan	geboht
-bycgan	tō
 
 bydel	bydel
 bydel	bydela
@@ -8451,7 +8326,6 @@ calan	cōle
 calan	cōlen
 calan	cōlon
 calan	gecalen
-calan	tō
 
 calc	calcum
 
@@ -8491,7 +8365,6 @@ cancettan	cancetten
 cancettan	cancettende
 cancettan	cancettest
 cancettan	cancetton
-cancettan	tō
 
 candelstæf	candelstæf
 
@@ -8529,7 +8402,6 @@ capian	capoden
 capian	capodest
 capian	capodon
 capian	gecapod
-capian	tō
 
 carcern	carcern
 carcern	carcerna
@@ -8557,7 +8429,6 @@ carian	caroden
 carian	carodest
 carian	carodon
 carian	gecarod
-carian	tō
 
 cariei	Cariei
 
@@ -8671,7 +8542,6 @@ ceahhettan	ceahhetten
 ceahhettan	ceahhettende
 ceahhettan	ceahhettest
 ceahhettan	ceahhetton
-ceahhettan	tō
 
 cealc	сealc
 cealc	сealca
@@ -8709,7 +8579,6 @@ cealdian	cealdoden
 cealdian	cealdodest
 cealdian	cealdodon
 cealdian	gecealdod
-cealdian	tō
 
 cealdnys	cealdnys
 cealdnys	cealdnyssa
@@ -8742,7 +8611,6 @@ ceallian	cealloden
 ceallian	ceallodest
 ceallian	ceallodon
 ceallian	geceallod
-ceallian	tō
 
 ceap	ceapes
 ceap	cēap
@@ -8871,7 +8739,6 @@ cennan	cennen
 cennan	cennende
 cennan	cennest
 cennan	cenneþ
-cennan	tō
 
 cent	Cent
 
@@ -8897,7 +8764,6 @@ ceorfan	corfen
 ceorfan	curfe
 ceorfan	curfen
 ceorfan	curfon
-ceorfan	tō
 ceorfan	сearf
 ceorfan	сeorf
 ceorfan	сeorfan
@@ -8926,7 +8792,6 @@ ceorian	ceoroden
 ceorian	ceorodest
 ceorian	ceorodon
 ceorian	geceorod
-ceorian	tō
 
 ceorl	сeorl
 ceorl	сeorla
@@ -8946,7 +8811,6 @@ ceorlboren	сeorlborenre
 ceorlboren	сeorlborenum
 
 ceorlian	geсeorlod
-ceorlian	tō
 ceorlian	сeorla
 ceorlian	сeorlast
 ceorlian	сeorlaþ
@@ -8976,7 +8840,6 @@ ceorliscnes	сeorlisсnesse
 ceorliscnes	сeorlisсnessum
 
 ceorran	geсorren
-ceorran	tō
 ceorran	сearr
 ceorran	сeorr
 ceorran	сeorran
@@ -8998,7 +8861,6 @@ ceosan	cure
 ceosan	curen
 ceosan	curon
 ceosan	gecoren
-ceosan	tō
 ceosan	сēas
 ceosan	сēos
 ceosan	сēosan
@@ -9013,7 +8875,6 @@ ceowan	cuwe
 ceowan	cuwen
 ceowan	cuwon
 ceowan	gecowen
-ceowan	tō
 ceowan	сēaw
 ceowan	сēow
 ceowan	сēowan
@@ -9037,7 +8898,6 @@ cepan	cēpten
 cepan	cēptest
 cepan	cēpton
 cepan	cēpþ
-cepan	tō
 
 cepsetl	cepsetle
 
@@ -9056,7 +8916,6 @@ cicen	сicenum
 
 cidan	cād
 cidan	geсiden
-cidan	tō
 cidan	сide
 cidan	сiden
 cidan	сidon
@@ -9070,7 +8929,6 @@ cidan	сīdest
 cidan	сīdeþ
 
 cierran	geсierred
-cierran	tō
 cierran	сier
 cierran	сierde
 cierran	сierden
@@ -9145,7 +9003,6 @@ cimban	cumbe
 cimban	cumben
 cimban	cumbon
 cimban	gecumben
-cimban	tō
 cimban	сimb
 cimban	сimban
 cimban	сimbaþ
@@ -9294,7 +9151,6 @@ cleofan	clēofende
 cleofan	clīefest
 cleofan	clīefeþ
 cleofan	geclofen
-cleofan	tō
 
 cleopian	cleopa
 cleopian	cleopast
@@ -9314,7 +9170,6 @@ cleopian	cleopoden
 cleopian	cleopodest
 cleopian	cleopodon
 cleopian	gecleopod
-cleopian	tō
 
 clerc	clerc
 clerc	clerca
@@ -9336,7 +9191,6 @@ climban	clumbe
 climban	clumben
 climban	clumbon
 climban	geclumben
-climban	tō
 
 clingan	clang
 clingan	cling
@@ -9371,7 +9225,6 @@ clipian	clipoden
 clipian	clipodest
 clipian	clipodon
 clipian	geclipod
-clipian	tō
 
 clipigendlic	clipigendlīс
 clipigendlic	clipigendlīсa
@@ -9439,7 +9292,6 @@ clyccan	clyссe
 clyccan	clyссen
 clyccan	clyссende
 clyccan	geclyht
-clyccan	tō
 
 clypian	Clypiende
 clypian	cliopode
@@ -9479,7 +9331,6 @@ clysan	clȳsende
 clysan	clȳsest
 clysan	clȳseþ
 clysan	geclȳsed
-clysan	tō
 
 clæg	clǣg
 clæg	clǣga
@@ -9532,7 +9383,6 @@ clænsian	clǣnsoden
 clænsian	clǣnsodest
 clænsian	clǣnsodon
 clænsian	geclǣnsod
-clænsian	tō
 
 clænsung	clænsunga
 
@@ -9569,7 +9419,6 @@ cnawan	cnǣw
 cnawan	cnǣwe
 cnawan	cnǣwst
 cnawan	cnǣwþ
-cnawan	tō
 
 cnawelæcan	*cnawelǣht,*gecnawelǣht
 cnawelæcan	*cnawelǣhte
@@ -9647,7 +9496,6 @@ cneordlæcan	cneordlǣсen
 cneordlæcan	cneordlǣсende
 cneordlæcan	cneordlǣсest
 cneordlæcan	cneordlǣсeþ
-cneordlæcan	tō
 
 cneores	cneores
 
@@ -9729,7 +9577,6 @@ cnossian	cnossoden
 cnossian	cnossodest
 cnossian	cnossodon
 cnossian	gecnossod
-cnossian	tō
 
 cnotta	cnotta
 cnotta	cnottan
@@ -9824,7 +9671,6 @@ colian	cōloden
 colian	cōlodest
 colian	cōlodon
 colian	gecōlod
-colian	tō
 
 coln	Colne
 
@@ -9914,7 +9760,6 @@ cracian	cracoden
 cracian	cracodest
 cracian	cracodon
 cracian	gecracod
-cracian	tō
 
 cran	cran
 cran	crana
@@ -9955,7 +9800,6 @@ creopan	crēopende
 creopan	crīepest
 creopan	crīepeþ
 creopan	gecropen
-creopan	tō
 
 cricc	criсс
 cricc	criссa
@@ -9976,7 +9820,6 @@ crincan	crunce
 crincan	cruncen
 crincan	cruncon
 crincan	gecruncen
-crincan	tō
 
 crincgan	crang
 crincgan	crincg
@@ -9991,7 +9834,6 @@ crincgan	crunge
 crincgan	crungen
 crincgan	crungon
 crincgan	gecrungen
-crincgan	tō
 
 crismlysing	crismlising
 
@@ -10046,7 +9888,6 @@ crudan	crūdende
 crudan	crȳdeþ
 crudan	crȳt
 crudan	crȳtst
-crudan	tō
 
 cruma	cruman
 
@@ -10137,7 +9978,6 @@ cuman	cōme
 cuman	cōmen
 cuman	cōmon
 cuman	gecumen
-cuman	tō
 
 cumende	cumende
 
@@ -10166,7 +10006,6 @@ cunnan	cūþen
 cunnan	cūþest
 cunnan	cūþon
 cunnan	gecūþ
-cunnan	tō
 
 cunnian	cunna
 cunnian	cunnast
@@ -10186,7 +10025,6 @@ cunnian	cunnoden
 cunnian	cunnodest
 cunnian	cunnodon
 cunnian	gecunnod
-cunnian	tō
 
 cuwearm	cūwearm
 cuwearm	cūwearma
@@ -10239,7 +10077,6 @@ cuþlæcan	cūþlǣсen
 cuþlæcan	cūþlǣсende
 cuþlæcan	cūþlǣсest
 cuþlæcan	cūþlǣсeþ
-cuþlæcan	tō
 
 cuþred	Cuþred
 
@@ -10261,7 +10098,6 @@ cwacian	cwacoden
 cwacian	cwacodest
 cwacian	cwacodon
 cwacian	gecwacod
-cwacian	tō
 
 cwantawic	Cwantawic
 
@@ -10337,7 +10173,6 @@ cweccan	cweссe
 cweccan	cweссen
 cweccan	cweссende
 cweccan	gecweaht
-cweccan	tō
 
 cwedol	cwedol
 cwedol	cwedola
@@ -10364,7 +10199,6 @@ cwelan	cwǣle
 cwelan	cwǣlen
 cwelan	cwǣlon
 cwelan	gecwolen
-cwelan	tō
 
 cwellan	cweald
 cwellan	cwealde
@@ -10380,7 +10214,6 @@ cwellan	cwelle
 cwellan	cwellen
 cwellan	cwellende
 cwellan	gecweald
-cwellan	tō
 
 cwellere	cwellere
 cwellere	cwællere
@@ -10399,7 +10232,6 @@ cweman	cwēmende
 cweman	cwēmest
 cweman	cwēmeþ
 cweman	gecwēmed
-cweman	tō
 
 cweme	cwēma
 cweme	cwēman
@@ -10441,7 +10273,6 @@ cweþan	cwæþ
 cweþan	cwǣde
 cweþan	cwǣden
 cweþan	cwǣdon
-cweþan	tō
 
 cwic	cwic
 cwic	cwica
@@ -10473,7 +10304,6 @@ cwician	cwicoden
 cwician	cwicodest
 cwician	cwicodon
 cwician	gecwicod
-cwician	tō
 
 cwide	cwida
 cwide	cwidas
@@ -10668,7 +10498,6 @@ cyrtenlæcan	cyrtenlǣсen
 cyrtenlæcan	cyrtenlǣсende
 cyrtenlæcan	cyrtenlǣсest
 cyrtenlæcan	cyrtenlǣсeþ
-cyrtenlæcan	tō
 
 cyssan	cyse
 cyssan	cyssan
@@ -10684,7 +10513,6 @@ cyssan	cysten
 cyssan	cystest
 cyssan	cyston
 cyssan	gecyssed
-cyssan	tō
 
 cyst	cyst
 cyst	cysta
@@ -10756,7 +10584,6 @@ cyþlæcan	cȳþlǣсen
 cyþlæcan	cȳþlǣсende
 cyþlæcan	cȳþlǣсest
 cyþlæcan	cȳþlǣсeþ
-cyþlæcan	tō
 
 cyþþu	cȳþþa
 cyþþu	cȳþþa,cȳþþe
@@ -10806,7 +10633,6 @@ dafenian	dafenoden
 dafenian	dafenodest
 dafenian	dafenodon
 dafenian	gedafenod
-dafenian	tō
 
 dagian	daga
 dagian	dagast
@@ -10826,7 +10652,6 @@ dagian	dagoden
 dagian	dagodest
 dagian	dagodon
 dagian	gedagod
-dagian	tō
 
 dalmanuða	Dalmanuða
 
@@ -10972,7 +10797,6 @@ delfan	dolfen
 delfan	dulfe
 delfan	dulfen
 delfan	dulfon
-delfan	tō
 
 dema	dema
 dema	deman
@@ -10992,7 +10816,6 @@ deman	dēmende
 deman	dēmest
 deman	dēmeþ
 deman	gedēmed
-deman	tō
 
 demonia	demonia
 
@@ -11079,7 +10902,6 @@ deon	dēon
 deon	dēonde
 deon	dēost
 deon	dēoþ
-deon	tō
 
 deop	dēop
 deop	dēopa
@@ -11165,7 +10987,6 @@ deorfan	durfon
 deorfan	dyrfest
 deorfan	dyrfeþ
 deorfan	gedorfen
-deorfan	tō
 
 deorwyrþe	deorwurðan
 deorwyrþe	deorwurðum
@@ -11185,7 +11006,6 @@ derian	derie
 derian	derien
 derian	deriende
 derian	derige
-derian	tō
 
 diana	Diane
 
@@ -11246,7 +11066,6 @@ dilgian	dīlgoden
 dilgian	dīlgodest
 dilgian	dīlgodon
 dilgian	gedīlgod
-dilgian	tō
 
 diofol	dīofla
 diofol	dīofle
@@ -11351,7 +11170,6 @@ don	dōn
 don	dōnde
 don	dōþ
 don	gedōn
-don	tō
 
 dor	Dore
 dor	dōr
@@ -11390,7 +11208,6 @@ dragan	drōge
 dragan	drōgen
 dragan	drōgon
 dragan	gedragen
-dragan	tō
 
 dream	drēam
 dream	drēama
@@ -11424,7 +11241,6 @@ dreccan	drece
 dreccan	drecest
 dreccan	dreceþ
 dreccan	gedreaht
-dreccan	tō
 
 drefan	drēf
 drefan	drēfan
@@ -11439,7 +11255,6 @@ drefan	drēfen
 drefan	drēfende
 drefan	drēfest
 drefan	drēfeþ
-drefan	tō
 
 drenc	drenс
 drenc	drenсa
@@ -11461,7 +11276,6 @@ drencan	drenсen
 drencan	drenсende
 drencan	drenсest
 drencan	drenсeþ
-drencan	tō
 
 dreogan	drogen
 dreogan	druge
@@ -11477,7 +11291,6 @@ dreogan	drēogende
 dreogan	drīegest
 dreogan	drīegeþ
 dreogan	gedrogen
-dreogan	tō
 
 dreopan	dropen
 dreopan	drupe
@@ -11493,7 +11306,6 @@ dreopan	drēopende
 dreopan	drȳpest
 dreopan	drȳpeþ
 dreopan	gedropen
-dreopan	tō
 
 dreorig	drēorga
 dreorig	drēorgan
@@ -11534,7 +11346,6 @@ dreosan	drēosende
 dreosan	drīesest
 dreosan	drīeseþ
 dreosan	gedroren
-dreosan	tō
 
 drepan	drep
 drepan	drepan
@@ -11548,7 +11359,6 @@ drepan	dræp
 drepan	drǣpe
 drepan	drǣpen
 drepan	drǣpon
-drepan	tō
 
 drepe	drepa
 drepe	drepas
@@ -11569,7 +11379,6 @@ drifan	drīfende
 drifan	drīfest
 drifan	drīfeþ
 drifan	gedrifen
-drifan	tō
 
 drige	drygum
 
@@ -11608,7 +11417,6 @@ drincan	drunce
 drincan	druncen
 drincan	druncon
 drincan	gedruncen
-drincan	tō
 
 droflic	drōflīс
 droflic	drōflīсa
@@ -11645,7 +11453,6 @@ dropian	dropoden
 dropian	dropodest
 dropian	dropodon
 dropian	gedropod
-dropian	tō
 
 druh	druh
 druh	druha
@@ -11672,7 +11479,6 @@ drusian	drūsoden
 drusian	drūsodest
 drusian	drūsodon
 drusian	gedrūsod
-drusian	tō
 
 dry	drys
 dry	dryum
@@ -11742,7 +11548,6 @@ dufan	dūfende
 dufan	dȳfest
 dufan	dȳfeþ
 dufan	gedofen
-dufan	tō
 
 dufe	*dūfan
 dufe	*dūfe
@@ -11761,7 +11566,6 @@ dugan	dūgaþ
 dugan	dūge
 dugan	dūgen
 dugan	dūgende
-dugan	tō
 
 duguþ	duguþ
 duguþ	duguþa
@@ -11838,7 +11642,6 @@ durran	dyrste
 durran	dyrsten
 durran	dyrstest
 durran	dyrston
-durran	tō
 
 duru	dura
 duru	duru
@@ -11868,7 +11671,6 @@ dwelan	dwǣle
 dwelan	dwǣlen
 dwelan	dwǣlon
 dwelan	gedwolen
-dwelan	tō
 
 dwelian	dwela
 dwelian	dwelast
@@ -11888,7 +11690,6 @@ dwelian	dweloden
 dwelian	dwelodest
 dwelian	dwelodon
 dwelian	gedwelod
-dwelian	tō
 
 dweorg	dweorg
 dweorg	dweorga
@@ -11923,7 +11724,6 @@ dwinan	dwīnende
 dwinan	dwīnest
 dwinan	dwīneþ
 dwinan	gedwinen
-dwinan	tō
 
 dwæs	Feminine
 dwæs	Masculine
@@ -11973,7 +11773,6 @@ dyfan	dȳfende
 dyfan	dȳfest
 dyfan	dȳfeþ
 dyfan	gedȳfed
-dyfan	tō
 
 dyhtig	dyhtig
 dyhtig	dyhtiga
@@ -12011,7 +11810,6 @@ dyppan	dyptest
 dyppan	dypton
 dyppan	dypþ
 dyppan	gedypped
-dyppan	tō
 
 dyrne	dyrna
 dyrne	dyrne
@@ -12125,7 +11923,6 @@ dælan	dǣlen
 dælan	dǣlende
 dælan	dǣlest
 dælan	dǣleþ
-dælan	tō
 
 ea	ēa
 ea	ēam
@@ -12142,7 +11939,6 @@ eaca	ēacena
 eaca	ēacum
 
 eacan	geēacen
-eacan	tō
 eacan	ēac
 eacan	ēacan
 eacan	ēacaþ
@@ -12295,7 +12091,6 @@ eahtian	eahtoden
 eahtian	eahtodest
 eahtian	eahtodon
 eahtian	geeahtod
-eahtian	tō
 
 eahtnes	æhtnyss
 eahtnes	æhtnyssa
@@ -12427,7 +12222,6 @@ ealgian	ealgoden
 ealgian	ealgodest
 ealgian	ealgodon
 ealgian	geealgod
-ealgian	tō
 
 ealhheard	Ealhheard
 
@@ -12507,7 +12301,6 @@ eardian	eardoden
 eardian	eardodest
 eardian	eardodon
 eardian	geeardod
-eardian	tō
 
 eardungstow	eardungstowa
 
@@ -12632,7 +12425,6 @@ earnian	earnoden
 earnian	earnodest
 earnian	earnodon
 earnian	geearnod
-earnian	tō
 
 earnulf	Earnulf
 earnulf	Earnulfes
@@ -12813,7 +12605,6 @@ edcwician	edcwicoden
 edcwician	edcwicodest
 edcwician	edcwicodon
 edcwician	geedcwicod
-edcwician	tō
 
 edcyrr	edсyrr
 edcyrr	edсyrra
@@ -12855,7 +12646,6 @@ edstaþelian	edstaþeloden
 edstaþelian	edstaþelodest
 edstaþelian	edstaþelodon
 edstaþelian	geedstaþelod
-edstaþelian	tō
 
 edstaþeliend	edstaþeliend
 edstaþeliend	edstaþelienda
@@ -12947,7 +12737,6 @@ efenmetan	efenmæt
 efenmetan	efenmǣte
 efenmetan	efenmǣten
 efenmetan	efenmǣton
-efenmetan	tō
 
 efenwyrcan	efenworht,efengeworht
 efenwyrcan	efenworhte
@@ -13015,7 +12804,6 @@ efstan	efstende
 efstan	efstest
 efstan	efsteþ
 efstan	efston
-efstan	tō
 
 eft	Eft
 eft	eft
@@ -13091,7 +12879,6 @@ egesian	egesoden
 egesian	egesodest
 egesian	egesodon
 egesian	geegesod
-egesian	tō
 
 egeslic	egeslican
 
@@ -13129,9 +12916,7 @@ egsian	egsoden
 egsian	egsodest
 egsian	egsodon
 egsian	geegsod
-egsian	tō
 
-ehtan	tō
 ehtan	ēht
 ehtan	ēhtan
 ehtan	ēhtaþ
@@ -13291,7 +13076,6 @@ endian	endoden
 endian	endodest
 endian	endodon
 endian	geendod
-endian	tō
 
 ened	ened
 ened	ened,enede
@@ -13350,7 +13134,6 @@ enlihtan	enlīhtest
 enlihtan	enlīhteþ
 enlihtan	enlīhton
 enlihtan	geenlīhted
-enlihtan	tō
 
 ent	ent
 ent	enta
@@ -13463,7 +13246,6 @@ eoten	eotenum
 eow	eow
 
 eowan	geēowed
-eowan	tō
 eowan	ēow
 eowan	ēowan
 eowan	ēowaþ
@@ -13526,7 +13308,6 @@ erian	erie
 erian	erien
 erian	eriende
 erian	erige
-erian	tō
 
 erschenn	ersсhenn
 erschenn	ersсhenna
@@ -13559,7 +13340,6 @@ essian	essoden
 essian	essodest
 essian	essodon
 essian	geessod
-essian	tō
 
 est	ēst
 est	ēsta
@@ -13579,7 +13359,6 @@ etan	etende
 etan	etst
 etan	ett
 etan	geeten
-etan	tō
 etan	æt
 etan	ǣte
 etan	ǣten
@@ -13621,7 +13400,6 @@ eþelweard	ēþelweardes
 eþelweard	ēþelweardum
 
 eþian	geēþod
-eþian	tō
 eþian	ēþa
 eþian	ēþast
 eþian	ēþaþ
@@ -13666,7 +13444,6 @@ fadian	fadoden
 fadian	fadodest
 fadian	fadodon
 fadian	gefadod
-fadian	tō
 
 fagettan	fāgete
 fagettan	fāgeted
@@ -13679,7 +13456,6 @@ fagettan	fāgetten
 fagettan	fāgettende
 fagettan	fāgettest
 fagettan	fāgetton
-fagettan	tō
 
 fam	fām
 fam	fāma
@@ -13705,7 +13481,6 @@ fandian	fandoden
 fandian	fandodest
 fandian	fandodon
 fandian	gefandod
-fandian	tō
 
 fang	fang
 fang	fanga
@@ -13729,7 +13504,6 @@ faran	fōre
 faran	fōren
 faran	fōron
 faran	gefaren
-faran	tō
 
 faroþ	faroþ
 faroþ	faroþa
@@ -13773,7 +13547,6 @@ fealdan	fēolde
 fealdan	fēolden
 fealdan	fēoldon
 fealdan	gefealden
-fealdan	tō
 
 fealh	fealga
 fealh	fealga,fealge
@@ -13794,7 +13567,6 @@ feallan	fēolle
 feallan	fēollen
 feallan	fēollon
 feallan	gefeallen
-feallan	tō
 
 fealle	feallan
 fealle	fealle
@@ -13902,7 +13674,6 @@ feccan	feссaþ
 feccan	feссe
 feccan	feссen
 feccan	feссende
-feccan	tō
 
 fecit	fecit
 
@@ -13920,7 +13691,6 @@ fedan	fēdende
 fedan	fēdest
 fedan	fēdeþ
 fedan	gefēded
-fedan	tō
 
 fefer	fefor
 fefer	feofore
@@ -13939,7 +13709,6 @@ fegan	fēgende
 fegan	fēgest
 fegan	fēgeþ
 fegan	gefēged
-fegan	tō
 
 fel	fel
 fel	fell
@@ -13974,7 +13743,6 @@ felan	fēlende
 felan	fēlest
 felan	fēleþ
 felan	gefēled
-felan	tō
 
 feld	feld
 
@@ -13992,7 +13760,6 @@ fellan	fellende
 fellan	fellest
 fellan	felleþ
 fellan	gefelled
-fellan	tō
 
 fellen	fellen
 
@@ -14025,7 +13792,6 @@ feohtan	fohten
 feohtan	fuhte
 feohtan	fuhten
 feohtan	fuhton
-feohtan	tō
 
 feohtlac	feohtlāc
 feohtlac	feohtlāca
@@ -14047,7 +13813,6 @@ feolan	fēolende
 feolan	fīelst
 feolan	fīelþ
 feolan	gefolgen
-feolan	tō
 
 feollan	feollon
 
@@ -14116,7 +13881,6 @@ feorran	feorrende
 feorran	feorrest
 feorran	feorreþ
 feorran	gefeorred
-feorran	tō
 
 feorsian	feorsa
 feorsian	feorsast
@@ -14136,7 +13900,6 @@ feorsian	feorsoden
 feorsian	feorsodest
 feorsian	feorsodon
 feorsian	gefeorsod
-feorsian	tō
 
 feortan	feart
 feortan	feort
@@ -14152,7 +13915,6 @@ feortan	furte
 feortan	furten
 feortan	furton
 feortan	geforten
-feortan	tō
 
 feorþa	feorðe
 feorþa	feorþa
@@ -14186,7 +13948,6 @@ feran	fērende
 feran	fērest
 feran	fēreþ
 feran	gefēred
-feran	tō
 
 ferhþ	ferhþ
 ferhþ	ferhþa
@@ -14208,7 +13969,6 @@ ferian	ferie
 ferian	ferien
 ferian	feriende
 ferian	ferige
-ferian	tō
 
 fersc	fersc
 fersc	fersca
@@ -14239,7 +13999,6 @@ fetian	fetoden
 fetian	fetodest
 fetian	fetodon
 fetian	gefetod
-fetian	tō
 
 feðehere	feðehere
 
@@ -14392,7 +14151,6 @@ findan	funde
 findan	funden
 findan	fundon
 findan	gefunden
-findan	tō
 
 findig	findga
 findig	findgan
@@ -14500,7 +14258,6 @@ fiscian	fiscoden
 fiscian	fiscodest
 fiscian	fiscodon
 fiscian	gefiscod
-fiscian	tō
 
 fiscnoþ	fiscnoð
 
@@ -14572,7 +14329,6 @@ fleogan	flēogen
 fleogan	flēogende
 fleogan	flīehst
 fleogan	flīehþ
-fleogan	tō
 
 fleoge	flēogan
 fleoge	flēoge
@@ -14596,7 +14352,6 @@ fleon	flēonde
 fleon	flēoþ
 fleon	flīhst
 fleon	flīhþ
-fleon	tō
 
 fleotan	floten
 fleotan	flute
@@ -14612,7 +14367,6 @@ fleotan	flēotende
 fleotan	flīetest
 fleotan	flīeteþ
 fleotan	gefloten
-fleotan	tō
 
 flet	,flēt
 flet	a
@@ -14651,7 +14405,6 @@ flitan	flītende
 flitan	flītest
 flitan	flīteþ
 flitan	gefliten
-flitan	tō
 
 flocc	flocc
 flocc	flocca
@@ -14689,7 +14442,6 @@ flowan	flōwe
 flowan	flōwen
 flowan	flōwende
 flowan	flōwo
-flowan	tō
 
 flugol	flugol
 flugol	flugola
@@ -14732,7 +14484,6 @@ fneosan	fnēosende
 fneosan	fnīest
 fneosan	fnīesþ
 fneosan	gefnoren
-fneosan	tō
 
 fnæd	fnæd
 
@@ -14797,7 +14548,6 @@ folgian	folgoden
 folgian	folgodest
 folgian	folgodon
 folgian	gefolgod
-folgian	tō
 
 folm	folm
 folm	folma
@@ -14817,7 +14567,6 @@ fon	fōh
 fon	fōn
 fon	fōþ
 fon	gefongen
-fon	tō
 
 for	an
 for	for.an
@@ -15042,7 +14791,6 @@ forcippian	forсippoden
 forcippian	forсippodest
 forcippian	forсippodon
 forcippian	geforсippod
-forcippian	tō
 
 forclingan	forclang
 forclingan	forcling
@@ -15147,7 +14895,6 @@ fordeman	fordēmen
 fordeman	fordēmende
 fordeman	fordēmest
 fordeman	fordēmeþ
-fordeman	tō
 
 fordon	fordyde
 fordon	fordyden
@@ -15160,7 +14907,6 @@ fordon	fordōm
 fordon	fordōn
 fordon	fordōnde
 fordon	fordōþ
-fordon	tō
 
 fordrencan	fordrencte
 fordrencan	fordrencten
@@ -15224,7 +14970,6 @@ fordruncnian	fordruncnoden
 fordruncnian	fordruncnodest
 fordruncnian	fordruncnodon
 fordruncnian	gefordruncnod
-fordruncnian	tō
 
 fordwinan	fordwine
 fordwinan	fordwinen
@@ -15343,7 +15088,6 @@ forebodian	forebododen
 forebodian	forebododest
 forebodian	forebododon
 forebodian	geforebodod
-forebodian	tō
 
 foreceorfan	fōrecorfen
 foreceorfan	fōrecurfe
@@ -15864,7 +15608,6 @@ forgiefan	forgiefþ
 forgiefan	forgēafe
 forgiefan	forgēafen
 forgiefan	forgēafon
-forgiefan	tō
 
 forgiefendlic	forgiefendlīс
 forgiefendlic	forgiefendlīсa
@@ -15892,7 +15635,6 @@ forgieldan	forgolden
 forgieldan	forgulde
 forgieldan	forgulden
 forgieldan	forguldon
-forgieldan	tō
 
 forgietan	forgeat
 forgietan	forgiet
@@ -15906,7 +15648,6 @@ forgietan	forgiett
 forgietan	forgēate
 forgietan	forgēaten
 forgietan	forgēaton
-forgietan	tō
 
 forgifan	forgeaf
 forgifan	forgeafe
@@ -16197,7 +15938,6 @@ forleosan	forlēosende
 forleosan	forlīesest
 forleosan	forlīeseþ
 forleosan	geforloren
-forleosan	tō
 
 forlicgan	forlege
 forlicgan	forlegen
@@ -16278,7 +16018,6 @@ forlætan	forlǣtende
 forlætan	forlǣtest
 forlætan	forlǣteþ
 forlætan	geforlǣten
-forlætan	tō
 
 forma	forman
 forma	fyrmest
@@ -16699,7 +16438,6 @@ forstoppian	forstoppoden
 forstoppian	forstoppodest
 forstoppian	forstoppodon
 forstoppian	geforstoppod
-forstoppian	tō
 
 forswelgan	forswealg,forswealh
 forswelgan	forswelg
@@ -16902,7 +16640,6 @@ forweorþan	forwurþe
 forweorþan	forwurþen
 forweorþan	forwurþon
 forweorþan	geforworþen
-forweorþan	tō
 
 forwiernan	forwiernan
 
@@ -17194,7 +16931,6 @@ forþgeriman	forþgerīmen
 forþgeriman	forþgerīmende
 forþgeriman	forþgerīmest
 forþgeriman	forþgerīmeþ
-forþgeriman	tō
 
 forþgesceaft	forþgesсeaft
 forþgesceaft	forþgesсeaft,forþgesсeafte
@@ -17217,7 +16953,6 @@ forþgewitan	forþgewītende
 forþgewitan	forþgewītest
 forþgewitan	forþgewīteþ
 forþgewitan	geforþgewiten
-forþgewitan	tō
 
 forþlædan	forþlǣd
 forþlædan	forþlǣdan
@@ -17286,7 +17021,6 @@ forþteon	forþtēon
 forþteon	forþtēonde
 forþteon	forþtīehþ
 forþteon	forþtīest
-forþteon	tō
 
 fostercild	fostercyld
 
@@ -17417,7 +17151,6 @@ framian	framoden
 framian	framodest
 framian	framodon
 framian	geframod
-framian	tō
 
 franca	franca
 franca	francan
@@ -17486,7 +17219,6 @@ frefran	frēfrende
 frefran	frēfrest
 frefran	frēfreþ
 frefran	gefrēfred
-frefran	tō
 
 frefrian	frefrigende
 
@@ -17503,7 +17235,6 @@ fregnan	frugnen
 fregnan	frugnon
 fregnan	frægn
 fregnan	gefrugnen
-fregnan	tō
 
 fremde	fremda
 fremde	fremdan
@@ -17546,7 +17277,6 @@ fremman	fremmaþ
 fremman	fremme
 fremman	fremmen
 fremman	fremmende
-fremman	tō
 
 frencisc	-
 frencisc	Frenсisс
@@ -17588,7 +17318,6 @@ freogan	frēoge
 freogan	frēogen
 freogan	frēogende
 freogan	gefrēod
-freogan	tō
 
 freolac	frēolāc
 freolac	frēolāca
@@ -17654,7 +17383,6 @@ freosan	frēosen
 freosan	frēosende
 freosan	frīest
 freosan	gefroren
-freosan	tō
 
 fresisc	Fresisc
 fresisc	Fresiscra
@@ -17678,7 +17406,6 @@ fretan	frǣte
 fretan	frǣten
 fretan	frǣton
 fretan	gefreten
-fretan	tō
 
 frettan	fretton
 
@@ -17696,7 +17423,6 @@ fricgan	frǣge
 fricgan	frǣgen
 fricgan	frǣgon
 fricgan	gefregen
-fricgan	tō
 
 frician	frica
 frician	fricast
@@ -17754,7 +17480,6 @@ frignan	frugnen
 frignan	frugnon
 frignan	frægn
 frignan	gefrugnen
-frignan	tō
 
 frinan	frān
 frinan	frīn
@@ -17769,7 +17494,6 @@ frinan	frūne
 frinan	frūnen
 frinan	frūnon
 frinan	gefrūnen
-frinan	tō
 
 friþ	friþ
 friþ	friþa
@@ -18012,7 +17736,6 @@ fulian	fūloden
 fulian	fūlodest
 fulian	fūlodon
 fulian	gefūlod
-fulian	tō
 
 full	full
 full	fulla
@@ -18099,7 +17822,6 @@ fundian	fundoden
 fundian	fundodest
 fundian	fundodon
 fundian	gefundod
-fundian	tō
 
 furlang	furlanga
 
@@ -18143,7 +17865,6 @@ fylan	fȳlende
 fylan	fȳlest
 fylan	fȳleþ
 fylan	gefȳled
-fylan	tō
 
 fylgean	fyliað
 fylgean	fylidon
@@ -18166,7 +17887,6 @@ fyllan	fyllende
 fyllan	fyllest
 fyllan	fylleþ
 fyllan	gefylled
-fyllan	tō
 
 fyllu	fylla
 fyllu	fylle
@@ -18289,7 +18009,6 @@ fysan	fȳsende
 fysan	fȳsest
 fysan	fȳseþ
 fysan	gefȳsed
-fysan	tō
 
 fyst	fystum
 
@@ -18429,7 +18148,6 @@ fælsian	fǣlsoden
 fælsian	fǣlsodest
 fælsian	fǣlsodon
 fælsian	gefǣlsod
-fælsian	tō
 
 fæman	fæmende
 
@@ -18477,7 +18195,6 @@ fæstan	fæstest
 fæstan	fæsteþ
 fæstan	fæston
 fæstan	gefæsted
-fæstan	tō
 
 fæsten	fæsten
 fæsten	fæstene
@@ -18507,7 +18224,6 @@ fæstnian	fæstnoden
 fæstnian	fæstnodest
 fæstnian	fæstnodon
 fæstnian	gefæstnod
-fæstnian	tō
 
 fæt	fata
 fæt	fatu
@@ -18553,7 +18269,6 @@ gaderian	gaderoden
 gaderian	gaderodest
 gaderian	gaderodon
 gaderian	gegaderod
-gaderian	tō
 
 gaderung	gaderung
 gaderung	gaderunga
@@ -18579,7 +18294,6 @@ gadrian	gadroden
 gadrian	gadrodest
 gadrian	gadrodon
 gadrian	gegadrod
-gadrian	tō
 
 gafol	gafla
 gafol	gafle
@@ -18620,7 +18334,6 @@ galan	gōl
 galan	gōle
 galan	gōlen
 galan	gōlon
-galan	tō
 
 galdor	galdor
 galdor	galdra
@@ -18675,7 +18388,6 @@ gan	gān
 gan	gāþ
 gan	gǣst
 gan	gǣþ
-gan	tō
 gan	ēode
 gan	ēoden
 gan	ēodest
@@ -18898,7 +18610,6 @@ geanian	geānode
 geanian	geānoden
 geanian	geānodest
 geanian	geānodon
-geanian	tō
 
 geanlician	geanlicie
 
@@ -18915,7 +18626,6 @@ geanlæcan	geānlǣсen
 geanlæcan	geānlǣсende
 geanlæcan	geānlǣсest
 geanlæcan	geānlǣсeþ
-geanlæcan	tō
 
 geap	gēap
 geap	gēapa
@@ -18994,7 +18704,6 @@ geascian	geāscode
 geascian	geāscoden
 geascian	geāscodest
 geascian	geāscodon
-geascian	tō
 
 geat	gata
 geat	gatu
@@ -19129,7 +18838,6 @@ gebeotian	gebēotoden
 gebeotian	gebēotodest
 gebeotian	gebēotodon
 gebeotian	gegebēotod
-gebeotian	tō
 
 geberan	geber
 geberan	geberan
@@ -19182,7 +18890,6 @@ gebidan	gebīdende
 gebidan	gebīdest
 gebidan	gebīdeþ
 gebidan	gegebiden
-gebidan	tō
 
 gebiddan	gebeden
 gebiddan	gebiddan
@@ -19646,7 +19353,6 @@ gecwician	gecwicoden
 gecwician	gecwicodest
 gecwician	gecwicodon
 gecwician	gegecwicod
-gecwician	tō
 
 gecwide	gecwida
 gecwide	gecwide
@@ -19726,7 +19432,6 @@ gecyþan	gecȳþen
 gecyþan	gecȳþende
 gecyþan	gecȳþest
 gecyþan	gecȳþeþ
-gecyþan	tō
 
 gecyþnes	gecyðnysse
 
@@ -19763,7 +19468,6 @@ gedigan	gedīgen
 gedigan	gedīgende
 gedigan	gedīgest
 gedigan	gedīgeþ
-gedigan	tō
 
 gedo	gedon
 
@@ -19811,7 +19515,6 @@ gedritan	gedrītende
 gedritan	gedrītest
 gedritan	gedrīteþ
 gedritan	gegedriten
-gedritan	tō
 
 gedrohtnung	gedrohtnunge
 
@@ -19837,7 +19540,6 @@ gedælan	gedǣlen
 gedælan	gedǣlende
 gedælan	gedǣlest
 gedælan	gedǣleþ
-gedælan	tō
 
 geeadmedan	geeaðmeddon
 
@@ -19897,7 +19599,6 @@ gefan	gifeþ
 gefan	gēafe
 gefan	gēafen
 gefan	gēafon
-gefan	tō
 
 gefangian	gefanga
 gefangian	gefangast
@@ -20036,7 +19737,6 @@ gefeon	gefēoþ
 gefeon	gefǣge
 gefeon	gefǣgen
 gefeon	gefǣgon
-gefeon	tō
 
 gefer	gefēr
 gefer	gefēra
@@ -20196,7 +19896,6 @@ gefrignan	gefrugne
 gefrignan	gefrugnen
 gefrignan	gefrugnon
 gefrignan	gefrægn
-gefrignan	tō
 
 gefroren	gefroren
 gefroren	gefrorena
@@ -20238,7 +19937,6 @@ gefrætwian	gefrætwoden
 gefrætwian	gefrætwodest
 gefrætwian	gefrætwodon
 gefrætwian	gegefrætwod
-gefrætwian	tō
 
 gefullian	gefullod
 gefullian	gefullode
@@ -20437,7 +20135,6 @@ gegræppian	gegræppode
 gegræppian	gegræppoden
 gegræppian	gegræppodest
 gegræppian	gegræppodon
-gegræppian	tō
 
 gegyrdan	gegyrdan
 gegyrdan	gegyrdaþ
@@ -20678,7 +20375,6 @@ geholian	geholode
 geholian	geholoden
 geholian	geholodest
 geholian	geholodon
-geholian	tō
 
 gehon	gehangen
 gehon	gehēhst
@@ -20791,7 +20487,6 @@ gehyran	gehȳrende
 gehyran	gehȳrest
 gehyran	gehȳreþ
 gehyran	hȳred
-gehyran	tō
 
 gehyrsum	gehiersume
 gehyrsum	gehyrsum
@@ -20848,7 +20543,6 @@ gelafian	gelafode
 gelafian	gelafoden
 gelafian	gelafodest
 gelafian	gelafodon
-gelafian	tō
 
 gelangian	gelangian
 
@@ -20975,7 +20669,6 @@ geliefan	gelīefen
 geliefan	gelīefende
 geliefan	gelīefest
 geliefan	gelīefeþ
-geliefan	tō
 
 gelifan	gelife
 gelifan	gelifst
@@ -21016,7 +20709,6 @@ gelimpan	gelumpe
 gelimpan	gelumpen
 gelimpan	gelumpon
 gelimpan	lumpen
-gelimpan	tō
 
 gelogian	gegelōgod
 gelogian	gelōga
@@ -21036,7 +20728,6 @@ gelogian	gelōgode
 gelogian	gelōgoden
 gelogian	gelōgodest
 gelogian	gelōgodon
-gelogian	tō
 
 gelome	gelome
 
@@ -21063,7 +20754,6 @@ gelpan	golpen
 gelpan	gulpe
 gelpan	gulpen
 gelpan	gulpon
-gelpan	tō
 
 gelufian	gelufod
 gelufian	gelufoda
@@ -21149,7 +20839,6 @@ gelæran	gelǣren
 gelæran	gelǣrende
 gelæran	gelǣrest
 gelæran	gelǣreþ
-gelæran	tō
 
 gelæred	gelǣred
 gelæred	gelǣreda
@@ -21204,7 +20893,6 @@ gemagian	gemagode
 gemagian	gemagoden
 gemagian	gemagodest
 gemagian	gemagodon
-gemagian	tō
 
 gemang	gemang
 
@@ -21226,7 +20914,6 @@ gemanigfealdian	gemanigfealdode
 gemanigfealdian	gemanigfealdoden
 gemanigfealdian	gemanigfealdodest
 gemanigfealdian	gemanigfealdodon
-gemanigfealdian	tō
 
 gemanigfieldan	gemanigfield
 gemanigfieldan	gemanigfieldan
@@ -21241,7 +20928,6 @@ gemanigfieldan	gemanigfielden
 gemanigfieldan	gemanigfieldende
 gemanigfieldan	gemanigfieldst
 gemanigfieldan	gemanigfieldþ
-gemanigfieldan	tō
 
 gemartyrian	gemartyrod
 
@@ -21292,7 +20978,6 @@ gemetan	gemētte
 gemetan	gemētten
 gemetan	gemēttest
 gemetan	gemētton
-gemetan	tō
 
 gemiltsian	Gemiltsa
 gemiltsian	gemildsa
@@ -21333,7 +21018,6 @@ gemunan	gemunen
 gemunan	gemunende
 gemunan	gemunon
 gemunan	munen
-gemunan	tō
 
 gemundian	gemundode
 
@@ -21428,7 +21112,6 @@ gemætan	gemǣtte
 gemætan	gemǣtten
 gemætan	gemǣttest
 gemætan	gemǣtton
-gemætan	tō
 
 gend	Gend
 
@@ -21481,7 +21164,6 @@ generian	generie
 generian	generien
 generian	generiende
 generian	generige
-generian	tō
 
 genesan	genes
 genesan	genesan
@@ -21583,7 +21265,6 @@ genugan	genugende
 genugan	genugon
 genugan	genēah
 genugan	genēaht
-genugan	tō
 
 genyttian	genytta
 genyttian	genyttast
@@ -21827,7 +21508,6 @@ geondferan	geondfēren
 geondferan	geondfērende
 geondferan	geondfērest
 geondferan	geondfēreþ
-geondferan	tō
 
 geondflowan	geondflēow
 geondflowan	geondflēowe
@@ -22418,7 +22098,6 @@ geotan	gēoten
 geotan	gēotende
 geotan	gīetest
 geotan	gīeteþ
-geotan	tō
 
 geposu	geposa
 geposu	gepose
@@ -22743,7 +22422,6 @@ gesecan	gesōhten
 gesecan	gesōhtest
 gesecan	gesōhton
 gesecan	sōht
-gesecan	tō
 
 gesecgan	gesæd
 
@@ -22797,7 +22475,6 @@ geseon	gesēon
 geseon	gesēonde
 geseon	gesēoþ
 geseon	sewen
-geseon	tō
 
 gesetednes	gesetednes
 gesetednes	gesetednessa
@@ -23094,7 +22771,6 @@ gesprecan	gesprǣce
 gesprecan	gesprǣcen
 gesprecan	gesprǣcon
 gesprecan	sprecen
-gesprecan	tō
 
 gestandan	gestand
 gestandan	gestandan
@@ -23129,7 +22805,6 @@ gestigan	gestīgen
 gestigan	gestīgende
 gestigan	gestīgest
 gestigan	gestīgeþ
-gestigan	tō
 
 gestillan	gestile
 gestillan	gestiled
@@ -23364,7 +23039,6 @@ gesælan	gesǣlende
 gesælan	gesǣlest
 gesælan	gesǣleþ
 gesælan	sǣled
-gesælan	tō
 
 gesælig	gesæligan
 
@@ -23443,7 +23117,6 @@ getregian	getregode
 getregian	getregoden
 getregian	getregodest
 getregian	getregodon
-getregian	tō
 
 getreowe	getrywe
 getreowe	getrywesta
@@ -23552,7 +23225,6 @@ geunnan	geūþe
 geunnan	geūþen
 geunnan	geūþest
 geunnan	geūþon
-geunnan	tō
 
 geunretan	geunret
 geunretan	geunretan
@@ -23653,7 +23325,6 @@ gewealcan	gewēolc
 gewealcan	gewēolce
 gewealcan	gewēolcen
 gewealcan	gewēolcon
-gewealcan	tō
 
 geweald	gewald
 geweald	geweald
@@ -23769,7 +23440,6 @@ geweorþan	geworden
 geweorþan	gewurde
 geweorþan	gewurden
 geweorþan	gewurdon
-geweorþan	tō
 
 gewician	gewicod
 gewician	gewicode
@@ -23808,7 +23478,6 @@ gewindan	gewindeþ
 gewindan	gewunde
 gewindan	gewunden
 gewindan	gewundon
-gewindan	tō
 
 gewindan	gegewunden
 gewindan	gewand
@@ -23823,7 +23492,6 @@ gewindan	gewindeþ
 gewindan	gewunde
 gewindan	gewunden
 gewindan	gewundon
-gewindan	tō
 
 gewinnan	?
 gewinnan	gewan
@@ -23998,7 +23666,6 @@ gewrecan	gewræc
 gewrecan	gewrǣce
 gewrecan	gewrǣcen
 gewrecan	gewrǣcon
-gewrecan	tō
 
 gewregan	gewregdon
 
@@ -24220,7 +23887,6 @@ gewunian	gewunode
 gewunian	gewunoden
 gewunian	gewunodest
 gewunian	gewunodon
-gewunian	tō
 
 gewurðan	gewurðan
 
@@ -24239,7 +23905,6 @@ gewyrcan	gewyrсen
 gewyrcan	gewyrсende
 gewyrcan	gewyrсest
 gewyrcan	gewyrсeþ
-gewyrcan	tō
 
 gewyrtbox	gewyrtbox
 gewyrtbox	gewyrtboxa
@@ -24406,7 +24071,6 @@ geþeodan	geþēoden
 geþeodan	geþēodende
 geþeodan	geþēodest
 geþeodan	geþēot
-geþeodan	tō
 
 geþeode	geðeode
 geþeode	geþeode
@@ -24450,7 +24114,6 @@ geþicfieldan	geþicfielden
 geþicfieldan	geþicfieldende
 geþicfieldan	geþicfieldst
 geþicfieldan	geþicfieldþ
-geþicfieldan	tō
 
 geþicgan	geþeah
 geþicgan	geþicgan
@@ -24465,7 +24128,6 @@ geþicgan	geþēgon
 geþicgan	geþǣge
 geþicgan	geþǣgen
 geþicgan	geþǣgon
-geþicgan	tō
 geþicgan	þegen
 
 geþing	geþing
@@ -24645,7 +24307,6 @@ gieddian	gieddode
 gieddian	gieddoden
 gieddian	gieddodest
 gieddian	gieddodon
-gieddian	tō
 
 giefan	geaf
 giefan	gegiefen
@@ -24660,7 +24321,6 @@ giefan	giefþ
 giefan	gēafe
 giefan	gēafen
 giefan	gēafon
-giefan	tō
 
 giefu	giefa
 giefu	giefe
@@ -24681,7 +24341,6 @@ gieldan	golden
 gieldan	gulde
 gieldan	gulden
 gieldan	guldon
-gieldan	tō
 
 giellan	geal
 giellan	gegollen
@@ -24697,7 +24356,6 @@ giellan	gollen
 giellan	gulle
 giellan	gullen
 giellan	gullon
-giellan	tō
 
 gielp	gielp
 gielp	gielpa
@@ -24719,7 +24377,6 @@ gielpan	golpen
 gielpan	gulpe
 gielpan	gulpen
 gielpan	gulpon
-gielpan	tō
 
 gierd	gierd
 gierd	gierda
@@ -24753,7 +24410,6 @@ gietan	gitst
 gietan	gēate
 gietan	gēaten
 gietan	gēaton
-gietan	tō
 
 gif	Gif
 gif	gif
@@ -24945,7 +24601,6 @@ glidan	glīden
 glidan	glīdende
 glidan	glīdest
 glidan	glīdeþ
-glidan	tō
 
 glisnian	geglisnod
 glisnian	glisna
@@ -24965,7 +24620,6 @@ glisnian	glisnode
 glisnian	glisnoden
 glisnian	glisnodest
 glisnian	glisnodon
-glisnian	tō
 
 glitnian	glitiniende
 
@@ -25053,7 +24707,6 @@ gnagan	gnōge
 gnagan	gnōgen
 gnagan	gnōgon
 gnagan	gnōh
-gnagan	tō
 
 gnast	*gnāst
 gnast	*gnāsta
@@ -25267,7 +24920,6 @@ grafan	grōf
 grafan	grōfe
 grafan	grōfen
 grafan	grōfon
-grafan	tō
 
 gram	gram
 gram	grama
@@ -25404,7 +25056,6 @@ greotan	grēoten
 greotan	grēotende
 greotan	grīetest
 greotan	grīeteþ
-greotan	tō
 
 gretan	gegrēted,grēted
 gretan	gretan
@@ -25474,7 +25125,6 @@ grimman	grimmeþ
 grimman	grumme
 grimman	grummen
 grimman	grummon
-grimman	tō
 
 grindan	gegrunden
 grindan	grand
@@ -25489,7 +25139,6 @@ grindan	grindeþ
 grindan	grunde
 grindan	grunden
 grindan	grundon
-grindan	tō
 
 gripan	gegripen
 gripan	gripe
@@ -25504,7 +25153,6 @@ gripan	grīpen
 gripan	grīpende
 gripan	grīpest
 gripan	grīpeþ
-gripan	tō
 
 gripe	gripa
 gripe	gripe
@@ -25546,7 +25194,6 @@ growan	grōwaþ
 growan	grōwe
 growan	grōwen
 growan	grōwende
-growan	tō
 
 grund	grund
 grund	grunda
@@ -25824,7 +25471,6 @@ gyrwan	gyrwaþ
 gyrwan	gyrwe
 gyrwan	gyrwen
 gyrwan	gyrwende
-gyrwan	tō
 
 gælan	gegæled
 gælan	gælan
@@ -25839,7 +25485,6 @@ gælan	gælen
 gælan	gælende
 gælan	gælest
 gælan	gæleþ
-gælan	tō
 
 gælsa	gælsa
 gælsa	gælsan
@@ -25884,7 +25529,6 @@ habban	hæfdest
 habban	hæfdon
 habban	hæfst
 habban	hæfþ
-habban	tō
 
 had	hād
 had	hāda
@@ -26140,7 +25784,6 @@ hangian	hangode
 hangian	hangoden
 hangian	hangodest
 hangian	hangodon
-hangian	tō
 
 har	hār
 har	hāra
@@ -26201,7 +25844,6 @@ hatan	hēten
 hatan	hēton
 hatan	hǣtst
 hatan	hǣtt
-hatan	tō
 
 hatheort	hātheort
 hatheort	hātheorta
@@ -26234,7 +25876,6 @@ hatian	hatode
 hatian	hatoden
 hatian	hatodest
 hatian	hatodon
-hatian	tō
 
 hatung	hatunge
 
@@ -26256,7 +25897,6 @@ hawian	hāwode
 hawian	hāwoden
 hawian	hāwodest
 hawian	hāwodon
-hawian	tō
 
 he	He
 he	Him
@@ -26402,7 +26042,6 @@ healdan	hēold
 healdan	hēolde
 healdan	hēolden
 healdan	hēoldon
-healdan	tō
 
 healf	healf
 healf	healfa
@@ -26640,7 +26279,6 @@ heawan	hēow
 heawan	hēowe
 heawan	hēowen
 heawan	hēowon
-heawan	tō
 
 heaþolac	heaþolāc
 heaþolac	heaþolāca
@@ -26668,7 +26306,6 @@ hebban	hōf
 hebban	hōfe
 hebban	hōfen
 hebban	hōfon
-hebban	tō
 
 hefelic	hefelic
 
@@ -26715,7 +26352,6 @@ helan	hæl
 helan	hǣle
 helan	hǣlen
 helan	hǣlon
-helan	tō
 
 helenus	Helenus
 
@@ -26753,7 +26389,6 @@ helpan	holpen
 helpan	hulpe
 helpan	hulpen
 helpan	hulpon
-helpan	tō
 
 hengestdun	Hengestdune
 
@@ -26919,7 +26554,6 @@ herebeorgian	herebeorgode
 herebeorgian	herebeorgoden
 herebeorgian	herebeorgodest
 herebeorgian	herebeorgodon
-herebeorgian	tō
 
 herebryht	Herebryht
 
@@ -26971,7 +26605,6 @@ herian	herie
 herian	herien
 herian	heriende
 herian	herige
-herian	tō
 
 herodes	Herode
 herodes	Herodes
@@ -27057,7 +26690,6 @@ higian	hīgode
 higian	hīgoden
 higian	hīgodest
 higian	hīgodon
-higian	tō
 
 hild	hild
 hild	hilda
@@ -27110,7 +26742,6 @@ hindrian	hindrode
 hindrian	hindroden
 hindrian	hindrodest
 hindrian	hindrodon
-hindrian	tō
 
 hira	Hyra
 hira	heora
@@ -27203,7 +26834,6 @@ hladan	hlōd
 hladan	hlōde
 hladan	hlōden
 hladan	hlōdon
-hladan	tō
 
 hlaf	hlaf
 hlaf	hlafa
@@ -27273,7 +26903,6 @@ hleapan	hlēopen
 hleapan	hlēopon
 hleapan	hlīepeþ
 hleapan	hlīepst
-hleapan	tō
 
 hleapere	hleaperas
 hleapere	hlēapera
@@ -27301,7 +26930,6 @@ hlehhan	hlōge
 hlehhan	hlōgen
 hlehhan	hlōgon
 hlehhan	hlōh
-hlehhan	tō
 
 hleoþor	hlēoþor
 hleoþor	hlēoþra
@@ -27363,7 +26991,6 @@ hliehhan	hlōge
 hliehhan	hlōgen
 hliehhan	hlōgon
 hliehhan	hlōh
-hliehhan	tō
 
 hlifian	gehlifod
 hlifian	hlifa
@@ -27383,7 +27010,6 @@ hlifian	hlifode
 hlifian	hlifoden
 hlifian	hlifodest
 hlifian	hlifodon
-hlifian	tō
 
 hlihhan	gehlahen
 hlihhan	hlahen
@@ -27399,7 +27025,6 @@ hlihhan	hlōge
 hlihhan	hlōgen
 hlihhan	hlōgon
 hlihhan	hlōh
-hlihhan	tō
 
 hlisa	hlisa
 hlisa	hlisan
@@ -27497,7 +27122,6 @@ hlynsian	hlynsode
 hlynsian	hlynsoden
 hlynsian	hlynsodest
 hlynsian	hlynsodon
-hlynsian	tō
 
 hlystan	hlyst
 hlystan	hlyst,gehlyst
@@ -27555,7 +27179,6 @@ hnitan	hnīten
 hnitan	hnītende
 hnitan	hnītest
 hnitan	hnīteþ
-hnitan	tō
 
 hnitu	hnit
 hnitu	hnita
@@ -27588,7 +27211,6 @@ hnossian	hnossode
 hnossian	hnossoden
 hnossian	hnossodest
 hnossian	hnossodon
-hnossian	tō
 
 hnot	hnot
 hnot	hnota
@@ -27716,7 +27338,6 @@ holian	hōlode
 holian	hōloden
 holian	hōlodest
 holian	hōlodon
-holian	tō
 
 holm	holm
 holm	holma
@@ -27736,7 +27357,6 @@ hon	hō
 hon	hōh
 hon	hōn
 hon	hōþ
-hon	tō
 
 hopa	hopa
 hopa	hopan
@@ -27761,7 +27381,6 @@ hopian	hopode
 hopian	hopoden
 hopian	hopodest
 hopian	hopodon
-hopian	tō
 
 hoppestre	hoppestran
 hoppestre	hoppestre
@@ -27786,7 +27405,6 @@ hoppian	hoppode
 hoppian	hoppoden
 hoppian	hoppodest
 hoppian	hoppodon
-hoppian	tō
 
 horig	horhgum
 
@@ -27933,7 +27551,6 @@ hreodan	hrēoden
 hreodan	hrēodende
 hreodan	hrīedest
 hreodan	hrīedeþ
-hreodan	tō
 
 hreofla	hreofla
 hreofla	hreoflan
@@ -27959,7 +27576,6 @@ hreosan	hrēosen
 hreosan	hrēosende
 hreosan	hrīesest
 hreosan	hrīeseþ
-hreosan	tō
 
 hreowan	gehrowen
 hreowan	hrowen
@@ -27975,7 +27591,6 @@ hreowan	hrēowen
 hreowan	hrēowende
 hreowan	hrīewest
 hreowan	hrīeweþ
-hreowan	tō
 
 hreowlic	hrēowlīс
 hreowlic	hrēowlīсa
@@ -28067,7 +27682,6 @@ hringan	hringen
 hringan	hringende
 hringan	hringest
 hringan	hringeþ
-hringan	tō
 
 hringfinger	hringfingr
 hringfinger	hringfingra
@@ -28095,7 +27709,6 @@ hrisian	hrisiaþ
 hrisian	hrisie
 hrisian	hrisien
 hrisian	hrisiende
-hrisian	tō
 
 hriðian	hriðigende
 
@@ -28276,7 +27889,6 @@ huntian	huntode
 huntian	huntoden
 huntian	huntodest
 huntian	huntodon
-huntian	tō
 
 huntoþ	huntoþ
 huntoþ	huntoþa
@@ -28355,7 +27967,6 @@ hwearfian	hwearfode
 hwearfian	hwearfoden
 hwearfian	hwearfodest
 hwearfian	hwearfodon
-hwearfian	tō
 
 hwelca	hwelca
 hwelca	hwelcan
@@ -28437,7 +28048,6 @@ hweorfan	hworfen
 hweorfan	hwurfe
 hweorfan	hwurfen
 hweorfan	hwurfon
-hweorfan	tō
 
 hweoðerian	hwaðerode
 
@@ -28475,7 +28085,6 @@ hwettan	hwetten
 hwettan	hwettende
 hwettan	hwettest
 hwettan	hwetton
-hwettan	tō
 
 hweþer	hweþer
 
@@ -28500,7 +28109,6 @@ hwierfan	hwierfen
 hwierfan	hwierfende
 hwierfan	hwierfest
 hwierfan	hwierfeþ
-hwierfan	tō
 
 hwil	hwīl
 hwil	hwīla
@@ -28560,7 +28168,6 @@ hwisprian	hwisprode
 hwisprian	hwisproden
 hwisprian	hwisprodest
 hwisprian	hwisprodon
-hwisprian	tō
 
 hwistlere	hwistler
 hwistlere	hwistlera
@@ -28638,7 +28245,6 @@ hwopan	hwōpende
 hwopan	hwōpest
 hwopan	hwōpeþ
 hwopan	hwōpon
-hwopan	tō
 
 hwosan	hlēosen
 hwosan	hwēos
@@ -28792,7 +28398,6 @@ hycgan	hyсgaþ
 hycgan	hyсge
 hycgan	hyсgen
 hycgan	hyсgende
-hycgan	tō
 
 hyd	hȳd
 hyd	hȳda
@@ -28813,7 +28418,6 @@ hydan	hȳden
 hydan	hȳdende
 hydan	hȳdest
 hydan	hȳdeþ
-hydan	tō
 
 hyht	hiht
 hyht	hyht
@@ -28841,7 +28445,6 @@ hyngran	hyngren
 hyngran	hyngrende
 hyngran	hyngrest
 hyngran	hyngreþ
-hyngran	tō
 
 hyngrian	hingrode
 
@@ -28932,7 +28535,6 @@ hyrstan	hyrsten
 hyrstan	hyrstende
 hyrstan	hyrstest
 hyrstan	hyrsteþ
-hyrstan	tō
 
 hyrsumian	hyrsumiað
 
@@ -28954,7 +28556,6 @@ hyscan	hyscte
 hyscan	hyscten
 hyscan	hysctest
 hyscan	hyscton
-hyscan	tō
 
 hæfe	hæfe
 
@@ -28993,7 +28594,6 @@ hælan	hǣlen
 hælan	hǣlende
 hælan	hǣlest
 hælan	hǣleþ
-hælan	tō
 
 hæle	hæle
 hæle	hæleþ
@@ -29298,7 +28898,6 @@ iernan	iernen
 iernan	iernende
 iernan	iernest
 iernan	ierneþ
-iernan	tō
 iernan	urne
 iernan	urnen
 iernan	urnon
@@ -29472,7 +29071,6 @@ inferan	infēren
 inferan	infērende
 inferan	infērest
 inferan	infēreþ
-inferan	tō
 
 ing	ing
 ing	inga
@@ -29566,7 +29164,6 @@ inlihtan	inlīhtende
 inlihtan	inlīhtest
 inlihtan	inlīhteþ
 inlihtan	inlīhton
-inlihtan	tō
 
 inlædan	inlǣd
 inlædan	inlǣdan
@@ -29581,7 +29178,6 @@ inlædan	inlǣden
 inlædan	inlǣdende
 inlædan	inlǣdest
 inlædan	inlǣdeþ
-inlædan	tō
 
 inn	inn
 
@@ -29660,7 +29256,6 @@ irnan	irnen
 irnan	irnende
 irnan	irnest
 irnan	irneþ
-irnan	tō
 irnan	urne
 irnan	urnen
 irnan	urnon
@@ -29796,7 +29391,6 @@ lacan	lēcen
 lacan	lēcon
 lacan	lǣcst
 lacan	lǣcþ
-lacan	tō
 
 lacu	laca
 lacu	lace
@@ -29827,7 +29421,6 @@ ladian	lādode
 ladian	lādoden
 ladian	lādodest
 ladian	lādodon
-ladian	tō
 
 ladteow	lādtēow
 ladteow	lādtēowa
@@ -29862,7 +29455,6 @@ lafian	lafode
 lafian	lafoden
 lafian	lafodest
 lafian	lafodon
-lafian	tō
 
 lafor	lafor
 lafor	lafora
@@ -29976,7 +29568,6 @@ langian	langode
 langian	langoden
 langian	langodest
 langian	langodon
-langian	tō
 
 langoþ	langoþ
 langoþ	langoþa
@@ -30202,7 +29793,6 @@ leccan	leссaþ
 leccan	leссe
 leccan	leссen
 leccan	leссende
-leccan	tō
 
 lecgan	gelegd
 lecgan	lecgan
@@ -30219,7 +29809,6 @@ lecgan	lege
 lecgan	legest
 lecgan	legeþ
 lecgan	legþ
-lecgan	tō
 
 lefan	gelēfed
 lefan	lēf
@@ -30235,7 +29824,6 @@ lefan	lēfen
 lefan	lēfende
 lefan	lēfest
 lefan	lēfeþ
-lefan	tō
 
 legaceaster	Legaceaster
 
@@ -30268,7 +29856,6 @@ lemian	lemode
 lemian	lemoden
 lemian	lemodest
 lemian	lemodon
-lemian	tō
 
 lenden	lenden
 lenden	lendena
@@ -30314,7 +29901,6 @@ leodan	lēoden
 leodan	lēodende
 leodan	līedest
 leodan	līedeþ
-leodan	tō
 
 leode	lēoda
 leode	lēode
@@ -30384,7 +29970,6 @@ leogan	lēogen
 leogan	lēogende
 leogan	līegest
 leogan	līegeþ
-leogan	tō
 
 leogere	lēogera
 leogere	lēogeras
@@ -30435,7 +30020,6 @@ leon	lāh
 leon	lēon
 leon	līh
 leon	līhþ
-leon	tō
 
 leoran	gelēored
 leoran	lēor
@@ -30451,7 +30035,6 @@ leoran	lēoren
 leoran	lēorende
 leoran	lēorest
 leoran	lēoreþ
-leoran	tō
 
 leornian	geleornod
 leornian	leorna
@@ -30471,7 +30054,6 @@ leornian	leornode
 leornian	leornoden
 leornian	leornodest
 leornian	leornodon
-leornian	tō
 
 leorningcild	leorningcild
 leorningcild	leorningcilda
@@ -30503,7 +30085,6 @@ lesan	læþ
 lesan	lǣre
 lesan	lǣren
 lesan	lǣron
-lesan	tō
 
 lettan	lete
 lettan	leted
@@ -30516,7 +30097,6 @@ lettan	letten
 lettan	lettende
 lettan	lettest
 lettan	letton
-lettan	tō
 
 leuin	Leuin
 
@@ -30553,7 +30133,6 @@ libban	lifden
 libban	lifdest
 libban	lifdon
 libban	lifiende
-libban	tō
 
 lic	lic
 
@@ -30615,7 +30194,6 @@ licgan	læg
 licgan	lǣge
 licgan	lǣgen
 licgan	lǣgon
-licgan	tō
 
 lichama	lichama
 lichama	lichaman
@@ -30653,7 +30231,6 @@ lician	līcode
 lician	līcoden
 lician	līcodest
 lician	līcodon
-lician	tō
 
 licþeote	līcþēotan
 licþeote	līcþēote
@@ -30700,7 +30277,6 @@ liesan	līesen
 liesan	līesende
 liesan	līesest
 liesan	līeseþ
-liesan	tō
 
 lif	līf
 lif	līfa
@@ -30801,7 +30377,6 @@ lignan	līgnen
 lignan	līgnende
 lignan	līgnest
 lignan	līgneþ
-lignan	tō
 
 lihtan	gelīhted,līhted
 lihtan	līht
@@ -30837,7 +30412,6 @@ limpan	limpeþ
 limpan	lumpe
 limpan	lumpen
 limpan	lumpon
-limpan	tō
 
 lindesse	Lindesse
 
@@ -30873,7 +30447,6 @@ linnan	linþ
 linnan	lunne
 linnan	lunnen
 linnan	lunnon
-linnan	tō
 
 lippa	lippa
 lippa	lippan
@@ -30904,7 +30477,6 @@ lixan	līxte
 lixan	līxten
 lixan	līxtest
 lixan	līxton
-lixan	tō
 
 liðness	liþnesse
 
@@ -30921,7 +30493,6 @@ liþan	līþen
 liþan	līþende
 liþan	līþest
 liþan	līþeþ
-liþan	tō
 
 liþe	līþa
 liþe	līþan
@@ -30952,7 +30523,6 @@ loccian	loccode
 loccian	loccoden
 loccian	loccodest
 loccian	loccodon
-loccian	tō
 
 locian	gelōcod
 locian	lōca
@@ -30972,7 +30542,6 @@ locian	lōcode
 locian	lōcoden
 locian	lōcodest
 locian	lōcodon
-locian	tō
 
 lof	lof
 lof	lofa
@@ -30999,7 +30568,6 @@ logian	lōgode
 logian	lōgoden
 logian	lōgodest
 logian	lōgodon
-logian	tō
 
 loh	lōga
 loh	lōge
@@ -31030,7 +30598,6 @@ losian	losode
 losian	losoden
 losian	losodest
 losian	losodon
-losian	tō
 
 lotwrencceast	lotwrencceaste
 
@@ -31059,7 +30626,6 @@ lucan	lūcen
 lucan	lūcende
 lucan	lȳcst
 lucan	lȳcþ
-lucan	tō
 
 lucumon	Lucumon
 
@@ -31088,7 +30654,6 @@ lufian	lufode
 lufian	lufoden
 lufian	lufodest
 lufian	lufodon
-lufian	tō
 
 lufiend	lufigend
 
@@ -31152,7 +30717,6 @@ lutan	lūten
 lutan	lūtende
 lutan	lȳtst
 lutan	lȳtt
-lutan	tō
 
 lyft	lyft
 lyft	lyfta
@@ -31226,7 +30790,6 @@ læcan	lǣсaþ
 læcan	lǣсe
 læcan	lǣсen
 læcan	lǣсende
-læcan	tō
 
 læccan	gelæht
 læccan	læht
@@ -31242,7 +30805,6 @@ læccan	læссaþ
 læccan	læссe
 læccan	læссen
 læccan	læссende
-læccan	tō
 
 læce	læces
 læce	lǣсa
@@ -31278,7 +30840,6 @@ lædan	lǣden
 lædan	lǣdende
 lædan	lǣdest
 lædan	lǣdeþ
-lædan	tō
 
 læden	Leden
 læden	lædenre
@@ -31297,7 +30858,6 @@ læfan	lǣfen
 læfan	lǣfende
 læfan	lǣfest
 læfan	lǣfeþ
-læfan	tō
 
 lænan	gelǣned
 lænan	lǣn
@@ -31313,7 +30873,6 @@ lænan	lǣnen
 lænan	lǣnende
 lænan	lǣnest
 lænan	lǣneþ
-lænan	tō
 
 læppa	læppa
 læppa	læppan
@@ -31334,7 +30893,6 @@ læran	lǣren
 læran	lǣrende
 læran	lǣrest
 læran	lǣreþ
-læran	tō
 
 læringmædene	lærincgmædene
 
@@ -31350,7 +30908,6 @@ læstan	lǣsten
 læstan	lǣstende
 læstan	lǣstest
 læstan	lǣston
-læstan	tō
 
 læswian	læsgende
 
@@ -31385,7 +30942,6 @@ lætan	lǣten
 lætan	lǣtende
 lætan	lǣtst
 lætan	lǣtþ
-lætan	tō
 
 læwa	læwa
 læwa	lǣwa
@@ -31418,7 +30974,6 @@ macian	macode
 macian	macoden
 macian	macodest
 macian	macodon
-macian	tō
 
 maelinmun	Maelinmun
 
@@ -31448,7 +31003,6 @@ magan	mihten
 magan	mæg
 magan	mæge
 magan	mægen
-magan	tō
 
 magdalene	Magdalene
 
@@ -31473,7 +31027,6 @@ magian	magode
 magian	magoden
 magian	magodest
 magian	magodon
-magian	tō
 
 mal	māl
 mal	māla
@@ -31511,7 +31064,6 @@ mamorian	mamorode
 mamorian	mamoroden
 mamorian	mamorodest
 mamorian	mamorodon
-mamorian	tō
 
 man	man
 man	mon
@@ -31560,7 +31112,6 @@ manian	manode
 manian	manoden
 manian	manodest
 manian	manodon
-manian	tō
 
 manig	Manega
 manig	manega
@@ -31722,7 +31273,6 @@ maþelian	maþelode
 maþelian	maþeloden
 maþelian	maþelodest
 maþelian	maþelodon
-maþelian	tō
 
 maþum	maþum--&gt;
 maþum	maþum--&gt;a
@@ -31769,7 +31319,6 @@ mearcian	mearcode
 mearcian	mearcoden
 mearcian	mearcodest
 mearcian	mearcodon
-mearcian	tō
 
 mearcung	mearcung
 mearcung	mearcunga
@@ -31839,7 +31388,6 @@ mecgan	mǣde
 mecgan	mǣden
 mecgan	mǣdest
 mecgan	mǣdon
-mecgan	tō
 
 med	mēd
 med	mēda
@@ -31864,7 +31412,6 @@ medemian	medemode
 medemian	medemoden
 medemian	medemodest
 medemian	medemodon
-medemian	tō
 
 medwis	medwīs
 medwis	medwīsa
@@ -31909,7 +31456,6 @@ meltan	molten
 meltan	multe
 meltan	multen
 meltan	multon
-meltan	tō
 
 mene	mena
 mene	menas
@@ -31931,7 +31477,6 @@ mengan	mengen
 mengan	mengende
 mengan	mengest
 mengan	mengeþ
-mengan	tō
 
 menigu	menegeo
 menigu	menegu
@@ -32016,7 +31561,6 @@ mesan	mēsen
 mesan	mēsende
 mesan	mēsest
 mesan	mēseþ
-mesan	tō
 
 mese	mysan
 
@@ -32256,7 +31800,6 @@ midþolian	midþolode
 midþolian	midþoloden
 midþolian	midþolodest
 midþolian	midþolodon
-midþolian	tō
 
 miere	mīeran
 miere	mīere
@@ -32276,7 +31819,6 @@ migan	mīgen
 migan	mīgende
 migan	mīgest
 migan	mīgeþ
-migan	tō
 
 miht	miht
 miht	mihta
@@ -32372,7 +31914,6 @@ miltsian	miltsode
 miltsian	miltsoden
 miltsian	miltsodest
 miltsian	miltsodon
-miltsian	tō
 
 min	Min
 min	min
@@ -32435,7 +31976,6 @@ minsian	minsode
 minsian	minsoden
 minsian	minsodest
 minsian	minsodon
-minsian	tō
 
 minum	minum
 
@@ -32483,7 +32023,6 @@ miscian	miscode
 miscian	miscoden
 miscian	miscodest
 miscian	miscodon
-miscian	tō
 
 miscweþan	miscweden
 miscweþan	miscweþ
@@ -32669,7 +32208,6 @@ missan	miste
 missan	misten
 missan	mistest
 missan	miston
-missan	tō
 
 missenlic	missenlicum
 
@@ -32775,7 +32313,6 @@ miþan	mīþen
 miþan	mīþende
 miþan	mīþest
 miþan	mīþeþ
-miþan	tō
 
 mod	mōd
 mod	mōda
@@ -33022,7 +32559,6 @@ motan	mōte
 motan	mōten
 motan	mōtende
 motan	mōton
-motan	tō
 
 motian	gemōtod,mōtod
 motian	mōta
@@ -33132,7 +32668,6 @@ murnan	murneþ
 murnan	murnon
 murnan	myrnest
 murnan	myrneþ
-murnan	tō
 
 mus	mūs
 mus	mūsa
@@ -33257,7 +32792,6 @@ myntan	myntende
 myntan	myntest
 myntan	mynteþ
 myntan	mynton
-myntan	tō
 
 myrþra	myrþra
 myrþra	myrþran
@@ -33342,7 +32876,6 @@ mænan	mǣnen
 mænan	mǣnende
 mænan	mǣnest
 mænan	mǣneþ
-mænan	tō
 
 mære	mæra
 mære	mæran
@@ -33401,7 +32934,6 @@ mætan	mǣtte
 mætan	mǣtten
 mætan	mǣttest
 mætan	mǣtton
-mætan	tō
 
 mæterne	Mæterne
 
@@ -33438,7 +32970,6 @@ nabban	næfdest
 nabban	næfdon
 nabban	næfst
 nabban	næfþ
-nabban	tō
 
 naca	naca
 naca	nacan
@@ -33463,7 +32994,6 @@ nacian	nacode
 nacian	nacoden
 nacian	nacodest
 nacian	nacodon
-nacian	tō
 
 nacod	nacod
 nacod	nacoda
@@ -33502,7 +33032,6 @@ nagan	nāhte
 nagan	nāhten
 nagan	nāhtest
 nagan	nāhton
-nagan	tō
 
 nahwar	nahwar
 
@@ -33595,7 +33124,6 @@ nealæcan	nēalǣсen
 nealæcan	nēalǣсende
 nealæcan	nēalǣсest
 nealæcan	nēalǣсeþ
-nealæcan	tō
 
 nearo	nearo
 nearo	nearone
@@ -33700,7 +33228,6 @@ neosian	nēosode
 neosian	nēosoden
 neosian	nēosodest
 neosian	nēosodon
-neosian	tō
 
 neotan	genoten
 neotan	noten
@@ -33717,7 +33244,6 @@ neotan	nēotende
 neotan	nēoto
 neotan	nīetst
 neotan	nīett
-neotan	tō
 
 neoþeweard	neoþeweard
 neoþeweard	neoþewearda
@@ -33759,7 +33285,6 @@ nerian	nerie
 nerian	nerien
 nerian	neriende
 nerian	nerige
-nerian	tō
 
 nesan	''unattested''
 nesan	generen,neren
@@ -33809,7 +33334,6 @@ neþan	nēþen
 neþan	nēþende
 neþan	nēþest
 neþan	nēþeþ
-neþan	tō
 
 nicor	nicor
 nicor	nicora
@@ -33880,7 +33404,6 @@ nillan	nolde
 nillan	nolden
 nillan	noldest
 nillan	noldon
-nillan	tō
 
 niman	genumen
 niman	nam
@@ -33896,7 +33419,6 @@ niman	numen
 niman	nāme
 niman	nāmen
 niman	nāmon
-niman	tō
 
 nipan	genipen
 nipan	nipe
@@ -33911,7 +33433,6 @@ nipan	nīpen
 nipan	nīpende
 nipan	nīpest
 nipan	nīpeþ
-nipan	tō
 
 niwe	nīwa
 niwe	nīwan
@@ -34376,7 +33897,6 @@ oferflitan	oferflīten
 oferflitan	oferflītende
 oferflitan	oferflītest
 oferflitan	oferflīteþ
-oferflitan	tō
 
 oferflowan	oferflēow
 oferflowan	oferflēowe
@@ -34738,7 +34258,6 @@ ofersceadwian	ofersceadwode
 ofersceadwian	ofersceadwoden
 ofersceadwian	ofersceadwodest
 ofersceadwian	ofersceadwodon
-ofersceadwian	tō
 
 oferseglian	ofersegledon
 
@@ -34882,7 +34401,6 @@ oferswiþan	oferswīþen
 oferswiþan	oferswīþende
 oferswiþan	oferswīþest
 oferswiþan	oferswīþeþ
-oferswiþan	tō
 
 oferteon	ofertogen
 oferteon	ofertuge
@@ -34894,7 +34412,6 @@ oferteon	ofertēon
 oferteon	ofertēonde
 oferteon	ofertīehþ
 oferteon	ofertīest
-oferteon	tō
 
 ofertogennes	ofertogennes
 ofertogennes	ofertogennessa
@@ -35052,7 +34569,6 @@ offrian	offrode
 offrian	offroden
 offrian	offrodest
 offrian	offrodon
-offrian	tō
 
 offrung	offrung
 offrung	offrungum
@@ -35086,7 +34602,6 @@ ofgiefan	ofgiefeþ
 ofgiefan	ofgēafe
 ofgiefan	ofgēafen
 ofgiefan	ofgēafon
-ofgiefan	tō
 
 ofhabban	ofhabban
 ofhabban	ofhabbaþ
@@ -35246,7 +34761,6 @@ onbidan	onbīden
 onbidan	onbīdende
 onbidan	onbīdest
 onbidan	onbīdeþ
-onbidan	tō
 
 onbindan	onband
 onbindan	onbind
@@ -35303,7 +34817,6 @@ oncweþan	oncwæþ
 oncweþan	oncwǣde
 oncweþan	oncwǣden
 oncweþan	oncwǣdon
-oncweþan	tō
 
 oncyrran	onсyr
 oncyrran	onсyrde
@@ -35330,7 +34843,6 @@ ondrædan	ondræde
 ondrædan	ondrædende
 ondrædan	ondræt
 
-onettan	tō
 onettan	ōnete
 onettan	ōneted
 onettan	ōnetest
@@ -35358,7 +34870,6 @@ onfindan	onfintst
 onfindan	onfunde
 onfindan	onfunden
 onfindan	onfundon
-onfindan	tō
 
 onfon	geonfongen
 onfon	onfangen
@@ -35373,7 +34884,6 @@ onfon	onfō
 onfon	onfōh
 onfon	onfōn
 onfon	onfōþ
-onfon	tō
 
 onfond	onfonde
 
@@ -35437,7 +34947,6 @@ ongietan	ongiett
 ongietan	ongēate
 ongietan	ongēaten
 ongietan	ongēaton
-ongietan	tō
 
 onginnan	ongan
 onginnan	onginn
@@ -35451,7 +34960,6 @@ onginnan	onginnþ
 onginnan	ongunne
 onginnan	ongunnen
 onginnan	ongunnon
-onginnan	tō
 
 ongitan	ongeat
 ongitan	onget
@@ -35537,7 +35045,6 @@ onirnan	onirneþ
 onirnan	onurne
 onirnan	onurnen
 onirnan	onurnon
-onirnan	tō
 
 onlihtan	geonlīhted
 onlihtan	onlīht
@@ -35550,7 +35057,6 @@ onlihtan	onlīhtende
 onlihtan	onlīhtest
 onlihtan	onlīhteþ
 onlihtan	onlīhton
-onlihtan	tō
 
 onmearcung	onmearcung
 onmearcung	onmearcunga
@@ -35581,7 +35087,6 @@ onsendan	onsendende
 onsendan	onsendest
 onsendan	onsendeþ
 onsendan	onsendon
-onsendan	tō
 
 onsettan	onasettum
 onsettan	onsette
@@ -35598,7 +35103,6 @@ onsittan	onsæt
 onsittan	onsǣte
 onsittan	onsǣten
 onsittan	onsǣton
-onsittan	tō
 
 onstellan	onsteald
 onstellan	onstealde
@@ -35613,7 +35117,6 @@ onstellan	onstellaþ
 onstellan	onstelle
 onstellan	onstellen
 onstellan	onstellende
-onstellan	tō
 
 onsundran	onsundran
 
@@ -35681,7 +35184,6 @@ onwacan	onwōc
 onwacan	onwōce
 onwacan	onwōcen
 onwacan	onwōcon
-onwacan	tō
 
 onwadan	geonwaden,onwaden
 onwadan	onwad
@@ -35738,7 +35240,6 @@ onwendan	onwendende
 onwendan	onwendest
 onwendan	onwendeþ
 onwendan	onwendon
-onwendan	tō
 
 onweorpan	onwurpað
 
@@ -35788,7 +35289,6 @@ onwæcnan	onwōc
 onwæcnan	onwōce
 onwæcnan	onwōcen
 onwæcnan	onwōcon
-onwæcnan	tō
 
 onælan	onæled
 
@@ -35810,7 +35310,6 @@ onþracian	onþracode
 onþracian	onþracoden
 onþracian	onþracodest
 onþracian	onþracodon
-onþracian	tō
 
 open	open
 open	opena
@@ -35842,7 +35341,6 @@ openian	openode
 openian	openoden
 openian	openodest
 openian	openodon
-openian	tō
 
 openlic	openlīс
 openlic	openlīсa
@@ -36078,7 +35576,6 @@ oþstandan	oþstōd
 oþstandan	oþstōde
 oþstandan	oþstōden
 oþstandan	oþstōdon
-oþstandan	tō
 
 oþteon	ōþtogen
 oþteon	ōþtuge
@@ -36278,7 +35775,6 @@ plegian	plegode
 plegian	plegoden
 plegian	plegodest
 plegian	plegodon
-plegian	tō
 
 pleoh	pleoh
 pleoh	plēa
@@ -36305,7 +35801,6 @@ plihtan	plihtende
 plihtan	plihtest
 plihtan	plihteþ
 plihtan	plihton
-plihtan	tō
 
 ploh	plōga
 ploh	plōgas
@@ -36377,7 +35872,6 @@ potian	potode
 potian	potoden
 potian	potodest
 potian	potodon
-potian	tō
 
 preparata	preparata
 
@@ -36404,7 +35898,6 @@ prician	pricode
 prician	pricoden
 prician	pricodest
 prician	pricodon
-prician	tō
 
 primsang	prīmsang
 primsang	prīmsanga
@@ -36431,7 +35924,6 @@ profian	prōfode
 profian	prōfoden
 profian	prōfodest
 profian	prōfodon
-profian	tō
 
 protus	Protum
 protus	Protus
@@ -36478,7 +35970,6 @@ pullian	pullode
 pullian	pulloden
 pullian	pullodest
 pullian	pullodon
-pullian	tō
 
 pund	punda
 
@@ -36500,7 +35991,6 @@ punian	pūnode
 punian	pūnoden
 punian	pūnodest
 punian	pūnodon
-punian	tō
 
 purpure	purpuran
 
@@ -36628,7 +36118,6 @@ rarian	rārode
 rarian	rāroden
 rarian	rārodest
 rarian	rārodon
-rarian	tō
 
 rasian	gerāsod
 rasian	rāsa
@@ -36648,7 +36137,6 @@ rasian	rāsode
 rasian	rāsoden
 rasian	rāsodest
 rasian	rāsodon
-rasian	tō
 
 raðe	Raðe
 raðe	raðe
@@ -36702,7 +36190,6 @@ reafian	rēafode
 reafian	rēafoden
 reafian	rēafodest
 reafian	rēafodon
-reafian	tō
 
 recan	recst
 recan	rohton
@@ -36805,7 +36292,6 @@ regnian	regnode
 regnian	regnoden
 regnian	regnodest
 regnian	regnodon
-regnian	tō
 
 regnwyrm	regnwyrm
 regnwyrm	regnwyrma
@@ -36868,7 +36354,6 @@ reotan	rēoten
 reotan	rēotende
 reotan	rīetest
 reotan	rīeteþ
-reotan	tō
 
 restan	restan
 restan	restaþ
@@ -36882,7 +36367,6 @@ restan	resten
 restan	restende
 restan	restest
 restan	resteþ
-restan	tō
 
 restedæg	restedagum
 restedæg	restedæg
@@ -36953,7 +36437,6 @@ ricsian	rīcsode
 ricsian	rīcsoden
 ricsian	rīcsodest
 ricsian	rīcsodon
-ricsian	tō
 
 rida	rida
 rida	ridan
@@ -36972,7 +36455,6 @@ ridan	rīden
 ridan	rīdende
 ridan	rītst
 ridan	rītt
-ridan	tō
 
 riht	riht
 riht	rihtan
@@ -37037,7 +36519,6 @@ riman	rīmen
 riman	rīmende
 riman	rīmest
 riman	rīmeþ
-riman	tō
 
 rimcræft	rīmcræft
 rimcræft	rīmcræfta
@@ -37085,7 +36566,6 @@ rinnan	rinneþ
 rinnan	runne
 rinnan	runnen
 rinnan	runnon
-rinnan	tō
 
 rip	rip
 rip	ripes
@@ -37103,7 +36583,6 @@ risan	rīsen
 risan	rīsende
 risan	rīsest
 risan	rīseþ
-risan	tō
 
 rocc	*rocc
 rocc	*rocca
@@ -37123,7 +36602,6 @@ rocettan	roсetten
 rocettan	roсettende
 rocettan	roсettest
 rocettan	roсetton
-rocettan	tō
 
 rod	rōd
 rod	rōda
@@ -37152,7 +36630,6 @@ rodfæstnian	rōdfæstnode
 rodfæstnian	rōdfæstnoden
 rodfæstnian	rōdfæstnodest
 rodfæstnian	rōdfæstnodon
-rodfæstnian	tō
 
 rodor	rodor
 rodor	rodora
@@ -37179,7 +36656,6 @@ rogian	rogode
 rogian	rogoden
 rogian	rogodest
 rogian	rogodon
-rogian	tō
 
 rom	Rome
 rom	Rōm
@@ -37245,7 +36721,6 @@ rowan	rōwaþ
 rowan	rōwe
 rowan	rōwen
 rowan	rōwende
-rowan	tō
 
 roðos	Roðum
 
@@ -37324,7 +36799,6 @@ ræcan	rǣсen
 ræcan	rǣсende
 ræcan	rǣсest
 ræcan	rǣсeþ
-ræcan	tō
 
 rædan	gerǣded
 rædan	gerǣden
@@ -37349,7 +36823,6 @@ rædan	rǣden
 rædan	rǣdende
 rædan	rǣdest
 rædan	rǣdeþ
-rædan	tō
 
 rædbora	rǣdbora
 rædbora	rǣdboran
@@ -37392,7 +36865,6 @@ ræfan	rǣfen
 ræfan	rǣfende
 ræfan	rǣfest
 ræfan	rǣfeþ
-ræfan	tō
 
 ræpling	ræplingum
 
@@ -37410,7 +36882,6 @@ ræran	rǣren
 ræran	rǣrende
 ræran	rǣrest
 ræran	rǣreþ
-ræran	tō
 
 ræs	rǣs
 ræs	rǣsa
@@ -37439,7 +36910,6 @@ sacan	sōc
 sacan	sōce
 sacan	sōcen
 sacan	sōcon
-sacan	tō
 
 sacerd	sacerda
 sacerd	sacerdas
@@ -37800,7 +37270,6 @@ scacan	scōc
 scacan	scōce
 scacan	scōcen
 scacan	scōcon
-scacan	tō
 
 scafan	gescafen
 scafan	scaf
@@ -37815,7 +37284,6 @@ scafan	scōf
 scafan	scōfe
 scafan	scōfen
 scafan	scōfon
-scafan	tō
 
 scald	Scald
 
@@ -37837,7 +37305,6 @@ scamian	scamode
 scamian	scamoden
 scamian	scamodest
 scamian	scamodon
-scamian	tō
 
 scamleas	sсamlēas
 scamleas	sсamlēasa
@@ -37928,7 +37395,6 @@ sceadan	scēod
 sceadan	scēode
 sceadan	scēoden
 sceadan	scēodon
-sceadan	tō
 
 sceadian	gesсeadod,sсeadod
 sceadian	sсeada
@@ -37968,7 +37434,6 @@ sceadwian	sceadwode
 sceadwian	sceadwoden
 sceadwian	sceadwodest
 sceadwian	sceadwodon
-sceadwian	tō
 
 sceafa	sceafa
 sceafa	sceafan
@@ -38090,7 +37555,6 @@ sceawian	scēawode
 sceawian	scēawoden
 sceawian	scēawodest
 sceawian	scēawodon
-sceawian	tō
 
 sceawunge	sceawunge
 
@@ -38130,7 +37594,6 @@ sceaþian	sceaþode
 sceaþian	sceaþoden
 sceaþian	sceaþodest
 sceaþian	sceaþodon
-sceaþian	tō
 
 scelere	Scelere
 
@@ -38180,7 +37643,6 @@ sceotan	scēoten
 sceotan	scēotende
 sceotan	scīetst
 sceotan	scīett
-sceotan	tō
 
 sceotend	sceotend
 sceotend	sceotendas
@@ -38204,7 +37666,6 @@ sceþþan	scēod
 sceþþan	scēode
 sceþþan	scēoden
 sceþþan	scēodon
-sceþþan	tō
 
 sciccels	scicelse
 sciccels	scicilse
@@ -38241,7 +37702,6 @@ scieppan	scōp
 scieppan	scōpe
 scieppan	scōpen
 scieppan	scōpon
-scieppan	tō
 
 scieran	gescoren
 scieran	scear
@@ -38257,7 +37717,6 @@ scieran	scoren
 scieran	scēare
 scieran	scēaren
 scieran	scēaron
-scieran	tō
 
 sciete	sсīetan
 sciete	sсīete
@@ -38282,7 +37741,6 @@ scinan	scīnen
 scinan	scīnende
 scinan	scīnest
 scinan	scīneþ
-scinan	tō
 
 scinu	scina
 scinu	scine
@@ -38365,7 +37823,6 @@ scitan	scīten
 scitan	scītende
 scitan	scītest
 scitan	scīteþ
-scitan	tō
 
 scite	scitan
 scite	scytan
@@ -38423,7 +37880,6 @@ screon	scrēonde
 screon	scrēoþ
 screon	scrīehst
 screon	scrīehþ
-screon	tō
 
 scrifan	gesсrifen
 scrifan	sсrife
@@ -38438,7 +37894,6 @@ scrifan	sсrīfen
 scrifan	sсrīfende
 scrifan	sсrīfest
 scrifan	sсrīfeþ
-scrifan	tō
 
 scrihan	gesсrigen,sсrigen
 scrihan	sсrige
@@ -38468,7 +37923,6 @@ scrincan	scronc
 scrincan	scrunce
 scrincan	scruncen
 scrincan	scruncon
-scrincan	tō
 
 scriþan	gescriden
 scriþan	scride
@@ -38483,7 +37937,6 @@ scriþan	scrīþen
 scriþan	scrīþende
 scriþan	scrīþest
 scriþan	scrīþeþ
-scriþan	tō
 
 scrud	scrude
 scrud	sсrūd
@@ -38522,7 +37975,6 @@ scufan	scūfen
 scufan	scūfende
 scufan	scȳfst
 scufan	scȳfþ
-scufan	tō
 
 sculan	sceal
 sculan	scealt
@@ -38541,7 +37993,6 @@ sculan	sculon
 sculan	scylaþ
 sculan	scyle
 sculan	scylen
-sculan	tō
 
 sculdra	sсuldra
 sculdra	sсuldran
@@ -38713,7 +38164,6 @@ sealtian	sealtode
 sealtian	sealtoden
 sealtian	sealtodest
 sealtian	sealtodon
-sealtian	tō
 
 sealtnes	sealtnes
 sealtnes	sealtnessa
@@ -38797,7 +38247,6 @@ secan	sōhte
 secan	sōhten
 secan	sōhtest
 secan	sōhton
-secan	tō
 
 secg	secg
 secg	secg,secge
@@ -38830,7 +38279,6 @@ secgan	sǣde
 secgan	sǣden
 secgan	sǣdest
 secgan	sǣdon
-secgan	tō
 
 sefte	sēfta
 sefte	sēftan
@@ -38896,7 +38344,6 @@ sellan	sellende
 sellan	syle
 sellan	sylest
 sellan	syleþ
-sellan	tō
 
 sellend	sellend
 sellend	sellend,sellende
@@ -38928,7 +38375,6 @@ sendan	sendende
 sendan	sendest
 sendan	sendeþ
 sendan	sendon
-sendan	tō
 
 senep	senepes
 
@@ -38984,7 +38430,6 @@ seomian	seomode
 seomian	seomoden
 seomian	seomodest
 seomian	seomodon
-seomian	tō
 
 seon	''unattested''
 seon	eart
@@ -39045,7 +38490,6 @@ seoþan	sēoþende
 seoþan	sēoþo
 seoþan	sīeþst
 seoþan	sīeþþ
-seoþan	tō
 
 sepan	gesēped,sēped
 sepan	sēp
@@ -39085,7 +38529,6 @@ settan	setten
 settan	settende
 settan	settest
 settan	setton
-settan	tō
 
 seuerus	Seuero
 
@@ -39164,7 +38607,6 @@ sieltan	sielten
 sieltan	sieltende
 sieltan	sielteþ
 sieltan	sieltst
-sieltan	tō
 
 sien	sīen
 sien	sīena
@@ -39184,7 +38626,6 @@ sigan	sīgen
 sigan	sīgende
 sigan	sīgest
 sigan	sīgeþ
-sigan	tō
 
 sige	siga
 sige	sigas
@@ -39289,7 +38730,6 @@ sincan	sinceþ
 sincan	sunce
 sincan	suncen
 sincan	suncon
-sincan	tō
 
 sincgiefa	sincgiefa
 sincgiefa	sincgiefan
@@ -39351,7 +38791,6 @@ singan	singeþ
 singan	sunge
 singan	sungen
 singan	sungon
-singan	tō
 
 sinhweorfan	gesinhworfen,sinhworfen
 sinhweorfan	sinhwearf
@@ -39397,7 +38836,6 @@ sinnan	sinþ
 sinnan	sunne
 sinnan	sunnen
 sinnan	sunnon
-sinnan	tō
 
 sinu	sinu
 sinu	sinwa
@@ -39422,7 +38860,6 @@ sittan	sæt
 sittan	sǣte
 sittan	sǣten
 sittan	sǣton
-sittan	tō
 
 siwian	gesiwod
 siwian	siwa
@@ -39442,7 +38879,6 @@ siwian	siwode
 siwian	siwoden
 siwian	siwodest
 siwian	siwodon
-siwian	tō
 
 six	sex
 six	siex
@@ -39498,7 +38934,6 @@ siþian	sīþode
 siþian	sīþoden
 siþian	sīþodest
 siþian	sīþodon
-siþian	tō
 
 slapan	geslāpen,slāpen
 slapan	slāp
@@ -39527,7 +38962,6 @@ slean	slōge
 slean	slōgen
 slean	slōgon
 slean	slōh
-slean	tō
 
 slecg	sleсg
 slecg	sleсga
@@ -39553,7 +38987,6 @@ slidan	slīden
 slidan	slīdende
 slidan	slīdest
 slidan	slīdeþ
-slidan	tō
 
 slief	slīef
 slief	slīefa
@@ -39605,7 +39038,6 @@ slifan	slīfen
 slifan	slīfende
 slifan	slīfest
 slifan	slīfeþ
-slifan	tō
 
 slitan	gesliten
 slitan	slite
@@ -39620,7 +39052,6 @@ slitan	slīten
 slitan	slītende
 slitan	slītest
 slitan	slīteþ
-slitan	tō
 
 slite	slite
 
@@ -39649,7 +39080,6 @@ slupan	slūpen
 slupan	slūpende
 slupan	slȳpest
 slupan	slȳpeþ
-slupan	tō
 
 slæc	slæc
 slæc	slæca
@@ -39680,7 +39110,6 @@ slæpan	slǣpen
 slæpan	slǣpende
 slæpan	slǣpst
 slæpan	slǣpþ
-slæpan	tō
 
 slæpern	slǣpern
 slæpern	slǣperna
@@ -39754,7 +39183,6 @@ smeortan	smorten
 smeortan	smurte
 smeortan	smurten
 smeortan	smurton
-smeortan	tō
 
 smeortung	smeortung
 smeortung	smeortunga
@@ -39778,7 +39206,6 @@ smitan	smīten
 smitan	smītende
 smitan	smītest
 smitan	smīteþ
-smitan	tō
 
 smiþ	smið
 
@@ -39815,7 +39242,6 @@ smocian	smocode
 smocian	smocoden
 smocian	smocodest
 smocian	smocodon
-smocian	tō
 
 smugan	smogen
 smugan	smuge
@@ -39831,7 +39257,6 @@ smugan	smūgende
 smugan	smūh
 smugan	smȳhst
 smugan	smȳhþ
-smugan	tō
 
 smyltness	smiltnesse
 smyltness	smyltnes
@@ -39889,7 +39314,6 @@ sniwan	snīwen
 sniwan	snīwende
 sniwan	snīwest
 sniwan	snīweþ
-sniwan	tō
 
 sniþan	gesniden
 sniþan	snide
@@ -39904,7 +39328,6 @@ sniþan	snīþen
 sniþan	snīþende
 sniþan	snīþest
 sniþan	snīþeþ
-sniþan	tō
 
 snotingaham	Snotengaham
 
@@ -39963,7 +39386,6 @@ solian	solode
 solian	soloden
 solian	solodest
 solian	solodon
-solian	tō
 
 solsece	sōlsecan
 solsece	sōlsece
@@ -40011,7 +39433,6 @@ sorgian	sorgode
 sorgian	sorgoden
 sorgian	sorgodest
 sorgian	sorgodon
-sorgian	tō
 
 sorh	sorga
 sorh	sorge
@@ -40139,7 +39560,6 @@ sparian	sparode
 sparian	sparoden
 sparian	sparodest
 sparian	sparodon
-sparian	tō
 
 spearca	spearca
 spearca	spearcan
@@ -40253,7 +39673,6 @@ spilian	spilode
 spilian	spiloden
 spilian	spilodest
 spilian	spilodon
-spilian	tō
 
 spinnan	gespunnen
 spinnan	spann
@@ -40268,7 +39687,6 @@ spinnan	spinneþ
 spinnan	spunne
 spinnan	spunnen
 spinnan	spunnon
-spinnan	tō
 
 spittan	spætende
 
@@ -40291,7 +39709,6 @@ spiwan	spīwen
 spiwan	spīwende
 spiwan	spīwest
 spiwan	spīweþ
-spiwan	tō
 
 spor	spor
 spor	spora
@@ -40312,7 +39729,6 @@ spowan	spōwaþ
 spowan	spōwe
 spowan	spōwen
 spowan	spōwende
-spowan	tō
 
 sprecan	gesprecen
 sprecan	sprec
@@ -40327,7 +39743,6 @@ sprecan	spræc
 sprecan	sprǣce
 sprecan	sprǣcen
 sprecan	sprǣcon
-sprecan	tō
 
 sprecende	sprecende
 
@@ -40370,7 +39785,6 @@ springan	springeþ
 springan	sprunge
 springan	sprungen
 springan	sprungon
-springan	tō
 
 spryttan	sprytst
 spryttan	sprytt
@@ -40428,7 +39842,6 @@ spurnan	spurno
 spurnan	spurnon
 spurnan	spyrnst
 spurnan	spyrnþ
-spurnan	tō
 
 spynge	spingan
 
@@ -40495,7 +39908,6 @@ standan	stōd
 standan	stōde
 standan	stōden
 standan	stōdon
-standan	tō
 
 stane	stane
 
@@ -40538,7 +39950,6 @@ starian	starode
 starian	staroden
 starian	starodest
 starian	starodon
-starian	tō
 
 staþol	staþol
 staþol	staþola
@@ -40565,7 +39976,6 @@ staþolian	staþolode
 staþolian	staþoloden
 staþolian	staþolodest
 staþolian	staþolodon
-staþolian	tō
 
 staþoliend	staþoliend
 staþoliend	staþolienda
@@ -40618,7 +40028,6 @@ steartlian	steartlode
 steartlian	steartloden
 steartlian	steartlodest
 steartlian	steartlodon
-steartlian	tō
 
 stede	steda
 stede	stedas
@@ -40652,7 +40061,6 @@ stelan	stæl
 stelan	stǣle
 stelan	stǣlen
 stelan	stǣlon
-stelan	tō
 
 stellan	steald
 stellan	stealde
@@ -40682,7 +40090,6 @@ steman	stēmen
 steman	stēmende
 steman	stēmest
 steman	stēmeþ
-steman	tō
 
 stempan	gestemped,stemped
 stempan	stemp
@@ -40758,7 +40165,6 @@ steorfan	storfen
 steorfan	sturfe
 steorfan	sturfen
 steorfan	sturfon
-steorfan	tō
 
 steorleas	stēorlēas
 steorleas	stēorlēasa
@@ -40805,7 +40211,6 @@ steppan	stōp
 steppan	stōpe
 steppan	stōpen
 steppan	stōpon
-steppan	tō
 
 sticca	sticca
 sticca	sticcan
@@ -40836,7 +40241,6 @@ stician	stiсode
 stician	stiсoden
 stician	stiсodest
 stician	stiсodon
-stician	tō
 
 stiepel	nytwyrþnes
 stiepel	stīepla
@@ -40869,7 +40273,6 @@ stigan	stīgen
 stigan	stīgende
 stigan	stīgest
 stigan	stīgeþ
-stigan	tō
 
 stillan	gestiled
 stillan	stile
@@ -40885,7 +40288,6 @@ stillan	stillaþ
 stillan	stille
 stillan	stillen
 stillan	stillende
-stillan	tō
 
 stille	stilla
 stille	stillan
@@ -40919,7 +40321,6 @@ stincan	stinceþ
 stincan	stunce
 stincan	stuncen
 stincan	stuncon
-stincan	tō
 
 stingan	gestungen
 stingan	stang
@@ -40934,7 +40335,6 @@ stingan	stingeþ
 stingan	stunge
 stingan	stungen
 stingan	stungon
-stingan	tō
 
 stiocian	gestiocod,stiocod
 stiocian	stioca
@@ -41005,7 +40405,6 @@ stoppian	stoppode
 stoppian	stoppoden
 stoppian	stoppodest
 stoppian	stoppodon
-stoppian	tō
 
 storc	storc
 storc	storca
@@ -41074,7 +40473,6 @@ stracian	strācode
 stracian	strācoden
 stracian	strācodest
 stracian	strācodon
-stracian	tō
 
 strand	strand
 strand	stranda
@@ -41194,7 +40592,6 @@ strican	strīcen
 strican	strīcende
 strican	strīcest
 strican	strīceþ
-strican	tō
 
 stridan	gestriden,striden
 stridan	strād
@@ -41231,7 +40628,6 @@ stryndan	strȳndest
 stryndan	strȳndeþ
 stryndan	strȳndo
 stryndan	strȳndon
-stryndan	tō
 
 stræcled	Stræcled
 
@@ -41291,7 +40687,6 @@ styrian	styrie
 styrian	styrien
 styrian	styriende
 styrian	styrige
-styrian	tō
 
 styrung	styrunga
 
@@ -41388,7 +40783,6 @@ sucan	sūcen
 sucan	sūcende
 sucan	sȳcest
 sucan	sȳceþ
-sucan	tō
 
 sugan	gesogen
 sugan	sogen
@@ -41404,7 +40798,6 @@ sugan	sūgen
 sugan	sūgende
 sugan	sȳgest
 sugan	sȳgeþ
-sugan	tō
 
 sugu	sug
 sugu	suga
@@ -41484,7 +40877,6 @@ sundrian	sundrode
 sundrian	sundroden
 sundrian	sundrodest
 sundrian	sundrodon
-sundrian	tō
 
 sunlic	sunlīс
 sunlic	sunlīсa
@@ -41636,7 +41028,6 @@ swapan	swēpen
 swapan	swēpon
 swapan	swǣpst
 swapan	swǣpþ
-swapan	tō
 
 swat	-
 swat	swāt
@@ -41676,7 +41067,6 @@ swaþrian	swaþrie
 swaþrian	swaþrien
 swaþrian	swaþriende
 swaþrian	swaþrige
-swaþrian	tō
 
 swealwe	swealwan
 swealwe	swealwe
@@ -41750,7 +41140,6 @@ swefan	swæf
 swefan	swǣfe
 swefan	swǣfen
 swefan	swǣfon
-swefan	tō
 
 swefan	geswefen
 swefan	swef
@@ -41765,7 +41154,6 @@ swefan	swæf
 swefan	swǣfe
 swefan	swǣfen
 swefan	swǣfon
-swefan	tō
 
 swefen	swæfne
 
@@ -41849,7 +41237,6 @@ swelgan	swolgen
 swelgan	swulge
 swelgan	swulgen
 swelgan	swulgon
-swelgan	tō
 
 swelgan	geswolgen
 swelgan	swalg
@@ -41865,7 +41252,6 @@ swelgan	swolgen
 swelgan	swulge
 swelgan	swulgen
 swelgan	swulgon
-swelgan	tō
 
 sweltan	geswolten
 sweltan	swealt
@@ -41881,7 +41267,6 @@ sweltan	swolten
 sweltan	swulte
 sweltan	swulten
 sweltan	swulton
-sweltan	tō
 
 sweoland	Swēoland
 sweoland	Swēolanda
@@ -41921,7 +41306,6 @@ sweorcan	sworcen
 sweorcan	swurce
 sweorcan	swurcen
 sweorcan	swurcon
-sweorcan	tō
 
 sweord	sweorde
 sweord	swurde
@@ -41942,7 +41326,6 @@ sweorfan	sworfen
 sweorfan	swurfe
 sweorfan	swurfen
 sweorfan	swurfon
-sweorfan	tō
 
 sweorice	Swēorīсa
 sweorice	Swēorīсe
@@ -41988,7 +41371,6 @@ swerian	swōr
 swerian	swōre
 swerian	swōren
 swerian	swōron
-swerian	tō
 
 swetnes	swētnes
 swetnes	swētnessa
@@ -42029,7 +41411,6 @@ swican	swīcen
 swican	swīcende
 swican	swīcest
 swican	swīceþ
-swican	tō
 
 swiccræft	swiccræft
 
@@ -42073,7 +41454,6 @@ swifan	swīfen
 swifan	swīfende
 swifan	swīfest
 swifan	swīfeþ
-swifan	tō
 
 swifneh	Swifneh
 
@@ -42136,7 +41516,6 @@ swigian	swīgode
 swigian	swīgoden
 swigian	swīgodest
 swigian	swīgodon
-swigian	tō
 
 swilc	swylcera
 swilc	swylcum
@@ -42157,7 +41536,6 @@ swimman	swimmeþ
 swimman	swumme
 swimman	swummen
 swimman	swummon
-swimman	tō
 
 swin	swīn
 swin	swīna
@@ -42178,7 +41556,6 @@ swincan	swinceþ
 swincan	swunce
 swincan	swuncen
 swincan	swuncon
-swincan	tō
 
 swindan	geswunden
 swindan	swand
@@ -42193,7 +41570,6 @@ swindan	swindeþ
 swindan	swunde
 swindan	swunden
 swindan	swundon
-swindan	tō
 
 swingan	geswungen
 swingan	swang
@@ -42208,7 +41584,6 @@ swingan	swingeþ
 swingan	swunge
 swingan	swungen
 swingan	swungon
-swingan	tō
 
 swinn	swinn
 swinn	swinna
@@ -42268,7 +41643,6 @@ swogan	swōgende
 swogan	swōgest
 swogan	swōgeþ
 swogan	swōgon
-swogan	tō
 
 swyðe	swyþe
 
@@ -42285,7 +41659,6 @@ swæslæcan	swǣslǣсen
 swæslæcan	swǣslǣсende
 swæslæcan	swǣslǣсest
 swæslæcan	swǣslǣсeþ
-swæslæcan	tō
 
 swætan	swǣt
 swætan	swǣtan
@@ -42469,7 +41842,6 @@ sælan	sǣlen
 sælan	sǣlende
 sælan	sǣlest
 sælan	sǣleþ
-sælan	tō
 
 sælic	sælican
 
@@ -42529,7 +41901,6 @@ tacan	tacen
 tacan	tacende
 tacan	tæcst
 tacan	tæcþ
-tacan	tō
 tacan	tōc
 tacan	tōce
 tacan	tōcen
@@ -42575,7 +41946,6 @@ talian	talode
 talian	taloden
 talian	talodest
 talian	talodon
-talian	tō
 
 talu	tala
 talu	tale
@@ -42611,7 +41981,6 @@ tawian	tawode
 tawian	tawoden
 tawian	tawodest
 tawian	tawodon
-tawian	tō
 
 teag	tēag
 teag	tēaga
@@ -42650,7 +42019,6 @@ tellan	tellaþ
 tellan	telle
 tellan	tellen
 tellan	tellende
-tellan	tō
 
 temes	Temese
 
@@ -42674,7 +42042,6 @@ tendan	tendende
 tendan	tendest
 tendan	tendeþ
 tendan	tendon
-tendan	tō
 
 tenet	Tenet
 
@@ -42715,7 +42082,6 @@ teran	tirest
 teran	tireþ
 teran	toren
 teran	tær
-teran	tō
 teran	tǣre
 teran	tǣren
 teran	tǣron
@@ -42782,7 +42148,6 @@ tilian	tilode
 tilian	tiloden
 tilian	tilodest
 tilian	tilodon
-tilian	tō
 
 tima	tīma
 tima	tīman
@@ -42848,7 +42213,6 @@ tirgan	tirgende
 tirgan	tirgest
 tirgan	tirgeþ
 tirgan	tirgo
-tirgan	tō
 
 tirisc	tirisca
 tirisc	tiriscan
@@ -42952,7 +42316,6 @@ tocyrran	tōсyrrest
 tocyrran	tōсyrreþ
 
 todrifan	getōdrifen
-todrifan	tō
 todrifan	tōdrife
 todrifan	tōdrifen
 todrifan	tōdrifon
@@ -42970,7 +42333,6 @@ todræfan	todræfede
 
 todæg	todæg
 
-todælan	tō
 todælan	tōdǣl
 todælan	tōdǣlan
 todælan	tōdǣlaþ
@@ -43076,7 +42438,6 @@ togian	togode
 togian	togoden
 togian	togodest
 togian	togodon
-togian	tō
 
 togædere	togædere
 
@@ -43214,7 +42575,6 @@ torfian	torfode
 torfian	torfoden
 torfian	torfodest
 torfian	torfodon
-torfian	tō
 
 torr	torr
 torr	torra
@@ -43300,7 +42660,6 @@ toseþan	tōsēþest
 toseþan	tōsēþeþ
 
 toslitan	getōsliten
-toslitan	tō
 toslitan	tōslite
 toslitan	tōsliten
 toslitan	tōsliton
@@ -43535,7 +42894,6 @@ trahtian	trahtode
 trahtian	trahtoden
 trahtian	trahtodest
 trahtian	trahtodon
-trahtian	tō
 
 trahtnian	getrahtnod
 trahtnian	trahtna
@@ -43555,7 +42913,6 @@ trahtnian	trahtnode
 trahtnian	trahtnoden
 trahtnian	trahtnodest
 trahtnian	trahtnodon
-trahtnian	tō
 
 tramet	tramet
 tramet	trameta
@@ -43576,7 +42933,6 @@ tredan	træd
 tredan	trǣde
 tredan	trǣden
 tredan	trǣdon
-tredan	tō
 
 treg	trēg
 treg	trēga
@@ -43643,7 +42999,6 @@ trucian	trucode
 trucian	trucoden
 trucian	trucodest
 trucian	trucodon
-trucian	tō
 
 truwa	truwan
 
@@ -43665,7 +43020,6 @@ truwian	trūwode
 truwian	trūwoden
 truwian	trūwodest
 truwian	trūwodon
-truwian	tō
 
 trymman	getrymed
 trymman	tryme
@@ -43681,10 +43035,8 @@ trymman	trymmaþ
 trymman	trymme
 trymman	trymmen
 trymman	trymmende
-trymman	tō
 
 tucian	getūcod
-tucian	tō
 tucian	tūca
 tucian	tūcast
 tucian	tūcaþ
@@ -43765,7 +43117,6 @@ turnian	turnode
 turnian	turnoden
 turnian	turnodest
 turnian	turnodon
-turnian	tō
 
 turtle	turtlan
 turtle	turtle
@@ -43833,7 +43184,6 @@ twiccian	twiccode
 twiccian	twiccoden
 twiccian	twiccodest
 twiccian	twiccodon
-twiccian	tō
 
 twicene	twycenan
 
@@ -43862,7 +43212,6 @@ twiferlæcan	twifērlǣсen
 twiferlæcan	twifērlǣсende
 twiferlæcan	twifērlǣсest
 twiferlæcan	twifērlǣсeþ
-twiferlæcan	tō
 
 twig	twi
 
@@ -43955,7 +43304,6 @@ tyhtan	tihte
 tyhting	tihtinge
 
 tynan	getȳned
-tynan	tō
 tynan	tȳn
 tynan	tȳnan
 tynan	tȳnaþ
@@ -43976,7 +43324,6 @@ tysca	tysсena
 tysca	tysсum
 
 tæcan	getǣht
-tæcan	tō
 tæcan	tǣcst
 tæcan	tǣcþ
 tæcan	tǣht
@@ -44027,7 +43374,6 @@ tæppian	tæppode
 tæppian	tæppoden
 tæppian	tæppodest
 tæppian	tæppodon
-tæppian	tō
 
 uder	ūder
 uder	ūdra
@@ -44191,7 +43537,6 @@ underfon	underfæng
 underfon	underfænge
 underfon	underfængon
 
-undergan	tō
 undergan	undergangende
 undergan	undergā
 undergan	undergān
@@ -44249,7 +43594,6 @@ undersecan	undersōhten
 undersecan	undersōhtest
 undersecan	undersōhton
 
-understandan	tō
 understandan	understand
 understandan	understandan
 understandan	understandaþ
@@ -44265,7 +43609,6 @@ understandan	understōde
 understandan	understōden
 understandan	understōdon
 
-understondan	tō
 understondan	understendest
 understondan	understendeþ
 understondan	understent
@@ -44630,7 +43973,6 @@ unligne	līgnu
 unligne	līgnum
 
 unlucan	geunlocen
-unlucan	tō
 unlucan	unlocen
 unlucan	unluce
 unlucan	unlucen
@@ -44656,7 +43998,6 @@ unlytel	unlytle
 unmæþlice	unmæðlice
 
 unnan	ann
-unnan	tō
 unnan	unnan
 unnan	unne
 unnan	unnen
@@ -45293,7 +44634,6 @@ wac	wācre
 wac	wācum
 
 wacan	gewacen
-wacan	tō
 wacan	wac
 wacan	wacan
 wacan	wacaþ
@@ -45309,7 +44649,6 @@ wacan	wōcen
 wacan	wōcon
 
 wacian	gewacod
-wacian	tō
 wacian	waca
 wacian	wacast
 wacian	wacaþ
@@ -45369,7 +44708,6 @@ wacor	wacorre
 wacor	wacorum
 
 wadan	gewaden
-wadan	tō
 wadan	wad
 wadan	wadan
 wadan	wadaþ
@@ -45384,7 +44722,6 @@ wadan	wōden
 wadan	wōdon
 
 wadan	gewaden
-wadan	tō
 wadan	wad
 wadan	wadan
 wadan	wadaþ
@@ -45526,7 +44863,6 @@ wandeweorpe	wandeweorpena
 wandeweorpe	wandeweorpum
 
 wandian	gewandod
-wandian	tō
 wandian	wanda
 wandian	wandast
 wandian	wandaþ
@@ -45546,7 +44882,6 @@ wandian	wandodest
 wandian	wandodon
 
 wandrian	gewandrod
-wandrian	tō
 wandrian	wandra
 wandrian	wandrast
 wandrian	wandraþ
@@ -45651,7 +44986,6 @@ warenian	warnige
 warenian	warnodest
 
 warian	gewarod
-warian	tō
 warian	wara
 warian	warast
 warian	waraþ
@@ -45671,7 +45005,6 @@ warian	warodest
 warian	warodon
 
 warnian	gewarnod
-warnian	tō
 warnian	warna
 warnian	warnast
 warnian	warnaþ
@@ -45696,7 +45029,6 @@ waru	waru
 waru	warum
 
 wascan	gewascen
-wascan	tō
 wascan	wasc
 wascan	wascan
 wascan	wascaþ
@@ -45724,7 +45056,6 @@ wea	wēam
 wea	wēan
 wea	wēana
 
-wealcan	tō
 wealcan	wealc
 wealcan	wealcan
 wealcan	wealcaþ
@@ -45740,7 +45071,6 @@ wealcan	wēolcen
 wealcan	wēolcon
 
 wealcian	gewealcod
-wealcian	tō
 wealcian	wealca
 wealcian	wealcast
 wealcian	wealcaþ
@@ -45827,7 +45157,6 @@ weard	weardes
 weard	weardum
 
 weardian	geweardod
-weardian	tō
 weardian	wearda
 weardian	weardast
 weardian	weardaþ
@@ -45923,7 +45252,6 @@ weax	weaxe
 weax	weaxes
 
 weaxan	geweaxen
-weaxan	tō
 weaxan	weax
 weaxan	weaxan
 weaxan	weaxaþ
@@ -45959,7 +45287,6 @@ webbestre	webbestrum
 weccan	wecce
 
 weddian	geweddod
-weddian	tō
 weddian	wedda
 weddian	weddast
 weddian	weddaþ
@@ -46004,7 +45331,6 @@ wedlac	wedlāces
 wedlac	wedlācum
 
 wefan	gewefen
-wefan	tō
 wefan	wef
 wefan	wefan
 wefan	wefaþ
@@ -46025,7 +45351,6 @@ weg	wege
 weg	weges
 weg	wegum
 
-wegan	tō
 wegan	weg
 wegan	wegan
 wegan	wegaþ
@@ -46082,7 +45407,6 @@ welwilledness	welwillendnesse
 welwillende	welwyllendan
 
 weman	gewēmed
-weman	tō
 weman	wēm
 weman	wēman
 weman	wēmaþ
@@ -46103,7 +45427,6 @@ wen	wēne
 wen	wēnum
 
 wenan	gewēned
-wenan	tō
 wenan	wēn
 wenan	wēnan
 wenan	wēnaþ
@@ -46119,7 +45442,6 @@ wenan	wēnest
 wenan	wēneþ
 
 wendan	gewended
-wendan	tō
 wendan	wend
 wendan	wendan
 wendan	wendaþ
@@ -46154,7 +45476,6 @@ wendle	Ƿendle
 wendle	Ƿendlum
 
 wenian	gewenod
-wenian	tō
 wenian	wena
 wenian	wenast
 wenian	wenaþ
@@ -46216,7 +45537,6 @@ weoroldwela	woroldwelene
 weoroldwisdom	woruldwysdome
 
 weorpan	geworpen
-weorpan	tō
 weorpan	wearp
 weorpan	weorp
 weorpan	weorpan
@@ -46237,7 +45557,6 @@ weorþ	wyrð
 weorþ	wyrðe
 
 weorþan	geworden
-weorþan	tō
 weorþan	wearþ
 weorþan	weorþ
 weorþan	weorþan
@@ -46257,7 +45576,6 @@ weorþfull	wurðfullum
 weorþfulness	wurðfulnysse
 
 weorþian	geweorþod
-weorþian	tō
 weorþian	weorþa
 weorþian	weorþast
 weorþian	weorþaþ
@@ -46716,7 +46034,6 @@ widuwe	wuduwe
 widuwe	wydewe
 
 wieldan	gewielded
-wieldan	tō
 wieldan	wield
 wieldan	wieldan
 wieldan	wieldaþ
@@ -46776,7 +46093,6 @@ wifer	wifres
 wifer	wifrum
 
 wifian	gewīfod
-wifian	tō
 wifian	wīfa
 wifian	wīfast
 wifian	wīfaþ
@@ -46922,7 +46238,6 @@ wiglaf	Wiiglaf
 wiglaf	Wilaf
 
 wiglian	gewiglod
-wiglian	tō
 wiglian	wigla
 wiglian	wiglast
 wiglian	wiglaþ
@@ -46986,7 +46301,6 @@ willa	willan
 willa	willes
 willa	wyllan
 
-willan	tō
 willan	willan
 willan	willaþ
 willan	wille
@@ -46999,7 +46313,6 @@ willan	woldest
 willan	woldon
 
 willian	gewillod
-willian	tō
 willian	willa
 willian	willast
 willian	willaþ
@@ -47021,7 +46334,6 @@ willian	willodon
 wiln	wyln
 
 wilnian	gewilnod
-wilnian	tō
 wilnian	wilna
 wilnian	wilnast
 wilnian	wilnaþ
@@ -47079,7 +46391,6 @@ wind	windum
 wind	wyndas
 
 windan	gewunden
-windan	tō
 windan	wand
 windan	wind
 windan	windan
@@ -47094,7 +46405,6 @@ windan	wunden
 windan	wundon
 
 windan	gewunden
-windan	tō
 windan	wand
 windan	wind
 windan	windan
@@ -47120,7 +46430,6 @@ winestra	wynstran
 wingeard	wingeard
 wingeard	wingeardes
 
-winnan	tō
 winnan	wann
 winnan	winn
 winnan	winnan
@@ -47224,7 +46533,6 @@ wisdom	wīsdōmum
 wise	wysan
 
 wisian	gewīsod
-wisian	tō
 wisian	wīsa
 wisian	wīsast
 wisian	wīsaþ
@@ -47425,7 +46733,6 @@ wituma	witumena
 wituma	witumum
 
 wixlan	gewixled
-wixlan	tō
 wixlan	wixlan
 wixlan	wixlaþ
 wixlan	wixle
@@ -47505,7 +46812,6 @@ wiþbregdan	wiþbrugdon
 wiþbregdan	wiþbrægd
 
 wiþceosan	gewiþcoren
-wiþceosan	tō
 wiþceosan	wiþcoren
 wiþceosan	wiþcure
 wiþceosan	wiþcuren
@@ -47816,7 +47122,6 @@ wiþlædan	wiþlǣdenne
 wiþlædan	wiþlǣdest
 wiþlædan	wiþlǣdeþ
 
-wiþmetan	tō
 wiþmetan	wiþmet
 wiþmetan	wiþmetan
 wiþmetan	wiþmetaþ
@@ -47926,7 +47231,6 @@ wiþsacendlic	wiþsacendlīсu
 wiþsacendlic	wiþsacendlīсum
 
 wiþsecgan	gewiþsægd
-wiþsecgan	tō
 wiþsecgan	wiþsaga
 wiþsecgan	wiþsege
 wiþsecgan	wiþsegest
@@ -48096,7 +47400,6 @@ wlancian	wlancodest
 wlancian	wlancodon
 
 wlatian	gewlātod
-wlatian	tō
 wlatian	wlāta
 wlatian	wlātast
 wlatian	wlātaþ
@@ -48182,7 +47485,6 @@ wlisp	wlispre
 wlisp	wlispum
 
 wlitan	gewliten
-wlitan	tō
 wlitan	wlite
 wlitan	wliten
 wlitan	wliton
@@ -48438,7 +47740,6 @@ wraþ	wrāþre
 wraþ	wrāþum
 
 wrecan	gewrecen
-wrecan	tō
 wrecan	wrec
 wrecan	wrecan
 wrecan	wrecaþ
@@ -48453,7 +47754,6 @@ wrecan	wrǣcen
 wrecan	wrǣcon
 
 wrecan	gewrecen
-wrecan	tō
 wrecan	wrec
 wrecan	wrecan
 wrecan	wrecaþ
@@ -48542,7 +47842,6 @@ wrenna	wrennan
 wrenna	wrennena
 wrenna	wrennum
 
-wreon	tō
 wreon	wrige
 wreon	wrigen
 wreon	wrigon
@@ -48569,7 +47868,6 @@ wrid	wrides
 wrid	wridum
 
 wrigian	gewrīgod
-wrigian	tō
 wrigian	wrīga
 wrigian	wrīgast
 wrigian	wrīgaþ
@@ -48589,7 +47887,6 @@ wrigian	wrīgodest
 wrigian	wrīgodon
 
 wringan	gewrungen
-wringan	tō
 wringan	wrang
 wringan	wring
 wringan	wringan
@@ -48617,7 +47914,6 @@ writ	writes
 writ	writu
 writ	writum
 
-writan	tō
 writan	write
 writan	writen
 writan	writon
@@ -48632,7 +47928,6 @@ writan	wrītst
 writan	wrītt
 
 wrixlan	gewrixled
-wrixlan	tō
 wrixlan	wrixlan
 wrixlan	wrixlaþ
 wrixlan	wrixle
@@ -48647,7 +47942,6 @@ wrixlan	wrixlest
 wrixlan	wrixleþ
 
 wriþan	gewriden
-wriþan	tō
 wriþan	wride
 wriþan	wriden
 wriþan	wridon
@@ -49153,7 +48447,6 @@ wuna	wunum
 wund	wundum
 
 wundian	gewundod
-wundian	tō
 wundian	wunda
 wundian	wundast
 wundian	wundaþ
@@ -49212,7 +48505,6 @@ wundorlic	wundorlīсu,wundorlīсo
 wundorlic	wundorlīсum
 
 wundrian	gewundrod
-wundrian	tō
 wundrian	wundra
 wundrian	wundrast
 wundrian	wundraþ
@@ -49234,7 +48526,6 @@ wundrian	wundrodon
 wundrung	wundrunge
 
 wunian	gewunod
-wunian	tō
 wunian	wuna
 wunian	wunast
 wunian	wunaþ
@@ -49378,7 +48669,6 @@ wynsum	wynsumu
 wynsum	wynsumum
 
 wyrcan	geworht
-wyrcan	tō
 wyrcan	worhte
 wyrcan	worhten
 wyrcan	worhtest
@@ -49533,7 +48823,6 @@ wyrtruma	wyrtrumum
 wyrttruma	wyrtruman
 
 wyscan	gewȳsced
-wyscan	tō
 wyscan	wȳsc
 wyscan	wȳscan
 wyscan	wȳscaþ
@@ -49551,7 +48840,6 @@ wyscan	wȳscton
 wæcc	wæccan
 
 wæccan	gewæсed
-wæccan	tō
 wæccan	wæсe
 wæccan	wæсed
 wæccan	wæсede
@@ -49567,7 +48855,6 @@ wæccan	wæссen
 wæccan	wæссende
 
 wæcnan	gewæcen
-wæcnan	tō
 wæcnan	wæcen
 wæcnan	wæcn
 wæcnan	wæcnan
@@ -49619,7 +48906,6 @@ wæfersien	wæfersīene,wæfersīena
 wæfersien	wæfersīenum
 
 wæflian	gewæflod
-wæflian	tō
 wæflian	wæfla
 wæflian	wæflast
 wæflian	wæflaþ
@@ -49765,7 +49051,6 @@ wærloga	wǣrlogena
 wærloga	wǣrlogum
 
 wæscan	gewæscen
-wæscan	tō
 wæscan	wæsc
 wæscan	wæscan
 wæscan	wæscaþ
@@ -50195,7 +49480,6 @@ ymbhringan	ymbhringest
 ymbhringan	ymbhringeþ
 
 ymbhweorfan	geymbhworfen
-ymbhweorfan	tō
 ymbhweorfan	ymbhwearf
 ymbhweorfan	ymbhweorf
 ymbhweorfan	ymbhweorfan
@@ -50373,7 +49657,6 @@ ymbsniþan	ymbsnīþenne
 ymbsniþan	ymbsnīþest
 ymbsniþan	ymbsnīþeþ
 
-ymbstandan	tō
 ymbstandan	ymbstand
 ymbstandan	ymbstandan
 ymbstandan	ymbstandaþ
@@ -50493,7 +49776,6 @@ yþ	ȳþe
 yþ	ȳþum
 
 yþan	geȳþed
-yþan	tō
 yþan	ȳþ
 yþan	ȳþan
 yþan	ȳþaþ
@@ -50593,7 +49875,6 @@ zebedeus	Zebedeo
 æfgælþ	æfgælþum
 
 æfnan	geæfned
-æfnan	tō
 æfnan	æfnan
 æfnan	æfnaþ
 æfnan	æfne
@@ -50608,7 +49889,6 @@ zebedeus	Zebedeo
 æfnan	æfneþ
 
 æfnian	geǣfnod
-æfnian	tō
 æfnian	ǣfna
 æfnian	ǣfnast
 æfnian	ǣfnaþ
@@ -50785,7 +50065,6 @@ zebedeus	Zebedeo
 ælagol	ǣlagolum
 
 ælan	geǣled
-ælan	tō
 ælan	ǣl
 ælan	ǣlan
 ælan	ǣlaþ
@@ -50842,7 +50121,6 @@ zebedeus	Zebedeo
 æmette	ǣmettum
 
 æmtian	geǣmtod
-æmtian	tō
 æmtian	ǣmta
 æmtian	ǣmtast
 æmtian	ǣmtaþ
@@ -50886,7 +50164,6 @@ zebedeus	Zebedeo
 ænlic	ǣnlīсu
 ænlic	ǣnlīсum
 
-ænlæcan	tō
 ænlæcan	ǣnlǣht
 ænlæcan	ǣnlǣhte
 ænlæcan	ǣnlǣhten
@@ -50973,7 +50250,6 @@ zebedeus	Zebedeo
 ærendgewrit	ǣrendgewritum
 
 ærendian	geǣrendod
-ærendian	tō
 ærendian	ǣrenda
 ærendian	ǣrendast
 ærendian	ǣrendaþ
@@ -51067,7 +50343,6 @@ zebedeus	Zebedeo
 æsellend	ǣsellendum
 
 æswician	geǣswīcod
-æswician	tō
 æswician	ǣswīca
 æswician	ǣswīcast
 æswician	ǣswīcaþ
@@ -51090,7 +50365,6 @@ zebedeus	Zebedeo
 
 æt-nyhstan	æt.nehstan
 
-ætberan	tō
 ætberan	ætber
 ætberan	ætberan
 ætberan	ætberaþ
@@ -51264,7 +50538,6 @@ zebedeus	Zebedeo
 ætspringan	ætsprungon
 
 ætstandan	geætstanden
-ætstandan	tō
 ætstandan	ætstand
 ætstandan	ætstandan
 ætstandan	ætstandaþ
@@ -51294,7 +50567,6 @@ zebedeus	Zebedeo
 ættrig	ǣttrigum
 
 ætwindan	geætwunden
-ætwindan	tō
 ætwindan	ætwand
 ætwindan	ætwind
 ætwindan	ætwindan
@@ -51313,7 +50585,6 @@ zebedeus	Zebedeo
 ætywan	ætywed
 
 æwan	geǣwed
-æwan	tō
 æwan	ǣw
 æwan	ǣwan
 æwan	ǣwaþ
@@ -51345,7 +50616,6 @@ zebedeus	Zebedeo
 æwita	ǣwitum
 
 æwnian	geǣwnod
-æwnian	tō
 æwnian	ǣwna
 æwnian	ǣwnast
 æwnian	ǣwnaþ
@@ -51506,7 +50776,6 @@ zebedeus	Zebedeo
 þa	þa
 
 þaccian	geþaccod
-þaccian	tō
 þaccian	þacca
 þaccian	þaccast
 þaccian	þaccaþ
@@ -51526,7 +50795,6 @@ zebedeus	Zebedeo
 þaccian	þaccodon
 
 þafian	geþafod
-þafian	tō
 þafian	þafa
 þafian	þafast
 þafian	þafaþ
@@ -51563,7 +50831,6 @@ zebedeus	Zebedeo
 þancfull	þancful
 
 þancian	geþancod
-þancian	tō
 þancian	þanca
 þancian	þancast
 þancian	þancaþ
@@ -51587,7 +50854,6 @@ zebedeus	Zebedeo
 þaron	þaron
 
 þawian	geþawod
-þawian	tō
 þawian	þawa
 þawian	þawast
 þawian	þawaþ
@@ -51620,7 +50886,6 @@ zebedeus	Zebedeo
 þeahhwæðere	þeahhwæðre
 
 þeahtian	geþeahtod
-þeahtian	tō
 þeahtian	þeahta
 þeahtian	þeahtast
 þeahtian	þeahtaþ
@@ -51701,7 +50966,6 @@ zebedeus	Zebedeo
 þegenscip	ðegnscipe
 
 þegnian	geþegnod
-þegnian	tō
 þegnian	þegna
 þegnian	þegnast
 þegnian	þegnaþ
@@ -51723,7 +50987,6 @@ zebedeus	Zebedeo
 þegnung	þenunge
 
 þencan	geþōht
-þencan	tō
 þencan	þenс
 þencan	þenсan
 þencan	þenсaþ
@@ -51743,7 +51006,6 @@ zebedeus	Zebedeo
 þenest	þēnestum
 
 þenian	geþēnod
-þenian	tō
 þenian	þēna
 þenian	þēnast
 þenian	þēnaþ
@@ -51786,7 +51048,6 @@ zebedeus	Zebedeo
 þeod	þēodum
 
 þeodan	geþēoded
-þeodan	tō
 þeodan	þēod
 þeodan	þēodan
 þeodan	þēodaþ
@@ -51962,7 +51223,6 @@ zebedeus	Zebedeo
 þiccet	þiccettu
 þiccet	þiccettum
 
-þicgan	tō
 þicgan	þeah
 þicgan	þegen
 þicgan	þicgan
@@ -52041,7 +51301,6 @@ zebedeus	Zebedeo
 þingan	þingeþ
 
 þingian	geþingod
-þingian	tō
 þingian	þinga
 þingian	þingast
 þingian	þingaþ
@@ -52070,7 +51329,6 @@ zebedeus	Zebedeo
 þoden	þodenum
 
 þolian	geþolod
-þolian	tō
 þolian	þola
 þolian	þolast
 þolian	þolaþ
@@ -52116,7 +51374,6 @@ zebedeus	Zebedeo
 
 þoþor	ðoðor
 
-þrawan	tō
 þrawan	þrāw
 þrawan	þrāwan
 þrawan	þrāwaþ
@@ -52134,7 +51391,6 @@ zebedeus	Zebedeo
 þreagan	þreagean
 
 þreatian	geþrēatod
-þreatian	tō
 þreatian	þrēata
 þreatian	þrēatast
 þreatian	þrēataþ
@@ -52154,7 +51410,6 @@ zebedeus	Zebedeo
 þreatian	þrēatodon
 
 þrescan	geþroscen
-þrescan	tō
 þrescan	þresc
 þrescan	þrescan
 þrescan	þrescaþ
@@ -52186,7 +51441,6 @@ zebedeus	Zebedeo
 
 þrie	þrie
 
-þringan	tō
 þringan	þrang
 þringan	þring
 þringan	þringan
@@ -52251,7 +51505,6 @@ zebedeus	Zebedeo
 þrowend	þrōwendum
 
 þrowian	geþrowod
-þrowian	tō
 þrowian	þrowa
 þrowian	þrowast
 þrowian	þrowaþ
@@ -52271,7 +51524,6 @@ zebedeus	Zebedeo
 þrowian	þrowodon
 
 þryccan	geþryct
-þryccan	tō
 þryccan	þryccan
 þryccan	þryccaþ
 þryccan	þrycce
@@ -52300,7 +51552,6 @@ zebedeus	Zebedeo
 þrymm	þrymmum
 
 þrysmian	geþrysmod
-þrysmian	tō
 þrysmian	þrysma
 þrysmian	þrysmast
 þrysmian	þrysmaþ
@@ -52369,7 +51620,6 @@ zebedeus	Zebedeo
 þunwange	þunwangena
 þunwange	þunwangum
 
-þurfan	tō
 þurfan	þearf
 þurfan	þearft
 þurfan	þorfte
@@ -52882,7 +52132,6 @@ zebedeus	Zebedeo
 þweal	þweala
 þweal	þweale
 
-þwean	tō
 þwean	þwagen
 þwean	þwegende
 þwean	þweh
@@ -52960,7 +52209,6 @@ zebedeus	Zebedeo
 þyld	þyldes
 þyld	þyldum
 
-þyncan	tō
 þyncan	þynс
 þyncan	þynсan
 þyncan	þynсaþ
@@ -52994,7 +52242,6 @@ zebedeus	Zebedeo
 þyslic	þyllic
 
 þystrian	geþȳstrod
-þystrian	tō
 þystrian	þȳstra
 þystrian	þȳstrast
 þystrian	þȳstraþ
