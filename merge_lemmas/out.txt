@@ -33286,7 +33286,6 @@ nerian	nerien
 nerian	neriende
 nerian	nerige
 
-nesan	''unattested''
 nesan	generen,neren
 nesan	ne
 nesan	neart
@@ -38431,7 +38430,6 @@ seomian	seomoden
 seomian	seomodest
 seomian	seomodon
 
-seon	''unattested''
 seon	eart
 seon	eom
 seon	gesigen,gesiwen
