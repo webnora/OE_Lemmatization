@@ -1,5 +1,5 @@
 out/
-out_*.txt
+out_*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
