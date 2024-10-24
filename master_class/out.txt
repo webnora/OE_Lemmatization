@@ -1,0 +1,11865 @@
+
+hit -> hit
+wæs -> wesan
+geara -> gear
+iu -> None
+ðætte -> None
+gotan -> None
+eastan -> eastan
+
+of -> of
+sciððia -> None
+sceldas -> None
+læddon -> None
+
+þreate -> None
+geþrungon -> geþringan
+þeodlond -> None
+monig -> manig
+
+setton -> settan
+suðweardes -> None
+sigeþeoda -> None
+twa -> twegen
+
+gotena -> None
+rice -> romana
+gearmælum -> None
+weox -> None
+
+hæfdan -> None
+him -> him
+gecynde -> gecynd
+cyningas -> cyning
+twegen -> twegen
+
+rædgod -> None
+and -> and
+aleric -> None
+rice -> romana
+geþungon -> geþingan
+
+þa -> þu
+wæs -> wesan
+ofer -> ofer
+muntgiop -> None
+monig -> manig
+atyhted -> None
+
+gota -> None
+gylpes -> None
+full -> full
+guðe -> None
+gelysted -> None
+
+folcgewinnes -> None
+fana -> None
+hwearfode -> hwearfian
+
+scir -> scir
+on -> on
+sceafte -> None
+sceotend -> sceotend
+þohton -> None
+
+italia -> None
+ealle -> ealle
+gegongan -> None
+
+lindwigende -> None
+hi -> hi
+gelæstan -> None
+swua -> None
+
+efne -> efne
+from -> from
+muntgiop -> None
+oð -> oþ
+þone -> se
+mæran -> mære
+wearoð -> None
+
+þær -> þær
+sicilia -> None
+sæstreamum -> None
+in -> in
+
+eglond -> None
+micel -> micel
+eðel -> None
+mærsað -> None
+
+ða -> þe
+wæs -> wesan
+romana -> None
+rice -> romana
+gewunnen -> gewinnan
+
+abrocen -> None
+burga -> burh
+cyst -> cyst
+beadurincum -> None
+wæs -> wesan
+
+rom -> None
+gerymed -> None
+rædgot -> None
+and -> and
+aleric -> None
+
+foron -> None
+on -> on
+ðæt -> þæt
+fæsten -> fæsten
+fleah -> None
+casere -> casere
+
+mid -> mid
+þam -> þæm
+æþelingum -> None
+ut -> ut
+on -> on
+grecas -> None
+
+ne -> nesan
+meahte -> magan
+þa -> þu
+seo -> se
+wealaf -> None
+wige -> wigan
+forstandan -> forstandan
+
+gotan -> None
+mid -> mid
+guðe -> None
+giomonna -> None
+gestrion -> None
+
+sealdon -> sellan
+unwillum -> None
+eþelweardas -> None
+
+halige -> None
+aðas -> aþ
+wæs -> wesan
+gehwæðeres -> None
+waa -> None
+
+þeah -> þicgan
+wæs -> wesan
+magorinca -> None
+mod -> None
+mid -> mid
+grecum -> None
+
+gif -> gif
+hi -> hi
+leodfruman -> None
+læstan -> None
+dorsten -> durran
+
+stod -> None
+þrage -> None
+on -> on
+ðam -> ðam
+þeod -> None
+wæs -> wesan
+gewunnen -> gewinnan
+
+wintra -> wintra
+mænigo -> None
+oðþæt -> None
+wyrd -> wyrd
+gescraf -> None
+
+þæt -> þæt
+þe -> þu
+ðeodrice -> None
+þegnas -> þegen
+and -> and
+eorlas -> eorl
+
+heran -> None
+sceoldan -> None
+wæs -> wesan
+se -> se
+heretema -> None
+
+criste -> None
+gecnoden -> None
+cyning -> cyning
+selfa -> None
+onfeng -> None
+
+fulluhtþeawum -> None
+fægnodon -> None
+ealle -> ealle
+
+romwara -> None
+bearn -> beirnan
+and -> and
+him -> him
+recene -> recen
+to -> to
+
+friðes -> None
+wilnedon -> None
+he -> he
+him -> him
+fæste -> fæstan
+gehet -> None
+
+þæt -> þæt
+hy -> hi
+ealdrihta -> None
+ælces -> None
+mosten -> None
+
+wyrðe -> weorþ
+gewunigen -> gewunian
+on -> on
+þære -> þære
+welegan -> welig
+byrig -> burh
+
+ðenden -> None
+god -> god
+wuolde -> None
+þæt -> þæt
+he -> he
+gotena -> None
+geweald -> geweald
+
+agan -> aginnan
+moste -> None
+he -> he
+þæt -> þæt
+eall -> eall
+aleag -> None
+
+wæs -> wesan
+þæm -> þæm
+æþelinge -> None
+arrianes -> None
+
+gedwola -> None
+leofre -> None
+þonne -> þonne
+drihtnes -> drihten
+æ -> None
+
+het -> het
+iohannes -> None
+godne -> god
+papan -> papa
+
+heafde -> None
+beheawon -> None
+næs -> næs
+ðæt -> þæt
+hærlic -> None
+dæd -> None
+
+eac -> eac
+þam -> þæm
+wæs -> wesan
+unrim -> None
+oðres -> None
+manes -> None
+
+þæt -> þæt
+se -> se
+gota -> None
+fremede -> fremman
+godra -> god
+gehwilcum -> None
+
+ða -> þe
+wæs -> wesan
+ricra -> None
+sum -> sum
+on -> on
+rome -> None
+byrig -> burh
+
+ahefen -> None
+heretoga -> None
+hlaforde -> None
+leof -> None
+
+þenden -> None
+cynestole -> None
+creacas -> None
+wioldon -> None
+
+þæt -> þæt
+wæs -> wesan
+rihtwis -> None
+rinc -> rinc
+næs -> næs
+mid -> mid
+romwarum -> None
+
+sincgeofa -> None
+sella -> None
+siððan -> siððan
+longe -> lange
+
+he -> he
+wæs -> wesan
+for -> for
+weorulde -> None
+wis -> None
+weorðmynða -> None
+georn -> georn
+
+beorn -> beornan
+boca -> None
+gleaw -> None
+boitius -> None
+
+se -> se
+hæle -> hæle
+hatte -> None
+se -> se
+þone -> se
+hlisan -> hlisa
+geþah -> None
+
+wæs -> wesan
+him -> him
+on -> on
+gemynde -> gemynd
+mæla -> None
+gehwilce -> None
+
+yfel -> yfel
+and -> and
+edwit -> None
+þæt -> þæt
+him -> him
+elðeodge -> None
+
+kyningas -> kyning
+cyðdon -> None
+wæs -> wesan
+on -> on
+greacas -> None
+hold -> None
+
+gemunde -> gemunan
+þara -> þær
+ara -> ar
+and -> and
+ealdrihta -> None
+
+þe -> þu
+his -> hit
+eldran -> None
+mid -> mid
+him -> him
+ahton -> None
+longe -> lange
+
+lufan -> lufu
+and -> and
+lissa -> None
+angan -> None
+þa -> þu
+listum -> list
+ymbe -> ymbe
+
+ðencean -> None
+þearflice -> None
+hu -> hu
+he -> he
+ðider -> þider
+meahte -> magan
+
+crecas -> None
+oncerran -> None
+þæt -> þæt
+se -> se
+casere -> casere
+eft -> eft
+
+anwald -> anweald
+ofer -> ofer
+hi -> hi
+agan -> aginnan
+moste -> None
+
+sende -> sendan
+ærendgewrit -> None
+ealdhlafordum -> None
+
+degelice -> None
+and -> and
+hi -> hi
+for -> for
+drihtne -> drihten
+bæd -> biddan
+
+ealdum -> eald
+treowum -> treow
+ðæt -> þæt
+hi -> hi
+æft -> None
+to -> to
+him -> him
+
+comen -> None
+on -> on
+þa -> þu
+ceastre -> ceaster
+lete -> lettan
+greca -> None
+witan -> witan
+
+rædan -> None
+romwarum -> None
+rihtes -> None
+wyrðe -> weorþ
+
+lete -> lettan
+þone -> se
+leodscipe -> None
+ða -> þe
+þa -> þu
+lare -> lar
+ongeat -> ongitan
+
+ðeodric -> None
+amuling -> None
+and -> and
+þone -> se
+þegn -> None
+oferfeng -> None
+
+heht -> hatan
+fæstlice -> None
+folcgesiðas -> None
+
+healdon -> None
+þone -> se
+hererinc -> None
+wæs -> wesan
+him -> him
+hreoh -> None
+sefa -> None
+
+ege -> ege
+from -> from
+ðam -> ðam
+eorle -> None
+he -> he
+hine -> he
+inne -> inne
+heht -> hatan
+
+on -> on
+carcernes -> carcern
+cluster -> None
+belucan -> None
+
+þa -> þu
+wæs -> wesan
+modsefa -> None
+miclum -> micel
+gedrefed -> gedrefan
+
+boetius -> None
+breac -> None
+longe -> lange
+ær -> ær
+
+wlencea -> None
+under -> under
+wolcnum -> wolcen
+he -> he
+þy -> þy
+wyrs -> None
+meahte -> magan
+
+þolian -> þolian
+þa -> þu
+þrage -> None
+þa -> þu
+hio -> None
+swa -> swa
+þearl -> None
+becom -> becuman
+
+wæs -> wesan
+þa -> þu
+ormod -> None
+eorl -> eorl
+are -> ar
+ne -> nesan
+wende -> wendan
+
+ne -> nesan
+on -> on
+þam -> þæm
+fæstene -> fæsten
+frofre -> None
+gemunde -> gemunan
+
+ac -> acan
+he -> he
+neowol -> None
+astreaht -> None
+niðer -> None
+of -> of
+dune -> None
+
+feol -> None
+on -> on
+þa -> þu
+flore -> None
+fela -> fela
+worda -> word
+spræc -> sprecan
+
+forþoht -> None
+ðearle -> None
+ne -> nesan
+wende -> wendan
+þonan -> þanan
+æfre -> æfre
+
+cuman -> cuman
+of -> of
+ðæm -> þæm
+clammum -> None
+cleopode -> cleopian
+to -> to
+drihtne -> drihten
+
+geomran -> None
+stemne -> stefn
+gyddode -> None
+þus -> þus
+: -> None
+## -> None
+gif -> gif
+nu -> nu
+hæleða -> None
+hwone -> hwæt
+hlisan -> hlisa
+lyste -> None
+
+unnytne -> None
+gelp -> gelpan
+agan -> aginnan
+wille -> willan
+
+þonne -> þonne
+ic -> ic
+hine -> he
+wolde -> willan
+wordum -> word
+biddan -> biddan
+
+þæt -> þæt
+he -> he
+hine -> he
+æghwonon -> None
+utan -> utan
+ymbeþohte -> None
+
+sweotole -> sweotol
+ymbsawe -> None
+suð -> suþ
+east -> None
+and -> and
+west -> west
+
+hu -> hu
+widgil -> None
+sint -> wesan
+wolcnum -> wolcen
+ymbutan -> ymbutan
+
+heofones -> heofon
+hwealfe -> hwealf
+higesnotrum -> None
+mæg -> mæg
+
+eaðe -> None
+ðincan -> None
+þæt -> þæt
+þeos -> þes
+eorðe -> eorþ
+sie -> wesan
+
+eall -> eall
+for -> for
+ðæt -> þæt
+oðer -> oðer
+unigmet -> None
+lytel -> None
+
+þeah -> þicgan
+hio -> None
+unwisum -> unwis
+widgel -> None
+þince -> None
+
+on -> on
+stede -> stede
+stronglic -> None
+steorleasum -> None
+men -> mann
+
+þeah -> þicgan
+mæg -> mæg
+þone -> se
+wisan -> None
+on -> on
+gewitlocan -> None
+
+þære -> þære
+gitsunge -> gitsung
+gelpes -> None
+scamian -> scamian
+
+ðonne -> þonne
+hine -> he
+þæs -> se
+hlisan -> hlisa
+heardost -> None
+lysteð -> None
+
+and -> and
+he -> he
+þeah -> þicgan
+ne -> nesan
+mæg -> mæg
+þone -> se
+tobredan -> None
+
+ofer -> ofer
+ðas -> þes
+nearowan -> None
+nænige -> None
+ðinga -> None
+
+eorðan -> eorþ
+sceatas -> None
+is -> wesan
+ðæt -> þæt
+unnet -> None
+gelp -> gelpan
+! -> None
+
+eala -> eala
+ofermodan -> None
+hwi -> hwy
+eow -> ge
+a -> hosp
+lyste -> None
+
+mid -> mid
+eowrum -> eower
+swiran -> None
+selfra -> None
+willum -> None
+
+þæt -> þæt
+swære -> None
+gioc -> None
+symle -> simble
+underlutan -> None
+
+hwy -> None
+ge -> ge
+ymb -> ymb
+ðæt -> þæt
+unnet -> None
+ealnig -> None
+swincen -> swincan
+
+þæt -> þæt
+ge -> ge
+þone -> se
+hlisan -> hlisa
+habban -> habban
+tiliað -> None
+
+ofer -> ofer
+ðioda -> None
+ma -> micel
+þonne -> þonne
+eow -> ge
+þearf -> þurfan
+sie -> wesan
+
+þeah -> þicgan
+eow -> ge
+nu -> nu
+gesæle -> None
+þæt -> þæt
+eow -> ge
+suð -> suþ
+oððe -> oððe
+norð -> None
+
+þa -> þu
+ytmestan -> None
+eorðbuende -> None
+
+on -> on
+monig -> manig
+ðiodisc -> None
+miclum -> micel
+herien -> herian
+
+ðeah -> þeah
+hwa -> hwa
+æðele -> æðele
+sie -> wesan
+eorlgebyrdum -> None
+
+welum -> wela
+geweorðad -> None
+and -> and
+on -> on
+wlencum -> wlencu
+ðio -> None
+
+duguðum -> None
+diore -> None
+deað -> None
+þæs -> se
+ne -> nesan
+scrifeð -> None
+
+þonne -> þonne
+him -> him
+rum -> None
+forlæt -> None
+rodora -> rodor
+waldend -> None
+
+ac -> acan
+he -> he
+þone -> se
+welegan -> welig
+wædlum -> wædla
+gelice -> gelice
+
+efnmærne -> None
+gedeð -> None
+ælces -> None
+þinges -> þing
+
+hwær -> hwær
+sint -> wesan
+nu -> nu
+þæs -> se
+wisan -> None
+welandes -> None
+ban -> ban
+
+þæs -> se
+goldsmiðes -> None
+þe -> þu
+wæs -> wesan
+geo -> None
+mærost -> None
+
+forþy -> None
+ic -> ic
+cwæð -> cweðan
+þæs -> se
+wisan -> None
+welandes -> None
+ban -> ban
+
+forðy -> forði
+ængum -> None
+ne -> nesan
+mæg -> mæg
+eorðbuendra -> None
+
+se -> se
+cræft -> cræft
+losian -> losian
+þe -> þu
+him -> him
+crist -> None
+onlænð -> None
+
+ne -> nesan
+mæg -> mæg
+mon -> mann
+æfre -> æfre
+þy -> þy
+eð -> None
+ænne -> an
+wræccan -> None
+
+his -> hit
+cræftes -> cræft
+beniman -> beniman
+þe -> þu
+mon -> mann
+oncerran -> None
+mæg -> mæg
+
+sunnan -> sunne
+onswifan -> None
+and -> and
+ðisne -> þes
+swiftan -> None
+rodor -> rodor
+
+of -> of
+his -> hit
+rihtryne -> None
+rinca -> rinc
+ænig -> ænig
+
+hwa -> hwa
+wat -> witan
+nu -> nu
+þæs -> se
+wisan -> None
+welandes -> None
+ban -> ban
+
+on -> on
+hwelcum -> hwelca
+hi -> hi
+hlæwa -> None
+hrusan -> hruse
+þeccen -> None
+
+hwær -> hwær
+is -> wesan
+nu -> nu
+se -> se
+rica -> ric
+romana -> None
+wita -> wite
+
+and -> and
+se -> se
+aroda -> None
+þe -> þu
+we -> we
+ymb -> ymb
+sprecað -> None
+
+hiora -> hira
+heretoga -> None
+se -> se
+gehaten -> gehatan
+wæs -> wesan
+
+mid -> mid
+þæm -> þæm
+burgwarum -> burhware
+brutus -> None
+nemned -> None
+
+hwær -> hwær
+is -> wesan
+eac -> eac
+se -> se
+wisa -> None
+and -> and
+se -> se
+weorðgeorna -> None
+
+and -> and
+se -> se
+fæstræda -> None
+folces -> folc
+hyrde -> hyrdan
+
+se -> se
+wæs -> wesan
+uðwita -> None
+ælces -> None
+ðinges -> None
+
+cene -> cennan
+and -> and
+cræftig -> cræftig
+ðæm -> þæm
+wæs -> wesan
+caton -> None
+nama -> nama
+
+hi -> hi
+wæron -> wesan
+gefyrn -> gefyrn
+forðgewitene -> None
+
+nat -> None
+nænig -> None
+mon -> mann
+hwær -> hwær
+hi -> hi
+nu -> nu
+sindon -> None
+
+hwæt -> hwæt#2
+is -> wesan
+hiora -> hira
+here -> herian
+buton -> butan
+se -> se
+hlisa -> hlisa
+an -> on
+
+se -> se
+is -> wesan
+eac -> eac
+to -> to
+lytel -> None
+swelcra -> None
+lariowa -> None
+
+forðæm -> None
+þa -> þu
+magorincas -> None
+maran -> micel
+wyrðe -> weorþ
+
+wæron -> wesan
+on -> on
+worulde -> weorold
+ac -> acan
+hit -> hit
+is -> wesan
+wyrse -> None
+nu -> nu
+
+þæt -> þæt
+geond -> geond
+þas -> þes
+eorðan -> eorþ
+æghwær -> None
+sindon -> None
+
+hiora -> hira
+gelican -> gelica
+hwon -> hwon
+ymbspræce -> None
+
+sume -> sum
+openlice -> openlice
+ealle -> ealle
+forgitene -> None
+
+þæt -> þæt
+hi -> hi
+se -> se
+hlisa -> hlisa
+hiwcuðe -> None
+ne -> nesan
+mæg -> mæg
+
+foremære -> None
+weras -> wer
+forð -> forþ
+gebrengan -> None
+
+þeah -> þicgan
+ge -> ge
+nu -> nu
+wenen -> None
+and -> and
+wilnigen -> wilnian
+
+þæt -> þæt
+ge -> ge
+lange -> lange
+tid -> tid
+libban -> libban
+moten -> None
+
+hwæt -> hwæt#2
+iow -> None
+æfre -> æfre
+þy -> þy
+bet -> wel
+bio -> None
+oððe -> oððe
+þince -> None
+
+forðæm -> None
+þe -> þu
+nane -> nan
+forlet -> None
+þeah -> þicgan
+hit -> hit
+lang -> lang
+ðince -> None
+
+deað -> None
+æfter -> æfter
+dogorrime -> None
+þonne -> þonne
+he -> he
+hæfð -> None
+drihtnes -> drihten
+leafe -> leaf
+
+hwæt -> hwæt#2
+þonne -> þonne
+hæbbe -> habban
+hæleþa -> hæle
+ænig -> ænig
+
+guma -> guma
+æt -> æt
+þæm -> þæm
+gilpe -> None
+gif -> gif
+hine -> he
+gegripan -> None
+mot -> None
+
+se -> se
+eca -> None
+deað -> None
+æfter -> æfter
+þissum -> þes
+worulde -> weorold
+## -> None
+an -> on
+sceppend -> None
+is -> wesan
+butan -> butan
+ælcum -> ælc
+tweon -> None
+
+se -> se
+is -> wesan
+eac -> eac
+wealdend -> wealdend
+woruldgesceafta -> None
+
+heofones -> heofon
+and -> and
+eorðan -> eorþ
+and -> and
+heare -> None
+sæ -> sæ
+
+and -> and
+ealra -> eal
+þara -> þær
+þe -> þu
+ðær -> þær
+in -> in
+wuniað -> None
+
+ungesæwenlicra -> None
+and -> and
+eac -> eac
+swa -> swa
+same -> same
+
+ðara -> se
+ðe -> þu
+we -> we
+eagum -> None
+on -> on
+lociað -> None
+
+ealra -> eal
+gesceafta -> None
+se -> se
+is -> wesan
+ælmihtig -> None
+
+þæm -> þæm
+oleccað -> None
+ealle -> ealle
+gesceafte -> None
+
+þe -> þu
+þæs -> se
+ambehtes -> None
+awuht -> None
+cunnon -> cunnan
+
+ge -> ge
+eac -> eac
+swa -> swa
+same -> same
+þa -> þu
+ðæs -> se
+auht -> None
+nyton -> nytan
+
+þæt -> þæt
+hi -> hi
+þæs -> se
+ðeodnes -> None
+þeowas -> None
+sindon -> None
+
+se -> se
+us -> we
+gesette -> gesette
+sido -> None
+and -> and
+þeawas -> None
+
+eallum -> eall
+gesceaftum -> None
+unawendende -> None
+
+singallice -> None
+sibbe -> sibb
+gecynde -> gecynd
+
+þa -> þu
+þa -> þu
+he -> he
+wolde -> willan
+þæt -> þæt
+þæt -> þæt
+he -> he
+wolde -> willan
+
+swa -> swa
+lange -> lange
+swa -> swa
+he -> he
+wolde -> willan
+þæt -> þæt
+hit -> hit
+wesan -> wesan
+sceolde -> sculan
+
+swa -> swa
+hit -> hit
+eac -> eac
+to -> to
+worulde -> weorold
+sceal -> sculan
+wunian -> wunian
+forð -> forþ
+
+forþæm -> forðam
+æfre -> æfre
+ne -> nesan
+magon -> magan
+þa -> þu
+unstillan -> None
+
+woruldgesceafta -> None
+weorðan -> None
+gestilde -> None
+
+of -> of
+ðæm -> þæm
+ryne -> ryne
+onwend -> onwendan
+ðe -> þu
+him -> him
+rodera -> None
+weard -> weard
+
+endebyrdes -> None
+eallum -> eall
+gesette -> gesette
+
+hæfð -> None
+se -> se
+alwealda -> None
+ealle -> ealle
+gesceafta -> None
+
+gebæt -> None
+mid -> mid
+his -> hit
+bridle -> None
+hafað -> None
+butu -> butu
+gedon -> gedon
+
+ealle -> ealle
+gemanode -> None
+and -> and
+eac -> eac
+getogen -> geteon
+
+þæt -> þæt
+hi -> hi
+ne -> nesan
+moten -> None
+ofer -> ofer
+metodes -> metod
+est -> None
+
+æfre -> æfre
+gestillan -> gestillan
+ne -> nesan
+eft -> eft
+eallunga -> None
+
+swiðor -> swiðe
+stirian -> None
+þonne -> þonne
+him -> him
+sigora -> sigorian
+weard -> weard
+
+his -> hit
+gewealdleðer -> None
+wille -> willan
+onlæten -> None
+
+he -> he
+hafað -> None
+þe -> þu
+bridle -> None
+butu -> butu
+befangen -> befon
+
+heofon -> heofon
+and -> and
+eorðan -> eorþ
+and -> and
+eall -> eall
+holma -> holm
+begong -> begong
+
+swa -> swa
+hæfð -> None
+geheaðærod -> None
+hefonrices -> None
+weard -> weard
+
+mid -> mid
+his -> hit
+anwealde -> anweald
+ealle -> ealle
+gesceafta -> None
+
+þæt -> þæt
+hiora -> hira
+æghwilc -> None
+wið -> wiþ
+oðer -> oðer
+winð -> None
+
+and -> and
+þeah -> þicgan
+winnende -> winnan
+wreðiað -> None
+fæste -> fæstan
+
+æghwilc -> None
+oðer -> oðer
+utan -> utan
+ymbclyppeð -> None
+
+þy -> þy
+læs -> læs
+hi -> hi
+toswifen -> None
+forðæm -> None
+hi -> hi
+symle -> simble
+sculon -> sculan
+
+ðone -> se
+ilcan -> ilca
+ryne -> ryne
+eft -> eft
+gecyrran -> gecyrran
+
+þe -> þu
+æt -> æt
+frymðe -> frymþ
+fæder -> fæder
+getiode -> None
+
+and -> and
+swa -> swa
+edniwe -> None
+eft -> eft
+gewiorðan -> None
+
+swa -> swa
+hit -> hit
+nu -> nu
+fagað -> None
+frean -> None
+ealdgeweorc -> None
+
+þætte -> se
+winnende -> winnan
+wiðerweard -> wiþerweard
+gesceaft -> None
+
+fæste -> fæstan
+sibbe -> sibb
+forð -> forþ
+anhealdað -> None
+
+swa -> swa
+nu -> nu
+fyr -> fyr
+and -> and
+wæter -> wæter
+folde -> folde
+and -> and
+lagustream -> None
+
+manigu -> None
+oðru -> oðer
+gesceaft -> None
+efnswiðe -> None
+him -> him
+
+giond -> None
+þas -> þes
+widan -> None
+worulde -> weorold
+winnað -> None
+betweox -> betweoh
+him -> him
+
+and -> and
+swa -> swa
+þeah -> þicgan
+magon -> magan
+hiora -> hira
+þegnunga -> None
+
+and -> and
+geferscipe -> None
+fæste -> fæstan
+gehealdan -> gehealdan
+
+nis -> nesan
+hit -> hit
+no -> None
+þæt -> þæt
+an -> on
+þæt -> þæt
+swa -> swa
+eaðe -> None
+mæg -> mæg
+
+wiðerweard -> wiþerweard
+gesceaft -> None
+wesan -> wesan
+ætgædere -> ætgædere
+
+symbel -> None
+geferan -> gefera
+ac -> acan
+hit -> hit
+is -> wesan
+sellicre -> None
+
+þæt -> þæt
+hiora -> hira
+ænig -> ænig
+ne -> nesan
+mæg -> mæg
+butan -> butan
+oþrum -> oþrum
+bion -> None
+
+ac -> acan
+sceal -> sculan
+wuhta -> None
+gehwilc -> None
+wiðerweardes -> None
+hwæthwugu -> None
+
+habban -> habban
+under -> under
+heofonum -> heofon
+þæt -> þæt
+his -> hit
+hige -> None
+durre -> durran
+
+gemetgian -> None
+ær -> ær
+hit -> hit
+to -> to
+micel -> micel
+weorðe -> None
+
+hæfð -> None
+se -> se
+ælmihtiga -> eallmihtig
+eallum -> eall
+gesceaftum -> None
+
+ðæt -> þæt
+gewrixle -> None
+geset -> gesettan
+þe -> þu
+nu -> nu
+wunian -> wunian
+sceal -> sculan
+
+wyrta -> wyrtian
+growan -> None
+leaf -> leaf
+grenian -> None
+
+þæt -> þæt
+on -> on
+hærfest -> hærfest
+eft -> eft
+hrest -> None
+and -> and
+wealuwað -> None
+
+winter -> winter
+bringeð -> None
+weder -> weder
+ungemet -> None
+cald -> None
+
+swifte -> None
+windas -> wind
+sumor -> sumer
+æfter -> æfter
+cymeð -> None
+
+wearm -> wearm
+gewideru -> None
+hwæt -> hwæt#2
+þa -> þu
+wonnan -> None
+niht -> niht
+
+mona -> mona
+onlihteð -> None
+oððæt -> None
+monnum -> mann
+dæg -> dæg
+
+sunne -> sunne
+bringeð -> None
+giond -> None
+þas -> þes
+sidan -> None
+gesceaft -> None
+
+hæfð -> None
+se -> se
+ilca -> ilca
+god -> god
+eorðan -> eorþ
+and -> and
+wætere -> wæter
+
+mearce -> mearc
+gesette -> gesette
+merestream -> None
+ne -> nesan
+dear -> durran
+
+ofer -> ofer
+eorðan -> eorþ
+sceat -> None
+eard -> None
+gebrædan -> None
+
+fisca -> fiscian
+cynne -> cynn
+butan -> butan
+frean -> None
+leafe -> leaf
+
+ne -> nesan
+hio -> None
+æfre -> æfre
+ne -> nesan
+mot -> None
+eorðan -> eorþ
+þyrscwold -> None
+
+up -> up
+ofersteppan -> ofersteppan
+ne -> nesan
+ða -> þe
+ebban -> None
+þon -> þon
+ma -> micel
+
+foldes -> None
+mearce -> mearc
+oferfaran -> oferfaran
+moton -> None
+
+þa -> þu
+gesetnessa -> gesetnes
+sigora -> sigorian
+wealdend -> wealdend
+
+lifes -> lifes
+leohtfruma -> None
+læt -> læt
+þenden -> None
+he -> he
+wile -> wil
+
+geond -> geond
+þas -> þes
+mæran -> mære
+gesceaft -> None
+mearce -> mearc
+healden -> healdan
+
+ac -> acan
+þonne -> þonne
+se -> se
+eca -> None
+and -> and
+se -> se
+ælmihtiga -> eallmihtig
+
+þa -> þu
+gewealdleðeru -> None
+wile -> wil
+onlætan -> None
+
+efne -> efne
+þara -> þær
+bridla -> None
+þe -> þu
+he -> he
+gebætte -> None
+mid -> mid
+
+his -> hit
+agen -> ongeagn
+weorc -> weorc
+eall -> eall
+æt -> æt
+frymðe -> frymþ
+
+( -> None
+þæt -> þæt
+is -> wesan
+wiðerweardnes -> None
+wuhte -> None
+gehwelcre -> None
+
+þe -> þu
+we -> we
+mid -> mid
+þæm -> þæm
+bridle -> None
+becnan -> None
+tiliað -> None
+) -> None
+
+gif -> gif
+se -> se
+ðioden -> None
+læt -> læt
+þa -> þu
+toslupan -> None
+
+sona -> sona
+hi -> hi
+forlætað -> None
+lufan -> lufu
+and -> and
+sibbe -> sibb
+
+ðæs -> se
+geferscipes -> None
+freondrædenne -> None
+
+tilaþ -> tilian
+anra -> an
+gehwilc -> None
+agnes -> None
+willan -> willan
+
+woruldgesceafta -> None
+winnað -> None
+betweox -> betweoh
+him -> him
+
+oððæt -> None
+ðios -> None
+eorðe -> eorþ
+eall -> eall
+forweorðeð -> None
+
+and -> and
+eac -> eac
+swa -> swa
+same -> same
+oðra -> oðer
+gesceafta -> None
+
+weorðað -> None
+him -> him
+selfe -> self
+siððan -> siððan
+to -> to
+nauhte -> None
+
+ac -> acan
+se -> se
+ilca -> ilca
+god -> god
+se -> se
+þæt -> þæt
+eall -> eall
+metgað -> None
+
+se -> se
+gefehð -> None
+fela -> fela
+folca -> folc
+tosomne -> tosamne
+
+and -> and
+mid -> mid
+freondscipe -> freondscipe
+fæste -> fæstan
+gegadrað -> None
+
+gesamnað -> None
+sinscipas -> None
+sibbe -> sibb
+gemengeð -> None
+
+clænlice -> None
+lufe -> lufu
+swa -> swa
+se -> se
+cræftga -> cræftig
+eac -> eac
+
+geferscipas -> None
+fæste -> fæstan
+gesamnað -> None
+
+þæt -> þæt
+hi -> hi
+hiora -> hira
+freondscipe -> freondscipe
+forð -> forþ
+on -> on
+symbel -> None
+
+untweofealde -> None
+treowa -> treow
+gehealdað -> None
+
+sibbe -> sibb
+samrade -> None
+eala -> eala
+sigora -> sigorian
+god -> god
+
+wære -> wære
+þis -> þes
+moncyn -> None
+miclum -> micel
+gesælig -> None
+
+gif -> gif
+hiora -> hira
+modsefa -> None
+meahte -> magan
+weorðan -> None
+
+staðolfæst -> None
+gereaht -> None
+þurh -> þurh
+þa -> þu
+strongan -> None
+meaht -> magan
+
+and -> and
+geendebyrd -> None
+swa -> swa
+swa -> swa
+oðra -> oðer
+sint -> wesan
+
+woruldgesceafta -> None
+wære -> wære
+hit -> hit
+la -> la
+þonne -> þonne
+
+murge -> None
+mid -> mid
+monnum -> mann
+gif -> gif
+hit -> hit
+meahte -> magan
+swa -> swa
+## -> None
+se -> se
+þe -> þu
+wille -> willan
+wyrcan -> None
+wæstmbære -> None
+lond -> land
+
+atio -> None
+of -> of
+ðæm -> þæm
+æcere -> æcer
+ærest -> ærest
+sona -> sona
+
+fearn -> fearn
+and -> and
+þornas -> þorn
+and -> and
+fyrsas -> None
+swa -> swa
+same -> same
+
+wiod -> None
+þa -> þu
+þe -> þu
+willað -> None
+welhwær -> welhwær
+derian -> derian
+
+clænum -> None
+hwæte -> hwæte
+þy -> þy
+læs -> læs
+he -> he
+ciða -> None
+leas -> None
+
+licge -> licgan
+on -> on
+ðæm -> þæm
+lande -> land
+is -> wesan
+leoda -> None
+gehwæm -> None
+
+ðios -> None
+oðru -> oðer
+bysen -> None
+efnbehefu -> None
+
+þæt -> þæt
+is -> wesan
+þætte -> se
+ðynceð -> None
+þegna -> þegnian
+gehwelcum -> None
+
+huniges -> None
+bibread -> None
+healfe -> healf
+þy -> þy
+swetre -> None
+
+gif -> gif
+he -> he
+hwene -> hwene
+ær -> ær
+huniges -> None
+teare -> None
+
+bitres -> biter
+onbyrgeð -> None
+bið -> None
+eac -> eac
+swa -> swa
+same -> same
+
+monna -> mann
+æghwilc -> None
+micle -> micel
+þy -> þy
+fægenra -> fægen
+
+liðes -> None
+weðres -> None
+gif -> gif
+hine -> he
+lytle -> None
+ær -> ær
+
+stormas -> None
+gestondað -> None
+and -> and
+se -> se
+stearca -> None
+wind -> windan
+
+norðan -> norþan
+and -> and
+eastan -> eastan
+nænegum -> nænig
+þuhte -> None
+
+dæg -> dæg
+on -> on
+þonce -> None
+gif -> gif
+sio -> se
+dimme -> None
+niht -> niht
+
+ær -> ær
+ofer -> ofer
+eldum -> None
+egesan -> None
+ne -> nesan
+brohte -> None
+
+swa -> swa
+þincð -> None
+anra -> an
+gehwæm -> None
+eorðbuendra -> None
+
+sio -> se
+soðe -> None
+gesælð -> None
+symle -> simble
+ðe -> þu
+betere -> god
+
+and -> and
+þy -> þy
+wynsumre -> wynsum
+þe -> þu
+he -> he
+wita -> wite
+ma -> micel
+
+heardra -> heard
+henða -> None
+her -> her
+adreogeð -> None
+
+þu -> þu
+meaht -> magan
+eac -> eac
+mycle -> None
+þy -> þy
+eð -> None
+on -> on
+modsefan -> None
+
+soða -> None
+gesælða -> None
+sweotolor -> None
+gecnawan -> None
+
+and -> and
+to -> to
+heora -> hira
+cyððe -> cyþ
+becuman -> becuman
+siððan -> siððan
+
+gif -> gif
+þu -> þu
+up -> up
+atyhsð -> None
+ærest -> ærest
+sona -> sona
+
+and -> and
+ðu -> þu
+awyrtwalast -> None
+of -> of
+gewitlocan -> None
+
+leasa -> None
+gesælða -> None
+swa -> swa
+swa -> swa
+londes -> land
+ceorl -> None
+
+of -> of
+his -> hit
+æcere -> æcer
+lycð -> None
+yfel -> yfel
+weod -> None
+monig -> manig
+
+siððan -> siððan
+ic -> ic
+ðe -> þu
+secge -> secg
+þæt -> þæt
+þu -> þu
+sweotole -> sweotol
+meaht -> magan
+
+soða -> None
+gesælða -> None
+sona -> sona
+oncnawan -> oncnawan
+
+and -> and
+þu -> þu
+æfre -> æfre
+ne -> nesan
+recst -> recan
+æniges -> ænig
+ðinges -> None
+
+ofer -> ofer
+þa -> þu
+ane -> an
+gif -> gif
+þu -> þu
+hi -> hi
+ealles -> eall
+ongitst -> None
+## -> None
+ic -> ic
+wille -> willan
+mid -> mid
+giddum -> None
+get -> None
+gecyðan -> gecyðan
+
+hu -> hu
+se -> se
+ælmihtga -> None
+ealla -> eall
+gesceafta -> None
+
+bryrð -> None
+mid -> mid
+his -> hit
+bridlum -> None
+begð -> None
+ðider -> þider
+he -> he
+wile -> wil
+
+mid -> mid
+his -> hit
+anwalde -> None
+ge -> ge
+endebyrd -> None
+
+wundorlice -> None
+wel -> wel
+gemetgað -> None
+
+hafað -> None
+swa -> swa
+geheaðorad -> None
+heofona -> heofon
+wealdend -> wealdend
+
+utan -> utan
+befangen -> befon
+ealla -> eall
+gesceafta -> None
+
+geræped -> None
+mid -> mid
+his -> hit
+racentan -> racente
+þæt -> þæt
+hi -> hi
+aredian -> None
+ne -> nesan
+magon -> magan
+
+þæt -> þæt
+hi -> hi
+hi -> hi
+æfre -> æfre
+him -> him
+of -> of
+aslepen -> None
+
+and -> and
+þeah -> þicgan
+wuhta -> None
+gehwilc -> None
+wrigað -> None
+toheald -> None
+
+sidra -> None
+gesceafta -> None
+swiðe -> swiðe
+onhelded -> None
+
+wið -> wiþ
+þæs -> se
+gecyndes -> gecynd
+þe -> þu
+him -> him
+cyning -> cyning
+engla -> engel
+
+fæder -> fæder
+æt -> æt
+frymðe -> frymþ
+fæste -> fæstan
+getiode -> None
+
+swa -> swa
+nu -> nu
+þinga -> þingian
+gehwilc -> None
+ðiderweard -> None
+fundað -> None
+
+sidra -> None
+gesceafta -> None
+buton -> butan
+sumum -> sum
+englum -> engel
+
+and -> and
+moncynne -> None
+þara -> þær
+micles -> None
+to -> to
+feola -> None
+
+woroldwuniendra -> None
+winð -> None
+wið -> wiþ
+gecynde -> gecynd
+
+þeah -> þicgan
+nu -> nu
+on -> on
+londe -> land
+leon -> None
+gemete -> gemet
+
+wynsume -> wynsum
+wiht -> None
+wel -> wel
+atemede -> None
+
+hire -> hire
+magister -> None
+miclum -> micel
+lufige -> lufian
+
+and -> and
+eac -> eac
+ondræde -> ondrædan
+dogora -> None
+gehwelce -> None
+
+gif -> gif
+hit -> hit
+æfre -> æfre
+gesælð -> None
+þæt -> þæt
+hio -> None
+æniges -> ænig
+
+blodes -> None
+onbyrgeð -> None
+ne -> nesan
+ðearf -> None
+beorna -> beorn
+nan -> nan
+
+wenan -> None
+þære -> þære
+wyrde -> wyrd
+þæt -> þæt
+hio -> None
+wel -> wel
+siððan -> siððan
+
+hire -> hire
+taman -> None
+healde -> healdan
+ac -> acan
+ic -> ic
+tiohhie -> None
+
+þæt -> þæt
+hio -> None
+ðæs -> se
+niwan -> None
+taman -> None
+nauht -> None
+ne -> nesan
+gehicgge -> None
+
+ac -> acan
+ðone -> se
+wildan -> wilde
+gewunan -> gewuna
+wille -> willan
+geþencan -> None
+
+hire -> hire
+eldrena -> None
+onginð -> None
+eorneste -> None
+
+racentan -> racente
+slitan -> None
+ryn -> None
+grymetigan -> None
+
+and -> and
+ærest -> ærest
+abit -> None
+hire -> hire
+agenes -> None
+
+huses -> None
+hirde -> None
+and -> and
+hraðe -> None
+siððan -> siððan
+
+hæleða -> None
+gehwilcne -> gehwylc
+þe -> þu
+hio -> None
+gehentan -> None
+mæg -> mæg
+
+nele -> None
+hio -> None
+forlætan -> None
+libbendes -> None
+wuht -> None
+
+neata -> None
+ne -> nesan
+monna -> mann
+nimð -> None
+eall -> eall
+þæt -> þæt
+hio -> None
+fint -> None
+
+swa -> swa
+doð -> None
+wudufuglas -> None
+þeah -> þicgan
+hi -> hi
+wel -> wel
+sien -> None
+
+tela -> None
+atemede -> None
+gif -> gif
+hi -> hi
+on -> on
+treowum -> treow
+weorðað -> None
+
+holte -> None
+tomiddes -> None
+hræðe -> None
+bioð -> None
+forsewene -> None
+
+heora -> hira
+lareowas -> None
+þe -> þu
+hi -> hi
+lange -> lange
+ær -> ær
+
+tydon -> None
+and -> and
+temedon -> None
+hi -> hi
+on -> on
+treowum -> treow
+wilde -> wilde
+
+ealdgecynde -> None
+a -> hosp
+forð -> forþ
+siððan -> siððan
+
+willum -> None
+wuniað -> None
+þeah -> þicgan
+him -> him
+wolde -> willan
+hwilc -> hwilc
+
+heora -> hira
+lareowa -> None
+listum -> list
+beodan -> None
+
+þone -> se
+ilcan -> ilca
+mete -> mete
+þe -> þu
+he -> he
+hi -> hi
+æror -> None
+mid -> mid
+
+tame -> None
+getede -> None
+him -> him
+þa -> þu
+twigu -> None
+þincað -> None
+
+emne -> None
+swa -> swa
+merge -> None
+þæt -> þæt
+hi -> hi
+þæs -> se
+metes -> mete
+ne -> nesan
+recð -> None
+
+ðincð -> None
+him -> him
+to -> to
+ðon -> se
+wynsum -> wynsum
+þæt -> þæt
+him -> him
+se -> se
+weald -> weald
+oncwyð -> None
+
+þonne -> þonne
+hi -> hi
+geherað -> None
+hleoðrum -> None
+brægdan -> None
+
+oðre -> oðer
+fugelas -> None
+hi -> hi
+heora -> hira
+agne -> None
+
+stefne -> stefn
+styriað -> None
+stunað -> None
+eal -> eal
+geador -> None
+
+welwynsum -> None
+sanc -> sincan
+wudu -> wudu
+eallum -> eall
+oncwyð -> None
+
+swa -> swa
+bið -> None
+eallum -> eall
+treowum -> treow
+þe -> þu
+him -> him
+on -> on
+æðele -> æðele
+bið -> None
+
+þæt -> þæt
+hit -> hit
+on -> on
+holte -> None
+hyhst -> None
+geweaxe -> geweaxan
+
+þeah -> þicgan
+ðu -> þu
+hwilcne -> hwilc
+boh -> None
+byge -> bycgan
+wið -> wiþ
+eorðan -> eorþ
+
+he -> he
+bið -> None
+upweardes -> None
+swa -> swa
+ðu -> þu
+an -> on
+forlætst -> None
+
+widu -> None
+on -> on
+willan -> willan
+went -> None
+on -> on
+gecynde -> gecynd
+
+swa -> swa
+deð -> None
+eac -> eac
+sio -> se
+sunne -> sunne
+þonne -> þonne
+hio -> None
+on -> on
+sige -> sige
+weorðeð -> None
+
+ofer -> ofer
+midne -> None
+dæg -> dæg
+merecondel -> None
+scyfð -> None
+
+on -> on
+ofdæle -> None
+uncuðne -> None
+weg -> wegan
+
+nihtes -> niht
+geneðeð -> None
+norð -> None
+eft -> eft
+and -> and
+east -> None
+
+eldum -> None
+oteweð -> None
+brencð -> None
+eorðwarum -> None
+
+morgen -> morgen
+meretorhtne -> None
+hio -> None
+ofer -> ofer
+moncyn -> None
+stihð -> None
+
+a -> hosp
+upweardes -> None
+oð -> oþ
+hio -> None
+eft -> eft
+cymeð -> None
+
+þær -> þær
+hire -> hire
+yfemesð -> None
+bið -> None
+eard -> None
+gecynde -> gecynd
+
+swa -> swa
+swa -> swa
+ælc -> ælc
+gesceaft -> None
+ealle -> ealle
+mægene -> None
+
+geond -> geond
+ðas -> þes
+widan -> None
+woruld -> weorold
+wrigað -> None
+and -> and
+higað -> None
+
+ealle -> ealle
+mægene -> None
+eft -> eft
+symle -> simble
+onlyt -> None
+
+wið -> wiþ
+his -> hit
+gecyndes -> gecynd
+cymð -> None
+to -> to
+ðonne -> þonne
+hit -> hit
+mæg -> mæg
+
+nis -> nesan
+nu -> nu
+ofer -> ofer
+eorðan -> eorþ
+ænegu -> None
+gesceaft -> None
+
+þe -> þu
+ne -> nesan
+wilnie -> wilnian
+þæt -> þæt
+hio -> None
+wolde -> willan
+cuman -> cuman
+
+to -> to
+þam -> þæm
+earde -> eard
+þe -> þu
+hio -> None
+of -> of
+becom -> becuman
+
+þæt -> þæt
+is -> wesan
+orsorgnes -> orsorgnes
+and -> and
+ecu -> None
+rest -> None
+
+þæt -> þæt
+is -> wesan
+openlice -> openlice
+ælmihti -> None
+god -> god
+
+nis -> nesan
+nu -> nu
+ofer -> ofer
+eorðan -> eorþ
+ænegu -> None
+gesceaft -> None
+
+þe -> þu
+ne -> nesan
+hwearfige -> hwearfian
+swa -> swa
+swa -> swa
+hweol -> None
+deð -> None
+
+on -> on
+hire -> hire
+selfre -> None
+forðon -> forðam
+hio -> None
+swa -> swa
+hwearfað -> None
+
+þæt -> þæt
+hio -> None
+eft -> eft
+cume -> cuman
+þær -> þær
+hio -> None
+æror -> None
+wæs -> wesan
+
+þonne -> þonne
+hio -> None
+ærest -> ærest
+sie -> wesan
+utan -> utan
+behwerfed -> None
+
+þonne -> þonne
+hio -> None
+ealles -> eall
+wyrð -> weorþ
+utan -> utan
+becerred -> None
+
+hio -> None
+sceal -> sculan
+eft -> eft
+don -> None
+þæt -> þæt
+hio -> None
+ær -> ær
+dyde -> don
+
+and -> and
+eac -> eac
+wesan -> wesan
+þæt -> þæt
+hio -> None
+æror -> None
+wæs -> wesan
+## -> None
+hwæt -> hwæt#2
+bið -> None
+ðæm -> þæm
+welegan -> welig
+woruldgitsere -> None
+
+on -> on
+his -> hit
+mode -> None
+ðe -> þu
+bet -> wel
+þeah -> þicgan
+he -> he
+micel -> micel
+age -> None
+
+goldes -> gold
+and -> and
+gimma -> gimm
+and -> and
+gooda -> None
+gehwæs -> None
+
+æhta -> None
+unrim -> None
+and -> and
+him -> him
+mon -> mann
+erigen -> None
+scyle -> sculan
+
+æghwelce -> None
+dæg -> dæg
+æcera -> None
+ðusend -> None
+
+ðeah -> þeah
+ðes -> þes
+middangeard -> middangeard
+and -> and
+þis -> þes
+manna -> mann
+cyn -> None
+
+sy -> wesan
+under -> under
+sunnan -> sunne
+suð -> suþ
+west -> west
+and -> and
+east -> None
+
+his -> hit
+anwalde -> None
+eall -> eall
+underðieded -> None
+
+ne -> nesan
+mot -> None
+he -> he
+þara -> þær
+hyrsta -> None
+hionane -> None
+lædan -> None
+
+of -> of
+ðisse -> None
+worulde -> weorold
+wuhte -> None
+þon -> þon
+mare -> micel
+
+hordgestreona -> None
+ðonne -> þonne
+he -> he
+hiðer -> None
+brohte -> None
+## -> None
+ðeah -> þeah
+hine -> he
+nu -> nu
+se -> se
+yfela -> yfel
+unrihtwisa -> None
+
+neron -> None
+cynincg -> None
+niwan -> None
+gescerpte -> None
+
+wlitegum -> None
+wædum -> wæd
+wundorlice -> None
+
+golde -> gold
+geglengde -> None
+and -> and
+gimcynnum -> None
+
+þeah -> þicgan
+he -> he
+wæs -> wesan
+on -> on
+worulde -> weorold
+witena -> wita
+gehwelcum -> None
+
+on -> on
+his -> hit
+lifdagum -> None
+lað -> None
+and -> and
+unweorð -> None
+
+fierenfull -> None
+hwæt -> hwæt#2
+se -> se
+feond -> None
+swa -> swa
+ðeah -> þeah
+
+his -> hit
+diorlingas -> None
+duguðum -> None
+stepte -> None
+
+ne -> nesan
+mæg -> mæg
+ic -> ic
+þeah -> þicgan
+gehycgan -> gehycgan
+hwy -> None
+him -> him
+on -> on
+hige -> None
+þorfte -> þurfan
+
+a -> hosp
+ðy -> se
+sæl -> sæl
+wesan -> wesan
+þeah -> þicgan
+hi -> hi
+sume -> sum
+hwile -> hwil
+
+gecure -> geceosan
+butan -> butan
+cræftum -> cræft
+cyninga -> cyning
+dysegast -> None
+
+næron -> None
+hy -> hi
+ðy -> se
+weorðran -> None
+witena -> wita
+ænegum -> ænig
+
+ðeah -> þeah
+hine -> he
+se -> se
+dysega -> None
+do -> None
+to -> to
+cyninge -> cyninge
+
+hu -> hu
+mæg -> mæg
+þæt -> þæt
+gesceadwis -> None
+scealc -> None
+gereccan -> None
+
+þæt -> þæt
+he -> he
+him -> him
+ðy -> se
+selra -> None
+sie -> wesan
+oððe -> oððe
+þince -> None
+## -> None
+se -> se
+þe -> þu
+wille -> willan
+anwald -> anweald
+agon -> None
+ðonne -> þonne
+sceal -> sculan
+he -> he
+ærest -> ærest
+tilian -> tilian
+
+þæt -> þæt
+he -> he
+his -> hit
+selfes -> None
+on -> on
+sefan -> None
+age -> None
+
+anwald -> anweald
+innan -> innan
+þy -> þy
+læs -> læs
+he -> he
+æfre -> æfre
+sie -> wesan
+
+his -> hit
+unþeawum -> None
+eall -> eall
+underðyded -> None
+
+ado -> None
+of -> of
+his -> hit
+mode -> None
+mislicra -> None
+fela -> fela
+
+þara -> þær
+ymbhogona -> None
+þe -> þu
+him -> him
+unnet -> None
+sie -> wesan
+
+læte -> None
+sume -> sum
+hwile -> hwil
+siofunga -> None
+ana -> ana
+
+ermða -> None
+sinra -> None
+þeah -> þicgan
+him -> him
+eall -> eall
+sie -> wesan
+
+þes -> þes
+middangeard -> middangeard
+swa -> swa
+swa -> swa
+merestreamas -> None
+
+utan -> utan
+belicgað -> None
+on -> on
+æht -> None
+gifen -> None
+
+efne -> efne
+swa -> swa
+wide -> None
+swa -> swa
+swa -> swa
+westmest -> None
+nu -> nu
+
+an -> on
+iglond -> None
+ligð -> None
+ut -> ut
+on -> on
+garsecg -> None
+
+þær -> þær
+nængu -> None
+bið -> None
+niht -> niht
+on -> on
+sumera -> sumer
+
+ne -> nesan
+wuhte -> None
+þon -> þon
+ma -> micel
+on -> on
+wintra -> wintra
+dæg -> dæg
+
+toteled -> None
+tidum -> tid
+þæt -> þæt
+is -> wesan
+tile -> None
+haten -> None
+
+þeah -> þicgan
+nu -> nu
+anra -> an
+hwa -> hwa
+ealles -> eall
+wealde -> None
+
+þæs -> se
+iglandes -> None
+and -> and
+eac -> eac
+þonan -> þanan
+
+oð -> oþ
+indeas -> None
+eastewearde -> easteweard
+
+þeah -> þicgan
+he -> he
+nu -> nu
+þæt -> þæt
+eall -> eall
+agan -> aginnan
+mote -> None
+
+hwy -> None
+bið -> None
+his -> hit
+anwald -> anweald
+auhte -> None
+ðy -> se
+mara -> None
+
+gif -> gif
+he -> he
+siððan -> siððan
+nah -> None
+his -> hit
+selfes -> None
+geweald -> geweald
+
+ingeðances -> None
+and -> and
+hine -> he
+eorneste -> None
+
+wel -> wel
+ne -> nesan
+bewarenað -> None
+wordum -> word
+and -> and
+dædum -> None
+
+wið -> wiþ
+ða -> þe
+unþeawas -> None
+þe -> þu
+we -> we
+ymb -> ymb
+sprecað -> None
+## -> None
+hwæt -> hwæt#2
+eorðwaran -> None
+ealle -> ealle
+hæfden -> habban
+
+foldbuende -> None
+fruman -> fruma
+gelicne -> None
+
+hi -> hi
+of -> of
+anum -> an
+twæm -> twegen
+ealle -> ealle
+comon -> None
+
+were -> werian
+and -> and
+wife -> wif
+on -> on
+woruld -> weorold
+innan -> innan
+
+and -> and
+hi -> hi
+eac -> eac
+nu -> nu
+get -> None
+ealle -> ealle
+gelice -> gelice
+
+on -> on
+woruld -> weorold
+cumað -> None
+wlance -> None
+and -> and
+heane -> None
+
+nis -> nesan
+þæt -> þæt
+nan -> nan
+wundor -> wundor
+forðæm -> None
+witan -> witan
+ealle -> ealle
+
+þæt -> þæt
+an -> on
+god -> god
+is -> wesan
+ealra -> eal
+gesceafta -> None
+
+frea -> None
+moncynnes -> None
+fæder -> fæder
+and -> and
+scippend -> None
+
+se -> se
+ðære -> se
+sunnan -> sunne
+leoht -> sunnan
+seleð -> None
+of -> of
+heofonum -> heofon
+
+monan -> None
+and -> and
+þyssum -> þes
+mærum -> None
+steorrum -> steorra
+
+se -> se
+milda -> None
+metod -> metod
+gesceop -> gesceppan
+men -> mann
+on -> on
+eorðan -> eorþ
+
+and -> and
+gesamnade -> None
+sawle -> sawel
+to -> to
+lice -> None
+
+æt -> æt
+fruman -> fruma
+ærest -> ærest
+folc -> folc
+under -> under
+wolcnum -> wolcen
+
+emnæðele -> None
+gesceop -> gesceppan
+æghwilcne -> None
+mon -> mann
+
+hwy -> None
+ge -> ge
+þonne -> þonne
+æfre -> æfre
+ofer -> ofer
+oðre -> oðer
+men -> mann
+
+ofermodigen -> None
+buton -> butan
+andweorce -> andweorc
+
+nu -> nu
+ge -> ge
+unæðelne -> None
+nænigne -> None
+metað -> metan
+
+hwy -> None
+ge -> ge
+eow -> ge
+for -> for
+æþelum -> æþelu
+up -> up
+ahebben -> None
+
+nu -> nu
+on -> on
+þæm -> þæm
+mode -> None
+bið -> None
+monna -> mann
+gehwilcum -> None
+
+þa -> þu
+rihtæþelo -> None
+þe -> þu
+ic -> ic
+ðe -> þu
+recce -> None
+ymb -> ymb
+
+nales -> None
+on -> on
+ðæm -> þæm
+flæsce -> flæsc
+foldbuendra -> None
+
+ac -> acan
+nu -> nu
+æghwilc -> None
+mon -> mann
+þe -> þu
+mid -> mid
+ealle -> ealle
+bið -> None
+
+his -> hit
+unþeawum -> None
+underðieded -> None
+
+he -> he
+forlæt -> None
+ærest -> ærest
+lifes -> lifes
+frumsceaft -> None
+
+and -> and
+his -> hit
+agene -> agen
+æþelo -> None
+swa -> swa
+selfe -> self
+
+and -> and
+eac -> eac
+þone -> se
+fæder -> fæder
+þe -> þu
+hine -> he
+æt -> æt
+fruman -> fruma
+gesceop -> gesceppan
+
+forðæm -> None
+hine -> he
+anæþelað -> None
+ælmihtig -> None
+god -> god
+
+þæt -> þæt
+he -> he
+unæþele -> None
+a -> hosp
+forð -> forþ
+þanan -> None
+
+wyrð -> weorþ
+on -> on
+weorulde -> None
+to -> to
+wuldre -> wuldor
+ne -> nesan
+cymð -> None
+## -> None
+eala -> eala
+ðæt -> þæt
+se -> se
+yfla -> yfel
+unrihta -> None
+gedeð -> None
+
+wraða -> None
+willa -> willian
+wohhæmetes -> None
+
+þæt -> þæt
+he -> he
+mid -> mid
+ealle -> ealle
+gedræfð -> None
+anra -> an
+gehwylces -> gehwilc
+
+monna -> mann
+cynnes -> cynn
+mod -> None
+fulneah -> fulneah
+ðon -> se
+
+hwæt -> hwæt#2
+sio -> se
+wilde -> wilde
+beo -> wesan
+þeah -> þicgan
+wis -> None
+sie -> wesan
+
+anunga -> None
+sceal -> sculan
+eall -> eall
+forweorðan -> None
+
+gif -> gif
+hio -> None
+yrringa -> None
+awuht -> None
+stingeð -> None
+
+swa -> swa
+sceal -> sculan
+sawla -> sawel
+gehwilc -> None
+siððan -> siððan
+losian -> losian
+
+gif -> gif
+se -> se
+lichoma -> None
+forlegen -> forlicgan
+weorðeð -> None
+
+unrihthæmede -> None
+bute -> bute
+him -> him
+ær -> ær
+cume -> cuman
+
+hreow -> None
+to -> to
+heortan -> heorte
+ær -> ær
+he -> he
+hionan -> None
+wende -> wendan
+## -> None
+eala -> eala
+þæt -> þæt
+is -> wesan
+hefig -> hefig
+dysig -> dysig
+hygeð -> None
+ymbe -> ymbe
+se -> se
+ðe -> þu
+wile -> wil
+
+and -> and
+frecenlic -> None
+fira -> None
+gehwilcum -> None
+
+þæt -> þæt
+ða -> þe
+earman -> earm
+men -> mann
+mid -> mid
+ealle -> ealle
+gedwæleð -> None
+
+of -> of
+ðæm -> þæm
+rihtan -> riht
+wege -> wegan
+recene -> recen
+alæded -> None
+
+hwæðer -> hwæðer
+ge -> ge
+willen -> willan
+on -> on
+wuda -> wudu
+secan -> None
+
+gold -> gold
+ðæt -> þæt
+reade -> None
+on -> on
+grenum -> None
+triowum -> None
+
+ic -> ic
+wat -> witan
+swa -> swa
+ðeah -> þeah
+þæt -> þæt
+hit -> hit
+witena -> wita
+nan -> nan
+
+þider -> þider
+ne -> nesan
+seceð -> None
+forðæm -> None
+hit -> hit
+þær -> þær
+ne -> nesan
+wexð -> None
+
+ne -> nesan
+on -> on
+wingeardum -> None
+wlitige -> wlitig
+gimmas -> gimm
+
+hwy -> None
+ge -> ge
+nu -> nu
+ne -> nesan
+settan -> settan
+on -> on
+sume -> sum
+dune -> None
+
+fiscnet -> None
+eowru -> None
+þonne -> þonne
+eow -> ge
+fon -> None
+lysteð -> None
+
+leax -> leax
+oððe -> oððe
+cyperan -> None
+me -> me
+gelicost -> None
+ðincð -> None
+
+þætte -> se
+ealle -> ealle
+witen -> witan
+eorðbuende -> None
+
+þoncolmode -> None
+ðæt -> þæt
+hi -> hi
+þær -> þær
+ne -> nesan
+sint -> wesan
+
+hwæþer -> hwæðer
+ge -> ge
+nu -> nu
+willen -> willan
+wæþan -> None
+mid -> mid
+hundum -> hund
+
+on -> on
+sealtne -> sealt
+sæ -> sæ
+þonne -> þonne
+eow -> ge
+secan -> None
+lyst -> None
+
+heorotas -> heorot
+and -> and
+hinda -> hind
+þu -> þu
+gehicgan -> None
+meaht -> magan
+
+þæt -> þæt
+ge -> ge
+willað -> None
+ða -> þe
+on -> on
+wuda -> wudu
+secan -> None
+
+oftor -> oft
+micle -> micel
+þonne -> þonne
+ut -> ut
+on -> on
+sæ -> sæ
+
+is -> wesan
+ðæt -> þæt
+wundorlic -> wundorlic
+þæt -> þæt
+we -> we
+witan -> witan
+ealle -> ealle
+
+þæt -> þæt
+mon -> mann
+secan -> None
+sceal -> sculan
+be -> be
+sæwaroðe -> None
+
+and -> and
+be -> be
+eaofrum -> None
+æþele -> æþelu
+gimmas -> gimm
+
+hwite -> None
+and -> and
+reade -> None
+and -> and
+hiwa -> None
+gehwæs -> None
+
+hwæt -> hwæt#2
+hi -> hi
+eac -> eac
+witon -> witan
+hwær -> hwær
+hi -> hi
+eafiscas -> None
+
+secan -> None
+þurfan -> þurfan
+and -> and
+swylcra -> None
+fela -> fela
+
+weoruldwelena -> None
+hi -> hi
+þæt -> þæt
+wel -> wel
+doð -> None
+
+geornfulle -> None
+men -> mann
+geara -> gear
+gehwilce -> None
+
+ac -> acan
+ðæt -> þæt
+is -> wesan
+earmlicost -> None
+ealra -> eal
+þinga -> þingian
+
+þæt -> þæt
+þa -> þu
+dysegan -> None
+sint -> wesan
+on -> on
+gedwolan -> None
+wordene -> None
+
+efne -> efne
+swa -> swa
+blinde -> blind
+þæt -> þæt
+hi -> hi
+on -> on
+breostum -> None
+ne -> nesan
+magon -> magan
+
+eaðe -> None
+gecnawan -> None
+hwær -> hwær
+þa -> þu
+ecan -> None
+good -> None
+
+soða -> None
+gesælða -> None
+sindon -> None
+gehydda -> None
+
+forþæm -> forðam
+hi -> hi
+æfre -> æfre
+ne -> nesan
+lyst -> None
+æfter -> æfter
+spyrian -> None
+
+secan -> None
+þa -> þu
+gesælða -> None
+wenað -> None
+samwise -> None
+
+þæt -> þæt
+hi -> hi
+on -> on
+ðis -> þes
+lænan -> None
+mægen -> mægen
+life -> None
+findan -> findan
+
+soða -> None
+gesælða -> None
+þæt -> þæt
+is -> wesan
+selfa -> None
+god -> god
+
+ic -> ic
+nat -> None
+hu -> hu
+ic -> ic
+mæge -> mæge
+nænige -> None
+ðinga -> None
+
+ealles -> eall
+swa -> swa
+swiðe -> swiðe
+on -> on
+sefan -> None
+minum -> minum
+
+hiora -> hira
+dysig -> dysig
+tælan -> None
+swa -> swa
+hit -> hit
+me -> me
+don -> None
+lysteð -> None
+
+ne -> nesan
+ic -> ic
+þe -> þu
+swa -> swa
+sweotole -> sweotol
+gesecgan -> None
+ne -> nesan
+mæg -> mæg
+
+forðæm -> None
+hi -> hi
+sint -> wesan
+earmran -> None
+and -> and
+eac -> eac
+dysegran -> None
+
+ungesæligran -> None
+þonne -> þonne
+ic -> ic
+þe -> þu
+secgan -> None
+mæge -> mæge
+
+hi -> hi
+wilniað -> None
+welan -> wela
+and -> and
+æhta -> None
+
+and -> and
+weorðscipes -> None
+to -> to
+gewinnanne -> None
+
+þonne -> þonne
+hi -> hi
+habbað -> None
+þæt -> þæt
+hiora -> hira
+hige -> None
+seceð -> None
+
+wenað -> None
+þonne -> þonne
+swa -> swa
+gewitlease -> None
+
+ðæt -> þæt
+hi -> hi
+þa -> þu
+soðan -> None
+gesælða -> None
+hæbben -> habban
+## -> None
+hwæt -> hwæt#2
+ic -> ic
+lioða -> None
+fela -> fela
+lustlice -> lustlice
+geo -> None
+
+sanc -> sincan
+on -> on
+sælum -> sæl
+nu -> nu
+sceal -> sculan
+siofigende -> None
+
+wope -> wop
+gewæged -> None
+wreccea -> None
+giomor -> None
+
+singan -> singan
+sarcwidas -> None
+me -> me
+þios -> None
+siccetung -> None
+hafað -> None
+
+agæled -> None
+ðes -> þes
+geocsa -> None
+þæt -> þæt
+ic -> ic
+þa -> þu
+ged -> None
+ne -> nesan
+mæg -> mæg
+
+gefegean -> None
+swa -> swa
+fægre -> fæger
+þeah -> þicgan
+ic -> ic
+fela -> fela
+gio -> None
+þa -> þu
+
+sette -> settan
+soðcwida -> None
+þonne -> þonne
+ic -> ic
+on -> on
+sælum -> sæl
+wæs -> wesan
+
+oft -> oft
+ic -> ic
+nu -> nu
+miscyrre -> None
+cuðe -> None
+spræce -> None
+
+and -> and
+þeah -> þicgan
+uncuðre -> None
+ær -> ær
+hwilum -> hwilum
+fond -> None
+
+me -> me
+þas -> þes
+woruldsælða -> None
+welhwæs -> None
+blindne -> blind
+
+on -> on
+ðis -> þes
+dimme -> None
+hol -> hol
+dysine -> None
+forlæddon -> None
+
+and -> and
+me -> me
+þa -> þu
+berypton -> None
+rædes -> None
+and -> and
+frofre -> None
+
+for -> for
+heora -> hira
+untreowum -> None
+þe -> þu
+ic -> ic
+him -> him
+æfre -> æfre
+betst -> wel
+
+truwian -> None
+sceolde -> sculan
+hi -> hi
+me -> me
+to -> to
+wendon -> wendan
+
+heora -> hira
+bacu -> None
+bitere -> biter
+and -> and
+heora -> hira
+blisse -> blis
+from -> from
+
+forhwam -> None
+wolde -> willan
+ge -> ge
+weoruldfrynd -> None
+mine -> min
+
+secgan -> None
+oððe -> oððe
+singan -> singan
+þæt -> þæt
+ic -> ic
+gesællic -> None
+mon -> mann
+
+wære -> wære
+on -> on
+weorulde -> None
+ne -> nesan
+synt -> wesan
+þa -> þu
+word -> word
+soð -> None
+
+nu -> nu
+þa -> þu
+gesælða -> None
+ne -> nesan
+magon -> magan
+simle -> simble
+gewunigan -> None
+## -> None
+eala -> eala
+min -> min
+drihten -> drihten
+þæt -> þæt
+þu -> þu
+eart -> wesan
+ælmihtig -> None
+
+micel -> micel
+modilic -> None
+mærþum -> None
+gefræge -> None
+
+and -> and
+wundorlic -> wundorlic
+witena -> wita
+gehwylcum -> gehwylc
+
+hwæt -> hwæt#2
+ðu -> þu
+ece -> ece
+god -> god
+ealra -> eal
+gesceafta -> None
+
+wundorlice -> None
+wel -> wel
+gesceope -> None
+
+ungesewenlica -> None
+and -> and
+eac -> eac
+swa -> swa
+same -> same
+
+gesewenlicra -> None
+softe -> None
+wealdest -> None
+
+scirra -> None
+gesceafta -> None
+mid -> mid
+gesceadwisum -> None
+
+mægne -> None
+and -> and
+cræfte -> cræft
+þu -> þu
+þysne -> þes
+middangeard -> middangeard
+
+from -> from
+fruman -> fruma
+ærest -> ærest
+forð -> forþ
+oð -> oþ
+ende -> ende
+
+tidum -> tid
+totældes -> None
+swa -> swa
+hit -> hit
+getæsost -> None
+wæs -> wesan
+
+endebyrdes -> None
+þæt -> þæt
+hi -> hi
+æghwæðer -> None
+
+ge -> ge
+ær -> ær
+farað -> None
+ge -> ge
+eft -> eft
+cumað -> None
+
+þu -> þu
+þe -> þu
+unstilla -> None
+agna -> None
+gesceafta -> None
+
+to -> to
+ðinum -> þin
+willan -> willan
+wislice -> wislice
+astyrest -> None
+
+and -> and
+þe -> þu
+self -> self
+wunæst -> None
+swiðe -> swiðe
+stille -> stille
+
+unanwendendlic -> None
+a -> hosp
+forð -> forþ
+simle -> simble
+
+nis -> nesan
+nan -> nan
+mihtigra -> mihtig
+ne -> nesan
+nan -> nan
+mærra -> None
+
+ne -> nesan
+geond -> geond
+ealle -> ealle
+þa -> þu
+gesceaft -> None
+efnlica -> None
+þin -> þu
+
+ne -> nesan
+þe -> þu
+ænig -> ænig
+nedþearf -> None
+næs -> næs
+æfre -> æfre
+giet -> git
+
+ealra -> eal
+þara -> þær
+weorca -> weorc
+þe -> þu
+þu -> þu
+geworht -> wyrcan
+hafast -> hafian
+
+ac -> acan
+mid -> mid
+þinum -> þin
+willan -> willan
+þu -> þu
+hit -> hit
+worhtes -> None
+eall -> eall
+
+and -> and
+mid -> mid
+anwalde -> None
+þinum -> þin
+agenum -> agen
+
+weorulde -> None
+geworhtest -> gewyrcan
+and -> and
+wuhta -> None
+gehwæt -> None
+
+þeah -> þicgan
+ðe -> þu
+nænegu -> None
+nedðearf -> None
+wære -> wære
+
+eallra -> eall
+þara -> þær
+mærþa -> None
+is -> wesan
+ðæt -> þæt
+micel -> micel
+gecynd -> gecynd
+
+þines -> þin
+goodes -> None
+þencð -> None
+ymb -> ymb
+se -> se
+ðe -> þu
+wile -> wil
+
+forðon -> forðam
+hit -> hit
+is -> wesan
+eall -> eall
+an -> on
+ælces -> None
+þincges -> None
+
+þu -> þu
+and -> and
+þæt -> þæt
+ðin -> þin
+good -> None
+hit -> hit
+is -> wesan
+þin -> þu
+agen -> ongeagn
+
+forðæm -> None
+hit -> hit
+his -> hit
+utan -> utan
+ne -> nesan
+com -> cuman
+auht -> None
+to -> to
+ðe -> þu
+
+ac -> acan
+ic -> ic
+georne -> georne
+wat -> witan
+þæt -> þæt
+ðin -> þin
+goodnes -> None
+is -> wesan
+
+ælmihtig -> None
+good -> None
+eall -> eall
+mid -> mid
+ðe -> þu
+selfum -> self
+
+hit -> hit
+is -> wesan
+ungelic -> None
+urum -> ure
+gecynde -> gecynd
+
+us -> we
+is -> wesan
+utan -> utan
+cymen -> None
+eall -> eall
+þa -> þu
+we -> we
+habbað -> None
+
+gooda -> None
+on -> on
+grundum -> grund
+from -> from
+gode -> god
+selfum -> self
+
+næfst -> nabban
+þu -> þu
+to -> to
+ænegum -> ænig
+andan -> anda
+genumenne -> None
+
+forðam -> forðam
+þe -> þu
+nan -> nan
+þing -> þingan
+nis -> nesan
+þin -> þu
+gelica -> gelica
+
+ne -> nesan
+huru -> huru
+ænig -> ænig
+ælcræftigre -> None
+
+forðæm -> None
+þu -> þu
+ealgood -> None
+anes -> an
+geþeahte -> geþeaht
+
+þines -> þin
+geþohtest -> None
+and -> and
+hi -> hi
+þa -> þu
+worhtest -> wyrcan
+
+næs -> næs
+æror -> None
+ðe -> þu
+ænegu -> None
+gesceaft -> None
+
+þe -> þu
+auht -> None
+oððe -> oððe
+nauht -> None
+auðer -> None
+worhte -> wyrcan
+
+ac -> acan
+ðu -> þu
+butan -> butan
+bysne -> None
+brego -> breogo
+moncynnes -> None
+
+ælmihtig -> None
+god -> god
+eall -> eall
+geworhtest -> gewyrcan
+
+þing -> þingan
+þearle -> þearle
+good -> None
+eart -> wesan
+þe -> þu
+selfa -> None
+
+þæt -> þæt
+hehste -> None
+good -> None
+hwæt -> hwæt#2
+ðu -> þu
+halig -> None
+fæder -> fæder
+
+æfter -> æfter
+þinum -> þin
+willan -> willan
+woruld -> weorold
+gesceope -> None
+
+ðisne -> þes
+middangeard -> middangeard
+meahtum -> None
+þinum -> þin
+
+weorada -> None
+drihten -> drihten
+swa -> swa
+þu -> þu
+woldest -> willan
+self -> self
+
+and -> and
+mid -> mid
+ðinum -> þin
+willan -> willan
+wealdest -> None
+ealles -> eall
+
+forðæm -> None
+þu -> þu
+soða -> None
+god -> god
+selfa -> None
+dælest -> None
+
+gooda -> None
+æghwilc -> None
+forðæm -> None
+þu -> þu
+geara -> gear
+ær -> ær
+
+ealla -> eall
+gesceafta -> None
+ærest -> ærest
+gesceope -> None
+
+swiðe -> swiðe
+gelice -> gelice
+sumes -> None
+hwæðre -> None
+þeah -> þicgan
+
+ungelice -> None
+nemdest -> nemnan
+eall -> eall
+swa -> swa
+ðeah -> þeah
+
+mid -> mid
+ane -> an
+noman -> None
+ealle -> ealle
+togædre -> None
+
+woruld -> weorold
+under -> under
+wolcnum -> wolcen
+hwæt -> hwæt#2
+þu -> þu
+wuldres -> wuldor
+god -> god
+
+þone -> se
+anne -> an
+naman -> naman
+eft -> eft
+todældes -> None
+
+fæder -> fæder
+on -> on
+feower -> feower
+wæs -> wesan
+þara -> þær
+folde -> folde
+an -> on
+
+and -> and
+wæter -> wæter
+oðer -> oðer
+worulde -> weorold
+dæles -> dæl
+
+and -> and
+fyr -> fyr
+is -> wesan
+þridde -> None
+and -> and
+feowerðe -> None
+lyft -> lyft
+
+þæt -> þæt
+is -> wesan
+eall -> eall
+weoruld -> None
+eft -> eft
+togædere -> togædere
+
+habbað -> None
+þeah -> þicgan
+þa -> þu
+feower -> feower
+frumstol -> None
+hiora -> hira
+
+æghwilc -> None
+hiora -> hira
+agenne -> None
+stede -> stede
+
+þeah -> þicgan
+anra -> an
+hwilc -> hwilc
+wið -> wiþ
+oðer -> oðer
+sie -> wesan
+
+miclum -> micel
+gemenged -> mengan
+and -> and
+mid -> mid
+mægne -> None
+eac -> eac
+
+fæder -> fæder
+ælmihtiges -> None
+fæste -> fæstan
+gebunden -> gebunden
+
+gesiblice -> None
+softe -> None
+togædre -> None
+
+mid -> mid
+bebode -> bebod
+þine -> þin
+bilewit -> bilewit
+fæder -> fæder
+
+þætte -> se
+heora -> hira
+ænig -> ænig
+oðres -> None
+ne -> nesan
+dorste -> durran
+
+mearce -> mearc
+ofergangan -> ofergangan
+for -> for
+metodes -> metod
+ege -> ege
+
+ac -> acan
+geþweorod -> None
+sint -> wesan
+ðegnas -> None
+togædre -> None
+
+cyninges -> cyning
+cempan -> cempa
+cele -> cele
+wið -> wiþ
+hæto -> None
+
+wæt -> None
+wið -> wiþ
+drygum -> dryge
+winnað -> None
+hwæðre -> None
+
+wæter -> wæter
+and -> and
+eorðe -> eorþ
+wæstmas -> None
+brengað -> None
+
+þa -> þu
+sint -> wesan
+on -> on
+gecynde -> gecynd
+cealda -> cealdian
+ba -> None
+twa -> twegen
+
+wæter -> wæter
+wæt -> None
+and -> and
+ceald -> None
+wangas -> wang
+ymbelicgað -> None
+
+eorðe -> eorþ
+ælgreno -> None
+eac -> eac
+hwæðre -> None
+ceald -> None
+
+lyft -> lyft
+is -> wesan
+gemenged -> mengan
+forþæm -> forðam
+hio -> None
+on -> on
+middum -> midde
+wunað -> None
+
+nis -> nesan
+þæt -> þæt
+nan -> nan
+wundor -> wundor
+þæt -> þæt
+hio -> None
+sie -> wesan
+wearm -> wearm
+and -> and
+ceald -> None
+
+wæt -> None
+wolcnes -> wolcen
+tier -> None
+winde -> windan
+geblonden -> None
+
+forðæm -> None
+hio -> None
+is -> wesan
+on -> on
+midle -> None
+mine -> min
+gefræge -> None
+
+fyres -> fyr
+and -> and
+eorðan -> eorþ
+fela -> fela
+monna -> mann
+wat -> witan
+
+þætte -> se
+yfemest -> None
+is -> wesan
+eallra -> eall
+gesceafta -> None
+
+fyr -> fyr
+ofer -> ofer
+eorðan -> eorþ
+folde -> folde
+neoðemest -> None
+
+is -> wesan
+þæt -> þæt
+wundorlic -> wundorlic
+weroda -> werod
+drihten -> drihten
+
+þæt -> þæt
+ðu -> þu
+mid -> mid
+geþeahte -> geþeaht
+þinum -> þin
+wyrcest -> None
+
+þæt -> þæt
+ðu -> þu
+þæm -> þæm
+gesceaftum -> None
+swa -> swa
+gesceadlice -> None
+
+mearce -> mearc
+gesettest -> gesettan
+and -> and
+hi -> hi
+gemengdest -> gemengan
+eac -> eac
+
+hwæt -> hwæt#2
+ðu -> þu
+þæm -> þæm
+wættere -> None
+wætum -> None
+and -> and
+cealdum -> None
+
+foldan -> folde
+to -> to
+flore -> None
+fæste -> fæstan
+gesettest -> gesettan
+
+forðæm -> None
+hit -> hit
+unstille -> unstille
+æghwider -> None
+wolde -> willan
+
+wide -> None
+toscriðan -> None
+wac -> wacan
+and -> and
+hnesce -> None
+
+ne -> nesan
+meahte -> magan
+hit -> hit
+on -> on
+him -> him
+selfum -> self
+soð -> None
+ic -> ic
+geare -> geare
+wat -> witan
+
+æfre -> æfre
+gestandan -> gestandan
+ac -> acan
+hit -> hit
+sio -> se
+eorðe -> eorþ
+hylt -> None
+
+and -> and
+swelgeð -> None
+eac -> eac
+be -> be
+sumum -> sum
+dæle -> dæl
+
+þæt -> þæt
+hio -> None
+siðþan -> None
+mæg -> mæg
+for -> for
+ðæm -> þæm
+sype -> None
+weorðan -> None
+
+geleht -> leccan
+lyftum -> lyft
+forðæm -> None
+leaf -> leaf
+and -> and
+gærs -> gærs
+
+bræd -> None
+geond -> geond
+bretene -> None
+bloweð -> None
+and -> and
+groweð -> None
+
+eldum -> None
+to -> to
+are -> ar
+eorðe -> eorþ
+sio -> se
+cealde -> None
+
+brengð -> None
+wæstma -> None
+fela -> fela
+wundorlicra -> None
+
+forðæm -> None
+hio -> None
+mid -> mid
+þæm -> þæm
+wætere -> wæter
+weorðað -> None
+geþawened -> None
+
+gif -> gif
+þæt -> þæt
+nære -> None
+þonne -> þonne
+hio -> None
+wære -> wære
+
+fordrugod -> None
+to -> to
+duste -> None
+and -> and
+todrifen -> None
+siððan -> siððan
+
+wide -> None
+mid -> mid
+winde -> windan
+swa -> swa
+nu -> nu
+weorðað -> None
+oft -> oft
+
+axe -> None
+giond -> None
+eorðan -> eorþ
+eall -> eall
+toblawen -> None
+
+ne -> nesan
+meahte -> magan
+on -> on
+ðære -> se
+eorðan -> eorþ
+awuht -> None
+libban -> libban
+
+ne -> nesan
+wuhte -> None
+þon -> þon
+ma -> micel
+wætres -> None
+brucan -> None
+
+on -> on
+eardian -> eardian
+ænige -> ænig
+cræfte -> cræft
+
+for -> for
+cele -> cele
+anum -> an
+gif -> gif
+þu -> þu
+cyning -> cyning
+engla -> engel
+
+wið -> wiþ
+fyre -> fyr
+hwæthwugu -> None
+foldan -> folde
+and -> and
+lagustream -> None
+
+ne -> nesan
+mengdest -> mengan
+togædre -> None
+and -> and
+gemetgodest -> None
+
+cele -> cele
+and -> and
+hæto -> None
+cræfte -> cræft
+þine -> þin
+
+þæt -> þæt
+þæt -> þæt
+fyr -> fyr
+ne -> nesan
+mæg -> mæg
+foldan -> folde
+and -> and
+merestream -> None
+
+blate -> None
+forbærnan -> None
+þeah -> þicgan
+hit -> hit
+wið -> wiþ
+ba -> None
+twa -> twegen
+sie -> wesan
+
+fæste -> fæstan
+gefeged -> None
+fæder -> fæder
+ealdgeweorc -> None
+
+ne -> nesan
+þincð -> None
+me -> me
+þæt -> þæt
+wundur -> None
+wuhte -> None
+þe -> þu
+læsse -> None
+
+þæt -> þæt
+ðios -> None
+eorðe -> eorþ
+mæg -> mæg
+and -> and
+egorstream -> None
+
+swa -> swa
+ceald -> None
+gesceaft -> None
+cræfta -> cræft
+nane -> nan
+
+ealles -> eall
+adwæscan -> None
+þæt -> þæt
+þæt -> þæt
+him -> him
+on -> on
+innan -> innan
+sticað -> None
+
+fyres -> fyr
+gefeged -> None
+mid -> mid
+frean -> None
+cræfte -> cræft
+
+þæt -> þæt
+is -> wesan
+agen -> ongeagn
+cræft -> cræft
+eagorstreames -> None
+
+wætres -> None
+and -> and
+eorþan -> eorþe
+and -> and
+on -> on
+wolcnum -> wolcen
+eac -> eac
+
+and -> and
+efne -> efne
+swa -> swa
+same -> same
+uppe -> uppe
+ofer -> ofer
+rodere -> None
+
+þonne -> þonne
+is -> wesan
+þæs -> se
+fyres -> fyr
+frumstol -> None
+on -> on
+riht -> riht
+
+eard -> None
+ofer -> ofer
+eallum -> eall
+oðrum -> oðer
+gesceaftum -> None
+
+gesewenlicum -> None
+geond -> geond
+þisne -> þes
+sidan -> None
+grund -> grund
+
+þeah -> þicgan
+hit -> hit
+wið -> wiþ
+ealla -> eall
+sie -> wesan
+eft -> eft
+gemenged -> mengan
+
+weoruldgesceafta -> None
+þeah -> þicgan
+waldan -> None
+ne -> nesan
+mot -> None
+
+þæt -> þæt
+hit -> hit
+ænige -> ænig
+eallunga -> None
+fordo -> None
+
+butan -> butan
+þæs -> se
+leafe -> leaf
+þe -> þu
+us -> we
+þis -> þes
+lif -> None
+tiode -> None
+
+þæt -> þæt
+is -> wesan
+se -> se
+eca -> None
+and -> and
+se -> se
+ælmihtga -> None
+
+eorðe -> eorþ
+is -> wesan
+hefigre -> hefig
+oðrum -> oðer
+gesceaftum -> None
+
+þicre -> None
+geþuren -> None
+forðæm -> None
+hio -> None
+þrage -> None
+stod -> None
+
+ealra -> eal
+gesceafta -> None
+under -> under
+niðemæst -> None
+
+buton -> butan
+þæm -> þæm
+rodere -> None
+þe -> þu
+þas -> þes
+ruman -> None
+gesceaft -> None
+
+æghwylce -> None
+dæge -> dæg
+utan -> utan
+ymbhwyrfeð -> None
+
+and -> and
+þeah -> þicgan
+þære -> þære
+eorðan -> eorþ
+æfre -> æfre
+ne -> nesan
+oðrineð -> None
+
+ne -> nesan
+hire -> hire
+on -> on
+nanre -> nan
+ne -> nesan
+mot -> None
+near -> None
+þonne -> þonne
+on -> on
+oðre -> oðer
+
+stowe -> stow
+gestæppan -> None
+striceð -> None
+ymbutan -> ymbutan
+
+ufane -> None
+and -> and
+neoðane -> None
+efenneah -> None
+gehwæðer -> None
+
+æghwilc -> None
+gesceaft -> None
+þe -> þu
+we -> we
+ymb -> ymb
+sprecað -> None
+
+hæfð -> None
+his -> hit
+agenne -> None
+eard -> None
+onsundran -> onsundrum
+
+bið -> None
+þeah -> þicgan
+wið -> wiþ
+þæm -> þæm
+oðrum -> oðer
+eac -> eac
+gemenged -> mengan
+
+ne -> nesan
+mæg -> mæg
+hira -> hira
+ænig -> ænig
+butan -> butan
+oðrum -> oðer
+bion -> None
+
+þeah -> þicgan
+hi -> hi
+unsweotole -> None
+somod -> None
+eardien -> eardian
+
+swa -> swa
+nu -> nu
+eorðe -> eorþ
+and -> and
+wæter -> wæter
+earfoðtæcne -> None
+
+unwisra -> None
+gehwæm -> None
+wuniað -> None
+on -> on
+fyre -> fyr
+
+þeah -> þicgan
+hi -> hi
+sindan -> None
+sweotole -> sweotol
+þæm -> þæm
+wisum -> None
+
+is -> wesan
+þæt -> þæt
+fyr -> fyr
+swa -> swa
+same -> same
+fæst -> fæstan
+on -> on
+þæm -> þæm
+wætre -> None
+
+and -> and
+on -> on
+stanum -> None
+eac -> eac
+stille -> stille
+geheded -> None
+
+earfoðhawe -> None
+is -> wesan
+hwæðre -> None
+þær -> þær
+
+hafað -> None
+fæder -> fæder
+engla -> engel
+fyr -> fyr
+gebunden -> gebunden
+
+efne -> efne
+to -> to
+þon -> þon
+fæste -> fæstan
+þæt -> þæt
+hit -> hit
+fiolan -> None
+ne -> nesan
+mæg -> mæg
+
+eft -> eft
+æt -> æt
+his -> hit
+eðle -> None
+þær -> þær
+þæt -> þæt
+oðer -> oðer
+fyr -> fyr
+
+up -> up
+ofer -> ofer
+eall -> eall
+þis -> þes
+eardfæst -> None
+wunað -> None
+
+sona -> sona
+hit -> hit
+forlæteð -> None
+þas -> þes
+lænan -> None
+gesceaft -> None
+
+mid -> mid
+cele -> cele
+ofercumen -> ofercuman
+gif -> gif
+hit -> hit
+on -> on
+cyððe -> cyþ
+gewit -> gewitan
+
+and -> and
+þeah -> þicgan
+wuhta -> None
+gehwilc -> None
+wilnað -> None
+þiderweard -> None
+
+þær -> þær
+his -> hit
+mægðe -> mægþ
+bið -> None
+mæst -> micel
+ætgædre -> None
+
+þu -> þu
+gestaðoladest -> None
+þurh -> þurh
+þa -> þu
+strongan -> None
+meaht -> magan
+
+weroda -> werod
+wuldorcyning -> wuldorcyning
+wundorlice -> None
+
+eorðan -> eorþ
+swa -> swa
+fæste -> fæstan
+þæt -> þæt
+hio -> None
+on -> on
+ænige -> ænig
+
+healfe -> healf
+ne -> nesan
+heldeð -> None
+ne -> nesan
+mæg -> mæg
+hio -> None
+hider -> hider
+ne -> nesan
+þider -> þider
+
+sigan -> None
+þe -> þu
+swiðor -> swiðe
+þe -> þu
+hio -> None
+symle -> simble
+dyde -> don
+
+hwæt -> hwæt#2
+hi -> hi
+þeah -> þicgan
+eorðlices -> None
+auht -> None
+ne -> nesan
+haldeð -> None
+
+is -> wesan
+þeah -> þicgan
+efneðe -> None
+up -> up
+and -> and
+of -> of
+dune -> None
+
+to -> to
+feallanne -> None
+foldan -> folde
+ðisse -> None
+
+þæm -> þæm
+anlicost -> None
+þe -> þu
+on -> on
+æge -> None
+bið -> None
+
+gioleca -> None
+on -> on
+middan -> midde
+glideð -> None
+hwæðre -> None
+
+æg -> None
+ymbutan -> ymbutan
+swa -> swa
+stent -> standan
+eall -> eall
+weoruld -> None
+
+stille -> stille
+on -> on
+tille -> None
+streamas -> None
+ymbutan -> ymbutan
+
+lagufloda -> None
+gelac -> None
+lyfte -> lyft
+and -> and
+tungla -> tungol
+
+and -> and
+sio -> se
+scire -> scir
+scell -> None
+scriðeð -> None
+ymbutan -> ymbutan
+
+dogora -> None
+gehwilce -> None
+dyde -> don
+lange -> lange
+swa -> swa
+
+hwæt -> hwæt#2
+þu -> þu
+ðioda -> None
+god -> god
+ðriefalde -> None
+on -> on
+us -> we
+
+sawle -> sawel
+gesettest -> gesettan
+and -> and
+hi -> hi
+siððan -> siððan
+eac -> eac
+
+styrest -> styrian
+and -> and
+stihtest -> None
+þurh -> þurh
+ða -> þe
+strongan -> None
+meaht -> magan
+
+þæt -> þæt
+hire -> hire
+þy -> þy
+læsse -> None
+on -> on
+ðæm -> þæm
+lytlan -> None
+ne -> nesan
+bið -> None
+
+anum -> an
+fingre -> finger
+þe -> þu
+hire -> hire
+on -> on
+eallum -> eall
+bið -> None
+
+þæm -> þæm
+lichoman -> None
+forðæm -> None
+ic -> ic
+lytle -> None
+ær -> ær
+
+sweotole -> sweotol
+sæde -> sæd
+þæt -> þæt
+sio -> se
+sawl -> sawel
+wære -> wære
+
+þriefald -> None
+gesceaft -> None
+þegna -> þegnian
+gehwilces -> None
+
+forðæm -> None
+uðwitan -> None
+ealle -> ealle
+seggað -> None
+
+ðætte -> None
+an -> on
+gecynd -> gecynd
+ælcre -> ælc
+saule -> None
+
+irsung -> None
+sie -> wesan
+oðer -> oðer
+wilnung -> None
+
+is -> wesan
+sio -> se
+ðridde -> None
+gecynd -> gecynd
+þæm -> þæm
+twæm -> twegen
+betere -> god
+
+sio -> se
+gesceadwisnes -> None
+nis -> nesan
+ðæt -> þæt
+scandlic -> None
+cræft -> cræft
+
+forðæm -> None
+hit -> hit
+nænig -> None
+hafað -> None
+neat -> None
+buton -> butan
+monnum -> mann
+
+hæfð -> None
+þa -> þu
+oðra -> oðer
+twa -> twegen
+unrim -> None
+wuhta -> None
+
+hæfð -> None
+þa -> þu
+wilnunga -> None
+welhwilc -> None
+neten -> None
+
+and -> and
+þa -> þu
+yrsunga -> None
+eac -> eac
+swa -> swa
+selfe -> self
+
+forðy -> forði
+men -> mann
+habbæð -> None
+geond -> geond
+middangeard -> middangeard
+
+eorðgesceafta -> None
+ealla -> eall
+oferþungen -> None
+
+forðæm -> None
+ðe -> þu
+hi -> hi
+habbað -> None
+þæs -> se
+ðe -> þu
+hi -> hi
+nabbað -> None
+
+þone -> se
+ænne -> an
+cræft -> cræft
+þe -> þu
+we -> we
+ær -> ær
+nemdon -> nemnan
+
+sio -> se
+gesceadwisnes -> None
+sceal -> sculan
+on -> on
+gehwelcum -> None
+
+þære -> þære
+wilnunge -> None
+waldan -> None
+semle -> None
+
+and -> and
+irsunge -> None
+eac -> eac
+swa -> swa
+selfe -> self
+
+hio -> None
+sceal -> sculan
+mid -> mid
+geþeahte -> geþeaht
+þegnes -> þegen
+mode -> None
+
+mid -> mid
+andgite -> None
+ealles -> eall
+waldan -> None
+
+hio -> None
+is -> wesan
+þæt -> þæt
+mæste -> micel
+mægen -> mægen
+monnes -> None
+saule -> None
+
+and -> and
+se -> se
+selesta -> None
+sundorcræfta -> None
+
+hwæt -> hwæt#2
+þu -> þu
+ða -> þe
+saule -> None
+sigora -> sigorian
+waldend -> None
+
+þeoda -> None
+þrymcyning -> None
+þus -> þus
+gesceope -> None
+
+þæt -> þæt
+hio -> None
+hwearfode -> hwearfian
+on -> on
+hire -> hire
+selfre -> None
+
+hire -> hire
+utan -> utan
+ymb -> ymb
+swa -> swa
+swa -> swa
+eal -> eal
+deð -> None
+
+rineswifte -> None
+rodor -> rodor
+recene -> recen
+ymbscriðeð -> None
+
+dogora -> None
+gehwilce -> None
+drihtnes -> drihten
+meahtum -> None
+
+þisne -> þes
+middangeard -> middangeard
+swa -> swa
+deð -> None
+monnes -> None
+saul -> None
+
+hweole -> None
+gelicost -> None
+hwærfeð -> None
+ymbe -> ymbe
+hy -> hi
+selfe -> self
+
+oft -> oft
+smeagende -> smeagan
+ymb -> ymb
+ðas -> þes
+eorðlican -> None
+
+drihtnes -> drihten
+gesceafta -> None
+dagum -> dæg
+and -> and
+nihtum -> neaht
+
+hwilum -> hwilum
+ymb -> ymb
+hi -> hi
+selfe -> self
+secende -> None
+smeað -> None
+
+hwilum -> hwilum
+eft -> eft
+smeað -> None
+ymb -> ymb
+þone -> se
+ecan -> None
+god -> god
+
+sceppend -> None
+hire -> hire
+scriðende -> None
+færð -> None
+
+hweole -> None
+gelicost -> None
+hwærfð -> None
+ymb -> ymb
+hi -> hi
+selfe -> self
+
+þonne -> þonne
+hio -> None
+ymb -> ymb
+hire -> hire
+scyppend -> None
+mid -> mid
+gescead -> None
+smeað -> None
+
+hio -> None
+bið -> None
+up -> up
+ahæfen -> None
+ofer -> ofer
+hi -> hi
+selfe -> self
+
+ac -> acan
+hio -> None
+bið -> None
+eallunga -> None
+an -> on
+hire -> hire
+selfre -> None
+
+þonne -> þonne
+hio -> None
+ymb -> ymb
+hi -> hi
+selfe -> self
+secende -> None
+smeað -> None
+
+hio -> None
+bið -> None
+swiðe -> swiðe
+fior -> None
+hire -> hire
+selfre -> None
+beneoðan -> None
+
+þonne -> þonne
+hio -> None
+þæs -> se
+lænan -> None
+lufað -> None
+and -> and
+wundrað -> None
+
+eorðlicu -> None
+þing -> þingan
+ofer -> ofer
+ecne -> None
+ræd -> None
+
+hwæt -> hwæt#2
+þu -> þu
+ece -> ece
+god -> god
+eard -> None
+forgeafe -> forgifan
+
+saulum -> None
+on -> on
+heofonum -> heofon
+selest -> None
+weorðlica -> None
+
+ginfæsta -> None
+gifa -> gifu
+god -> god
+ælmihtig -> None
+
+be -> be
+geearnunga -> None
+anra -> an
+gehwelcre -> None
+
+ealle -> ealle
+hi -> hi
+scinað -> None
+ðurh -> þurh
+þa -> þu
+sciran -> None
+neaht -> niht
+
+hadre -> None
+on -> on
+heofonum -> heofon
+na -> na
+hwæðre -> None
+þeah -> þicgan
+
+ealle -> ealle
+efenbeorhte -> None
+hwæt -> hwæt#2
+we -> we
+oft -> oft
+gesioð -> None
+
+hadrum -> None
+nihtum -> neaht
+þætte -> se
+heofonsteorran -> None
+
+ealle -> ealle
+efenbeorhte -> None
+æfre -> æfre
+ne -> nesan
+scinað -> None
+
+hwæt -> hwæt#2
+þu -> þu
+ece -> ece
+god -> god
+eac -> eac
+gemengest -> None
+
+þa -> þu
+heofoncundan -> None
+hider -> hider
+wið -> wiþ
+eorðan -> eorþ
+
+saula -> None
+wið -> wiþ
+lice -> None
+siððan -> siððan
+wuniað -> None
+
+þis -> þes
+eorðlice -> None
+and -> and
+þæt -> þæt
+ece -> ece
+samod -> samod
+
+saul -> None
+in -> in
+flæsce -> flæsc
+hwæt -> hwæt#2
+hi -> hi
+simle -> simble
+to -> to
+ðe -> þu
+
+hionan -> None
+fundiað -> None
+forðæm -> None
+hi -> hi
+hider -> hider
+of -> of
+ðe -> þu
+
+æror -> None
+comon -> None
+sculon -> sculan
+eft -> eft
+to -> to
+ðe -> þu
+
+sceal -> sculan
+se -> se
+lichama -> lichama
+last -> None
+weardigan -> None
+
+eft -> eft
+on -> on
+eorðan -> eorþ
+forðæm -> None
+he -> he
+ær -> ær
+of -> of
+hire -> hire
+
+weox -> None
+on -> on
+weorulde -> None
+wunedon -> None
+ætsomne -> None
+
+efen -> efen
+swa -> swa
+lange -> lange
+swa -> swa
+him -> him
+lyfed -> None
+wæs -> wesan
+
+from -> from
+þæm -> þæm
+ælmihtigan -> eallmihtig
+þe -> þu
+hi -> hi
+æror -> None
+gio -> None
+
+gesomnade -> None
+þæt -> þæt
+is -> wesan
+soð -> None
+cining -> None
+
+se -> se
+þas -> þes
+foldan -> folde
+gesceop -> gesceppan
+and -> and
+hi -> hi
+gefylde -> gefyllan
+þa -> þu
+
+swiðe -> swiðe
+mislicum -> None
+mine -> min
+gefræge -> None
+
+neata -> None
+cynnum -> cynn
+nergend -> None
+user -> None
+
+he -> he
+hi -> hi
+siððan -> siððan
+asiow -> None
+sæda -> sæd
+monegum -> None
+
+wuda -> wudu
+and -> and
+wyrta -> wyrtian
+weorulde -> None
+sceatum -> None
+
+forgif -> None
+nu -> nu
+ece -> ece
+god -> god
+urum -> ure
+modum -> None
+
+þæt -> þæt
+hi -> hi
+moten -> None
+to -> to
+þe -> þu
+metod -> metod
+alwuhta -> None
+
+þurg -> None
+þas -> þes
+earfoðu -> None
+up -> up
+astigan -> None
+
+and -> and
+of -> of
+þisum -> þes
+bysegum -> None
+bilewit -> bilewit
+fæder -> fæder
+
+þeoda -> None
+waldend -> None
+to -> to
+ðe -> þu
+cuman -> cuman
+
+and -> and
+þonne -> þonne
+mid -> mid
+openum -> open
+eagum -> None
+moten -> None
+
+modes -> None
+ures -> ure
+ðurh -> þurh
+ðinra -> None
+mægna -> mægen
+sped -> None
+
+æwelm -> None
+gesion -> None
+eallra -> eall
+gooda -> None
+
+þæt -> þæt
+þu -> þu
+eart -> wesan
+selfa -> None
+sigedrihten -> None
+god -> god
+
+ge -> ge
+þa -> þu
+eagan -> None
+hal -> None
+ures -> ure
+modes -> None
+
+þæt -> þæt
+we -> we
+hi -> hi
+on -> on
+ðe -> þu
+selfum -> self
+siððan -> siððan
+moten -> None
+
+afæstnian -> None
+fæder -> fæder
+engla -> engel
+todrif -> None
+
+þone -> se
+þiccan -> þicce
+mist -> None
+þe -> þu
+þrage -> None
+nu -> nu
+
+wið -> wiþ
+þa -> þu
+eagan -> None
+foran -> foran
+usses -> None
+modes -> None
+
+hangode -> hangian
+hwyle -> None
+hefig -> hefig
+and -> and
+þystre -> þystru
+
+onliht -> None
+nu -> nu
+þa -> þu
+eagan -> None
+usses -> None
+modes -> None
+
+mid -> mid
+þinum -> þin
+leohte -> leoht
+lifes -> lifes
+waldend -> None
+
+forðæm -> None
+þu -> þu
+eart -> wesan
+sio -> se
+birhtu -> birhtu
+bilewit -> bilewit
+fæder -> fæder
+
+soðes -> soþes
+leohtes -> None
+and -> and
+þu -> þu
+selfa -> None
+eart -> wesan
+
+sio -> se
+fæste -> fæstan
+ræst -> None
+fæder -> fæder
+ælmihtig -> None
+
+eallra -> eall
+soðfæstra -> None
+hwæt -> hwæt#2
+þu -> þu
+softe -> None
+gedest -> gedon
+
+þæt -> þæt
+hi -> hi
+ðe -> þu
+selfne -> None
+gesion -> None
+moten -> None
+
+þu -> þu
+eart -> wesan
+eallra -> eall
+þinga -> þingian
+þeoda -> None
+waldend -> None
+
+fruma -> None
+and -> and
+ende -> ende
+hwæt -> hwæt#2
+þu -> þu
+fæder -> fæder
+engla -> engel
+
+eall -> eall
+þing -> þingan
+birest -> None
+eðelice -> None
+
+buton -> butan
+geswince -> geswincan
+þu -> þu
+eart -> wesan
+selfa -> None
+weg -> wegan
+
+and -> and
+latteow -> None
+eac -> eac
+lifgendra -> None
+gehwæs -> None
+
+and -> and
+sio -> se
+wlitige -> wlitig
+stow -> stow
+þe -> þu
+se -> se
+weg -> wegan
+to -> to
+ligð -> None
+
+þe -> þu
+ealle -> ealle
+to -> to
+a -> hosp
+fundiað -> None
+
+men -> mann
+of -> of
+moldan -> molde
+on -> on
+þa -> þu
+mæran -> mære
+gesceaft -> None
+## -> None
+wel -> wel
+la -> la
+monna -> mann
+bearn -> beirnan
+geond -> geond
+middangeard -> middangeard
+
+friora -> None
+æghwilc -> None
+fundie -> fundian
+to -> to
+
+þæm -> þæm
+ecum -> None
+gode -> god
+þe -> þu
+we -> we
+ymb -> ymb
+sprecað -> None
+
+and -> and
+to -> to
+þæm -> þæm
+gesælðum -> None
+þe -> þu
+we -> we
+secgað -> None
+ymb -> ymb
+
+se -> se
+ðe -> þu
+ðonne -> þonne
+nu -> nu
+sie -> wesan
+nearwe -> nearo
+gehefted -> None
+
+mid -> mid
+þisses -> þes
+mæran -> mære
+middangeardes -> middangeard
+
+unnyttre -> None
+lufe -> lufu
+sece -> None
+him -> him
+eft -> eft
+hræðe -> None
+
+fulne -> full
+friodom -> None
+þæt -> þæt
+he -> he
+forð -> forþ
+cume -> cuman
+
+to -> to
+þæm -> þæm
+gesælðum -> None
+saula -> None
+rædes -> None
+
+forþæm -> forðam
+þæt -> þæt
+is -> wesan
+sio -> se
+an -> on
+rest -> None
+eallra -> eall
+geswinca -> None
+
+hyhtlicu -> None
+hyð -> None
+heaum -> None
+ceolum -> None
+
+modes -> None
+usses -> None
+meresmylta -> None
+wic -> wic
+
+þæt -> þæt
+is -> wesan
+sio -> se
+an -> on
+hyð -> None
+þe -> þu
+æfre -> æfre
+bið -> None
+
+æfter -> æfter
+þam -> þæm
+yðum -> None
+ura -> None
+geswinca -> None
+
+ysta -> None
+gehwelcre -> None
+ealnig -> None
+smylte -> None
+
+þæt -> þæt
+is -> wesan
+sio -> se
+friðstow -> None
+and -> and
+sio -> se
+frofor -> None
+an -> on
+
+eallra -> eall
+yrminga -> None
+æfter -> æfter
+þissum -> þes
+
+weoruldgeswincum -> None
+þæt -> þæt
+is -> wesan
+wynsum -> wynsum
+stow -> stow
+
+æfter -> æfter
+þyssum -> þes
+yrmðum -> None
+to -> to
+aganne -> None
+
+ac -> acan
+ic -> ic
+georne -> georne
+wat -> witan
+þætte -> se
+gylden -> gylden
+maðm -> None
+
+sylofren -> None
+sincstan -> None
+searogimma -> None
+nan -> nan
+
+middangeardes -> middangeard
+wela -> wela
+modes -> None
+eagan -> None
+
+æfre -> æfre
+ne -> nesan
+onlyhtað -> None
+auht -> None
+ne -> nesan
+gebetað -> None
+
+hiora -> hira
+scearpnesse -> None
+to -> to
+þære -> þære
+sceawunga -> None
+
+soðra -> None
+gesælða -> None
+ac -> acan
+hi -> hi
+swiðor -> swiðe
+get -> None
+
+monna -> mann
+gehwelces -> None
+modes -> None
+eagan -> None
+
+ablendað -> None
+on -> on
+breostum -> None
+þonne -> þonne
+hi -> hi
+hi -> hi
+beorhtran -> None
+gedon -> gedon
+
+forðæm -> None
+æghwilc -> None
+ðing -> None
+þe -> þu
+on -> on
+þys -> þis
+andweardan -> andweard
+
+life -> None
+licað -> lican
+lænu -> None
+sindon -> None
+
+eorðlicu -> None
+þing -> þingan
+a -> hosp
+fleondu -> None
+
+ac -> acan
+þæt -> þæt
+is -> wesan
+wundorlic -> wundorlic
+wlite -> wlite
+and -> and
+beorhtnes -> beorhtnes
+
+þe -> þu
+wuhta -> None
+gehwæs -> None
+wlite -> wlite
+geberhteð -> None
+
+and -> and
+æfter -> æfter
+þæm -> þæm
+eallum -> eall
+wealdeð -> None
+
+nele -> None
+se -> se
+waldend -> None
+ðæt -> þæt
+forweorðan -> None
+scylen -> sculan
+
+saula -> None
+usse -> None
+ac -> acan
+he -> he
+hi -> hi
+selfa -> None
+wile -> wil
+
+leoman -> None
+onlihtan -> None
+lifes -> lifes
+wealdend -> wealdend
+
+gif -> gif
+þonne -> þonne
+hæleða -> None
+hwilc -> hwilc
+hlutrum -> None
+eagum -> None
+
+modes -> None
+sines -> None
+mæg -> mæg
+æfre -> æfre
+ofsion -> None
+
+hiofones -> None
+leohtes -> None
+hlutre -> None
+beorhto -> None
+
+þonne -> þonne
+wile -> wil
+he -> he
+secgan -> None
+þæt -> þæt
+ðære -> se
+sunnan -> sunne
+sie -> wesan
+
+beorhtnes -> beorhtnes
+þiostro -> None
+beorna -> beorn
+gehwylcum -> gehwylc
+
+to -> to
+metanne -> None
+wið -> wiþ
+þæt -> þæt
+micle -> micel
+leoht -> sunnan
+
+godes -> god
+ælmihtiges -> None
+þæt -> þæt
+is -> wesan
+gasta -> None
+gehwæm -> None
+
+ece -> ece
+butan -> butan
+ende -> ende
+eadegum -> None
+saulum -> None
+## -> None
+se -> se
+þe -> þu
+æfter -> æfter
+rihte -> rihte
+mid -> mid
+gerece -> None
+wille -> willan
+
+inweardlice -> None
+æfter -> æfter
+spyrian -> None
+
+swa -> swa
+deoplice -> None
+þæt -> þæt
+hit -> hit
+todrifan -> None
+ne -> nesan
+mæg -> mæg
+
+monna -> mann
+ænig -> ænig
+ne -> nesan
+amerran -> None
+huru -> huru
+
+ænig -> ænig
+eorðlic -> None
+ðincg -> None
+he -> he
+ærest -> ærest
+sceal -> sculan
+
+secan -> None
+on -> on
+him -> him
+selfum -> self
+þæt -> þæt
+he -> he
+sume -> sum
+hwile -> hwil
+
+ymbutan -> ymbutan
+hine -> he
+æror -> None
+sohte -> None
+
+sece -> None
+þæt -> þæt
+siððan -> siððan
+on -> on
+his -> hit
+sefan -> None
+innan -> innan
+
+and -> and
+forlæte -> None
+an -> on
+swa -> swa
+he -> he
+oftost -> None
+mæge -> mæge
+
+ælcne -> None
+ymbhogan -> None
+ðy -> se
+him -> him
+unnet -> None
+sie -> wesan
+
+and -> and
+gesamnige -> None
+swa -> swa
+he -> he
+swiðost -> swiðe
+mæge -> mæge
+
+ealle -> ealle
+to -> to
+þæm -> þæm
+anum -> an
+his -> hit
+ingeðonc -> None
+
+gesecge -> None
+his -> hit
+mode -> None
+þæt -> þæt
+hit -> hit
+mæg -> mæg
+findan -> findan
+
+eall -> eall
+on -> on
+him -> him
+innan -> innan
+þæt -> þæt
+hit -> hit
+oftost -> None
+nu -> nu
+
+ymbutan -> ymbutan
+hit -> hit
+ealneg -> None
+seceð -> None
+
+gooda -> None
+æghwylc -> None
+he -> he
+ongit -> None
+siððan -> siððan
+
+yfel -> yfel
+and -> and
+unnet -> None
+eal -> eal
+þæt -> þæt
+he -> he
+hæfde -> habban
+
+on -> on
+his -> hit
+incofan -> None
+æror -> None
+lange -> lange
+
+efne -> efne
+swa -> swa
+sweotole -> sweotol
+swa -> swa
+he -> he
+on -> on
+þa -> þu
+sunnan -> sunne
+mæg -> mæg
+
+eagum -> None
+andweardum -> andweard
+on -> on
+locian -> None
+
+and -> and
+he -> he
+eac -> eac
+ongit -> None
+his -> hit
+ingeþonc -> None
+
+leohtre -> None
+and -> and
+berhtre -> None
+þonne -> þonne
+se -> se
+leoma -> None
+sie -> wesan
+
+sunnan -> sunne
+on -> on
+sumera -> sumer
+þonne -> þonne
+swegles -> swegl
+gim -> None
+
+hador -> None
+heofontungol -> None
+hlutrost -> None
+scineð -> None
+
+forðæm -> None
+þæs -> se
+lichoman -> None
+leahtras -> None
+and -> and
+hefignes -> hefignes
+
+and -> and
+þa -> þu
+unþeawas -> None
+eallunga -> None
+ne -> nesan
+magon -> magan
+
+of -> of
+mode -> None
+ation -> None
+monna -> mann
+ænegum -> ænig
+
+rihtwisnesse -> None
+ðeah -> þeah
+nu -> nu
+rinca -> rinc
+hwæm -> None
+
+þæs -> se
+lichoman -> None
+leahtras -> None
+and -> and
+hefignes -> hefignes
+
+and -> and
+unþeawas -> None
+oft -> oft
+bysigen -> None
+
+monna -> mann
+modsefan -> None
+mæst -> micel
+and -> and
+swiðost -> swiðe
+
+mid -> mid
+þære -> þære
+yflan -> yfel
+oforgiotolnesse -> None
+
+mid -> mid
+gedwolmiste -> None
+dreorigne -> None
+sefan -> None
+
+fortihð -> None
+mod -> None
+foran -> foran
+monna -> mann
+gehwelces -> None
+
+þæt -> þæt
+hit -> hit
+swa -> swa
+beorhte -> beorht
+ne -> nesan
+mot -> None
+blican -> None
+and -> and
+scinan -> None
+
+swa -> swa
+hit -> hit
+wolde -> willan
+gif -> gif
+hit -> hit
+geweald -> geweald
+ahte -> None
+
+þeah -> þicgan
+bið -> None
+sum -> sum
+corn -> corn
+sædes -> None
+gehealden -> gehealdan
+
+symle -> simble
+on -> on
+ðære -> se
+saule -> None
+soðfæstnesse -> None
+
+þenden -> None
+gadertang -> None
+wunað -> None
+gast -> None
+on -> on
+lice -> None
+
+ðæs -> se
+sædes -> None
+corn -> corn
+bið -> None
+symle -> simble
+aweaht -> None
+
+mid -> mid
+ascunga -> None
+eac -> eac
+siððan -> siððan
+mid -> mid
+
+goodre -> None
+lare -> lar
+gif -> gif
+hit -> hit
+growan -> None
+sceal -> sculan
+
+hu -> hu
+mæg -> mæg
+ænig -> ænig
+man -> mann
+andsware -> andswaru
+findan -> findan
+
+ðinga -> None
+æniges -> ænig
+þegen -> þicgan
+mid -> mid
+gesceade -> None
+
+þeah -> þicgan
+hine -> he
+rinca -> rinc
+hwilc -> hwilc
+rihtwislice -> None
+
+æfter -> æfter
+frigne -> frignan
+gif -> gif
+he -> he
+awuht -> None
+nafað -> None
+
+on -> on
+his -> hit
+modsefan -> None
+mycles -> None
+ne -> nesan
+lytles -> None
+
+rihtwisnesse -> None
+ne -> nesan
+geradscipes -> None
+
+nis -> nesan
+þeah -> þicgan
+ænig -> ænig
+man -> mann
+þætte -> se
+ealles -> eall
+swa -> swa
+
+þæs -> se
+geradscipes -> None
+swa -> swa
+bereafod -> None
+sie -> wesan
+
+þæt -> þæt
+he -> he
+andsware -> andswaru
+ænige -> ænig
+ne -> nesan
+cunne -> cunnan
+
+findan -> findan
+on -> on
+ferhðe -> None
+gif -> gif
+he -> he
+frugnen -> frignan
+bið -> None
+
+forðæm -> None
+hit -> hit
+is -> wesan
+riht -> riht
+spell -> None
+þæt -> þæt
+us -> we
+reahte -> reccan
+gio -> None
+
+ald -> None
+uðwita -> None
+ure -> ure
+platon -> None
+
+he -> he
+cwæð -> cweðan
+þætte -> se
+æghwilc -> None
+ungemyndig -> None
+
+rihtwisnesse -> None
+hine -> he
+hræðe -> None
+sceolde -> sculan
+
+eft -> eft
+gewendan -> gewendan
+into -> into
+sinum -> None
+
+modes -> None
+gemynde -> gemynd
+he -> he
+mæg -> mæg
+siððan -> siððan
+
+on -> on
+his -> hit
+runcofan -> None
+rihtwisnesse -> None
+
+findan -> findan
+on -> on
+ferhte -> None
+fæste -> fæstan
+gehydde -> None
+
+mid -> mid
+gedræfnesse -> None
+dogora -> None
+gehwilce -> None
+
+modes -> None
+sines -> None
+mæst -> micel
+and -> and
+swiðost -> swiðe
+
+and -> and
+mid -> mid
+hefinesse -> None
+his -> hit
+lichoman -> None
+
+and -> and
+mid -> mid
+þæm -> þæm
+bisgum -> bisig
+þe -> þu
+on -> on
+breostum -> None
+styreð -> None
+
+mon -> mann
+on -> on
+mode -> None
+mæla -> None
+gehwylce -> gehwylc
+## -> None
+sie -> wesan
+ðæt -> þæt
+la -> la
+on -> on
+eorðan -> eorþ
+ælces -> None
+ðinges -> None
+
+gesælig -> None
+mon -> mann
+gif -> gif
+he -> he
+gesion -> None
+mæge -> mæge
+
+þone -> se
+hlutrestan -> None
+heofontorhtan -> None
+stream -> None
+
+æðelne -> æðele
+æwelm -> None
+ælces -> None
+goodes -> None
+
+and -> and
+of -> of
+him -> him
+selfum -> self
+ðone -> se
+sweartan -> sweart
+mist -> None
+
+modes -> None
+þiostro -> None
+mæg -> mæg
+aweorpan -> None
+
+we -> we
+sculon -> sculan
+ðeah -> þeah
+gita -> None
+mid -> mid
+godes -> god
+fylste -> None
+
+ealdum -> eald
+and -> and
+leasum -> leas
+ðinne -> None
+ingeðonc -> None
+
+betan -> None
+bispellum -> None
+þæt -> þæt
+ðu -> þu
+ðe -> þu
+bet -> wel
+mæge -> mæge
+
+aredian -> None
+to -> to
+rodorum -> rodor
+rihte -> rihte
+stige -> stigan
+
+on -> on
+ðone -> se
+ecan -> None
+eard -> None
+ussa -> None
+saula -> None
+## -> None
+ic -> ic
+hæbbe -> habban
+fiðru -> None
+fugle -> fugol
+swiftran -> swift
+
+mid -> mid
+ðæm -> þæm
+ic -> ic
+fleogan -> None
+mæg -> mæg
+feor -> feor
+fram -> fram
+eorðan -> eorþ
+
+ofer -> ofer
+heane -> None
+hrof -> hrof
+heofones -> heofon
+þisses -> þes
+
+ac -> acan
+ðær -> þær
+ic -> ic
+nu -> nu
+moste -> None
+mod -> None
+gefeðran -> None
+
+ðinne -> None
+ferðlocan -> None
+feðrum -> None
+minum -> minum
+
+oððæt -> None
+ðu -> þu
+meahte -> magan
+þisne -> þes
+middangeard -> middangeard
+
+ælc -> ælc
+eorðlic -> None
+ðing -> None
+eallunga -> None
+forsion -> None
+
+meahtes -> None
+ofer -> ofer
+rodorum -> rodor
+gereclice -> None
+
+feðerum -> feðer
+lacan -> None
+feor -> feor
+up -> up
+ofer -> ofer
+
+wolcnu -> wolcen
+windan -> windan
+wlitan -> None
+siððan -> siððan
+
+ufan -> ufan
+ofer -> ofer
+ealle -> ealle
+meahtes -> None
+eac -> eac
+faran -> faran
+
+ofer -> ofer
+ðæm -> þæm
+fyre -> fyr
+ðe -> þu
+fela -> fela
+geara -> gear
+
+for -> for
+lange -> lange
+betweox -> betweoh
+lyfte -> lyft
+and -> and
+rodere -> None
+
+swa -> swa
+him -> him
+æt -> æt
+frymðe -> frymþ
+fæder -> fæder
+getiode -> None
+
+ðu -> þu
+meahtest -> magan
+ðe -> þu
+siððan -> siððan
+mid -> mid
+ðære -> se
+sunnan -> sunne
+
+faran -> faran
+betweox -> betweoh
+oðrum -> oðer
+tunglum -> tungol
+
+meahtest -> magan
+ðe -> þu
+full -> full
+recen -> recen
+on -> on
+ðæm -> þæm
+rodere -> None
+ufan -> ufan
+
+siððan -> siððan
+weorðan -> None
+and -> and
+ðonne -> þonne
+samtenges -> None
+
+æt -> æt
+ðæm -> þæm
+ælcealdan -> None
+anum -> an
+steorran -> steorra
+
+se -> se
+yfmest -> None
+is -> wesan
+eallra -> eall
+tungla -> tungol
+
+ðone -> se
+saturnus -> None
+sundbuende -> None
+
+hatað -> None
+under -> under
+heofonum -> heofon
+he -> he
+is -> wesan
+se -> se
+cealda -> cealdian
+
+eallisig -> None
+tungl -> None
+yfemest -> None
+wandrað -> None
+
+ofer -> ofer
+eallum -> eall
+ufan -> ufan
+oðrum -> oðer
+steorrum -> steorra
+
+siððan -> siððan
+ðu -> þu
+ðonne -> þonne
+ðone -> se
+up -> up
+a -> hosp
+hafast -> hafian
+
+forð -> forþ
+oferfarenne -> oferfaran
+ðu -> þu
+meaht -> magan
+feorsian -> feorsian
+
+ðonne -> þonne
+bist -> beon
+ðu -> þu
+siððan -> siððan
+sona -> sona
+ofer -> ofer
+uppan -> None
+
+rodere -> None
+ryneswiftum -> None
+gif -> gif
+ðu -> þu
+on -> on
+riht -> riht
+færest -> faran
+
+ðe -> þu
+ðone -> se
+hehstan -> None
+heofon -> heofon
+behindan -> behindan
+lætst -> None
+
+ðonne -> þonne
+meaht -> magan
+ðu -> þu
+siððan -> siððan
+soðes -> soþes
+leohtes -> None
+
+habban -> habban
+þinne -> þin
+dæl -> dæl
+ðonan -> None
+an -> on
+cyning -> cyning
+
+rume -> None
+ricsað -> None
+ofer -> ofer
+roderum -> None
+up -> up
+
+and -> and
+under -> under
+swa -> swa
+same -> same
+eallra -> eall
+gesceafta -> None
+
+weorulde -> None
+waldeð -> None
+þæt -> þæt
+is -> wesan
+wis -> None
+cyning -> cyning
+
+þæt -> þæt
+is -> wesan
+se -> se
+ðe -> þu
+waldeð -> None
+giond -> None
+werðioda -> None
+
+ealra -> eal
+oðra -> oðer
+eorðan -> eorþ
+cyninga -> cyning
+
+se -> se
+mid -> mid
+his -> hit
+bridle -> None
+ymbebæted -> None
+hæfð -> None
+
+ymbhwyrft -> None
+ealne -> eal
+eorðan -> eorþ
+and -> and
+heofones -> heofon
+
+he -> he
+his -> hit
+gewaldleðer -> None
+wel -> wel
+gemetgað -> None
+
+se -> se
+stioreð -> None
+a -> hosp
+þurg -> None
+ða -> þe
+strongan -> None
+meaht -> magan
+
+ðæm -> þæm
+hrædwæne -> None
+heofones -> heofon
+and -> and
+eorðan -> eorþ
+
+se -> se
+an -> on
+dema -> dema
+is -> wesan
+gestæððig -> None
+
+unawendendlic -> None
+wlitig -> None
+and -> and
+mære -> mære
+
+gif -> gif
+ðu -> þu
+weorðest -> None
+on -> on
+wege -> wegan
+rihtum -> riht
+
+up -> up
+to -> to
+ðæm -> þæm
+earde -> eard
+þæt -> þæt
+is -> wesan
+æðele -> æðele
+stow -> stow
+
+ðeah -> þeah
+ðu -> þu
+hi -> hi
+nu -> nu
+geta -> None
+forgiten -> None
+hæbbe -> habban
+
+gif -> gif
+ðu -> þu
+æfre -> æfre
+eft -> eft
+þær -> þær
+an -> on
+cymest -> None
+
+ðonne -> þonne
+wilt -> willan
+þu -> þu
+secgan -> None
+and -> and
+sona -> sona
+cweðan -> None
+: -> None
+
+" -> None
+ðis -> þes
+is -> wesan
+eallunga -> None
+min -> min
+agen -> ongeagn
+cyð -> cyðan
+
+eard -> None
+and -> and
+eðel -> None
+ic -> ic
+wæs -> wesan
+ær -> ær
+hionan -> None
+
+cumen -> cuman
+and -> and
+acenned -> acennan
+ðurh -> þurh
+ðisses -> None
+cræftgan -> cræftig
+meaht -> magan
+
+nylle -> None
+ic -> ic
+æfre -> æfre
+hionan -> None
+ut -> ut
+witan -> witan
+
+ac -> acan
+ic -> ic
+symle -> simble
+her -> her
+softe -> None
+wille -> willan
+
+mid -> mid
+fæder -> fæder
+willan -> willan
+fæste -> fæstan
+stondan -> None
+" -> None
+
+gif -> gif
+ðe -> þu
+ðonne -> þonne
+æfre -> æfre
+eft -> eft
+geweorðeð -> None
+
+þæt -> þæt
+ðu -> þu
+wilt -> willan
+oððe -> oððe
+most -> None
+weorolde -> None
+ðiostro -> None
+
+eft -> eft
+fandian -> fandian
+ðu -> þu
+meaht -> magan
+eaðe -> None
+gesion -> None
+
+unrihtwise -> None
+eorðan -> eorþ
+cyningas -> cyning
+
+and -> and
+þa -> þu
+ofermodan -> None
+oðre -> oðer
+rican -> None
+
+ðe -> þu
+þis -> þes
+werige -> werian
+folc -> folc
+wyrst -> None
+tuciað -> None
+
+þæt -> þæt
+hi -> hi
+symle -> simble
+bioð -> None
+swiðe -> swiðe
+earme -> earm
+
+unmehtige -> None
+ælces -> None
+ðinges -> None
+
+emne -> None
+ða -> þe
+ilcan -> ilca
+þe -> þu
+þis -> þes
+earme -> earm
+folc -> folc
+
+sume -> sum
+hwile -> hwil
+nu -> nu
+swiðost -> swiðe
+ondrædæð -> None
+## -> None
+geher -> None
+nu -> nu
+an -> on
+spell -> None
+be -> be
+ðæm -> þæm
+ofermodum -> None
+
+unrihtwisum -> unrihtwis
+eorðan -> eorþ
+cyningum -> cyninge
+
+ða -> þe
+her -> her
+nu -> nu
+manegum -> manig
+and -> and
+mislicum -> None
+
+wædum -> wæd
+wlitebeorhtum -> None
+wundrum -> wundor
+scinað -> None
+
+on -> on
+heahsetlum -> None
+hrofe -> None
+getenge -> None
+
+golde -> gold
+gegerede -> None
+and -> and
+gimcynnum -> None
+
+utan -> utan
+ymbestandne -> None
+mid -> mid
+unrime -> None
+
+ðegna -> None
+and -> and
+eorla -> eorl
+þa -> þu
+bioð -> None
+gehyrste -> None
+
+mid -> mid
+heregeatwum -> None
+hildetorhtum -> None
+
+sweordum -> None
+and -> and
+fetelum -> None
+swiðe -> swiðe
+geglengde -> None
+
+and -> and
+þegniað -> None
+ðrymme -> None
+micle -> micel
+
+ælc -> ælc
+oðrum -> oðer
+and -> and
+hi -> hi
+ealle -> ealle
+him -> him
+
+ðonan -> None
+mid -> mid
+ðy -> se
+ðrymme -> None
+þreatiað -> None
+gehwider -> None
+
+ymbsittenda -> None
+oðra -> oðer
+ðeoda -> None
+
+and -> and
+se -> se
+hlaford -> None
+ne -> nesan
+scrifð -> None
+ðe -> þu
+ðæm -> þæm
+here -> herian
+waldeð -> None
+
+freonde -> None
+ne -> nesan
+feonde -> None
+feore -> None
+ne -> nesan
+æhtum -> None
+
+ac -> acan
+he -> he
+reðigmod -> None
+ræst -> None
+on -> on
+gehwilcne -> gehwylc
+
+wedehunde -> None
+wuhta -> None
+gelicost -> None
+
+bið -> None
+to -> to
+up -> up
+ahæfen -> None
+inne -> inne
+on -> on
+mode -> None
+
+for -> for
+ðæm -> þæm
+anwalde -> None
+þe -> þu
+him -> him
+anra -> an
+gehwilc -> None
+
+his -> hit
+tirwina -> None
+to -> to
+fultemað -> None
+
+gif -> gif
+mon -> mann
+ðonne -> þonne
+wolde -> willan
+him -> him
+awindan -> None
+of -> of
+
+þæs -> se
+cynegerelan -> None
+claða -> None
+gehwilcne -> gehwylc
+
+and -> and
+him -> him
+þonne -> þonne
+oftion -> None
+ðara -> se
+ðegnunga -> None
+
+and -> and
+þæs -> se
+anwaldes -> None
+ðe -> þu
+he -> he
+ær -> ær
+hæfde -> habban
+
+ðonne -> þonne
+meaht -> magan
+ðu -> þu
+gesion -> None
+þæt -> þæt
+he -> he
+bið -> None
+swiðe -> swiðe
+gelic -> None
+
+sumum -> sum
+ðara -> se
+gumena -> guma
+þe -> þu
+him -> him
+geornost -> None
+nu -> nu
+
+mid -> mid
+ðegnungum -> None
+ðringað -> None
+ymbeutan -> None
+
+gif -> gif
+he -> he
+wyrsa -> None
+ne -> nesan
+bið -> None
+ne -> nesan
+wene -> None
+ic -> ic
+his -> hit
+na -> na
+beteran -> None
+
+gif -> gif
+him -> him
+þonne -> þonne
+æfre -> æfre
+unmendlinga -> None
+
+weas -> None
+geberede -> None
+þæt -> þæt
+him -> him
+wurde -> weorþan
+oftogen -> ofteon
+
+þrymmes -> þrymm
+and -> and
+wæda -> None
+and -> and
+þegnunga -> None
+
+and -> and
+ðæs -> se
+anwaldes -> None
+þe -> þu
+we -> we
+ymbe -> ymbe
+sprecað -> None
+
+gif -> gif
+him -> him
+ænig -> ænig
+þara -> þær
+ofhende -> None
+wyrð -> weorþ
+
+ic -> ic
+wat -> witan
+þæt -> þæt
+him -> him
+þynceð -> None
+þæt -> þæt
+he -> he
+þonne -> þonne
+sie -> wesan
+
+becropen -> None
+on -> on
+carcern -> carcern
+oððe -> oððe
+coðlice -> None
+
+racentan -> racente
+geræped -> None
+ic -> ic
+gereccan -> None
+mæg -> mæg
+
+þæt -> þæt
+of -> of
+ungemete -> None
+ælces -> None
+ðinges -> None
+
+wiste -> witan
+and -> and
+wæda -> None
+wingedrinces -> None
+
+and -> and
+of -> of
+swetmettum -> None
+swiðost -> swiðe
+weaxað -> None
+
+þære -> þære
+wrænnesse -> None
+wodðrag -> None
+micel -> micel
+
+sio -> se
+swiðe -> swiðe
+gedræfð -> None
+sefan -> None
+ingehygd -> ingehygd
+
+monna -> mann
+gehwelces -> None
+þonan -> þanan
+mæst -> micel
+cymeð -> None
+
+yfla -> yfel
+ofermetta -> None
+unnetta -> None
+saca -> None
+
+þonne -> þonne
+hi -> hi
+gebolgene -> None
+weorðað -> None
+him -> him
+wyrð -> weorþ
+on -> on
+breostum -> None
+inne -> inne
+
+beswungen -> None
+sefa -> None
+on -> on
+hraðre -> None
+mid -> mid
+ðæm -> þæm
+swiðan -> None
+welme -> None
+
+hatheortnesse -> hatheortnes
+and -> and
+hreðe -> None
+siððan -> siððan
+
+unrotnesse -> None
+eac -> eac
+geræped -> None
+
+hearde -> heard
+gehæfted -> None
+him -> him
+siððan -> siððan
+onginð -> None
+
+sum -> sum
+tohopa -> None
+swiðe -> swiðe
+leogan -> None
+
+þæs -> se
+gewinnes -> None
+wræce -> wræc
+wilnað -> None
+þæt -> þæt
+irre -> irre
+
+anes -> an
+and -> and
+oðres -> None
+him -> him
+þæt -> þæt
+eall -> eall
+gehæt -> None
+
+his -> hit
+recelest -> None
+rihtes -> None
+ne -> nesan
+scrifeð -> None
+
+ic -> ic
+ðe -> þu
+sæde -> sæd
+ær -> ær
+on -> on
+ðisse -> None
+selfan -> None
+bec -> None
+
+þæt -> þæt
+sumes -> None
+goodes -> None
+sidra -> None
+gesceafta -> None
+
+anlepra -> None
+ælc -> ælc
+a -> hosp
+wilnode -> wilnian
+
+for -> for
+his -> hit
+agenum -> agen
+ealdgecynde -> None
+
+unrihtwise -> None
+eorðan -> eorþ
+cyningas -> cyning
+
+ne -> nesan
+magon -> magan
+æfre -> æfre
+þurhtion -> None
+awuht -> None
+goodes -> None
+
+for -> for
+ðæm -> þæm
+yfle -> yfel
+þe -> þu
+ic -> ic
+ðe -> þu
+ær -> ær
+sæde -> sæd
+
+nis -> nesan
+ðæt -> þæt
+nan -> nan
+wundor -> wundor
+forðæm -> None
+hi -> hi
+willað -> None
+hi -> hi
+
+þæm -> þæm
+unðeawum -> None
+þe -> þu
+ic -> ic
+ðe -> þu
+ær -> ær
+nemde -> nemnan
+
+anra -> an
+gehwelcum -> None
+a -> hosp
+underðeodan -> None
+
+sceal -> sculan
+ðonne -> þonne
+nede -> None
+nearwe -> nearo
+gebugan -> gebugan
+
+to -> to
+ðara -> se
+hlaforda -> None
+hæftedome -> None
+
+þe -> þu
+he -> he
+hine -> he
+eallunga -> None
+ær -> ær
+underþiodde -> None
+
+ðæt -> þæt
+is -> wesan
+wyrse -> None
+get -> None
+þæt -> þæt
+he -> he
+winnan -> winnan
+nyle -> None
+
+wið -> wiþ
+ðæm -> þæm
+anwalde -> None
+ænige -> ænig
+stunde -> None
+
+þær -> þær
+he -> he
+wolde -> willan
+a -> hosp
+winnan -> winnan
+onginnan -> onginnan
+
+and -> and
+þonne -> þonne
+on -> on
+ðæm -> þæm
+gewinne -> gewinnan
+þurhwunian -> þurhwunian
+forð -> forþ
+
+þonne -> þonne
+næfde -> nabban
+he -> he
+nane -> nan
+scylde -> None
+
+ðeah -> þeah
+he -> he
+oferwunnen -> oferwinnan
+weorðan -> None
+sceolde -> sculan
+## -> None
+ic -> ic
+þe -> þu
+mæg -> mæg
+eaðe -> None
+ealdum -> eald
+and -> and
+leasum -> leas
+
+spellum -> None
+andreccan -> None
+spræce -> None
+gelice -> gelice
+
+efne -> efne
+ðisse -> None
+ilcan -> ilca
+þe -> þu
+wit -> None
+ymb -> ymb
+sprecað -> None
+
+hit -> hit
+gesælde -> None
+gio -> None
+on -> on
+sume -> sum
+tide -> tid
+
+ðæt -> þæt
+aulixes -> None
+under -> under
+hæfde -> habban
+
+ðæm -> þæm
+casere -> casere
+cynericu -> None
+twa -> twegen
+
+he -> he
+wæs -> wesan
+þracia -> None
+ðioda -> None
+aldor -> None
+
+and -> and
+retie -> None
+rices -> None
+hirde -> None
+
+wæs -> wesan
+his -> hit
+freadrihtnes -> None
+folccuð -> None
+nama -> nama
+
+agamemnon -> None
+se -> se
+ealles -> eall
+weold -> None
+
+creca -> None
+rices -> None
+cuð -> None
+wæs -> wesan
+wide -> None
+
+þæt -> þæt
+on -> on
+þa -> þu
+tide -> tid
+troia -> None
+gewin -> gewin
+
+wearð -> None
+under -> under
+wolcnum -> wolcen
+for -> for
+wiges -> None
+heard -> heard
+
+creca -> None
+drihten -> drihten
+campsted -> None
+secan -> None
+
+aulixes -> None
+mid -> mid
+an -> on
+hund -> hund
+scipa -> scip
+
+lædde -> None
+ofer -> ofer
+lagustream -> None
+sæt -> sittan
+longe -> lange
+ðær -> þær
+
+tyn -> tin
+winter -> winter
+full -> full
+þa -> þu
+sio -> se
+tid -> tid
+gelomp -> None
+
+þæt -> þæt
+hi -> hi
+ðæt -> þæt
+rice -> romana
+geræht -> None
+hæfdon -> habban
+
+diore -> None
+gecepte -> None
+drihten -> drihten
+creca -> None
+
+troia -> None
+burg -> cantwara
+tilum -> None
+gesiðum -> None
+
+ða -> þe
+ða -> þe
+aulixes -> None
+leafe -> leaf
+hæfde -> habban
+
+ðracia -> None
+cining -> None
+þæt -> þæt
+he -> he
+þonan -> þanan
+moste -> None
+
+he -> he
+let -> None
+him -> him
+behindan -> behindan
+hyrnde -> None
+ciolas -> None
+
+nigon -> nigon
+and -> and
+hundnigontig -> None
+nænigne -> None
+þonan -> þanan
+
+merehengesta -> None
+ma -> micel
+þonne -> þonne
+ænne -> an
+
+ferede -> ferian
+on -> on
+fifelstream -> None
+famigbordon -> None
+
+ðriereðre -> None
+ceol -> None
+þæt -> þæt
+bið -> None
+ðæt -> þæt
+mæste -> micel
+
+creciscra -> None
+scipa -> scip
+þa -> þu
+wearð -> None
+ceald -> None
+weder -> weder
+
+stearc -> None
+storma -> None
+gelac -> None
+stunede -> None
+sio -> se
+brune -> None
+
+yð -> None
+wið -> wiþ
+oðre -> oðer
+ut -> ut
+feor -> feor
+adraf -> adrifan
+
+on -> on
+wendelsæ -> None
+wigendra -> None
+scola -> scolu
+
+up -> up
+on -> on
+þæt -> þæt
+igland -> None
+þær -> þær
+apolines -> None
+
+dohtor -> dohtor
+wunode -> wunian
+dægrimes -> None
+worn -> None
+
+wæs -> wesan
+se -> se
+apollinus -> None
+æðeles -> æðele
+cynnes -> cynn
+
+iobes -> None
+eafora -> None
+se -> se
+wæs -> wesan
+gio -> None
+cyning -> cyning
+
+se -> se
+licette -> None
+litlum -> None
+and -> and
+miclum -> micel
+
+gumena -> guma
+gehwylcum -> gehwylc
+þæt -> þæt
+he -> he
+good -> None
+wære -> wære
+
+hehst -> None
+and -> and
+halgost -> None
+swa -> swa
+se -> se
+hlaford -> None
+þa -> þu
+
+þæt -> þæt
+dysige -> dysig
+folc -> folc
+on -> on
+gedwolan -> None
+lædde -> None
+
+oððæt -> None
+him -> him
+gelyfde -> gelifan
+leoda -> None
+unrim -> None
+
+forðæm -> None
+he -> he
+wæs -> wesan
+mid -> mid
+rihte -> rihte
+rices -> None
+hirde -> None
+
+hiora -> hira
+cynecynnes -> None
+cuð -> None
+is -> wesan
+wide -> None
+
+þæt -> þæt
+on -> on
+ða -> þe
+tide -> tid
+þeoda -> None
+æghwilc -> None
+
+hæfdon -> habban
+heora -> hira
+hlaford -> None
+for -> for
+ðone -> se
+hehstan -> None
+god -> god
+
+and -> and
+weorðodon -> None
+swa -> swa
+swa -> swa
+wuldres -> wuldor
+cining -> None
+
+gif -> gif
+he -> he
+to -> to
+ðæm -> þæm
+rice -> romana
+wæs -> wesan
+on -> on
+rihte -> rihte
+boren -> beran
+
+wæs -> wesan
+þæs -> se
+iobes -> None
+fæder -> fæder
+god -> god
+eac -> eac
+swa -> swa
+he -> he
+
+saturnus -> None
+ðone -> se
+sundbuende -> None
+
+heton -> None
+hæleða -> None
+bearn -> beirnan
+hæfdon -> habban
+ða -> þe
+mægða -> None
+
+ælcne -> None
+æfter -> æfter
+oðrum -> oðer
+for -> for
+ecne -> None
+god -> god
+
+sceolde -> sculan
+eac -> eac
+wesan -> wesan
+apollines -> None
+
+dohtor -> dohtor
+diorboren -> None
+dysiges -> dysig
+folces -> folc
+
+gumrinca -> None
+gyden -> None
+cuðe -> None
+galdra -> galdor
+fela -> fela
+
+drifan -> None
+drycræftas -> None
+hio -> None
+gedwolan -> None
+fylgde -> None
+
+manna -> mann
+swiðost -> swiðe
+manegra -> manig
+þioda -> None
+
+cyninges -> cyning
+dohtor -> dohtor
+sio -> se
+circe -> None
+wæs -> wesan
+
+haten -> None
+for -> for
+herigum -> here
+hio -> None
+ricsode -> None
+
+on -> on
+ðæm -> þæm
+iglonde -> None
+þe -> þu
+aulixes -> None
+
+cining -> None
+þracia -> None
+com -> cuman
+ane -> an
+to -> to
+
+ceole -> None
+liðan -> None
+cuð -> None
+wæs -> wesan
+sona -> sona
+
+eallre -> eall
+þære -> þære
+mænige -> None
+þe -> þu
+hire -> hire
+mid -> mid
+wunode -> wunian
+
+æþelinges -> None
+sið -> None
+hio -> None
+mid -> mid
+ungemete -> None
+
+lissum -> None
+lufode -> lufian
+liðmonna -> None
+frean -> None
+
+and -> and
+he -> he
+eac -> eac
+swa -> swa
+same -> same
+ealle -> ealle
+mægne -> None
+
+efne -> efne
+swa -> swa
+swiðe -> swiðe
+hi -> hi
+on -> on
+sefan -> None
+lufode -> lufian
+
+þæt -> þæt
+he -> he
+to -> to
+his -> hit
+earde -> eard
+ænige -> ænig
+nyste -> nytan
+
+modes -> None
+mynlan -> None
+ofer -> ofer
+mægð -> mægþ
+giunge -> None
+
+ac -> acan
+he -> he
+mid -> mid
+þæm -> þæm
+wife -> wif
+wunode -> wunian
+siððan -> siððan
+
+oððæt -> None
+him -> him
+ne -> nesan
+meahte -> magan
+monna -> mann
+ænig -> ænig
+
+ðegna -> None
+sinra -> None
+þær -> þær
+mid -> mid
+wesan -> wesan
+
+ac -> acan
+hi -> hi
+for -> for
+ðæm -> þæm
+yrmðum -> None
+eardes -> None
+lyste -> None
+
+mynton -> myntan
+forlætan -> None
+leofne -> None
+hlaford -> None
+
+ða -> þe
+ongunnon -> onginnan
+wercan -> None
+werðeoda -> None
+spell -> None
+
+sædon -> None
+þæt -> þæt
+hio -> None
+sceolde -> sculan
+mid -> mid
+hire -> hire
+scinlace -> None
+
+beornas -> beorn
+forbredan -> None
+and -> and
+mid -> mid
+balocræftum -> None
+
+wraðum -> None
+weorpan -> weorpan
+on -> on
+wildra -> None
+lic -> lic
+
+cyninges -> cyning
+þegnas -> þegen
+cyspan -> None
+siððan -> siððan
+
+and -> and
+mid -> mid
+racentan -> racente
+eac -> eac
+ræpan -> None
+mænigne -> None
+
+sume -> sum
+hi -> hi
+to -> to
+wulfum -> wulf
+wurdon -> wurdon
+ne -> nesan
+meahton -> magan
+þonne -> þonne
+word -> word
+forðbringan -> None
+
+ac -> acan
+hio -> None
+þragmælum -> None
+ðioton -> None
+ongunnon -> onginnan
+
+sume -> sum
+wæron -> wesan
+eaforas -> None
+a -> hosp
+grymetedon -> None
+
+ðonne -> þonne
+hi -> hi
+sares -> None
+hwæt -> hwæt#2
+siofian -> None
+scioldon -> None
+
+þa -> þu
+ðe -> þu
+leon -> None
+wæron -> wesan
+ongunnon -> onginnan
+laðlice -> None
+
+yrrenga -> None
+ryn -> None
+a -> hosp
+ðonne -> þonne
+hi -> hi
+sceoldon -> sculan
+
+clipian -> clipian
+for -> for
+corðre -> None
+cnihtas -> cniht
+wurdon -> wurdon
+
+ealde -> eald
+ge -> ge
+giunge -> None
+ealle -> ealle
+forhwerfde -> None
+
+to -> to
+sumum -> sum
+diore -> None
+swelcum -> None
+he -> he
+æror -> None
+
+on -> on
+his -> hit
+lifdagum -> None
+gelicost -> None
+wæs -> wesan
+
+butan -> butan
+þam -> þæm
+cyninge -> cyninge
+þe -> þu
+sio -> se
+cwen -> None
+lufode -> lufian
+
+nolde -> nillan
+þara -> þær
+oþra -> None
+ænig -> ænig
+onbitan -> None
+
+mennisces -> mennisc
+metes -> mete
+ac -> acan
+hi -> hi
+ma -> micel
+lufedon -> None
+
+diora -> None
+drohtað -> None
+swa -> swa
+hit -> hit
+gedefe -> None
+ne -> nesan
+wæs -> wesan
+
+næfdon -> nabban
+hi -> hi
+mare -> micel
+monnum -> mann
+gelices -> None
+
+eorðbuendum -> None
+ðonne -> þonne
+ingeþonc -> None
+
+hæfde -> habban
+anra -> an
+gehwylc -> None
+his -> hit
+agen -> ongeagn
+mod -> None
+
+þæt -> þæt
+wæs -> wesan
+þeah -> þicgan
+swiðe -> swiðe
+sorgum -> sorh
+gebunden -> gebunden
+
+for -> for
+ðæm -> þæm
+earfoðum -> None
+þe -> þu
+him -> him
+on -> on
+sæton -> None
+
+hwæt -> hwæt#2
+ða -> þe
+dysegan -> None
+men -> mann
+þe -> þu
+ðysum -> þes
+drycræftum -> None
+
+longe -> lange
+gelyfdon -> gelifan
+leasum -> leas
+spellum -> None
+
+wisson -> None
+hwæðre -> None
+þæt -> þæt
+þæt -> þæt
+gewit -> gewitan
+ne -> nesan
+mæg -> mæg
+
+mod -> None
+onwendan -> onwendan
+monna -> mann
+ænig -> ænig
+
+mid -> mid
+drycræftum -> None
+þeah -> þicgan
+hio -> None
+gedon -> gedon
+meahte -> magan
+
+þæt -> þæt
+ða -> þe
+lichoman -> None
+lange -> lange
+þrage -> None
+
+onwend -> onwendan
+wurdon -> wurdon
+is -> wesan
+þæt -> þæt
+wundorlic -> wundorlic
+
+mægencræft -> mægencræft
+micel -> micel
+moda -> None
+gehwilces -> None
+
+ofer -> ofer
+lichoman -> None
+lænne -> None
+and -> and
+sænne -> None
+
+swylcum -> swilc
+and -> and
+swylcum -> swilc
+þu -> þu
+meaht -> magan
+sweotole -> sweotol
+ongitan -> None
+
+þæt -> þæt
+ðæs -> se
+lichoman -> None
+listas -> None
+and -> and
+cræftas -> cræft
+
+of -> of
+ðæm -> þæm
+mode -> None
+cumað -> None
+monna -> mann
+gehwylcum -> gehwylc
+
+anlepra -> None
+ælc -> ælc
+þu -> þu
+meaht -> magan
+eaðe -> None
+ongitan -> None
+
+þætte -> se
+ma -> micel
+dereð -> None
+monna -> mann
+gehwelcum -> None
+
+modes -> None
+unðeaw -> None
+þonne -> þonne
+mettrymnes -> None
+
+lænes -> None
+lichoman -> None
+ne -> nesan
+þearf -> þurfan
+leoda -> None
+nan -> nan
+
+wenan -> None
+þære -> þære
+wyrde -> wyrd
+þæt -> þæt
+þæt -> þæt
+werige -> werian
+flæsc -> flæsc
+
+þæt -> þæt
+mod -> None
+mæge -> mæge
+monna -> mann
+æniges -> ænig
+
+eallunga -> None
+to -> to
+him -> him
+æfre -> æfre
+onwendan -> onwendan
+
+ac -> acan
+þa -> þu
+unðeawas -> None
+ælces -> None
+modes -> None
+
+and -> and
+þæt -> þæt
+ingeþonc -> None
+ælces -> None
+monnes -> None
+
+þone -> se
+lichoman -> None
+lit -> None
+þider -> þider
+hit -> hit
+wile -> wil
+## -> None
+hwy -> None
+ge -> ge
+æfre -> æfre
+scylen -> sculan
+unrihtfioungum -> None
+
+eower -> ge
+mod -> None
+drefan -> None
+swa -> swa
+swa -> swa
+mereflodes -> None
+
+yþa -> None
+hrerað -> None
+iscalde -> None
+sæ -> sæ
+
+wecggað -> None
+for -> for
+winde -> windan
+hwy -> None
+oðwite -> None
+ge -> ge
+
+wyrde -> wyrd
+eowre -> eower
+þæt -> þæt
+hio -> None
+geweald -> geweald
+nafað -> None
+
+hwy -> None
+ge -> ge
+þæs -> se
+deaðes -> None
+þe -> þu
+eow -> ge
+drihten -> drihten
+gesceop -> gesceppan
+
+gebidan -> None
+ne -> nesan
+magon -> magan
+bitres -> biter
+gecyndes -> gecynd
+
+nu -> nu
+he -> he
+eow -> ge
+ælce -> ælc
+dæg -> dæg
+onet -> None
+toweard -> None
+
+ne -> nesan
+magon -> magan
+ge -> ge
+gesion -> None
+þæt -> þæt
+he -> he
+symle -> simble
+spyreð -> None
+
+æfter -> æfter
+æghwelcum -> None
+eorðan -> eorþ
+tudre -> tudor
+
+diorum -> None
+and -> and
+fuglum -> fugol
+deað -> None
+eac -> eac
+swa -> swa
+same -> same
+
+æfter -> æfter
+moncynne -> None
+geond -> geond
+ðisne -> þes
+middangeard -> middangeard
+
+egeslic -> None
+hunta -> huntian
+a -> hosp
+bið -> None
+on -> on
+waðe -> None
+
+nyle -> None
+he -> he
+ænig -> ænig
+swæð -> None
+æfre -> æfre
+forlætan -> None
+
+ær -> ær
+he -> he
+gehede -> None
+þæt -> þæt
+he -> he
+hwile -> hwil
+ær -> ær
+
+æfter -> æfter
+spyrede -> None
+is -> wesan
+þæt -> þæt
+earmlic -> None
+þing -> þingan
+
+þæt -> þæt
+his -> hit
+gebidan -> None
+ne -> nesan
+magon -> magan
+burgsittende -> None
+
+ungesælige -> None
+men -> mann
+hine -> he
+ær -> ær
+willað -> None
+
+foran -> foran
+to -> to
+sciotan -> None
+swa -> swa
+swa -> swa
+fugla -> fugol
+cyn -> None
+
+oððe -> oððe
+wildu -> None
+dior -> None
+þa -> þu
+winnað -> None
+betwuh -> betweoh
+
+æghwylc -> None
+wolde -> willan
+oðer -> oðer
+acwellan -> acwellan
+
+ac -> acan
+þæt -> þæt
+is -> wesan
+unriht -> None
+æghwelcum -> None
+men -> mann
+
+þæt -> þæt
+he -> he
+oðerne -> oðer
+inwitþoncum -> None
+
+fioge -> None
+on -> on
+færðe -> None
+swa -> swa
+swa -> swa
+fugl -> None
+oððe -> oððe
+dior -> None
+
+ac -> acan
+þæt -> þæt
+wære -> wære
+rihtost -> None
+þætte -> se
+rinca -> rinc
+gehwylc -> None
+
+oðrum -> oðer
+gulde -> gieldan
+edlean -> None
+on -> on
+riht -> riht
+
+weorc -> weorc
+be -> be
+geweorhtum -> None
+weoruldbuendum -> None
+
+þinga -> þingian
+gehwilces -> None
+þæt -> þæt
+is -> wesan
+þæt -> þæt
+he -> he
+lufige -> lufian
+
+godra -> god
+gehwilcne -> gehwylc
+swa -> swa
+he -> he
+geornost -> None
+mæge -> mæge
+
+mildsige -> None
+yflum -> yfel
+swa -> swa
+we -> we
+ær -> ær
+spræcon -> None
+
+he -> he
+sceal -> sculan
+þone -> se
+monnan -> None
+mode -> None
+lufian -> lufian
+
+and -> and
+his -> hit
+unþeawas -> None
+ealle -> ealle
+hatian -> hatian
+
+and -> and
+ofsniðan -> None
+swa -> swa
+he -> he
+swiðost -> swiðe
+mæge -> mæge
+## -> None
+hwa -> hwa
+is -> wesan
+on -> on
+eorðan -> eorþ
+nu -> nu
+unlærdra -> None
+
+þe -> þu
+ne -> nesan
+wundrige -> wundrian
+wolcna -> wolcen
+færeldes -> None
+
+rodres -> None
+swifto -> None
+ryne -> ryne
+tunglo -> None
+
+hu -> hu
+hy -> hi
+ælce -> ælc
+dæge -> dæg
+utan -> utan
+ymbhwerfeð -> None
+
+eallne -> eall
+middangeard -> middangeard
+hwa -> hwa
+is -> wesan
+moncynnes -> None
+
+þæt -> þæt
+ne -> nesan
+wundrie -> wundrian
+ymb -> ymb
+þas -> þes
+wlitegan -> None
+tungl -> None
+
+hu -> hu
+hy -> hi
+sume -> sum
+habbað -> None
+swiðe -> swiðe
+micle -> micel
+
+scyrtran -> None
+ymbehwerft -> None
+sume -> sum
+scriðað -> None
+leng -> leng
+
+utan -> utan
+ymb -> ymb
+eall -> eall
+ðis -> þes
+an -> on
+þara -> þær
+tungla -> tungol
+
+woruldmen -> None
+hatað -> None
+wænes -> None
+þisla -> None
+
+þa -> þu
+habbað -> None
+scyrtran -> None
+scriðe -> None
+and -> and
+færelt -> None
+
+ymbhwerft -> None
+læssan -> None
+ðonne -> þonne
+oðru -> oðer
+tungl -> None
+
+forðæm -> None
+hi -> hi
+þære -> þære
+eaxe -> None
+utan -> utan
+ymbhweorfeð -> None
+
+þone -> se
+norðende -> None
+nean -> None
+ymbcerreð -> None
+
+on -> on
+ðære -> se
+ilcan -> ilca
+eaxe -> None
+hwerfeð -> None
+
+eall -> eall
+ruma -> None
+rodor -> rodor
+recene -> recen
+scriðeð -> None
+
+suðheald -> None
+swifeð -> None
+swift -> None
+untiorig -> None
+
+hwa -> hwa
+is -> wesan
+on -> on
+weorulde -> None
+þæt -> þæt
+ne -> nesan
+wafige -> None
+
+buton -> butan
+þa -> þu
+ane -> an
+þe -> þu
+hit -> hit
+ær -> ær
+wisson -> None
+
+þætte -> se
+mænig -> manig
+tungul -> None
+maran -> micel
+ymbhwyrft -> None
+
+hafað -> None
+on -> on
+heofonum -> heofon
+sume -> sum
+hwile -> hwil
+eft -> eft
+
+læsse -> None
+geliðað -> None
+þa -> þu
+þe -> þu
+lacað -> None
+ymb -> ymb
+
+eaxe -> None
+ende -> ende
+oððe -> oððe
+micle -> micel
+
+mare -> micel
+geferað -> None
+þa -> þu
+hire -> hire
+middre -> midd
+ymbe -> ymbe
+
+þearle -> þearle
+þrægeð -> None
+þara -> þær
+is -> wesan
+gehaten -> gehatan
+
+saturnus -> None
+sum -> sum
+se -> se
+hæfð -> None
+ymb -> ymb
+þritig -> þritig
+
+wintergerimes -> None
+weoruld -> None
+ymbcirred -> None
+
+boetes -> None
+eac -> eac
+beorhte -> beorht
+scineð -> None
+
+oðer -> oðer
+steorra -> steorra
+cymeð -> None
+efne -> efne
+swa -> swa
+same -> same
+
+on -> on
+þone -> se
+ilcan -> ilca
+stede -> stede
+eft -> eft
+ymb -> ymb
+þritig -> þritig
+
+geargerimes -> None
+ðær -> þær
+he -> he
+gio -> None
+ða -> þe
+wæs -> wesan
+
+hwa -> hwa
+is -> wesan
+weoruldmonna -> None
+þæt -> þæt
+ne -> nesan
+wafige -> None
+
+hu -> hu
+sume -> sum
+steorran -> steorra
+oð -> oþ
+ða -> þe
+sæ -> sæ
+farað -> None
+
+under -> under
+merestreamas -> None
+þæs -> se
+ðe -> þu
+monnum -> mann
+ðincð -> None
+
+swa -> swa
+eac -> eac
+sume -> sum
+wenað -> None
+þæt -> þæt
+sio -> se
+sunne -> sunne
+do -> None
+
+ac -> acan
+se -> se
+wena -> wenian
+nis -> nesan
+wuhte -> None
+þe -> þu
+soðra -> None
+
+ne -> nesan
+bið -> None
+hio -> None
+on -> on
+æfen -> None
+ne -> nesan
+on -> on
+ærmorgen -> None
+
+merestreame -> None
+þe -> þu
+near -> None
+ðe -> þu
+on -> on
+midne -> None
+dæg -> dæg
+
+and -> and
+þeah -> þicgan
+monnum -> mann
+þyncð -> None
+þæt -> þæt
+hio -> None
+on -> on
+mere -> mere
+gange -> gangan
+
+under -> under
+sæswife -> None
+þonne -> þonne
+hio -> None
+on -> on
+setl -> setl
+glideð -> None
+
+hwa -> hwa
+is -> wesan
+on -> on
+weorulde -> None
+þæt -> þæt
+ne -> nesan
+wundrige -> wundrian
+
+fulles -> full
+monan -> None
+þonne -> þonne
+he -> he
+færinga -> færinga
+
+wyrð -> weorþ
+under -> under
+wolcnum -> wolcen
+wlites -> None
+bereafad -> None
+
+beþeaht -> beþeccan
+mid -> mid
+þiostrum -> None
+hwa -> hwa
+þegna -> þegnian
+ne -> nesan
+mæge -> mæge
+
+eac -> eac
+wafian -> wafian
+ælces -> None
+stiorran -> None
+
+hwy -> None
+hi -> hi
+ne -> nesan
+scinen -> scinan
+scirum -> None
+wederum -> None
+
+beforan -> beforan
+ðære -> se
+sunnan -> sunne
+swa -> swa
+hi -> hi
+symle -> simble
+doð -> None
+
+middelnihtum -> None
+wið -> wiþ
+þone -> se
+monan -> None
+foran -> foran
+
+hadrum -> None
+heofone -> heofon
+hwæt -> hwæt#2
+nu -> nu
+hæleða -> None
+fela -> fela
+
+swelces -> None
+and -> and
+swelces -> None
+swiðe -> swiðe
+wundrað -> None
+
+and -> and
+ne -> nesan
+wundriað -> None
+þætte -> se
+wuhta -> None
+gehwilc -> None
+
+men -> mann
+and -> and
+netenu -> None
+micelne -> micelne
+habbað -> None
+
+and -> and
+unnetne -> None
+andan -> anda
+betweoh -> None
+him -> him
+
+swiðe -> swiðe
+singalne -> None
+is -> wesan
+þæt -> þæt
+sellic -> None
+þincg -> None
+
+þæt -> þæt
+hi -> hi
+ne -> nesan
+wundriað -> None
+hu -> hu
+hit -> hit
+on -> on
+wolcnum -> wolcen
+oft -> oft
+
+þearle -> þearle
+þunrað -> None
+þragmælum -> None
+eft -> eft
+
+anforlæteð -> None
+and -> and
+eac -> eac
+swa -> swa
+same -> same
+
+yð -> None
+wið -> wiþ
+lande -> land
+ealneg -> None
+winneð -> None
+
+wind -> windan
+wið -> wiþ
+wæge -> None
+hwa -> hwa
+wundrað -> None
+þæs -> se
+
+oððe -> oððe
+oþres -> oðer
+eft -> eft
+hwi -> hwy
+þæt -> þæt
+is -> wesan
+mæge -> mæge
+
+weorðan -> None
+of -> of
+wætere -> wæter
+wlitetorht -> None
+scineð -> None
+
+sunna -> None
+swegle -> swegl
+hat -> None
+sona -> sona
+gecerreð -> None
+
+ismere -> None
+ænlic -> None
+on -> on
+his -> hit
+agen -> ongeagn
+gecynd -> gecynd
+
+weorðeð -> None
+to -> to
+wætre -> None
+ne -> nesan
+þincð -> None
+þæt -> þæt
+wundor -> wundor
+micel -> micel
+
+monna -> mann
+ænegum -> ænig
+þæt -> þæt
+he -> he
+mægge -> None
+gesion -> None
+
+dogora -> None
+gehwilce -> None
+ac -> acan
+ðæt -> þæt
+dysie -> None
+folc -> folc
+
+þæs -> se
+hit -> hit
+seldnor -> None
+gesihð -> gesiht
+swiðor -> swiðe
+wundrað -> None
+
+þeah -> þicgan
+hit -> hit
+wisra -> None
+gehwæm -> None
+wundor -> wundor
+ðince -> None
+
+on -> on
+his -> hit
+modsefan -> None
+micle -> micel
+læsse -> None
+
+unstaðolfæste -> unstaþolfæst
+ealneg -> None
+wenað -> None
+
+þæt -> þæt
+þæt -> þæt
+ealdgesceaft -> None
+æfre -> æfre
+ne -> nesan
+wære -> wære
+
+þæt -> þæt
+hi -> hi
+seldon -> None
+gesioð -> None
+ac -> acan
+swiðor -> swiðe
+giet -> git
+
+weoruldmen -> None
+wenað -> None
+þæt -> þæt
+hit -> hit
+weas -> None
+come -> come
+
+niwan -> None
+gesælde -> None
+gif -> gif
+hiora -> hira
+nængum -> None
+hwylc -> hwylc
+
+ær -> ær
+ne -> nesan
+oðeowde -> None
+is -> wesan
+þæt -> þæt
+earmlic -> None
+þinc -> None
+
+ac -> acan
+gif -> gif
+hiora -> hira
+ænig -> ænig
+æfre -> æfre
+weorðeð -> None
+
+to -> to
+ðon -> se
+firwetgeorn -> None
+þæt -> þæt
+he -> he
+fela -> fela
+onginð -> None
+
+leornian -> leornian
+lista -> list
+and -> and
+him -> him
+lifes -> lifes
+weard -> weard
+
+of -> of
+mode -> None
+abrit -> None
+þæt -> þæt
+micle -> micel
+dysig -> dysig
+
+ðæt -> þæt
+hit -> hit
+oferwrigen -> None
+mid -> mid
+wunode -> wunian
+lange -> lange
+
+þonne -> þonne
+ic -> ic
+wæt -> None
+geare -> geare
+þæt -> þæt
+hi -> hi
+ne -> nesan
+wundriað -> None
+
+mæniges -> None
+þinges -> þing
+þe -> þu
+monnum -> mann
+nu -> nu
+
+wæfðo -> None
+and -> and
+wunder -> None
+welhwær -> welhwær
+þynceð -> None
+## -> None
+gif -> gif
+ðu -> þu
+nu -> nu
+wilnige -> wilnian
+weorulddrihtnes -> None
+
+heane -> None
+anwald -> anweald
+hlutre -> None
+mode -> None
+
+ongitan -> None
+giorne -> None
+gem -> None
+almægene -> None
+
+heofones -> heofon
+tunglu -> tungol
+hu -> hu
+hi -> hi
+him -> him
+healdað -> None
+betwuh -> betweoh
+
+sibbe -> sibb
+singale -> None
+dydon -> don
+swa -> swa
+lange -> lange
+
+swa -> swa
+hi -> hi
+gewenede -> None
+wuldres -> wuldor
+aldor -> None
+
+æt -> æt
+frumsceafte -> None
+þæt -> þæt
+sio -> se
+fyrene -> fyren
+ne -> nesan
+mot -> None
+
+sunne -> sunne
+gesecan -> None
+snawcealdes -> None
+weg -> wegan
+
+monan -> None
+gemæro -> None
+hwæt -> hwæt#2
+ða -> þe
+mæran -> mære
+tungl -> None
+
+auðer -> None
+oðres -> None
+rene -> None
+a -> hosp
+ne -> nesan
+gehrineð -> None
+
+ær -> ær
+þæm -> þæm
+þæt -> þæt
+oðer -> oðer
+of -> of
+gewiteð -> gewitan
+
+ne -> nesan
+huru -> huru
+se -> se
+stiorra -> None
+gestigan -> None
+wile -> wil
+
+westdæl -> None
+wolcna -> wolcen
+þone -> se
+wise -> None
+men -> mann
+
+ursa -> None
+nemnað -> None
+ealle -> ealle
+stiorran -> None
+
+sigað -> None
+æfter -> æfter
+sunnan -> sunne
+samod -> samod
+mid -> mid
+rodere -> None
+
+under -> under
+eorðan -> eorþ
+grund -> grund
+he -> he
+ana -> ana
+stent -> standan
+
+nis -> nesan
+þæt -> þæt
+nan -> nan
+wundor -> wundor
+he -> he
+is -> wesan
+wundrum -> wundor
+fæst -> fæstan
+
+upende -> None
+neah -> neah
+eaxe -> None
+ðæs -> se
+roderes -> None
+
+ðonne -> þonne
+is -> wesan
+an -> on
+steorra -> steorra
+ofer -> ofer
+oðre -> oðer
+beorht -> beorht
+
+cymeð -> None
+eastan -> eastan
+up -> up
+ær -> ær
+þonne -> þonne
+sunne -> sunne
+
+þone -> se
+monna -> mann
+bearn -> beirnan
+morgenstiorra -> None
+
+hatað -> None
+under -> under
+heofonum -> heofon
+forðæm -> None
+he -> he
+hæleþum -> hæle
+dæg -> dæg
+
+bodað -> None
+æfter -> æfter
+burgum -> burh
+brengeð -> None
+æfter -> æfter
+
+swegeltorht -> None
+sunne -> sunne
+samad -> None
+eallum -> eall
+dæg -> dæg
+
+is -> wesan
+se -> se
+forrynel -> None
+fæger -> fæger
+and -> and
+sciene -> None
+
+cymeð -> None
+eastan -> eastan
+up -> up
+ær -> ær
+for -> for
+sunnan -> sunne
+
+and -> and
+eft -> eft
+æfter -> æfter
+sunnan -> sunne
+on -> on
+setl -> setl
+glideð -> None
+
+west -> west
+under -> under
+weorulde -> None
+werðioda -> None
+his -> hit
+
+noman -> None
+onwendað -> None
+þonne -> þonne
+niht -> niht
+cymeð -> None
+
+hatað -> None
+hine -> he
+ealle -> ealle
+æfenstiorra -> None
+
+se -> se
+bið -> None
+þære -> þære
+sunnan -> sunne
+swiftra -> None
+siððan -> siððan
+hi -> hi
+on -> on
+setl -> setl
+gewitað -> gewitan
+
+ofirneð -> None
+þæt -> þæt
+æþele -> æþelu
+tungol -> tungol
+oðþæt -> None
+he -> he
+be -> be
+eastan -> eastan
+weorðeð -> None
+
+eldum -> None
+oðewed -> None
+ær -> ær
+þonne -> þonne
+sunne -> sunne
+
+habbað -> None
+æðele -> æðele
+tungol -> tungol
+emne -> None
+gedæled -> None
+
+dæg -> dæg
+and -> and
+nihte -> niht
+drihtnes -> drihten
+meahtum -> None
+
+sunna -> None
+and -> and
+mona -> mona
+swiðe -> swiðe
+geþwære -> None
+
+swa -> swa
+him -> him
+æt -> æt
+frymþe -> None
+fæder -> fæder
+getiohhode -> None
+
+ne -> nesan
+þearft -> þurfan
+þu -> þu
+no -> None
+wenan -> None
+þæt -> þæt
+ða -> þe
+wlitegan -> None
+tungl -> None
+
+ðæs -> se
+þeowdomes -> None
+aðroten -> None
+weorðe -> None
+
+ær -> ær
+domes -> None
+dæge -> dæg
+deð -> None
+siððan -> siððan
+ymbe -> ymbe
+
+moncynnes -> None
+fruma -> None
+swa -> swa
+him -> him
+gemet -> None
+þinceð -> None
+
+forðon -> forðam
+hi -> hi
+be -> be
+healfe -> healf
+heofones -> heofon
+þisses -> þes
+
+on -> on
+ane -> an
+ne -> nesan
+læt -> læt
+ælmihtig -> None
+god -> god
+
+þy -> þy
+læs -> læs
+hi -> hi
+oðra -> oðer
+fordyden -> fordon
+æþela -> æþelu
+gesceafta -> None
+
+ac -> acan
+se -> se
+eca -> None
+god -> god
+ealla -> eall
+gemetgað -> None
+
+sida -> sidu
+gesceafta -> None
+softa -> None
+geþwerað -> None
+
+hwilum -> hwilum
+ðæt -> þæt
+drige -> None
+drifð -> None
+þone -> se
+wætan -> None
+
+hwylum -> None
+he -> he
+gemengeð -> None
+metodes -> metod
+cræfte -> cræft
+
+cile -> None
+wið -> wiþ
+hæto -> None
+hwilum -> hwilum
+cerreð -> None
+eft -> eft
+
+on -> on
+uprodor -> None
+ælbeorhta -> None
+leg -> None
+
+leoht -> sunnan
+on -> on
+lyfte -> lyft
+ligeð -> None
+him -> him
+behindan -> behindan
+
+hefig -> hefig
+hrusan -> hruse
+dæl -> dæl
+þeah -> þicgan
+hit -> hit
+hwilan -> None
+ær -> ær
+
+eorðe -> eorþ
+sio -> se
+cealde -> None
+oninnan -> None
+hire -> hire
+
+heold -> None
+and -> and
+hydde -> None
+haliges -> None
+meahtum -> None
+
+be -> be
+þæs -> se
+cyninges -> cyning
+gebode -> gebod
+cymeð -> None
+geara -> gear
+gehwæt -> None
+
+eorðe -> eorþ
+bringeð -> None
+æghwylc -> None
+tudor -> None
+
+and -> and
+se -> se
+hata -> hatian
+sumor -> sumer
+hæleða -> None
+bearnum -> bearn
+
+geara -> gear
+gehwilce -> None
+giereð -> None
+and -> and
+drigeð -> None
+
+geond -> geond
+sidne -> None
+grund -> grund
+sæd -> sæd
+and -> and
+bleda -> None
+
+hærfest -> hærfest
+to -> to
+honda -> None
+herbuendum -> None
+
+ripa -> None
+receð -> None
+ren -> None
+æfter -> æfter
+þæm -> þæm
+
+swylce -> swilce
+hagal -> None
+and -> and
+snaw -> None
+hrusan -> hruse
+leccað -> None
+
+on -> on
+wintres -> winter
+tid -> tid
+weder -> weder
+unhiore -> None
+
+forðæm -> None
+eorðe -> eorþ
+onfehð -> None
+eallum -> eall
+sædum -> None
+
+gedeð -> None
+þæt -> þæt
+hi -> hi
+growað -> None
+geara -> gear
+gehwilce -> None
+
+on -> on
+lenctentid -> None
+leaf -> leaf
+up -> up
+spryttað -> None
+
+ac -> acan
+se -> se
+milda -> None
+metod -> metod
+monna -> mann
+bearnum -> bearn
+
+on -> on
+eorðan -> eorþ
+fet -> fot
+eall -> eall
+þætte -> se
+groweð -> None
+
+wæstmas -> None
+on -> on
+weorolde -> None
+wel -> wel
+forðbrengeð -> None
+
+hit -> hit
+þonne -> þonne
+he -> he
+wile -> wil
+heofona -> heofon
+waldend -> None
+
+and -> and
+eowað -> None
+eft -> eft
+eorðbuendum -> None
+
+nimð -> None
+þonne -> þonne
+he -> he
+wile -> wil
+nergende -> None
+god -> god
+
+and -> and
+þæt -> þæt
+hehste -> None
+good -> None
+on -> on
+heahsetle -> None
+
+siteð -> None
+self -> self
+cyning -> cyning
+and -> and
+þios -> None
+side -> None
+gesceaft -> None
+
+þenað -> None
+and -> and
+ðiowað -> None
+he -> he
+þonan -> þanan
+waldeð -> None
+
+þæm -> þæm
+geweltleðrum -> None
+weoruldgesceafta -> None
+
+nis -> nesan
+þæt -> þæt
+nan -> nan
+wundor -> wundor
+he -> he
+is -> wesan
+weroda -> werod
+god -> god
+
+cyning -> cyning
+and -> and
+drihten -> drihten
+cwucera -> None
+gehwelces -> None
+
+æwelm -> None
+and -> and
+fruma -> None
+eallra -> eall
+gesceafta -> None
+
+wyrhta -> wyrhta
+and -> and
+sceppend -> None
+weorulde -> None
+þisse -> þes
+
+wisdom -> None
+and -> and
+æ -> None
+woruldbuendra -> None
+
+ealla -> eall
+gesceafta -> None
+on -> on
+his -> hit
+ærendo -> None
+
+hionane -> None
+he -> he
+sendeð -> None
+hæt -> None
+eft -> eft
+cuman -> cuman
+
+gif -> gif
+he -> he
+swa -> swa
+gestæððig -> None
+ne -> nesan
+staðolade -> None
+
+ealla -> eall
+gesceafta -> None
+æghwylc -> None
+hiora -> hira
+
+wraðe -> None
+tostencte -> None
+weorðan -> None
+sceolden -> sculan
+
+æghwilc -> None
+hiora -> hira
+ealle -> ealle
+to -> to
+nauhte -> None
+
+weorðan -> None
+sceoldon -> sculan
+wraðe -> None
+toslopena -> None
+
+þeah -> þicgan
+þa -> þu
+ane -> an
+lufe -> lufu
+ealla -> eall
+gesceafta -> None
+
+heofones -> heofon
+and -> and
+eorðan -> eorþ
+hæbben -> habban
+gemæne -> gemæne
+
+þæt -> þæt
+hi -> hi
+þiowien -> None
+swilcum -> None
+þiodfruman -> None
+
+and -> and
+fægniað -> None
+þæt -> þæt
+hiora -> hira
+fæder -> fæder
+wealdeð -> None
+
+nis -> nesan
+þæt -> þæt
+nan -> nan
+wundor -> wundor
+forðæm -> None
+wuhta -> None
+nan -> nan
+
+æfre -> æfre
+ne -> nesan
+meahte -> magan
+elles -> elles
+wunian -> wunian
+
+gif -> gif
+hi -> hi
+eallmægene -> None
+hiora -> hira
+ordfruman -> None
+
+ne -> nesan
+þiowoden -> None
+þeodne -> None
+mærum -> None
+## -> None
+æala -> None
+on -> on
+hu -> hu
+grimmum -> grim
+and -> and
+hu -> hu
+grundleasum -> None
+
+seaðe -> None
+swinceð -> None
+þæt -> þæt
+sweorcende -> sweorcan
+mod -> None
+
+þonne -> þonne
+hit -> hit
+þa -> þu
+strongan -> None
+stormas -> None
+beatað -> None
+
+weoruldbisgunga -> None
+þonne -> þonne
+hit -> hit
+winnende -> winnan
+
+his -> hit
+agen -> ongeagn
+leoht -> sunnan
+an -> on
+forlæteð -> None
+
+and -> and
+mid -> mid
+uua -> None
+forgit -> None
+þone -> se
+ecan -> None
+gefean -> None
+
+ðringð -> None
+on -> on
+þa -> þu
+ðiostro -> None
+ðisse -> None
+worulde -> weorold
+
+sorgum -> sorh
+geswenced -> None
+swa -> swa
+is -> wesan
+þissum -> þes
+nu -> nu
+
+mode -> None
+gelumpen -> limpan
+nu -> nu
+hit -> hit
+mare -> micel
+ne -> nesan
+wat -> witan
+
+for -> for
+gode -> god
+godes -> god
+buton -> butan
+gnornunge -> None
+
+fremdre -> fremde
+worulde -> weorold
+him -> him
+is -> wesan
+frofre -> None
+ðearf -> None
+## -> None
+omerus -> None
+wæs -> wesan
+east -> None
+mid -> mid
+crecum -> None
+
+on -> on
+ðæm -> þæm
+leodscipe -> None
+leoða -> None
+cræftgast -> None
+
+firgilies -> None
+freond -> None
+and -> and
+lareow -> None
+
+þæm -> þæm
+mæran -> mære
+sceope -> None
+magistra -> None
+betst -> wel
+
+hwæt -> hwæt#2
+se -> se
+omerus -> None
+oft -> oft
+and -> and
+gelome -> gelome
+
+þære -> þære
+sunnan -> sunne
+wlite -> wlite
+swiðe -> swiðe
+herede -> herian
+
+æðelo -> None
+cræftas -> cræft
+oft -> oft
+and -> and
+gelome -> gelome
+
+leoðum -> None
+and -> and
+spellum -> None
+leodum -> None
+reahte -> reccan
+
+ne -> nesan
+mæg -> mæg
+hio -> None
+þeah -> þicgan
+gescinan -> None
+þeah -> þicgan
+hio -> None
+sie -> wesan
+scir -> scir
+and -> and
+beorht -> beorht
+
+ahwærgen -> None
+neah -> neah
+ealla -> eall
+gesceafta -> None
+
+ne -> nesan
+furðum -> None
+þa -> þu
+gesceafta -> None
+ðe -> þu
+hio -> None
+gescinan -> None
+mæg -> mæg
+
+endemes -> endemes
+ne -> nesan
+mæg -> mæg
+ealla -> eall
+geondlihtan -> None
+
+innan -> innan
+and -> and
+utan -> utan
+ac -> acan
+se -> se
+ælmihtega -> None
+
+waldend -> None
+and -> and
+wyrhta -> wyrhta
+weorulde -> None
+gesceafta -> None
+
+his -> hit
+agen -> ongeagn
+weorc -> weorc
+eall -> eall
+geondwliteð -> None
+
+endemes -> endemes
+þurhsyhð -> None
+ealla -> eall
+gesceafta -> None
+
+ðæt -> þæt
+is -> wesan
+sio -> se
+soðe -> None
+sunne -> sunne
+mid -> mid
+rihte -> rihte
+
+be -> be
+ðæm -> þæm
+we -> we
+magon -> magan
+singan -> singan
+swylc -> None
+butan -> butan
+lease -> leas
+## -> None
+hwæt -> hwæt#2
+ðu -> þu
+meaht -> magan
+ongitan -> None
+gif -> gif
+his -> hit
+ðe -> þu
+geman -> gemunan
+lyst -> None
+
+þætte -> se
+mislice -> None
+manega -> manig
+wuhta -> None
+
+geond -> geond
+eorðan -> eorþ
+farað -> None
+ungelice -> None
+
+habbað -> None
+blioh -> None
+and -> and
+fær -> None
+bu -> None
+ungelice -> None
+
+and -> and
+mægwlitas -> None
+manegra -> manig
+cynna -> cynn
+
+cuð -> None
+and -> and
+uncuð -> uncuþ
+creopað -> None
+and -> and
+snicað -> None
+
+eall -> eall
+lichoma -> None
+eorðan -> eorþ
+getenge -> None
+
+nabbað -> None
+hi -> hi
+æt -> æt
+fiðrum -> None
+fultum -> fultum
+ne -> nesan
+magon -> magan
+hi -> hi
+mid -> mid
+fotum -> fot
+gangan -> gangan
+
+eorðan -> eorþ
+brucan -> None
+swa -> swa
+him -> him
+eaden -> None
+wæs -> wesan
+
+sume -> sum
+fotum -> fot
+twam -> twegen
+foldan -> folde
+peððað -> None
+
+sume -> sum
+fierfete -> None
+sume -> sum
+fleogende -> None
+
+windað -> None
+under -> under
+wolcnum -> wolcen
+bið -> None
+ðeah -> þeah
+wuhta -> None
+gehwylc -> None
+
+onhnigen -> None
+to -> to
+hrusan -> hruse
+hnipað -> None
+of -> of
+dune -> None
+
+on -> on
+weoruld -> None
+wliteð -> None
+wilnað -> None
+to -> to
+eorðan -> eorþ
+
+sume -> sum
+nedþearfe -> None
+sume -> sum
+neodfræce -> None
+
+man -> mann
+ana -> ana
+gæð -> None
+metodes -> metod
+gesceafta -> None
+
+mid -> mid
+his -> hit
+andwlitan -> andwlita
+up -> up
+on -> on
+gerihte -> gerihte
+
+mid -> mid
+ðy -> se
+is -> wesan
+getacnod -> None
+þæt -> þæt
+his -> hit
+treowa -> treow
+sceal -> sculan
+
+and -> and
+his -> hit
+modgeþonc -> None
+ma -> micel
+up -> up
+þonne -> þonne
+niðer -> None
+
+habban -> habban
+to -> to
+heofonum -> heofon
+þy -> þy
+læs -> læs
+he -> he
+his -> hit
+hige -> None
+wende -> wendan
+
+niðer -> None
+swa -> swa
+ðær -> þær
+nyten -> nytan
+nis -> nesan
+þæt -> þæt
+gedafenlic -> None
+
+þæt -> þæt
+se -> se
+modsefa -> None
+monna -> mann
+æniges -> ænig
+
+niðerheald -> None
+wese -> None
+and -> and
+þæt -> þæt
+neb -> None
+upweard -> None
+! -> None
+## -> None
+æala -> None
+ðu -> þu
+scippend -> None
+scirra -> None
+tungla -> tungol
+
+hefones -> None
+and -> and
+eorðan -> eorþ
+! -> None
+ðu -> þu
+on -> on
+heahsetle -> None
+
+ecum -> None
+ricsast -> None
+and -> and
+ðu -> þu
+ealne -> eal
+hræðe -> None
+
+hefon -> None
+ymbhwearfest -> None
+and -> and
+ðurh -> þurh
+ðine -> þin
+halige -> None
+miht -> miht
+
+tunglu -> tungol
+genedest -> None
+þæt -> þæt
+hi -> hi
+ðe -> þu
+to -> to
+herað -> None
+
+swylce -> swilce
+seo -> se
+sunne -> sunne
+sweartra -> sweart
+nihta -> niht
+
+ðiostro -> None
+adwæsceð -> None
+ðurh -> þurh
+ðine -> þin
+meht -> None
+
+blacum -> blæc
+leohte -> leoht
+beorhte -> beorht
+steorran -> steorra
+
+mona -> mona
+gemetgað -> None
+ðurh -> þurh
+ðinra -> None
+meahta -> None
+sped -> None
+
+hwilum -> hwilum
+eac -> eac
+þa -> þu
+sunnan -> sunne
+sines -> None
+bereafað -> None
+
+beorhtan -> beorht
+leohtes -> None
+þonne -> þonne
+hit -> hit
+gebyrigan -> None
+mæg -> mæg
+
+þæt -> þæt
+swa -> swa
+geneahsne -> None
+nede -> None
+weorðað -> None
+
+swelce -> None
+þone -> se
+mæran -> mære
+morgensteorran -> None
+
+þe -> þu
+we -> we
+oðre -> oðer
+naman -> naman
+æfensteorra -> None
+
+nemnan -> nemnan
+herað -> None
+ðu -> þu
+genedest -> None
+þone -> se
+
+þæt -> þæt
+he -> he
+þære -> þære
+sunnan -> sunne
+sið -> None
+bewitige -> None
+
+geara -> gear
+gehwelce -> None
+he -> he
+gongan -> None
+sceal -> sculan
+
+beforan -> beforan
+feran -> None
+hwæt -> hwæt#2
+ðu -> þu
+fæder -> fæder
+wercest -> None
+
+sumurlange -> None
+dagas -> dæg
+swiðe -> swiðe
+hate -> hat
+
+þæm -> þæm
+winterdagum -> None
+wundrum -> wundor
+sceorta -> None
+
+tida -> None
+getiohhast -> None
+ðu -> þu
+þæm -> þæm
+treowum -> treow
+selest -> None
+
+suðan -> None
+and -> and
+westan -> westan
+þa -> þu
+ær -> ær
+se -> se
+swearta -> sweart
+storm -> None
+
+norðan -> norþan
+and -> and
+eastan -> eastan
+benumen -> beniman
+hæfde -> habban
+
+leafa -> None
+gehwelces -> None
+ðurh -> þurh
+þone -> se
+laðran -> None
+wind -> windan
+
+eala -> eala
+hwæt -> hwæt#2
+on -> on
+eorðan -> eorþ
+ealla -> eall
+gesceafta -> None
+
+hyrað -> None
+ðinre -> þin
+hæse -> hæs
+doð -> None
+on -> on
+heofonum -> heofon
+swa -> swa
+some -> None
+
+mode -> None
+and -> and
+mægne -> None
+butan -> butan
+men -> mann
+anum -> an
+
+se -> se
+wið -> wiþ
+ðinum -> þin
+willan -> willan
+wyrceð -> None
+oftost -> None
+
+wel -> wel
+la -> la
+ðu -> þu
+eca -> None
+and -> and
+ðu -> þu
+ælmihtiga -> eallmihtig
+
+ealra -> eal
+gesceafta -> None
+sceppend -> None
+and -> and
+reccend -> None
+
+ara -> ar
+ðinum -> þin
+earmum -> earm
+eorðan -> eorþ
+tudre -> tudor
+
+monna -> mann
+cynne -> cynn
+ðurh -> þurh
+ðinra -> None
+mehta -> None
+sped -> None
+
+hwi -> hwy
+ðu -> þu
+ece -> ece
+god -> god
+æfre -> æfre
+wolde -> willan
+
+þæt -> þæt
+sio -> se
+wyrd -> wyrd
+on -> on
+gewill -> gewil
+wendan -> wendan
+sceolde -> sculan
+
+yflum -> yfel
+monnum -> mann
+ealles -> eall
+swa -> swa
+swiðe -> swiðe
+
+hio -> None
+ful -> None
+oft -> oft
+dereð -> None
+unscyldegum -> None
+
+sittað -> None
+yfele -> yfele
+men -> mann
+giond -> None
+eorðricu -> None
+
+on -> on
+heahsetlum -> None
+halige -> None
+þriccað -> None
+
+under -> under
+heora -> hira
+fotum -> fot
+firum -> None
+uncuð -> uncuþ
+
+hwi -> hwy
+sio -> se
+wyrd -> wyrd
+swa -> swa
+wo -> None
+wendan -> wendan
+sceolde -> sculan
+
+swa -> swa
+sint -> wesan
+gehydde -> None
+her -> her
+on -> on
+worulde -> weorold
+
+geond -> geond
+burga -> burh
+fela -> fela
+beorhte -> beorht
+cræftas -> cræft
+
+unrihtwise -> None
+eallum -> eall
+tidum -> tid
+
+habbað -> None
+on -> on
+hospe -> hosp
+ða -> þe
+þe -> þu
+him -> him
+sindon -> None
+
+rihtes -> None
+wisran -> None
+rices -> None
+wyrðran -> None
+
+bið -> None
+þæt -> þæt
+lease -> leas
+lot -> None
+lange -> lange
+hwile -> hwil
+
+bewrigen -> None
+mid -> mid
+wrencum -> wrenc
+nu -> nu
+on -> on
+worulde -> weorold
+her -> her
+
+monnum -> mann
+ne -> nesan
+deriað -> None
+mane -> None
+aðas -> aþ
+
+gif -> gif
+ðu -> þu
+nu -> nu
+waldend -> None
+ne -> nesan
+wilt -> willan
+wirde -> None
+steoran -> None
+
+ac -> acan
+on -> on
+selfwille -> None
+sigan -> None
+lætest -> None
+
+þonne -> þonne
+ic -> ic
+wat -> witan
+þætte -> se
+wile -> wil
+woruldmen -> None
+tweogan -> None
+
+geond -> geond
+foldan -> folde
+sceat -> None
+buton -> butan
+fea -> None
+ane -> an
+
+eala -> eala
+min -> min
+dryhten -> None
+ðu -> þu
+þe -> þu
+ealle -> ealle
+ofersihst -> None
+
+worulde -> weorold
+gesceafta -> None
+wlit -> None
+nu -> nu
+on -> on
+moncyn -> None
+
+mildum -> None
+eagum -> None
+nu -> nu
+hi -> hi
+on -> on
+monegum -> None
+her -> her
+
+worulde -> weorold
+yðum -> None
+wynnað -> None
+and -> and
+swincað -> None
+
+earme -> earm
+eorðwaran -> None
+ara -> ar
+him -> him
+nu -> nu
+ða -> þe
+## -> None
+ðu -> þu
+meaht -> magan
+be -> be
+ðære -> se
+sunnan -> sunne
+sweotole -> sweotol
+geþencean -> None
+
+and -> and
+be -> be
+æghwelcum -> None
+oðrum -> oðer
+steorran -> steorra
+
+þara -> þær
+þe -> þu
+æfter -> æfter
+burgum -> burh
+beorhtost -> None
+scineð -> None
+
+gif -> gif
+him -> him
+wan -> None
+fore -> None
+wolcen -> wolcen
+hangað -> None
+
+ne -> nesan
+mægen -> mægen
+hi -> hi
+swa -> swa
+leohtne -> None
+leoman -> None
+ansendan -> None
+
+ær -> ær
+se -> se
+þicca -> þicce
+mist -> None
+þynra -> None
+weorðe -> None
+
+swa -> swa
+oft -> oft
+smylte -> None
+sæ -> sæ
+suðerne -> None
+wind -> windan
+
+græge -> None
+glashlutre -> None
+grimme -> grimman
+gedrefeð -> None
+
+þonne -> þonne
+hie -> hi
+gemengað -> None
+micla -> micel
+ysta -> None
+
+onhrerað -> None
+hronmere -> None
+hrioh -> None
+bið -> None
+þonne -> þonne
+
+seo -> se
+þe -> þu
+ær -> ær
+gladu -> glæd
+onsiene -> None
+wæs -> wesan
+
+swa -> swa
+oft -> oft
+æspringe -> None
+ut -> ut
+awealleð -> None
+
+of -> of
+clife -> None
+harum -> hara
+col -> col
+and -> and
+hlutor -> None
+
+and -> and
+gereclice -> None
+rihte -> rihte
+floweð -> None
+
+irneð -> None
+wið -> wiþ
+his -> hit
+eardes -> None
+oð -> oþ
+him -> him
+on -> on
+innan -> innan
+felð -> None
+
+muntes -> munt
+mægenstan -> None
+and -> and
+him -> him
+on -> on
+middan -> midde
+geligeð -> None
+
+atrendlod -> None
+of -> of
+ðæm -> þæm
+torre -> torr
+he -> he
+on -> on
+tu -> twegen
+siððan -> siððan
+
+tosceaden -> None
+wyrð -> weorþ
+scir -> scir
+bið -> None
+gedrefed -> gedrefan
+
+burna -> None
+geblonden -> None
+broc -> None
+bið -> None
+onwended -> onwendan
+
+of -> of
+his -> hit
+rihtryne -> None
+ryðum -> None
+toflowen -> None
+
+swa -> swa
+nu -> nu
+þa -> þu
+þiostro -> None
+þinre -> þin
+heortan -> heorte
+
+willað -> None
+minre -> minre
+leohtan -> None
+lare -> lar
+wiðstondan -> None
+
+and -> and
+ðin -> þin
+modgeþonc -> None
+miclum -> micel
+gedrefan -> gedrefan
+
+ac -> acan
+gif -> gif
+ðu -> þu
+nu -> nu
+wilnast -> wilnian
+þæt -> þæt
+ðu -> þu
+wel -> wel
+mæge -> mæge
+
+þæt -> þæt
+soðe -> None
+leoht -> sunnan
+sweotole -> sweotol
+oncnawan -> oncnawan
+
+leohte -> leoht
+geleafan -> geleafa
+ðu -> þu
+forlætan -> None
+scealt -> sculan
+
+idle -> None
+ofersælða -> None
+unnytne -> None
+gefean -> None
+
+þu -> þu
+scealt -> sculan
+eac -> eac
+yfelne -> yfel
+ege -> ege
+an -> on
+forlætan -> None
+
+woruldearfoða -> None
+ne -> nesan
+most -> None
+ðu -> þu
+wesan -> wesan
+for -> for
+ðæm -> þæm
+
+ealles -> eall
+to -> to
+ormod -> None
+ne -> nesan
+ðu -> þu
+ðe -> þu
+æfre -> æfre
+ne -> nesan
+læt -> læt
+
+wlenca -> wlencu
+gewæcan -> None
+þe -> þu
+læs -> læs
+þu -> þu
+weorðe -> None
+for -> for
+him -> him
+
+mid -> mid
+ofermettum -> None
+eft -> eft
+gescended -> None
+
+and -> and
+to -> to
+up -> up
+ahafen -> None
+for -> for
+orsorgum -> None
+
+woruldgesælðum -> None
+ne -> nesan
+eft -> eft
+to -> to
+waclice -> None
+
+geortreowe -> None
+æniges -> ænig
+godes -> god
+
+þonne -> þonne
+þe -> þu
+for -> for
+worulde -> weorold
+wiðerwearda -> None
+mæsð -> None
+
+þinga -> þingian
+þreage -> þreagan
+and -> and
+þu -> þu
+ðe -> þu
+selfum -> self
+
+swiðost -> swiðe
+onsitte -> onsittan
+forðæm -> None
+simle -> simble
+bið -> None
+
+se -> se
+modsefa -> None
+miclum -> micel
+gebunden -> gebunden
+
+mid -> mid
+gedrefnesse -> None
+gif -> gif
+hine -> he
+dreccean -> None
+mot -> None
+
+þissa -> None
+yfla -> yfel
+hwæðer -> hwæðer
+innan -> innan
+swencan -> None
+
+forðæm -> None
+þa -> þu
+twegen -> twegen
+tregan -> None
+teoð -> None
+tosomne -> tosamne
+
+wið -> wiþ
+þæt -> þæt
+mod -> None
+foran -> foran
+mistes -> None
+dwoleman -> None
+
+þæt -> þæt
+hit -> hit
+seo -> se
+ece -> ece
+ne -> nesan
+mot -> None
+innan -> innan
+geondscinan -> None
+
+sunne -> sunne
+for -> for
+ðæm -> þæm
+sweartum -> sweart
+mistum -> None
+ærðæm -> None
+hi -> hi
+geswiðrad -> None
+weorðen -> None
+## -> None
+ða -> þe
+se -> se
+wisdom -> None
+eft -> eft
+wordhord -> wordhord
+onleac -> None
+
+sang -> singan
+soðcwidas -> None
+and -> and
+þus -> þus
+selfa -> None
+cwæð -> cweðan
+: -> None
+
+ðonne -> þonne
+sio -> se
+sunne -> sunne
+sweotolost -> None
+scineð -> None
+
+hadrost -> None
+of -> of
+hefone -> None
+hræðe -> None
+bioð -> None
+aðistrod -> None
+
+ealle -> ealle
+ofir -> None
+eorðan -> eorþ
+oðre -> oðer
+steorran -> steorra
+
+forðæm -> None
+hiora -> hira
+birhtu -> birhtu
+ne -> nesan
+bið -> None
+auht -> None
+
+to -> to
+gesettane -> None
+wið -> wiþ
+þære -> þære
+sunnan -> sunne
+leoht -> sunnan
+
+ðonne -> þonne
+smolte -> None
+blæwð -> None
+suðan -> None
+and -> and
+westan -> westan
+
+wind -> windan
+under -> under
+wolcnum -> wolcen
+þonne -> þonne
+weaxeð -> None
+hraðe -> None
+
+feldes -> None
+blostman -> None
+fægen -> fægen
+þæt -> þæt
+hi -> hi
+moton -> None
+
+ac -> acan
+se -> se
+stearca -> None
+storm -> None
+þonne -> þonne
+he -> he
+strong -> None
+cymð -> None
+
+norðan -> norþan
+and -> and
+eastan -> eastan
+he -> he
+genimeð -> None
+hraðe -> None
+
+þære -> þære
+rosan -> rose
+wlite -> wlite
+and -> and
+eac -> eac
+þa -> þu
+ruman -> None
+sæ -> sæ
+
+norðerne -> None
+yst -> None
+nede -> None
+gebædeð -> None
+
+þæt -> þæt
+hio -> None
+strange -> strang
+geondstyred -> geondstyrian
+on -> on
+staðu -> None
+beateð -> None
+
+eala -> eala
+þæt -> þæt
+on -> on
+eorðan -> eorþ
+auht -> None
+fæstlices -> None
+
+weorces -> weorc
+on -> on
+worulde -> weorold
+ne -> nesan
+wunað -> None
+æfre -> æfre
+! -> None
+## -> None
+ða -> þe
+ongon -> None
+se -> se
+wisdom -> None
+his -> hit
+gewunan -> gewuna
+fylgan -> None
+
+gliowordum -> None
+gol -> None
+gyd -> None
+æfter -> æfter
+spelle -> None
+
+song -> None
+soðcwida -> None
+sumne -> sum
+þa -> þu
+geta -> None
+
+cwæð -> cweðan
+þæt -> þæt
+he -> he
+ne -> nesan
+herde -> None
+þæt -> þæt
+on -> on
+heane -> None
+munt -> munt
+
+monna -> mann
+ænig -> ænig
+meahte -> magan
+asettan -> None
+
+healle -> heall
+hroffæste -> None
+ne -> nesan
+þearf -> þurfan
+eac -> eac
+hæleða -> None
+nan -> nan
+
+wenan -> None
+þæs -> se
+weorces -> weorc
+þæt -> þæt
+he -> he
+wisdom -> None
+mæge -> mæge
+
+wið -> wiþ
+ofermetta -> None
+æfre -> æfre
+gemengan -> gemengan
+
+herdes -> None
+þu -> þu
+æfre -> æfre
+þætte -> se
+ænig -> ænig
+mon -> mann
+
+on -> on
+sondbeorgas -> None
+settan -> settan
+meahte -> magan
+
+fæste -> fæstan
+healle -> heall
+ne -> nesan
+mæg -> mæg
+eac -> eac
+fira -> None
+nan -> nan
+
+wisdom -> None
+timbran -> timbran
+þær -> þær
+ðær -> þær
+woruldgitsung -> None
+
+beorg -> beorg
+oferbrædeð -> None
+baru -> bær
+sond -> None
+willað -> None
+
+ren -> None
+forswelgan -> forswelgan
+swa -> swa
+deð -> None
+ricra -> None
+nu -> nu
+
+grundleas -> None
+gitsung -> None
+gilpes -> None
+and -> and
+æhta -> None
+
+gedrinceð -> None
+to -> to
+dryggum -> None
+dreosendne -> None
+welan -> wela
+
+and -> and
+þeah -> þicgan
+þæs -> se
+þearfan -> þearfa
+ne -> nesan
+bið -> None
+þurst -> None
+aceled -> None
+
+ne -> nesan
+mæg -> mæg
+hæleþa -> hæle
+gehwæm -> None
+hus -> None
+on -> on
+munte -> munt
+
+lange -> lange
+gelæstan -> None
+forðæm -> None
+him -> him
+lungre -> None
+on -> on
+
+swift -> None
+wind -> windan
+swapeð -> None
+ne -> nesan
+bið -> None
+sond -> None
+þon -> þon
+ma -> micel
+
+wið -> wiþ
+micelne -> micelne
+ren -> None
+manna -> mann
+ængum -> None
+
+huses -> None
+hirde -> None
+ac -> acan
+hit -> hit
+hreosan -> None
+wile -> wil
+
+sigan -> None
+sond -> None
+æfter -> æfter
+rene -> None
+swa -> swa
+bioð -> None
+anra -> an
+gehwæs -> None
+
+monna -> mann
+modsefan -> None
+miclum -> micel
+awegede -> None
+
+of -> of
+hiora -> hira
+stede -> stede
+styrede -> styrian
+þonne -> þonne
+hi -> hi
+strong -> None
+dreceð -> None
+
+wind -> windan
+under -> under
+wolcnum -> wolcen
+woruldearfoða -> None
+
+oþþe -> oþþe
+hi -> hi
+eft -> eft
+se -> se
+reða -> None
+ren -> None
+onhrereð -> None
+
+sumes -> None
+ymbhogan -> None
+ungemet -> None
+gemen -> None
+
+ac -> acan
+se -> se
+ðe -> þu
+þa -> þu
+ecan -> None
+agan -> aginnan
+wille -> willan
+
+soðan -> None
+gesælða -> None
+he -> he
+sceal -> sculan
+swiðe -> swiðe
+flion -> None
+
+ðisse -> None
+worulde -> weorold
+wlite -> wlite
+wyrce -> None
+him -> him
+siððan -> siððan
+
+his -> hit
+modes -> None
+hus -> None
+þær -> þær
+he -> he
+mæge -> mæge
+findan -> findan
+
+eaðmetta -> None
+stan -> None
+unigmet -> None
+fæstne -> fæst
+
+grundweal -> None
+gearone -> gearu
+se -> se
+toglidan -> None
+ne -> nesan
+þearf -> þurfan
+
+þeah -> þicgan
+hit -> hit
+wecge -> None
+wind -> windan
+woruldearfoða -> None
+
+oððe -> oððe
+ymbhogena -> None
+ormete -> None
+ren -> None
+
+forþæm -> forðam
+on -> on
+þære -> þære
+dene -> denu
+drihten -> drihten
+selfa -> None
+
+þara -> þær
+eadmetta -> None
+eardfæst -> None
+wunigað -> None
+
+þær -> þær
+se -> se
+wisdom -> None
+a -> hosp
+wunað -> None
+on -> on
+gemyndum -> gemynd
+
+forðon -> forðam
+orsorg -> None
+lif -> None
+ealnig -> None
+lædað -> None
+
+woruldmen -> None
+wise -> None
+buton -> butan
+wendinge -> None
+
+þonne -> þonne
+he -> he
+eall -> eall
+forsihð -> None
+eorðlicu -> None
+good -> None
+
+and -> and
+eac -> eac
+þara -> þær
+yfela -> yfel
+orsorh -> None
+wunað -> None
+
+hopað -> None
+to -> to
+þæm -> þæm
+ecum -> None
+þe -> þu
+þær -> þær
+æfter -> æfter
+cumað -> None
+
+hine -> he
+þonne -> þonne
+æghwonan -> None
+ælmihtig -> None
+good -> None
+
+singallice -> None
+simle -> simble
+gehealdeð -> None
+
+anwunigendne -> None
+his -> hit
+agenum -> agen
+
+modes -> None
+gesælðum -> None
+þurh -> þurh
+metodes -> metod
+gife -> gifu
+
+þeah -> þicgan
+hine -> he
+se -> se
+wind -> windan
+woruldearfoða -> None
+
+swiðe -> swiðe
+swence -> None
+and -> and
+hine -> he
+singale -> None
+
+gemen -> None
+gæle -> gælan
+þonne -> þonne
+him -> him
+grimme -> grimman
+on -> on
+
+woruldsælða -> None
+wind -> windan
+wraðe -> None
+blaweð -> None
+
+þeah -> þicgan
+þe -> þu
+hine -> he
+ealneg -> None
+se -> se
+ymbhoga -> None
+
+ðyssa -> None
+woruldsælða -> None
+wraðe -> None
+drecce -> dreccan
+## -> None
+sona -> sona
+swa -> swa
+se -> se
+wisdom -> None
+þas -> þes
+word -> word
+hæfde -> habban
+
+swetole -> None
+areahte -> None
+he -> he
+þa -> þu
+siððan -> siððan
+ongan -> onginnan
+
+singan -> singan
+soðcwidas -> None
+and -> and
+þus -> þus
+selfa -> None
+cwæð -> cweðan
+: -> None
+
+hwæt -> hwæt#2
+sio -> se
+forme -> None
+eld -> None
+foldbuendum -> None
+
+geond -> geond
+eorðan -> eorþ
+sceat -> None
+æghwam -> None
+dohte -> dugan
+
+þa -> þu
+þa -> þu
+anra -> an
+gehwæm -> None
+on -> on
+eorðwæstmum -> None
+
+genoh -> genoh
+ðuhte -> None
+nis -> nesan
+hit -> hit
+nu -> nu
+ða -> þe
+swelc -> None
+! -> None
+
+næron -> None
+þa -> þu
+geond -> geond
+weorulde -> None
+welige -> welig
+hamas -> None
+
+ne -> nesan
+mislice -> None
+mettas -> None
+ne -> nesan
+drincas -> None
+
+ne -> nesan
+hi -> hi
+þara -> þær
+hrægla -> None
+huru -> huru
+ne -> nesan
+gemdon -> None
+
+þe -> þu
+nu -> nu
+drihtguman -> None
+diorost -> None
+lætað -> None
+
+forðæm -> None
+hiora -> hira
+nænig -> None
+næs -> næs
+þa -> þu
+gieta -> None
+
+ne -> nesan
+hi -> hi
+ne -> nesan
+gesawon -> None
+sundbuende -> None
+
+ne -> nesan
+ymbutan -> ymbutan
+hi -> hi
+awer -> None
+ne -> nesan
+herdon -> None
+
+hwæt -> hwæt#2
+hi -> hi
+firenlusta -> None
+frece -> frec
+ne -> nesan
+wæron -> wesan
+
+buton -> butan
+swa -> swa
+hi -> hi
+meahton -> magan
+gemetlicost -> None
+
+ða -> þe
+gecynd -> gecynd
+began -> beginnan
+þe -> þu
+him -> him
+crist -> None
+gesceop -> gesceppan
+
+and -> and
+hi -> hi
+æne -> None
+on -> on
+dæge -> dæg
+æton -> None
+symle -> simble
+
+on -> on
+æfentid -> None
+eorðan -> eorþ
+wæstmas -> None
+
+wudes -> None
+and -> and
+wyrta -> wyrtian
+nalles -> None
+win -> win
+druncon -> drincan
+
+scir -> scir
+of -> of
+steape -> None
+næs -> næs
+þa -> þu
+scealca -> None
+nan -> nan
+
+þe -> þu
+mete -> mete
+oððe -> oððe
+drinc -> drincan
+mængan -> None
+cuðe -> None
+
+wæter -> wæter
+wið -> wiþ
+hunige -> None
+ne -> nesan
+heora -> hira
+wæda -> None
+þon -> þon
+ma -> micel
+
+sioloce -> None
+siowian -> None
+ne -> nesan
+hi -> hi
+siarocræftum -> None
+
+godweb -> None
+giredon -> None
+ne -> nesan
+hi -> hi
+gimreced -> None
+
+setton -> settan
+searolice -> None
+ac -> acan
+hi -> hi
+simle -> simble
+him -> him
+
+eallum -> eall
+tidum -> tid
+ute -> ute
+slepon -> None
+
+under -> under
+beamsceade -> None
+druncon -> drincan
+burnan -> None
+wæter -> wæter
+
+calde -> None
+wyllan -> willa
+nænig -> None
+cepa -> None
+ne -> nesan
+seah -> seon
+
+ofer -> ofer
+eargeblond -> None
+ellendne -> None
+wearod -> None
+
+ne -> nesan
+huru -> huru
+ymbe -> ymbe
+sciphergas -> None
+scealcas -> None
+ne -> nesan
+herdon -> None
+
+ne -> nesan
+furðum -> None
+fira -> None
+nan -> nan
+ymb -> ymb
+gefeoht -> gefeoht
+sprecan -> sprecan
+
+næs -> næs
+ðeos -> None
+eorðe -> eorþ
+besmiten -> besmitan
+awer -> None
+þa -> þu
+geta -> None
+
+beornes -> beorn
+blode -> None
+þe -> þu
+hine -> he
+bill -> None
+rude -> rudu
+
+ne -> nesan
+furðum -> None
+wundne -> None
+wer -> wer
+weoruldbuende -> None
+
+gesawan -> None
+under -> under
+sunnan -> sunne
+nænig -> None
+siððan -> siððan
+wæs -> wesan
+
+weorð -> None
+on -> on
+weorulde -> None
+gif -> gif
+mon -> mann
+his -> hit
+willan -> willan
+ongeat -> ongitan
+
+yfelne -> yfel
+mid -> mid
+eldum -> None
+he -> he
+wæs -> wesan
+æghwæm -> None
+lað -> None
+
+eala -> eala
+þær -> þær
+hit -> hit
+wurde -> weorþan
+oððe -> oððe
+wolde -> willan
+god -> god
+
+þæt -> þæt
+on -> on
+eorðan -> eorþ
+nu -> nu
+ussa -> None
+tida -> None
+
+geond -> geond
+þas -> þes
+widan -> None
+weoruld -> None
+wæren -> None
+æghwæs -> None
+
+swelce -> None
+under -> under
+sunnan -> sunne
+ac -> acan
+hit -> hit
+is -> wesan
+sæmre -> None
+nu -> nu
+
+þæt -> þæt
+ðeos -> None
+gitsunc -> None
+hafað -> None
+gumena -> guma
+gehwelces -> None
+
+mod -> None
+amerred -> None
+þæt -> þæt
+he -> he
+maran -> micel
+ne -> nesan
+recð -> None
+
+ac -> acan
+hit -> hit
+on -> on
+witte -> None
+weallende -> None
+byrnð -> None
+
+efne -> efne
+sio -> se
+gitsung -> None
+þe -> þu
+nænne -> nan
+grund -> grund
+hafað -> None
+
+swearte -> sweart
+swæfeð -> None
+sumes -> None
+onlice -> None
+
+efne -> efne
+þam -> þæm
+munte -> munt
+þe -> þu
+nu -> nu
+monna -> mann
+bearn -> beirnan
+
+etne -> None
+hatað -> None
+se -> se
+on -> on
+iglonde -> None
+
+sicilia -> None
+swefle -> swefl
+byrneð -> None
+
+þæt -> þæt
+mon -> mann
+helle -> hel
+fyr -> fyr
+hateð -> None
+wide -> None
+
+forþæm -> forðam
+hit -> hit
+symle -> simble
+bið -> None
+sinbyrnende -> None
+
+and -> and
+ymbutan -> ymbutan
+hit -> hit
+oðra -> oðer
+stowa -> stow
+
+blate -> None
+forbærnð -> None
+biteran -> biter
+lege -> lecgan
+
+eala -> eala
+hwæt -> hwæt#2
+se -> se
+forma -> None
+feohgitsere -> None
+
+wære -> wære
+on -> on
+worulde -> weorold
+se -> se
+þas -> þes
+wongstedas -> None
+
+grof -> None
+æfter -> æfter
+golde -> gold
+and -> and
+æfter -> æfter
+gimcynnum -> None
+
+hwæt -> hwæt#2
+he -> he
+frecnu -> None
+gestreon -> None
+funde -> findan
+mænegum -> None
+
+bewrigen -> None
+on -> on
+weorulde -> None
+wætere -> wæter
+oððe -> oððe
+eorðan -> eorþ
+## -> None
+hwæt -> hwæt#2
+we -> we
+ealle -> ealle
+witon -> witan
+hwelce -> hwilc
+ærleste -> None
+
+ge -> ge
+neah -> neah
+ge -> ge
+feor -> feor
+neron -> None
+worhte -> wyrcan
+
+romwara -> None
+cyning -> cyning
+þa -> þu
+his -> hit
+rice -> romana
+wæs -> wesan
+
+hehst -> None
+under -> under
+heofonum -> heofon
+to -> to
+hryre -> hryre
+monegum -> None
+
+wælhreowes -> None
+gewed -> None
+wæs -> wesan
+ful -> None
+wide -> None
+cuð -> None
+
+unrihthæmed -> unrihthæmed
+arleasta -> None
+fela -> fela
+
+man -> mann
+and -> and
+morðor -> None
+misdæda -> None
+worn -> None
+
+unrihtwises -> None
+inwidþoncas -> None
+
+he -> he
+het -> het
+him -> him
+to -> to
+gamene -> gamen
+geara -> gear
+forbærnan -> None
+
+romana -> None
+burig -> None
+sio -> se
+his -> hit
+rices -> None
+wæs -> wesan
+
+ealles -> eall
+eðelstol -> None
+he -> he
+for -> for
+unsnyttrum -> None
+
+wolde -> willan
+fandian -> fandian
+gif -> gif
+þæt -> þæt
+fyr -> fyr
+meahte -> magan
+
+lixan -> None
+swa -> swa
+leohte -> leoht
+and -> and
+swa -> swa
+longe -> lange
+eac -> eac
+
+read -> None
+rasettan -> None
+swa -> swa
+he -> he
+romane -> None
+
+secgan -> None
+geherde -> None
+þæt -> þæt
+on -> on
+sume -> sum
+tide -> tid
+
+troia -> None
+burg -> cantwara
+ofertogen -> oferteon
+hæfde -> habban
+
+lega -> None
+leohtost -> None
+lengest -> lange
+burne -> birnan
+
+hama -> None
+under -> under
+hefonum -> None
+næs -> næs
+þæt -> þæt
+herlic -> None
+dæd -> None
+
+þæt -> þæt
+hine -> he
+swelces -> None
+gamenes -> gamen
+gilpan -> None
+lyste -> None
+
+þa -> þu
+he -> he
+ne -> nesan
+earnade -> None
+elles -> elles
+wuhte -> None
+
+buton -> butan
+þæt -> þæt
+he -> he
+wolde -> willan
+ofer -> ofer
+werðiode -> None
+
+his -> hit
+anes -> an
+huru -> huru
+anwald -> anweald
+cyðan -> cyþan
+
+eac -> eac
+hit -> hit
+gesælde -> None
+æt -> æt
+sumum -> sum
+cierre -> None
+
+ðæt -> þæt
+se -> se
+ilca -> ilca
+het -> het
+ealle -> ealle
+acwellan -> acwellan
+
+þa -> þu
+ricostan -> None
+romana -> None
+witan -> witan
+
+and -> and
+þa -> þu
+æþelestan -> None
+eorlgebyrdum -> None
+
+þe -> þu
+he -> he
+on -> on
+þæm -> þæm
+folce -> folc
+gefrigen -> None
+hæfde -> habban
+
+and -> and
+on -> on
+uppan -> None
+agene -> agen
+broðor -> broðor
+
+and -> and
+his -> hit
+modor -> modor
+mid -> mid
+meca -> None
+ecgum -> None
+
+billum -> bil
+ofbeatan -> None
+he -> he
+his -> hit
+bryde -> None
+ofslog -> ofslean
+
+self -> self
+mid -> mid
+sweorde -> sweord
+and -> and
+he -> he
+symle -> simble
+wæs -> wesan
+
+micle -> micel
+þe -> þu
+bliðra -> None
+on -> on
+breostcofan -> None
+
+þonne -> þonne
+he -> he
+swylces -> None
+morðres -> None
+mæst -> micel
+gefremede -> gefremian
+
+nalles -> None
+sorgode -> sorgian
+hwæðer -> hwæðer
+siððan -> siððan
+a -> hosp
+
+mihtig -> mihtig
+drihten -> drihten
+ametan -> None
+wolde -> willan
+
+wrece -> wrecan
+be -> be
+gewyrhtum -> None
+wohfremmendum -> None
+
+ac -> acan
+he -> he
+on -> on
+ferðe -> None
+fægn -> None
+facnes -> None
+and -> and
+searuwa -> None
+
+wælriow -> None
+wunode -> wunian
+wiold -> None
+emne -> None
+swa -> swa
+þeah -> þicgan
+
+ealles -> eall
+þisses -> þes
+mæran -> mære
+middangeardes -> middangeard
+
+swa -> swa
+swa -> swa
+lyft -> lyft
+and -> and
+lagu -> lagu
+land -> land
+ymbclyppað -> None
+
+garsecg -> None
+embegyrt -> None
+gumena -> guma
+rice -> romana
+
+secgea -> None
+sitlu -> None
+suð -> suþ
+east -> None
+and -> and
+west -> west
+
+oð -> oþ
+ða -> þe
+norðmestan -> None
+næssan -> None
+on -> on
+eorðan -> eorþ
+
+eall -> eall
+þæt -> þæt
+nerone -> None
+nede -> None
+oððe -> oððe
+lustum -> None
+
+heaðorinca -> None
+gehwilc -> None
+heran -> None
+sceolde -> sculan
+
+he -> he
+hæfde -> habban
+him -> him
+to -> to
+gamene -> gamen
+þonne -> þonne
+he -> he
+on -> on
+gylp -> None
+astag -> None
+
+hu -> hu
+he -> he
+eorðcyningas -> None
+yrmde -> None
+and -> and
+cwelmde -> None
+
+wenst -> None
+ðu -> þu
+þæt -> þæt
+se -> se
+anwald -> anweald
+eaðe -> None
+ne -> nesan
+meahte -> magan
+
+godes -> god
+ælmihtiges -> None
+þone -> se
+gelpscaðan -> None
+
+rice -> romana
+berædan -> None
+and -> and
+bereafian -> bereafian
+
+his -> hit
+anwaldes -> None
+ðurh -> þurh
+þa -> þu
+ecan -> None
+meaht -> magan
+
+oððe -> oððe
+him -> him
+his -> hit
+yfeles -> yfel
+elles -> elles
+gestioran -> None
+
+eala -> eala
+gif -> gif
+he -> he
+wolde -> willan
+ðæt -> þæt
+he -> he
+wel -> wel
+meahte -> magan
+
+þæt -> þæt
+unriht -> None
+him -> him
+eaðe -> None
+forbiodan -> None
+! -> None
+
+eawla -> None
+þæt -> þæt
+se -> se
+hlaford -> None
+hefig -> hefig
+gioc -> None
+slepte -> None
+
+sware -> None
+on -> on
+þa -> þu
+swyran -> None
+sinra -> None
+ðegena -> None
+
+ealra -> eal
+ðara -> se
+hæleða -> None
+þe -> þu
+on -> on
+his -> hit
+tidum -> tid
+
+geond -> geond
+þas -> þes
+lænan -> None
+worold -> None
+liban -> None
+sceoldon -> sculan
+
+he -> he
+on -> on
+unscyldgum -> None
+eorla -> eorl
+blode -> None
+
+his -> hit
+sweord -> None
+selede -> None
+swiðe -> swiðe
+gelome -> gelome
+
+ðær -> þær
+wæs -> wesan
+swiðe -> swiðe
+sweotol -> sweotol
+þæt -> þæt
+we -> we
+sædon -> None
+oft -> oft
+
+þæt -> þæt
+se -> se
+anwald -> anweald
+ne -> nesan
+deð -> None
+awiht -> None
+godes -> god
+
+gif -> gif
+se -> se
+wel -> wel
+nele -> None
+þe -> þu
+his -> hit
+geweald -> geweald
+hafað -> None
+## -> None
+ðus -> þus
+ælfred -> None
+us -> we
+ealdspell -> None
+reahte -> reccan
+
+cyning -> cyning
+westsexna -> None
+cræft -> cræft
+meldode -> None
+
+leoðwyrhta -> None
+list -> list
+him -> him
+wæs -> wesan
+lust -> None
+micel -> micel
+
+ðæt -> þæt
+he -> he
+ðiossum -> None
+leodum -> None
+leoð -> None
+spellode -> None
+
+monnum -> mann
+myrgen -> None
+mislice -> None
+cwidas -> cwide
+
+þy -> þy
+læs -> læs
+ælinge -> None
+ut -> ut
+adrife -> adrifan
+
+selflicne -> None
+secg -> secg
+þonne -> þonne
+he -> he
+swelces -> None
+lyt -> None
+
+gymð -> None
+for -> for
+his -> hit
+gilpe -> None
+ic -> ic
+sceal -> sculan
+giet -> git
+sprecan -> sprecan
+
+fon -> None
+on -> on
+fitte -> fitt
+folccuðne -> None
+ræd -> None
+
+hæleðum -> None
+secgean -> None
+hliste -> None
+se -> se
+þe -> þu
+wille -> willan
+! -> None
+
