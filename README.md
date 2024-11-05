@@ -8,7 +8,6 @@ uv run --with jupyter jupyter lab
 
 uv init
 uv venv --seed
-
-cd master_class
-uv run lemmatazer.py
+uv run lemmatazer.py > d/lemmatazer/stat.txt
+uv run corpus.py > d/corpus/stat.txt
 ```

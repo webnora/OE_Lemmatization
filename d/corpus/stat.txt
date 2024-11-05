@@ -1,0 +1,425 @@
+FILE: resignation.txt
+All words: 516
+Forms not found: 348
+Lemms not found: 199
+
+FILE: soul and body i.txt
+All words: 729
+Forms not found: 471
+Lemms not found: 258
+
+FILE: the panther.txt
+All words: 317
+Forms not found: 237
+Lemms not found: 151
+
+FILE: a proverb from winfrids time.txt
+All words: 10
+Forms not found: 10
+Lemms not found: 8
+
+FILE: the rune poem.txt
+All words: 461
+Forms not found: 307
+Lemms not found: 193
+
+FILE: the husbands message.txt
+All words: 229
+Forms not found: 171
+Lemms not found: 103
+
+FILE: aldhelm.txt
+All words: 83
+Forms not found: 64
+Lemms not found: 46
+
+FILE: the capture of the five boroughs.txt
+All words: 55
+Forms not found: 47
+Lemms not found: 33
+
+FILE: guthlac a b.txt
+All words: 6099
+Forms not found: 4409
+Lemms not found: 1938
+
+FILE: exodus.txt
+All words: 2695
+Forms not found: 1933
+Lemms not found: 1048
+
+FILE: bedes death song west saxon version.txt
+All words: 21
+Forms not found: 16
+Lemms not found: 11
+
+FILE: thureth.txt
+All words: 47
+Forms not found: 30
+Lemms not found: 19
+
+FILE: a summons to prayer.txt
+All words: 141
+Forms not found: 115
+Lemms not found: 79
+
+FILE: the dream of the rood.txt
+All words: 759
+Forms not found: 460
+Lemms not found: 253
+
+FILE: homiletic fragment i.txt
+All words: 208
+Forms not found: 135
+Lemms not found: 82
+
+FILE: the lords prayer iii.txt
+All words: 199
+Forms not found: 146
+Lemms not found: 89
+
+FILE: durham.txt
+All words: 110
+Forms not found: 92
+Lemms not found: 67
+
+FILE: the seasons for fasting.txt
+All words: 1000
+Forms not found: 685
+Lemms not found: 368
+
+FILE: deor.txt
+All words: 174
+Forms not found: 132
+Lemms not found: 77
+
+FILE: allParis.txt
+All words: 20799
+Forms not found: 13656
+Lemms not found: 3767
+
+FILE: widsith.txt
+All words: 646
+Forms not found: 501
+Lemms not found: 310
+
+FILE: elene.txt
+All words: 5910
+Forms not found: 4079
+Lemms not found: 1795
+
+FILE: the wanderer.txt
+All words: 556
+Forms not found: 379
+Lemms not found: 246
+
+FILE: the battle of maldon.txt
+All words: 1558
+Forms not found: 1014
+Lemms not found: 497
+
+FILE: vainglory.txt
+All words: 377
+Forms not found: 268
+Lemms not found: 176
+
+FILE: allRiddles.txt
+All words: 5843
+Forms not found: 4181
+Lemms not found: 1982
+
+FILE: azarias.txt
+All words: 848
+Forms not found: 600
+Lemms not found: 327
+
+FILE: pharaoh.txt
+All words: 37
+Forms not found: 30
+Lemms not found: 19
+
+FILE: latin-english proverbs.txt
+All words: 32
+Forms not found: 30
+Lemms not found: 24
+
+FILE: wulf and eadwacer.txt
+All words: 79
+Forms not found: 54
+Lemms not found: 33
+
+FILE: the fates of the apostles.txt
+All words: 558
+Forms not found: 388
+Lemms not found: 238
+
+FILE: the death of edward.txt
+All words: 158
+Forms not found: 104
+Lemms not found: 64
+
+FILE: the death of alfred.txt
+All words: 131
+Forms not found: 85
+Lemms not found: 55
+
+FILE: the metrical preface to waerferths translation of gregorys dialogues.txt
+All words: 121
+Forms not found: 80
+Lemms not found: 52
+
+FILE: the wifes lament.txt
+All words: 236
+Forms not found: 171
+Lemms not found: 108
+
+FILE: the whale.txt
+All words: 365
+Forms not found: 280
+Lemms not found: 183
+
+FILE: andreas.txt
+All words: 7859
+Forms not found: 5484
+Lemms not found: 2284
+
+FILE: the gloria ii.txt
+All words: 17
+Forms not found: 10
+Lemms not found: 6
+
+FILE: christ a b c.txt
+All words: 7464
+Forms not found: 5221
+Lemms not found: 2243
+
+FILE: genesis.txt
+All words: 13360
+Forms not found: 8930
+Lemms not found: 3088
+
+FILE: christ and satan.txt
+All words: 3294
+Forms not found: 2153
+Lemms not found: 908
+
+FILE: the phoenix.txt
+All words: 3037
+Forms not found: 2183
+Lemms not found: 1078
+
+FILE: the order of the world.txt
+All words: 480
+Forms not found: 320
+Lemms not found: 201
+
+FILE: the metrical epilogue to ms 41 corpus christi college cambridge.txt
+All words: 50
+Forms not found: 32
+Lemms not found: 19
+
+FILE: the coronation of edgar.txt
+All words: 84
+Forms not found: 57
+Lemms not found: 36
+
+FILE: the judgment day ii.txt
+All words: 1332
+Forms not found: 903
+Lemms not found: 538
+
+FILE: the judgment day i.txt
+All words: 570
+Forms not found: 372
+Lemms not found: 227
+
+FILE: caedmons hymn west saxon version.txt
+All words: 40
+Forms not found: 24
+Lemms not found: 15
+
+FILE: the gifts of men.txt
+All words: 470
+Forms not found: 346
+Lemms not found: 210
+
+FILE: maxims i.txt
+All words: 1152
+Forms not found: 731
+Lemms not found: 464
+
+FILE: the riming poem.txt
+All words: 447
+Forms not found: 358
+Lemms not found: 259
+
+FILE: the partridge.txt
+All words: 73
+Forms not found: 47
+Lemms not found: 29
+
+FILE: the mologium.txt
+All words: 1047
+Forms not found: 681
+Lemms not found: 356
+
+FILE: the brussels cross.txt
+All words: 27
+Forms not found: 19
+Lemms not found: 14
+
+FILE: the ruin.txt
+All words: 218
+Forms not found: 161
+Lemms not found: 110
+
+FILE: beowulf.txt
+All words: 14404
+Forms not found: 10176
+Lemms not found: 4086
+
+FILE: a prayer.txt
+All words: 326
+Forms not found: 200
+Lemms not found: 106
+
+FILE: precepts.txt
+All words: 477
+Forms not found: 324
+Lemms not found: 174
+
+FILE: waldere a.txt
+All words: 147
+Forms not found: 100
+Lemms not found: 64
+
+FILE: daniel.txt
+All words: 3452
+Forms not found: 2299
+Lemms not found: 1018
+
+FILE: psalm 50.txt
+All words: 820
+Forms not found: 655
+Lemms not found: 379
+
+FILE: judith.txt
+All words: 1656
+Forms not found: 1151
+Lemms not found: 645
+
+FILE: the lords prayer i.txt
+All words: 58
+Forms not found: 34
+Lemms not found: 23
+
+FILE: soul and body ii.txt
+All words: 513
+Forms not found: 350
+Lemms not found: 209
+
+FILE: waldere b.txt
+All words: 145
+Forms not found: 105
+Lemms not found: 71
+
+FILE: the seafarer.txt
+All words: 568
+Forms not found: 399
+Lemms not found: 259
+
+FILE: homiletic fragment ii.txt
+All words: 88
+Forms not found: 64
+Lemms not found: 44
+
+FILE: a mothers fears.txt
+All words: 471
+Forms not found: 344
+Lemms not found: 228
+
+FILE: the gloria i.txt
+All words: 285
+Forms not found: 171
+Lemms not found: 97
+
+FILE: juliana.txt
+All words: 3234
+Forms not found: 2264
+Lemms not found: 1107
+
+FILE: the battle of finnsburh.txt
+All words: 242
+Forms not found: 170
+Lemms not found: 112
+
+FILE: allMetrical.txt
+All words: 1962
+Forms not found: 1369
+Lemms not found: 774
+
+FILE: an exhortation to christian living.txt
+All words: 340
+Forms not found: 219
+Lemms not found: 126
+
+FILE: alms-giving.txt
+All words: 41
+Forms not found: 27
+Lemms not found: 18
+
+FILE: allMeters.txt
+All words: 7269
+Forms not found: 5000
+Lemms not found: 2115
+
+FILE: solomon and saturn.txt
+All words: 2614
+Forms not found: 1972
+Lemms not found: 1010
+
+FILE: the descent into hell.txt
+All words: 601
+Forms not found: 425
+Lemms not found: 226
+
+FILE: the kentish hymn.txt
+All words: 188
+Forms not found: 135
+Lemms not found: 88
+
+FILE: the battle of brunanburh.txt
+All words: 332
+Forms not found: 250
+Lemms not found: 164
+
+FILE: maxims ii.txt
+All words: 385
+Forms not found: 226
+Lemms not found: 152
+
+FILE: the leiden riddle.txt
+All words: 88
+Forms not found: 83
+Lemms not found: 61
+
+FILE: the lords prayer ii.txt
+All words: 586
+Forms not found: 373
+Lemms not found: 201
+
+FILE: allFragments.txt
+All words: 1067
+Forms not found: 810
+Lemms not found: 425
+
+FILE: the creed.txt
+All words: 296
+Forms not found: 208
+Lemms not found: 128
+
+FILE: the death of edgar.txt
+All words: 179
+Forms not found: 115
+Lemms not found: 69
+

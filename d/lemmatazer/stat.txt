@@ -1,0 +1,9 @@
+Stop words: 0
+All words: 13415
+Forms not found: 6760
+Lemms not found: 2155
+
+Stop words: 495
+All words: 7269
+Forms not found: 5000
+Lemms not found: 2115
