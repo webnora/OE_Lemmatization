@@ -1,0 +1,12 @@
+[submodule "wiktionary-tools"]
+	path = s/wiktionary-tools
+	url = https://github.com/unimorph/wiktionary-tools
+[submodule "nora_cltk"]
+	path = s/oe_cltk
+	url = git@github.com:webnora/oe_cltk.git
+[submodule "ang_models_cltk"]
+	path = s/ang_models_cltk
+	url = https://github.com/cltk/ang_models_cltk
+[submodule "nora_data"]
+	path = s/oe_data
+	url = git@github.com:webnora/OE_data.git
