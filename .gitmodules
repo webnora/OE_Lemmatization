@@ -10,3 +10,6 @@
 [submodule "nora_data"]
 	path = s/oe_data
 	url = git@github.com:webnora/OE_data.git
+[submodule "unimorph-ang"]
+	path = s/unimorph-ang
+	url = https://github.com/unimorph/ang.git
