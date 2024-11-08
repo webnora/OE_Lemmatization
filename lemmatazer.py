@@ -1,5 +1,5 @@
 class Lemmatazer:
-  path_in = 'd/in/'
+  path_in  = 'd/in/'
   path_out = 'd/lemmatazer/'
 
   def __init__(self, 
