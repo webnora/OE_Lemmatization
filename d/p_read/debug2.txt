@@ -1,7 +1,7 @@
 Ohthere -> ohthere
 sæde -> sæd
 his -> hit
-hlaforde -> None
+hlaforde -> hlaford
 Ælfrede -> ælfred
 cyninge -> cyninge
 þæt -> þæt
@@ -14,7 +14,7 @@ He -> None
 cwæð -> cweðan
 þæt -> þæt
 he -> he
-bude -> bēodan
+bude -> buan
 on -> on
 þæm -> þæm
 lande -> land
@@ -24,11 +24,11 @@ wiþ -> wiþ
 Westsæ
 He -> None
 sæde -> sæd
-þeah -> þiċġan
+þeah -> þiсgan
 þæt -> þæt
 þæt -> þæt
 land -> land
-sie -> None
+sie -> wesan
 swiþe -> swiþe
 lang -> lang
 norþ -> norþ
@@ -41,7 +41,7 @@ weste -> weste
 buton -> butan
 on -> on
 feawum -> feawa
-stowum -> None
+stowum -> stow
 styccemælum -> styccemælum
 wiciað -> wician
 Finnas -> finn
@@ -71,7 +71,7 @@ longe -> long
 þæt -> þæt
 land -> land
 norþryhte -> norþrihte
-læge -> None
+læge -> liсgan
 oþþe -> oþþe
 hwæðer -> hwæðer
 ænig -> ænig
@@ -88,7 +88,7 @@ norþryhte -> norþrihte
 be -> be
 þæm -> þæm
 lande -> land
-let -> lettan
+let -> lætan
 him -> him
 ealne -> eall
 weg -> wegan
@@ -132,16 +132,16 @@ on -> on
 þæm -> þæm
 oþrum -> oþrum
 þrim -> þri
-dagum -> dæġ
+dagum -> dæg
 gesiglan
 Þa -> None
-beag -> None
+beag -> bugan
 þæt -> þæt
 land -> land
 þær -> þær
 eastryhte -> eastrihte
 oþþe -> oþþe
-seo -> se
+seo -> seon
 sæ -> sæ
 in -> in
 on -> on
@@ -157,15 +157,15 @@ wisse -> witan
 ðæt -> þæt
 he -> he
 ðær -> þær
-bad -> None
+bad -> bidan
 westanwindes -> westanwind
 & -> None
 hwon -> hwon
 norþan -> norþan
 & -> None
-siglde -> seglan
+siglde -> siglan
 ða -> þe
-east -> None
+east -> east
 be -> be
 lande -> land
 swa -> swa
@@ -174,23 +174,23 @@ he -> he
 meahte -> magan
 on -> on
 feower -> feower
-dagum -> dæġ
+dagum -> dæg
 gesiglan
 Þa -> None
 sceolde -> sculan
 he -> he
 ðær -> þær
-bidan -> None
+bidan -> bidan
 ryhtnorþanwindes -> rihtnorþanwind
 for -> for
 ðæm -> þæm
 þæt -> þæt
 land -> land
-beag -> None
+beag -> bugan
 þær -> þær
 suþryhte -> suþrihte
 oþþe -> oþþe
-seo -> se
+seo -> seon
 sæ -> sæ
 in -> in
 on -> on
@@ -201,7 +201,7 @@ n -> næs
 ysse -> None
 hwæþer
 Þa -> None
-siglde -> seglan
+siglde -> siglan
 he -> he
 þonan -> þanan
 suðryhte -> suþrihte
@@ -213,14 +213,14 @@ he -> he
 mehte -> magan
 on -> on
 fif -> fif
-dagum -> dæġ
+dagum -> dæg
 gesiglan
 Ða -> None
-læg -> licgan
+læg -> liсgan
 þær -> þær
 an -> on
 micel -> micel
-ea -> None
+ea -> ea
 up -> up
 in -> in
 on -> on
@@ -233,7 +233,7 @@ up -> up
 in -> in
 on -> on
 ða -> þe
-ea -> None
+ea -> ea
 for -> for
 þæm -> þæm
 hie -> hi
@@ -242,8 +242,8 @@ dorston -> durran
 forþ -> forþ
 bi -> bi
 þære -> þære
-ea -> None
-siglan -> seglan
+ea -> ea
+siglan -> siglan
 for -> for
 unfriþe -> unfriþ
 for -> for
@@ -254,7 +254,7 @@ wæs -> wesan
 eall -> eall
 gebun -> gebuan
 on -> on
-oþre -> oðer
+oþre -> oþer
 healfe -> healf
 þære -> þære
 eas
@@ -290,13 +290,13 @@ fugelerum -> fugelere
 huntum
 & -> None
 þæt -> þæt
-wæron -> None
+wæron -> wesan
 eall -> eall
 Finnas
 & -> None
 him -> him
 wæs -> wesan
-a -> wīfcynn
+a -> wifcynn
 widsæ -> widsæ
 on -> on
 ðæt -> þæt
@@ -333,7 +333,7 @@ fugeleras
 Fela -> None
 spella -> spellian
 him -> him
-sædon -> None
+sædon -> secgan
 þa -> þu
 Beormas -> beormas
 ægþer -> æghwæðer
@@ -354,10 +354,10 @@ wæron
 ac -> None
 he -> he
 n -> næs
-yste -> None
+yste -> ystan
 hwæt -> hwæt#2
 þæs -> se
-soþes -> None
+soþes -> soþ
 wæs -> wesan
 for -> for
 þæm -> þæm
@@ -369,11 +369,11 @@ geseah
 Þa -> None
 Finnas -> finn
 him -> him
-þuhte -> None
+þuhte -> þynсan
 & -> None
 þa -> þu
 Beormas -> beormas
-spræcon -> None
+spræcon -> sprecan
 neah -> neah
 an -> on
 geþeode
@@ -401,23 +401,23 @@ toþum
 þa -> None
 teð -> None
 hie -> hi
-brohton -> None
+brohton -> bringan
 sume -> sum
 þæm -> þæm
 cyninge
 & -> None
 hiora -> hira
-hyd -> None
+hyd -> hydan
 bið -> None
 swiðe -> swiðe
 god -> god
-to -> to
+to -> toh
 sciprapum
 Se -> None
 hwæl -> hwæl
 bið -> None
 micle -> micel
-læssa -> None
+læssa -> læssa
 þonne -> þonne
 oðre -> oðer
 hwalas
@@ -470,10 +470,10 @@ spedig -> spedig
 man -> munan
 on -> on
 þæm -> þæm
-æhtum -> None
+æhtum -> æht
 þe -> þu
 heora -> hira
-speda -> None
+speda -> sped
 on -> on
 beoð -> None
 þæt -> þæt
@@ -488,19 +488,19 @@ gyt -> git
 he -> he
 þone -> se
 cyningc -> None
-sohte -> None
+sohte -> sœ̄сan
 tamra -> tam
-deora -> None
+deora -> deore
 unbebohtra -> unbeboht
 syx -> six
 hund
 Þa -> None
-deor -> None
+deor -> deor
 hi -> hi
 hatað -> None
 hranas
 þara -> None
-wæron -> None
+wæron -> wesan
 syx -> six
 stælhranas
 ða -> None
@@ -529,7 +529,7 @@ lande
 n -> None
 æfde -> None
 he -> he
-þeah -> þiċġan
+þeah -> þiсgan
 ma -> micel
 ðonne -> þonne
 twentig -> twentig
@@ -542,7 +542,7 @@ twentig -> twentig
 swyna
 & -> None
 þæt -> þæt
-lytle -> None
+lytle -> lytel
 þæt -> þæt
 he -> he
 erede -> erian
@@ -567,7 +567,7 @@ gyldað
 gafol -> gafol
 bið -> None
 on -> on
-deora -> None
+deora -> deore
 fellum -> fel
 & -> None
 on -> on
@@ -584,20 +584,20 @@ sciprapum -> sciprap
 beoð -> None
 of -> of
 hwæles -> hwæl
-hyde -> None
-geworht -> wyrcan
+hyde -> hydan
+geworht -> wyrсean
 & -> None
 of -> of
 seoles
 Æghwilc -> None
-gylt -> None
+gylt -> gyldan
 be -> be
 hys -> his
 gebyrdum
 Se -> None
 byrdesta -> None
 sceall -> None
-gyldan -> None
+gyldan -> gyldan
 fiftyne -> fiftyne
 mearðes -> mearþ
 fell -> fellan
@@ -607,9 +607,9 @@ hranes -> hran
 & -> None
 an -> on
 beran -> beran
-fel -> fel
+fel -> felan
 & -> None
-tyn -> tin
+tyn -> tynan
 ambra -> amber
 feðra -> feðer
 & -> None
@@ -621,17 +621,17 @@ yterenne -> yteren
 twegen -> twegen
 sciprapas
 ægþer -> None
-sy -> None
+sy -> su
 syxtig -> sixtig
 elna -> eln
 lang
 oþer -> None
-sy -> None
+sy -> su
 of -> of
 hwæles -> hwæl
-hyde -> None
-geworht -> wyrcan
-oþer -> oðer
+hyde -> hydan
+geworht -> wyrсean
+oþer -> oþer
 of -> of
 sioles
 He -> None
@@ -640,7 +640,7 @@ sæde -> sæd
 Norðmanna -> norþmann
 land -> land
 wære -> wære
-swyþe -> swyðe
+swyþe -> swyþ
 lang -> lang
 & -> None
 swyðe -> swiðe
@@ -663,10 +663,10 @@ sæ
 & -> None
 þæt -> þæt
 is -> wesan
-þeah -> þiċġan
+þeah -> þiсgan
 on -> on
 sumum -> sum
-stowum -> None
+stowum -> stow
 swyðe -> swiðe
 cludig
 & -> None
@@ -706,7 +706,7 @@ mæg -> mæg
 bion -> None
 syxtig -> sixtig
 mila -> mil
-brad -> None
+brad -> brad
 oþþe -> oþþe
 hwene -> hwene
 brædre -> None
@@ -726,11 +726,11 @@ wære -> wære
 þæt -> þæt
 hit -> hit
 mihte -> miht
-beon -> None
+beon -> beon
 þreora -> þri
 mila -> mil
-brad -> None
-to -> to
+brad -> brad
+to -> toh
 þæm -> þæm
 more
 & -> None
@@ -739,9 +739,9 @@ mor -> mor
 syðþan -> siððan
 on -> on
 sumum -> sum
-stowum -> None
+stowum -> stow
 swa -> swa
-brad -> None
+brad -> brad
 swa -> swa
 man -> munan
 mæg -> mæg
@@ -752,15 +752,15 @@ oferferan -> oferferan
 & -> None
 on -> on
 sumum -> sum
-stowum -> None
+stowum -> stow
 swa -> swa
-brad -> None
+brad -> brad
 swa -> swa
 man -> munan
 mæg -> mæg
 on -> on
 syx -> six
-dagum -> dæġ
+dagum -> dæg
 oferferan
 Ðonne -> None
 is -> wesan
@@ -802,7 +802,7 @@ on -> on
 hy
 & -> None
 þær -> þær
-sint -> None
+sint -> wesan
 swiðe -> swiðe
 micle -> micel
 meras -> mere
@@ -830,7 +830,7 @@ Norðmen
 hy -> None
 habbað -> None
 swyðe -> swiðe
-lytle -> None
+lytle -> lytel
 scypa -> None
 & -> None
 swyðe -> swiðe
@@ -840,7 +840,7 @@ sæde -> sæd
 þæt -> þæt
 sio -> se
 scir -> scir
-hatte -> None
+hatte -> hatan
 Halgoland -> halgoland
 þe -> þu
 he -> he
@@ -852,7 +852,7 @@ cwæð -> cweðan
 nan -> nan
 man -> munan
 ne -> nesan
-bude -> bēodan
+bude -> buan
 be -> be
 norðan -> norþan
 him
@@ -866,7 +866,7 @@ suðeweardum -> suþeweard
 lande -> land
 þone -> se
 man -> munan
-hæt -> None
+hæt -> hætan
 Sciringesheal
 Þyder -> None
 he -> he
@@ -886,7 +886,7 @@ niht -> niht
 wicode -> wician
 & -> None
 ælce -> ælc
-dæge -> dæg
+dæge -> dæge
 hæfde -> habban
 ambyrne -> ambyr
 wind
@@ -910,7 +910,7 @@ Iraland -> iraland
 & -> None
 þonne -> þonne
 ða -> þe
-igland -> None
+igland -> igland
 þe -> þu
 synd -> None
 betux -> betweoh
@@ -925,7 +925,7 @@ land -> land
 oð -> oþ
 he -> he
 cymð -> None
-to -> to
+to -> toh
 Scirincgesheale -> sciringesheal
 & -> None
 ealne -> eall
@@ -945,9 +945,9 @@ hunde -> hund
 wintrum -> winter
 & -> None
 XXVI -> twentigsix
-feng -> None
+feng -> fon
 Alexander -> alexander
-to -> to
+to -> toh
 Mæcedonia -> mæcedonia
 rice -> romana
 æfter -> æfter
@@ -960,7 +960,7 @@ his -> hit
 ðegnscipe -> þegenscip
 on -> on
 ðon -> se
-gecyþde -> gecyðan
+gecyþde -> gecyþan
 þa -> þu
 he -> he
 ealle -> ealle
@@ -971,7 +971,7 @@ snyttro -> snytro
 on -> on
 his -> hit
 geweald -> geweald
-geniedde -> genedan
+geniedde -> geniedan
 ealle -> ealle
 þa -> þu
 þe -> þu
@@ -996,7 +996,7 @@ wið -> wiþ
 þæm -> þæm
 þe -> þu
 he -> he
-gelærde -> None
+gelærde -> gelæran
 ealle -> ealle
 Crecas -> crece
 þæt -> þæt
@@ -1004,8 +1004,8 @@ hie -> hi
 Alexandre -> alexander
 wiðsocen
 Athene -> None
-budon -> bēodan
-gefeoht -> gefeoht
+budon -> buan
+gefeoht -> gefeohtan
 Alexandre
 ac -> None
 he -> he
@@ -1025,7 +1025,7 @@ hæfdon -> habban
 & -> None
 Thebana -> thebane
 fæsten -> fæsten
-abræc -> None
+abræc -> abrecan
 & -> None
 mid -> mid
 ealle -> ealle
@@ -1051,13 +1051,13 @@ gesealde
 ealle -> ealle
 þa -> þu
 oðre -> oðer
-þeoda -> None
+þeoda -> þeod
 þe -> þu
 an -> on
 Crecum -> creca
-wæron -> None
+wæron -> wesan
 he -> he
-to -> to
+to -> toh
 gafolgieldum -> gafolgilda
 gedyde -> gedon
 buton -> butan
@@ -1065,7 +1065,7 @@ Mæcedonium -> mæcedonie
 þe -> þu
 him -> him
 æst -> ær
-to -> to
+to -> toh
 gecirdon -> gecirran
 & -> None
 þonan -> þanan
@@ -1079,7 +1079,7 @@ Thraci -> thracia
 & -> None
 hie -> hi
 ealle -> ealle
-to -> to
+to -> toh
 him -> him
 gebigde
 & -> None
@@ -1108,7 +1108,7 @@ mehte
 On -> None
 his -> hit
 feðehere -> feðehere
-wæron -> None
+wæron -> wesan
 XXXII -> þritigtwegen
 M -> þusend
 & -> None
@@ -1137,11 +1137,11 @@ wæs -> wesan
 he -> he
 swa -> swa
 mid -> mid
-lytle -> None
+lytle -> lytel
 fultume -> fultuman
 þone -> se
 mæstan -> micel
-dæl -> dæl
+dæl -> dælan
 þisses -> þes
 middangeardes -> middangeard
 gegan -> gegan
@@ -1151,7 +1151,7 @@ mehte -> magan
 he -> he
 mid -> mid
 swa -> swa
-lytle -> None
+lytle -> lytel
 weorode -> weorod
 swa -> swa
 micel -> micel
@@ -1178,7 +1178,7 @@ He -> None
 wearþ -> weorþan
 þeh -> þeah
 swiþor -> swiðe
-beswicen -> beswīcan
+beswicen -> beswican
 for -> for
 Alexandres -> alexander
 searewe -> None
@@ -1190,12 +1190,12 @@ gefeohte
 wæs -> wesan
 ungemetlic -> ungemetlic
 wæl -> wæl
-geslagen -> geslean
+geslagen -> slean
 Persa
 & -> None
 Alexandres -> alexander
 n -> næs
-æs -> None
+æs -> æs
 na -> na
 ma -> micel
 þonne -> þonne
@@ -1210,7 +1210,7 @@ on -> on
 þæm -> þæm
 feðan
 Þa -> None
-afor -> afaran
+afor -> afor
 Alexander -> alexander
 þonan -> þanan
 on -> on
@@ -1220,7 +1220,7 @@ lond -> land
 & -> None
 heora -> hira
 burg -> cantwara
-abræc -> None
+abræc -> abrecan
 & -> None
 towearp -> toweorpan
 þe -> þu
@@ -1228,7 +1228,7 @@ mon -> mann
 hætt -> hætt
 Sardis
 Þa -> None
-sægde -> secgan
+sægde -> sægan
 him -> him
 mon -> mann
 þæt -> þæt
@@ -1247,7 +1247,7 @@ ondred -> ondrædan
 for -> for
 þære -> þære
 nearwan -> nearu
-stowe -> None
+stowe -> stow
 þe -> þu
 he -> he
 þa -> þu
@@ -1259,7 +1259,7 @@ for -> for
 þæm -> þæm
 ege -> ege
 þonan -> þanan
-afor -> afaran
+afor -> afor
 ofer -> ofer
 Taurasan -> tauras
 þone -> se
@@ -1270,32 +1270,32 @@ micelne -> micelne
 weg -> wegan
 on -> on
 þæm -> þæm
-dæge -> dæg
+dæge -> dæge
 gefor -> gefaran
 oð -> oþ
 he -> he
 com -> cuman
-to -> to
+to -> toh
 Tharsum -> tharsus
 þære -> þære
-byrg -> None
+byrg -> byrgan
 on -> on
 Cilicium -> cilicia
 þæm -> þæm
 londe
 On -> None
 ðæm -> þæm
-dæge -> dæg
+dæge -> dæge
 he -> he
-gemette -> None
+gemette -> gemetan
 ane -> an
-ea -> None
+ea -> ea
 sio -> se
 hæfde -> habban
 ungemettlice -> ungemetlice
 ceald -> None
 wæter -> wæter
-seo -> se
+seo -> seon
 wæs -> wesan
 Ciðnus -> ciðnus
 haten
@@ -1330,7 +1330,7 @@ com -> cuman
 Darius -> darius
 mid -> mid
 firde -> None
-to -> to
+to -> toh
 Alexandre
 He -> None
 hæfde -> habban
@@ -1356,7 +1356,7 @@ menige -> menigu
 & -> None
 for -> for
 þære -> þære
-lytlan -> None
+lytlan -> lytel
 þe -> þu
 he -> he
 self -> self
@@ -1372,7 +1372,7 @@ Darius -> darius
 maran -> micel
 ofercome
 Þæt -> None
-gefeoht -> gefeoht
+gefeoht -> gefeohtan
 wæs -> wesan
 gedon -> gedon
 mid -> mid
@@ -1384,7 +1384,7 @@ folcum -> folc
 bæm
 & -> None
 þær -> þær
-wæron -> None
+wæron -> wesan
 þa -> þu
 cyningas -> cyning
 begen -> begen
@@ -1432,7 +1432,7 @@ his -> hit
 II -> twegen
 dohtor
 Ða -> None
-bead -> None
+bead -> beodan
 Darius -> darius
 healf -> healf
 his -> hit
@@ -1458,7 +1458,7 @@ fird -> None
 of -> of
 Persum -> perse
 & -> None
-eac -> eac
+eac -> eacan
 of -> of
 oþrum -> oþrum
 londum -> land
@@ -1467,7 +1467,7 @@ fultum -> fultuman
 þe -> þu
 he -> he
 him -> him
-to -> to
+to -> toh
 aspanan -> aspanan
 mehte -> magan
 & -> None
@@ -1486,7 +1486,7 @@ sende -> sendan
 Alexander -> alexander
 Parmenionem -> parmenio
 his -> hit
-ladteow -> None
+ladteow -> ladteow
 þæt -> þæt
 he -> he
 Darius -> darius
@@ -1502,7 +1502,7 @@ Sirium
 hie -> hi
 him -> him
 ongean -> ongeagn
-comon -> None
+comon -> cuman
 & -> None
 his -> hit
 mid -> mid
@@ -1521,7 +1521,7 @@ folc -> folc
 sum -> sum
 þær -> þær
 sittan -> sittan
-let -> lettan
+let -> lætan
 sum -> sum
 þonan -> þanan
 adræfde -> adrifan
@@ -1565,9 +1565,9 @@ Cilicium -> cilicia
 & -> None
 þæt -> þæt
 folc -> folc
-to -> to
+to -> toh
 him -> him
-geniedde -> genedan
+geniedde -> geniedan
 & -> None
 siþþan -> siððan
 on -> on
@@ -1577,7 +1577,7 @@ iglond -> None
 & -> None
 þæt -> þæt
 folc -> folc
-to -> to
+to -> toh
 him -> him
 geniedde
 & -> None
@@ -1589,9 +1589,9 @@ on -> on
 Egypti -> egipte
 & -> None
 hi -> hi
-to -> to
+to -> toh
 him -> him
-geniedde -> genedan
+geniedde -> geniedan
 & -> None
 þær -> þær
 het -> hettan
@@ -1609,12 +1609,12 @@ Alexandria
 siþþan -> siððan
 he -> he
 for -> for
-to -> to
+to -> toh
 þæm -> þæm
 hearge -> hearg
 þe -> þu
 Egypti -> egipte
-sædon -> None
+sædon -> secgan
 þæt -> þæt
 he -> he
 wære -> wære
@@ -1626,14 +1626,14 @@ wæs -> wesan
 Iobeses -> iobes
 sunu -> sunu
 heora -> hira
-oþres -> oðer
+oþres -> oþer
 Godes -> godes
-to -> to
+to -> toh
 þon -> þon
 þæt -> þæt
 he -> he
 wolde -> willan
-beladian -> None
+beladian -> beladian
 his -> hit
 modor -> modor
 Nectanebuses -> nectanebus
@@ -1661,7 +1661,7 @@ hæðnan -> hæðen
 biscepe -> bisceop
 þæt -> þæt
 he -> he
-becrupe -> becrēopan
+becrupe -> becreopan
 on -> on
 þæs -> se
 Amones -> amon
@@ -1702,7 +1702,7 @@ ascade
 
 HER -> None
 onginneð -> None
-seo -> se
+seo -> seon
 gerecednes -> gerecednys
 be -> be
 Antioche -> antiochus
@@ -1728,17 +1728,17 @@ gehaten
 cyninges -> cyning
 naman -> naman
 wæs -> wesan
-seo -> se
+seo -> seon
 ceaster -> ceaster
 Antiochia -> antiochia
 geciged
 Þises -> None
 cyninges -> cyning
-cwen -> None
+cwen -> cwen
 wearð -> None
 of -> of
-life -> None
-gewiten -> gewitan
+life -> lif
+gewiten -> witan
 be -> be
 ðare -> se
 he -> he
@@ -1754,7 +1754,7 @@ Mid -> None
 þe -> þu
 heo -> heo
 becom -> becuman
-to -> to
+to -> toh
 giftelicre -> giftelic
 yldo -> ieldo
 þa -> þu
@@ -1775,8 +1775,8 @@ gelimpe
 ða -> þe
 se -> se
 fæder -> fæder
-þohte -> None
-hwam -> None
+þohte -> þenсean
+hwam -> hwæt
 he -> he
 hi -> hi
 mihte -> miht
@@ -1786,14 +1786,14 @@ forgifan -> forgifan
 gefeol -> gefeallan
 his -> hit
 agen -> ongeagn
-mod -> None
+mod -> mod
 on -> on
 hyre -> hyrian
 lufe -> lufu
 mid -> mid
 unrihtre -> unriht
 gewilnunge -> gewilnung
-to -> to
+to -> toh
 ðam -> ðam
 swiðe -> swiðe
 þæt -> þæt
@@ -1808,7 +1808,7 @@ his -> hit
 agenre -> agen
 dohtor -> dohtor
 him -> him
-to -> to
+to -> toh
 gemæccan
 And -> None
 þa -> þu
@@ -1819,23 +1819,23 @@ ne -> nesan
 ylde
 ac -> None
 sume -> sum
-dæge -> dæg
+dæge -> dæge
 on -> on
 ærnemergen -> ærmorgen
 þa -> þu
 he -> he
 of -> of
-slæpe -> slæp
+slæpe -> slæpan
 awoc -> awacan
 he -> he
-abræc -> None
+abræc -> abrecan
 into -> into
 ðam -> ðam
 bure -> bur
 þar -> þær
 heo -> heo
 inne -> inne
-læg -> licgan
+læg -> liсgan
 and -> and
 het -> hettan
 his -> hit
@@ -1843,7 +1843,7 @@ hyredmen -> hiredmann
 ealle -> ealle
 him -> him
 aweg -> aweg
-gan -> None
+gan -> gan
 swilce -> swilce
 he -> he
 wið -> wiþ
@@ -1851,7 +1851,7 @@ his -> hit
 dohtor -> dohtor
 sume -> sum
 digle -> digol
-spæce -> None
+spæce -> specan
 sprecan -> sprecan
 wolde
 Hwæt -> None
@@ -1870,25 +1870,25 @@ mid -> mid
 micelre -> micel
 strengðe -> strengðu
 earfoðlice -> earfoþlice
-ofercom -> ofercom
+ofercom -> ofercuman
 and -> and
 þæt -> þæt
 gefremede -> gefremian
 man -> munan
 gewilnode -> gewilnian
-to -> to
+to -> toh
 bediglianne
 Ða -> None
 gewearð -> None
 hit -> hit
 þæt -> þæt
 þæs -> se
-mædenes -> None
+mædenes -> mæden
 fostormodor -> fostermodor
 into -> into
 ðam -> ðam
 bure -> bur
-eode -> None
+eode -> gan
 and -> and
 geseah -> geseon
 hi -> hi
@@ -1928,7 +1928,7 @@ fostormodor -> fostermodor
 cwæð
 Hlæfdige -> None
 be -> be
-hwam -> None
+hwam -> hwæt
 cwist -> cweþan
 þu -> þu
 þæt
@@ -1939,7 +1939,7 @@ and -> and
 cwæð
 ær -> None
 ðam -> ðam
-dæge -> dæg
+dæge -> dæge
 minra -> min
 bridgifta -> brydgifta
 ic -> ic
@@ -1950,14 +1950,14 @@ scilde -> scyld
 besmiten
 Ða -> None
 cwæð -> cweðan
-seo -> se
+seo -> seon
 fostormodor
 Hwa -> None
 wæs -> wesan
 æfre -> æfre
 swa -> swa
 dirstiges -> dyrstig
-modes -> None
+modes -> mod
 þæt -> þæt
 dorste -> durran
 cynges -> cyng
@@ -1965,7 +1965,7 @@ dohtor -> dohtor
 gewæmman -> gewemman
 ær -> ær
 ðam -> ðam
-dæge -> dæg
+dæge -> dæge
 hyre -> hyrian
 brydgifta -> brydgifta
 and -> and
@@ -2014,7 +2014,7 @@ soðlice -> soþlice
 þa -> þu
 ða -> þe
 heo -> heo
-gehyrde -> None
+gehyrde -> gehyrdan
 þæt -> þæt
 þæt -> þæt
 mæden -> mæden
@@ -2026,30 +2026,30 @@ cliopode -> clypian
 heo -> heo
 hi -> hi
 hire -> hire
-to -> to
+to -> toh
 mid -> mid
 liðere -> None
-spræce -> None
+spræce -> sprecan
 and -> and
-bæd -> biddan
+bæd -> bædan
 þæt -> þæt
 heo -> heo
 fram -> fram
 þare -> se
 gewilnunge -> gewilnung
 hyre -> hyrian
-mod -> None
+mod -> mod
 gewænde -> None
 and -> and
-to -> to
+to -> toh
 hire -> hire
 fæder -> fæder
 willan -> willan
 gebuge -> gebugan
-þeah -> þiċġan
+þeah -> þiсgan
 ðe -> þu
 heo -> heo
-to -> to
+to -> toh
 geneadod -> geneadian
 wære
 On -> None
@@ -2064,7 +2064,7 @@ Antiochus -> antiochus
 and -> and
 mid -> mid
 gehywedan -> gehywian
-mode -> None
+mode -> mod
 hine -> he
 sylfne -> silf
 ætywde -> ætywan
@@ -2072,7 +2072,7 @@ his -> hit
 ceastergewarum -> ceastergewaru
 swilce -> swilce
 he -> he
-arfæst -> None
+arfæst -> arfæst
 fæder -> fæder
 wære -> wære
 his -> hit
@@ -2094,17 +2094,17 @@ dohtor -> dohtor
 wer -> wer
 wæs
 And -> None
-to -> to
+to -> toh
 ðam -> ðam
 þæt -> þæt
 he -> he
 þe -> þu
 lengc -> lange
-brucan -> None
+brucan -> brucan
 mihte -> miht
 his -> hit
 dohtor -> dohtor
-arleasan -> None
+arleasan -> arleas
 bridbeddes -> brydbed
 and -> and
 him -> him
@@ -2114,11 +2114,11 @@ adryfan -> adrifan
 ðe -> þu
 hyre -> hyrian
 girndon -> gyrnan
-to -> to
+to -> toh
 rihtum -> riht
 gesynscipum -> gesinscipe
 he -> he
-asette -> None
+asette -> asettan
 ða -> þe
 rædels -> rædels
 þus -> þus
@@ -2131,18 +2131,18 @@ minne -> min
 rædels -> rædels
 riht -> rihtan
 aræde -> arædan
-onfo -> None
+onfo -> onfon
 se -> se
 mynre -> mynre
 dohtor -> dohtor
-to -> to
+to -> toh
 wife
 and -> None
 se -> se
 ðe -> þu
 hine -> he
 misræde -> misrædan
-sy -> None
+sy -> su
 he -> he
 beheafdod
 Hwæt -> None
@@ -2151,7 +2151,7 @@ nu -> nu
 mare -> micel
 ymbe -> ymbe
 þæt -> þæt
-to -> to
+to -> toh
 sprecanne -> None
 buton -> butan
 þæt -> þæt
@@ -2163,7 +2163,7 @@ ealdormen -> ealdorman
 for -> for
 ðam -> ðam
 ungelifedlican -> ungelifedlic
-wlite -> wlītan
+wlite -> wlite
 þæs -> se
 mædenes
 and -> None
@@ -2174,8 +2174,8 @@ oferhogodon -> oferhogian
 and -> and
 þone -> se
 rædels -> rædels
-understodon -> None
-to -> to
+understodon -> understondan
+to -> toh
 arædenne
 Ac -> None
 gif -> gif
@@ -2184,16 +2184,16 @@ hwilc -> hwilc
 þonne -> þonne
 þurh -> þurh
 asmeagunge -> asmeagung
-boclicre -> boclic
+boclicre -> bocliс
 snotornesse -> snotorness
 þone -> se
 rædels -> rædels
 ariht -> ariht
-rædde -> None
+rædde -> rædan
 þonne -> þonne
 wearð -> None
 se -> se
-to -> to
+to -> toh
 beheafdunge -> beheafdung
 gelæd -> gelædan
 swa -> swa
@@ -2207,7 +2207,7 @@ ne -> nesan
 rædde
 And -> None
 þa -> þu
-heafda -> None
+heafda -> heafod
 ealle -> ealle
 wurdon -> wurdon
 gesette -> gesette
@@ -2220,7 +2220,7 @@ Mid -> None
 soðlice -> soþlice
 Antiochus -> antiochus
 se -> se
-wælreowa -> wælhreow
+wælreowa -> wælreow
 cyningc -> None
 on -> on
 þysse -> þes
@@ -2229,7 +2229,7 @@ wælreownesse -> wælhreowness
 ða -> þe
 wæs -> wesan
 Apollonius -> apollonius
-gehaten -> gehatan
+gehaten -> hatan
 sum -> sum
 iung -> None
 man -> munan
@@ -2258,12 +2258,12 @@ boclican -> boclic
 lare -> lar
 and -> and
 agan -> aginnan
-rowan -> None
+rowan -> rowan
 oð -> oþ
 þæt -> þæt
 he -> he
 becom -> becuman
-to -> to
+to -> toh
 Antiochian
 Eode -> None
 þa -> þu
@@ -2279,11 +2279,11 @@ Hwæt -> None
 ic -> ic
 becom -> becuman
 nu -> nu
-to -> to
+to -> toh
 ðe -> þu
 swa -> swa
 swa -> swa
-to -> to
+to -> toh
 godum -> god
 fæder -> fæder
 and -> and
@@ -2301,27 +2301,27 @@ bidde -> biddan
 þinre -> þinne
 dohtor -> dohtor
 me -> me
-to -> to
+to -> toh
 gemæccan
 Ða -> None
 ða -> þe
 se -> se
 cyngc -> None
 þæt -> þæt
-gehyrde -> None
+gehyrde -> gehyrdan
 þæt -> þæt
 he -> he
 his -> hit
 willes -> willa
-gehyran -> None
+gehyran -> gehyran
 n -> næs
 olde -> None
 he -> he
 swiðe -> swiðe
 irlicum -> irlic
-andwlitan -> andwlita
-beseah -> besēon
-to -> to
+andwlitan -> andwlitan
+beseah -> beseon
+to -> toh
 ðam -> ðam
 iungan -> None
 ealdormen -> ealdorman
@@ -2333,14 +2333,14 @@ mann -> mann
 canst -> cunnan
 ðu -> þu
 þone -> se
-dom -> dom
+dom -> don
 mynra -> min
 dohtor -> dohtor
 gifta
 Apollonius -> None
 cwæð
 Ic -> None
-can -> cunnan
+can -> сinan
 þone -> se
 dom
 and -> None
@@ -2348,7 +2348,7 @@ ic -> ic
 hine -> he
 æt -> æt
 þam -> þæm
-geate -> geat
+geate -> gietan
 geseah
 Ða -> None
 cwæð -> cweðan
@@ -2395,7 +2395,7 @@ is -> wesan
 on -> on
 englisc
 Ic -> None
-sece -> None
+sece -> sec
 minne -> min
 fæder -> fæder
 mynre -> mynre
@@ -2421,10 +2421,10 @@ fram -> fram
 cyninge
 and -> None
 mid -> mid
-þy -> þy
+þy -> þywan
 þe -> þu
 he -> he
-smeade -> smeagan
+smeade -> smeagean
 ymbe -> ymbe
 þæt -> þæt
 ingehyd -> None
@@ -2439,12 +2439,12 @@ Godes -> godes
 fultume -> fultuman
 he -> he
 þæt -> þæt
-soð -> None
+soð -> soð
 arædde
 Bewænde -> None
 hine -> he
 þa -> þu
-to -> to
+to -> toh
 ðam -> ðam
 cynincge -> None
 and -> and
@@ -2453,7 +2453,7 @@ cwæð
 goda -> god
 cyningc -> None
 þu -> þu
-asettest -> None
+asettest -> asettan
 rædels
 gehyr -> None
 ðu -> þu
@@ -2462,7 +2462,7 @@ onfundennesse
 Ymbe -> None
 þæt -> þæt
 þu -> þu
-cwæde -> None
+cwæde -> cweþan
 þæt -> þæt
 þu -> þu
 scilde -> scyld
@@ -2470,21 +2470,21 @@ scilde -> scyld
 ne -> nesan
 eart -> wesan
 ðu -> þu
-leogende -> None
+leogende -> leogan
 on -> on
 ðam
 beseoh -> None
-to -> to
+to -> toh
 ðe -> þu
 silfum
 and -> None
 þæt -> þæt
 þu -> þu
-cwæde -> None
+cwæde -> cweþan
 moddrenum -> modren
 flæsce -> flæsc
 ic -> ic
-bruce -> brūcan
+bruce -> brucan
 ne -> nesan
 eart -> wesan
 ðu -> þu
@@ -2492,11 +2492,11 @@ on -> on
 ðam -> ðam
 leogende
 beseoh -> None
-to -> to
+to -> toh
 þinre -> þinne
 dohtor
 Mid -> None
-þy -> þy
+þy -> þywan
 þe -> þu
 se -> se
 cyningc -> None
@@ -2513,15 +2513,15 @@ ondred -> ondrædan
 he -> he
 þæt -> þæt
 hit -> hit
-to -> to
+to -> toh
 widcuð -> widcuþ
 wære
 Beseah -> None
 ða -> þe
 mid -> mid
 irlicum -> irlic
-andwlitan -> andwlita
-to -> to
+andwlitan -> andwlitan
+to -> toh
 him -> him
 and -> and
 cwæð
@@ -2548,12 +2548,12 @@ hæfst -> hæftan
 beheafdunge -> beheafdung
 geearnad
 Nu -> None
-læte -> None
+læte -> lætan
 ic -> ic
 ðe -> þu
-to -> to
+to -> toh
 þrittigra -> þritig
-daga -> dæġ
+daga -> dæg
 fæce -> fæc
 þæt -> þæt
 þu -> þu
@@ -2564,17 +2564,17 @@ ariht
 and -> None
 ðu -> þu
 siððan -> siððan
-onfoh -> None
+onfoh -> onfon
 minre -> minre
 dohtor -> dohtor
-to -> to
+to -> toh
 wife
 and -> None
 gif -> gif
 ðu -> þu
 þæt -> þæt
 ne -> nesan
-dest -> None
+dest -> don
 þu -> þu
 scealt -> sculan
 oncnawan -> oncnawan
@@ -2589,17 +2589,17 @@ gedrefed -> gedrefan
 and -> and
 mid -> mid
 his -> hit
-geferum -> gefera
+geferum -> gefere
 on -> on
 scip -> scip
 astah -> astigan
 and -> and
-reow -> None
+reow -> rowan
 oð -> oþ
 þæt -> þæt
 he -> he
 becom -> becuman
-to -> to
+to -> toh
 Tirum
 Soðlice -> None
 æfter -> æfter
@@ -2612,7 +2612,7 @@ Antiochus -> antiochus
 se -> se
 cyningc -> None
 him -> him
-to -> to
+to -> toh
 gecigde -> gecigan
 his -> hit
 dihtnere -> dihtere
@@ -2627,8 +2627,8 @@ digolnessa -> digolnessa
 myn -> min
 se -> se
 getrywesta -> getreowe
-þegn -> None
-wite -> wītan
+þegn -> þegn
+wite -> wite
 þu -> þu
 þæt -> þæt
 Apollonius -> apollonius
@@ -2649,7 +2649,7 @@ and -> None
 þonne -> þonne
 þu -> þu
 him -> him
-to -> to
+to -> toh
 becume -> becuman
 þonne -> þonne
 acwel -> acwellan
@@ -2664,7 +2664,7 @@ attre -> ator
 þu -> þu
 mage -> maga
 freodom -> freodom
-onfon -> None
+onfon -> onfon
 þonne -> þonne
 þu -> þu
 ongean -> ongeagn
@@ -2674,7 +2674,7 @@ sona -> sona
 swa -> swa
 he -> he
 þæt -> þæt
-gehyrde -> None
+gehyrde -> gehyrdan
 he -> he
 genam -> geniman
 mid -> mid
@@ -2696,7 +2696,7 @@ Apollonie -> apollonius
 oð -> oþ
 ðæt -> þæt
 he -> he
-to -> to
+to -> toh
 his -> hit
 eðle -> None
 becom
@@ -2705,14 +2705,14 @@ Apollonius -> apollonius
 þeahhwæðre -> þeahhwæðere
 ær -> ær
 becom -> becuman
-to -> to
+to -> toh
 his -> hit
 agenan -> agen
 and -> and
 into -> into
 his -> hit
-huse -> None
-eode -> None
+huse -> hus
+eode -> gan
 and -> and
 his -> hit
 bocciste -> boccest
@@ -2739,15 +2739,15 @@ buton -> butan
 þæt -> þæt
 he -> he
 ær -> ær
-geþohte -> geþencan
+geþohte -> geþenсan
 he -> he
 cwæð -> cweðan
 þa -> þu
-to -> to
+to -> toh
 him -> him
 silfum
 Hwæt -> None
-dest -> None
+dest -> don
 þu -> þu
 nu -> nu
 Apolloni
@@ -2766,7 +2766,7 @@ forðam -> None
 þu -> þu
 eart -> wesan
 nu -> nu
-fordemed -> None
+fordemed -> fordeman
 þæt -> þæt
 þu -> þu
 acweald -> acwellan
@@ -2775,7 +2775,7 @@ And -> None
 he -> he
 þa -> þu
 ut -> ut
-eode -> None
+eode -> gan
 and -> and
 het -> hettan
 his -> hit
@@ -2809,11 +2809,11 @@ astah -> astigan
 on -> on
 ðare -> se
 þriddan -> þridda
-tide -> tid
+tide -> tidan
 þare -> se
 nihte -> niht
 and -> and
-sloh -> None
+sloh -> slean
 ut -> ut
 on -> on
 ða -> þe
@@ -2821,10 +2821,10 @@ sæ
 Þa -> None
 ðy -> se
 æftran -> æftera
-dæge -> dæg
+dæge -> dæge
 wæs -> wesan
 Apollonius -> apollonius
-gesoht -> None
+gesoht -> sœ̄сan
 and -> and
 geacsod
 ac -> None
@@ -2856,15 +2856,15 @@ micele -> micel
 lufe -> lufu
 hæfde -> habban
 eal -> eal
-seo -> se
+seo -> seon
 ceasterwaru -> ceasterwaru
-to -> to
+to -> toh
 him -> him
 þæt -> þæt
 hi -> hi
 lange -> lange
-tid -> tid
-eodon -> None
+tid -> tidan
+eodon -> gan
 ealle -> ealle
 unscorene -> unscoren
 and -> and
@@ -2873,7 +2873,7 @@ and -> and
 heora -> hira
 waforlican -> waforlic
 plegan -> plegan
-forleton -> None
+forleton -> forlætan
 and -> and
 heora -> hira
 baða -> baðian
@@ -2884,7 +2884,7 @@ belucon
 þingc -> None
 ðus -> þus
 gedone -> gedon
-wæron -> None
+wæron -> wesan
 on -> on
 Tiron -> tirus
 ða -> þe
@@ -2899,7 +2899,7 @@ Antiocho -> antiochus
 þam -> þæm
 cynincge -> None
 asænd -> asendan
-to -> to
+to -> toh
 ðam -> ðam
 þæt -> þæt
 he -> he
@@ -2914,11 +2914,11 @@ ealle -> ealle
 þas -> þes
 þingc -> None
 belocene -> belucan
-wæron -> None
+wæron -> wesan
 þa -> þu
 cwæð -> cweðan
 he -> he
-to -> to
+to -> toh
 anum -> an
 cnapan
 Swa -> None
@@ -2954,7 +2954,7 @@ man -> munan
 eart -> wesan
 ðu -> þu
 þe -> þu
-wast -> None
+wast -> witan
 þæt -> þæt
 þu -> þu
 æfter -> æfter
@@ -2965,7 +2965,7 @@ is -> wesan
 manna -> mannian
 þe -> þu
 n -> næs
-yte -> None
+yte -> ytan
 þæt -> þæt
 þeos -> þes
 ceasterwaru -> ceasterwaru
@@ -2993,12 +2993,12 @@ cyninge
 þa -> þu
 Thaliarcus -> thaliarcus
 þæt -> þæt
-gehyrde -> None
+gehyrde -> gehyrdan
 he -> he
 mid -> mid
 micclan -> micel
-gefean -> None
-to -> to
+gefean -> gefea
+to -> toh
 scipe -> scip
 gewænde -> None
 and -> and
@@ -3007,12 +3007,12 @@ gewisre -> gewiss
 seglunge -> segling
 binnon -> binnon
 anum -> an
-dæge -> dæg
+dæge -> dæge
 com -> cuman
-to -> to
+to -> toh
 Antiochian -> antiochia
 and -> and
-eode -> None
+eode -> gan
 into -> into
 þam -> þæm
 cynge -> cyng
@@ -3068,7 +3068,7 @@ swa -> swa
 me -> me
 Apollonium -> apollonius
 lifigendne -> lifian
-to -> to
+to -> toh
 gebringð -> gebringan
 ic -> ic
 him -> him
@@ -3081,8 +3081,8 @@ and -> None
 ðe -> þu
 me -> me
 his -> hit
-heafod -> None
-to -> to
+heafod -> heafod
+to -> toh
 gebringð -> gebringan
 ic -> ic
 gife -> gifu
@@ -3095,10 +3095,10 @@ goldes
 þis -> þes
 geban -> geban
 þus -> þus
-geset -> gesettan
+geset -> settan
 wæs -> wesan
 þa -> þu
-wæron -> None
+wæron -> wesan
 mid -> mid
 gitsunge -> gitsung
 beswicene -> None
@@ -3108,7 +3108,7 @@ an -> on
 his -> hit
 find -> findan
 ac -> acan
-eac -> eac
+eac -> eacan
 swilce -> swilce
 his -> hit
 frind -> None
@@ -3121,7 +3121,7 @@ hine -> he
 geond -> geond
 ealle -> ealle
 eorðan -> eorþ
-sohton -> None
+sohton -> sœ̄сan
 ge -> ge
 on -> on
 dunlandum -> dunland
@@ -3163,12 +3163,12 @@ and -> None
 Apollonius -> apollonius
 becom -> becuman
 ær -> ær
-to -> to
+to -> toh
 Tharsum
 Ða -> None
 sume -> sum
-dæge -> dæg
-eode -> None
+dæge -> dæge
+eode -> gan
 he -> he
 be -> be
 strande
@@ -3182,32 +3182,32 @@ manna -> mannian
 se -> se
 wæs -> wesan
 Hellanicus -> hellanicus
-genemnod -> genemnan
+genemnod -> nemnian
 se -> se
 þe -> þu
 ærest -> ærest
 þider -> þider
 com
 Þa -> None
-eode -> None
+eode -> gan
 he -> he
-to -> to
+to -> toh
 Apollonium -> apollonius
 and -> and
 cwæð
 Wes -> None
 gesund -> gesund
-hlaford -> None
+hlaford -> hlaford
 Apolloni
 Ða -> None
-forseah -> forsēon
+forseah -> forseon
 he -> he
 Apollonius -> apollonius
 cyrlisces -> ceorlisc
 mannes -> mann
 gretinge -> greting
 æfter -> æfter
-ricra -> None
+ricra -> riсe
 manna -> mannian
 gewunan
 Hellanicus -> None
@@ -3221,7 +3221,7 @@ gesund -> gesund
 Apolloni
 and -> None
 ne -> nesan
-forseoh -> forsēon
+forseoh -> forseon
 ðu -> þu
 cyrliscne -> ceorlisc
 man -> munan
@@ -3232,7 +3232,7 @@ wurðfullum -> weorþfull
 þeawum -> þeaw
 gefrætwod
 Ac -> None
-gehyr -> None
+gehyr -> gehyran
 nu -> nu
 fram -> fram
 me -> me
@@ -3261,10 +3261,10 @@ Apollonius
 Hwa -> None
 mihte -> miht
 me -> me
-fordeman -> None
+fordeman -> fordeman
 minre -> minre
 agenre -> agen
-þeode -> None
+þeode -> þeon
 ealdorman
 Hellanicus -> None
 cwæð
@@ -3307,10 +3307,10 @@ man -> munan
 swa -> swa
 ðe -> þu
 lifigende -> lifian
-to -> to
+to -> toh
 him -> him
 bringð -> None
-onfo -> None
+onfo -> onfon
 se -> se
 fiftig -> fiftig
 punda -> pund
@@ -3320,8 +3320,8 @@ Se -> None
 him -> him
 bringe -> bringan
 þin -> þu
-heafod -> None
-onfo -> None
+heafod -> heafod
+onfo -> onfon
 se -> se
 hundteontig -> hundteontig
 punda -> pund
@@ -3329,10 +3329,10 @@ goldes
 Forðam -> None
 ic -> ic
 ðe -> þu
-lære -> None
+lære -> læran
 þæt -> þæt
 þu -> þu
-fleo -> None
+fleo -> fleon
 and -> and
 beorge -> beorgan
 þinum -> þin
@@ -3349,12 +3349,12 @@ Apollonius -> apollonius
 het -> hettan
 hine -> he
 eft -> eft
-to -> to
+to -> toh
 him -> him
 geclipian -> geclipian
 and -> and
 cwæð -> cweðan
-to -> to
+to -> toh
 him
 þæt -> None
 wyrreste -> None
@@ -3367,7 +3367,7 @@ me -> me
 warnodest
 Nym -> None
 nu -> nu
-her -> her
+her -> heran
 æt -> æt
 me -> me
 hundteontig -> hundteontig
@@ -3375,7 +3375,7 @@ punda -> pund
 goldes -> gold
 and -> and
 far -> faran
-to -> to
+to -> toh
 Antiocho -> antiochus
 þam -> þæm
 cynge -> cyng
@@ -3384,9 +3384,9 @@ sege -> secgan
 him -> him
 þæt -> þæt
 me -> me
-sy -> None
+sy -> su
 þæt -> þæt
-heafod -> None
+heafod -> heafod
 fram -> fram
 þam -> þæm
 hneccan -> hnecca
@@ -3397,15 +3397,15 @@ bring -> bringan
 word -> word
 þam -> þæm
 cynge -> cyng
-to -> to
+to -> toh
 blisse
 þonne -> None
 hafast -> hafian
 þu -> þu
-mede -> None
+mede -> med
 and -> and
-eac -> eac
-clæne -> None
+eac -> eacan
+clæne -> clæne
 handa -> hand
 fram -> fram
 þæs -> se
@@ -3417,10 +3417,10 @@ Hellanicus
 Ne -> None
 gewurðe -> None
 þæt -> þæt
-hlaford -> None
+hlaford -> hlaford
 þæt -> þæt
 ic -> ic
-mede -> None
+mede -> med
 nime -> niman
 æt -> æt
 ðe -> þu
@@ -3453,13 +3453,13 @@ wordum
 And -> None
 Apollonius -> apollonius
 sona -> sona
-gemette -> None
+gemette -> gemetan
 oðerne -> oðer
 cuðne -> cuþ
 man -> munan
 ongean -> ongeagn
 hine -> he
-gan -> None
+gan -> gan
 þæs -> se
 nama -> nama
 wæs -> wesan
@@ -3469,11 +3469,11 @@ Hlaford -> None
 geong -> geong
 Apolloni -> apollonius
 hwæt -> hwæt#2
-dest -> None
+dest -> don
 ðu -> þu
 þus -> þus
 gedrefedum -> gedrefan
-mode -> None
+mode -> mod
 on -> on
 þisum -> þes
 lande
@@ -3489,7 +3489,7 @@ fordemed
 Stranguilio -> None
 cwæð
 Hwa -> None
-fordemde -> None
+fordemde -> fordeman
 þe
 Apollonius -> None
 cwæð
@@ -3506,18 +3506,18 @@ sæde
 Forðam -> None
 þe -> þu
 ic -> ic
-bæd -> biddan
+bæd -> bædan
 his -> hit
 dohtor -> dohtor
 me -> me
-to -> to
+to -> toh
 gemæccan -> gemæcca
 be -> be
 þare -> se
 ic -> ic
 mæg -> mæg
-to -> to
-soðe -> None
+to -> toh
+soðe -> soð
 secgan -> None
 þæt -> þæt
 heo -> heo
@@ -3584,7 +3584,7 @@ Apollonius
 Min -> None
 se -> se
 leofesta -> None
-freond -> None
+freond -> freond
 Stranguilio -> stranguilio
 þanca -> þancian
 Gode -> god
@@ -3593,7 +3593,7 @@ He -> he
 me -> me
 fliman -> flyma
 hider -> hider
-to -> to
+to -> toh
 eowrum -> None
 gemæran -> gemære
 gelædde
@@ -3619,7 +3619,7 @@ gehirde -> None
 he -> he
 hine -> he
 astrehte -> astreccan
-to -> to
+to -> toh
 his -> hit
 fotum -> fot
 and -> and
@@ -3642,7 +3642,7 @@ willað -> None
 fleam -> fleam
 bediglian -> bediglian
 ac -> acan
-eac -> eac
+eac -> eacan
 swilce -> swilce
 gif -> gif
 þe -> þu
@@ -3665,7 +3665,7 @@ on -> on
 stræte -> stræte
 and -> and
 cwæð -> cweðan
-to -> to
+to -> toh
 ðam -> ðam
 andweardan -> andweard
 ceasterwarum
@@ -3685,7 +3685,7 @@ gelife -> gelifan
 þæt -> þæt
 ge -> ge
 willan -> willan
-beon -> None
+beon -> beon
 gemindige -> gemindig
 þissere -> þes
 fremfulnesse -> fremfulnes
@@ -3695,7 +3695,7 @@ fleam -> fleam
 bediglian
 Wite -> None
 ge -> ge
-eac -> eac
+eac -> eacan
 þæt -> þæt
 Antiochus -> antiochus
 se -> se
@@ -3724,7 +3724,7 @@ hundteontig -> hundteontig
 þusenda -> þusend
 mittan -> mitta
 hwætes -> hwætes
-to -> to
+to -> toh
 ðam -> ðam
 wurðe -> weorþ
 þe -> þu
@@ -3741,7 +3741,7 @@ folc -> folc
 þæt -> þæt
 gehirde -> None
 hi -> hi
-wæron -> None
+wæron -> wesan
 bliðe -> bliðe
 gewordene -> None
 and -> and
@@ -3749,7 +3749,7 @@ him -> him
 georne -> georne
 þancodon -> þancian
 and -> and
-to -> to
+to -> toh
 geflites -> geflit
 þone -> se
 hwæte -> hwæte
@@ -3758,7 +3758,7 @@ bæron
 Hwæt -> None
 ða -> þe
 Apollonius -> apollonius
-forlet -> None
+forlet -> forlætan
 his -> hit
 þone -> se
 wurðfullan -> weorþfull
@@ -3781,10 +3781,10 @@ mid -> mid
 hwæte -> hwæte
 genam -> geniman
 he -> he
-ageaf -> None
+ageaf -> agifan
 sona -> sona
 agean -> agean
-to -> to
+to -> toh
 ðare -> se
 ceastre -> ceaster
 bote
@@ -3801,7 +3801,7 @@ swa -> swa
 þancful -> þancfull
 þæt -> þæt
 hig -> hi
-worhton -> wyrċean
+worhton -> wyrсean
 him -> him
 ane -> an
 anlicnesse -> anlicnes
@@ -3811,7 +3811,7 @@ And -> None
 on -> on
 ðare -> se
 stræte -> stræte
-stod -> None
+stod -> standan
 and -> and
 mid -> mid
 þare -> se
@@ -3819,7 +3819,7 @@ swiðran -> None
 hand -> hand
 þone -> se
 hwæte -> hwæte
-heold -> None
+heold -> healdan
 and -> and
 mid -> mid
 þam -> þæm
@@ -3835,7 +3835,7 @@ awriten
 ðas -> None
 gifu -> gifu
 sealde -> sellan
-seo -> se
+seo -> seon
 ceasterwaru -> ceasterwaru
 on -> on
 Tharsum -> tharsus
@@ -3867,26 +3867,26 @@ and -> and
 Dionisiade -> dionisiade
 his -> hit
 wif -> wif
-gelærdon -> None
+gelærdon -> gelæran
 Apollonium -> apollonius
 ðæt -> þæt
 he -> he
-ferde -> None
+ferde -> feran
 on -> on
 scipe -> scip
-to -> to
+to -> toh
 Pentapolim -> pentapolis
 þare -> se
 ciriniscan -> cirinisc
 birig -> byrig
 and -> and
-cwædon -> cweðan
+cwædon -> cweþan
 þæt -> þæt
 he -> he
 mihte -> miht
 þar -> þær
 bediglad -> bediglian
-beon -> None
+beon -> beon
 and -> and
 þar -> þær
 wunian
@@ -3898,13 +3898,13 @@ hine -> he
 mid -> mid
 unasecgendlicre -> unasecgendlic
 wurðmynte -> weorþmynd
-to -> to
+to -> toh
 scipe -> scip
 gelæddon
 and -> None
 Apollonius -> apollonius
 hi -> hi
-bæd -> biddan
+bæd -> bædan
 ealle -> ealle
 gretan -> gretan
 and -> and
@@ -3915,13 +3915,13 @@ Mid -> None
 þi -> þi
 þe -> þu
 hig -> hi
-ongunnon -> onġinnan
+ongunnon -> onginnan
 þa -> þu
-rowan -> None
+rowan -> rowan
 and -> and
 hi -> hi
 forðwerd -> forðweard
-wæron -> None
+wæron -> wesan
 on -> on
 heora -> hira
 weg -> wegan
@@ -3942,7 +3942,7 @@ reownes -> hreohness
 aweht -> aweccan
 swa -> swa
 þæt -> þæt
-seo -> se
+seo -> seon
 sæ -> sæ
 cnyste -> cnyssan
 þa -> þu
@@ -3978,10 +3978,10 @@ On -> None
 egeslican -> egeslic
 reownesse -> hreohness
 Apollonius -> apollonius
-geferan -> gefera
+geferan -> gefere
 ealle -> ealle
 forwurdon -> forweorþan
-to -> to
+to -> toh
 deaðe
 and -> None
 Apollonius -> apollonius
@@ -3989,7 +3989,7 @@ ana -> ana
 becom -> becuman
 mid -> mid
 sunde -> sunde
-to -> to
+to -> toh
 Pentapolim -> pentapolis
 þam -> þæm
 ciriniscan -> cirinisc
@@ -3997,19 +3997,19 @@ lande -> land
 and -> and
 þar -> þær
 up -> up
-eode -> None
+eode -> gan
 on -> on
 ðam -> ðam
 strande
 Þa -> None
-stod -> None
+stod -> standan
 he -> he
 nacod -> nacod
 on -> on
 þam -> þæm
 strande -> strand
 and -> and
-beheold -> None
+beheold -> behealdan
 þa -> þu
 sæ -> sæ
 and -> and
@@ -4025,7 +4025,7 @@ unscæððigra -> unsceaþig
 beswicend -> beswicend
 þu -> þu
 eart -> wesan
-wælreowra -> wælhreow
+wælreowra -> wælreow
 þonne -> þonne
 Antiochus -> antiochus
 se -> se
@@ -4051,9 +4051,9 @@ se -> se
 wælreowesta -> wælhreow
 cyngc -> None
 me -> me
-þy -> þy
+þy -> þywan
 eað -> eaþ
-fordon -> None
+fordon -> fordon
 mihte
 Hwider -> None
 mæg -> mæg
@@ -4065,7 +4065,7 @@ mæg -> mæg
 ic -> ic
 biddan
 oððe -> None
-hwa -> None
+hwa -> hwæt
 gifð -> None
 þam -> þæm
 uncuðan -> uncuþ
@@ -4079,7 +4079,7 @@ he -> he
 þingc -> None
 wæs -> wesan
 sprecende -> sprecende
-to -> to
+to -> toh
 him -> him
 silfum -> self
 þa -> þu
@@ -4092,7 +4092,7 @@ gan
 To -> None
 þam -> þæm
 he -> he
-beseah -> besēon
+beseah -> beseon
 and -> and
 þus -> þus
 sarlice -> sarlice
@@ -4111,7 +4111,7 @@ me -> me
 nacodum -> nacod
 forlidenum
 N -> None
-æs -> None
+æs -> æs
 na -> na
 of -> of
 earmlicum -> earmlic
@@ -4121,9 +4121,9 @@ And -> None
 ðæs -> se
 ðe -> þu
 ðu -> þu
-gearo -> gearo
+gearo -> gearu
 forwite -> forwitan
-hwam -> None
+hwam -> hwæt
 ðu -> þu
 gemiltsige -> gemiltsian
 ic -> ic
@@ -4145,7 +4145,7 @@ man -> munan
 æt -> æt
 his -> hit
 fotum -> fot
-læg -> licgan
+læg -> liсgan
 he -> he
 mid -> mid
 mildheortnesse -> mildheortness
@@ -4153,24 +4153,24 @@ hine -> he
 up -> up
 ahof -> ahebban
 and -> and
-lædde -> None
+lædde -> lædan
 hine -> he
 mid -> mid
 him -> him
-to -> to
+to -> toh
 his -> hit
-huse -> None
+huse -> hus
 and -> and
 ða -> þe
-estas -> None
+estas -> est
 him -> him
 beforan -> beforan
-legde -> lecgan
+legde -> leсgan
 þe -> þu
 he -> he
 him -> him
-to -> to
-beodenne -> None
+to -> toh
+beodenne -> beodan
 hæfde
 Þa -> None
 git -> git
@@ -4194,18 +4194,18 @@ sealde -> sellan
 Apollonige -> apollonius
 þone -> se
 healfan -> healf
-dæl -> dæl
+dæl -> dælan
 þus -> þus
 cweðende
 Nim -> None
 þæt -> þæt
 ic -> ic
 þe -> þu
-to -> to
+to -> toh
 sillenne -> None
 habbe -> None
 and -> and
-ga -> None
+ga -> gan
 into -> into
 ðare -> se
 ceastre
@@ -4213,7 +4213,7 @@ Wen -> None
 is -> wesan
 þæt -> þæt
 þu -> þu
-gemete -> gemet
+gemete -> gemetan
 sumne -> sum
 þe -> þu
 þe -> þu
@@ -4254,7 +4254,7 @@ gif -> gif
 fultumiendum -> fultuman
 Gode -> god
 becymst -> becuman
-to -> to
+to -> toh
 ðinum -> þin
 ærran -> ær
 wurðmynte -> weorþmynd
@@ -4294,22 +4294,22 @@ gemete
 þisum -> þes
 wordum -> word
 he -> he
-eode -> None
+eode -> gan
 on -> on
 ðone -> se
 weg -> wegan
 þe -> þu
 him -> him
-getæht -> geteon
+getæht -> tæсan
 wæs -> wesan
 oð -> oþ
 ðæt -> þæt
 he -> he
 becom -> becuman
-to -> to
+to -> toh
 þare -> se
 ceastre -> ceaster
-geate -> geat
+geate -> gietan
 and -> and
 ðar -> þær
 in -> in
@@ -4318,7 +4318,7 @@ Mid -> None
 þi -> þi
 þe -> þu
 he -> he
-þohte -> None
+þohte -> þenсean
 hwæne -> None
 he -> he
 byddan -> None
@@ -4338,7 +4338,7 @@ yrnan -> yrnan
 se -> se
 wæs -> wesan
 mid -> mid
-ele -> ele
+ele -> elh
 gesmerod -> gesmyrian
 and -> and
 mid -> mid
@@ -4351,7 +4351,7 @@ manna -> mannian
 plegan -> plegan
 on -> on
 handa -> hand
-to -> to
+to -> toh
 ðam -> ðam
 bæðstede -> bæþstede
 belimpende
@@ -4367,9 +4367,9 @@ ceasterwaran
 gehyre -> None
 ge -> ge
 ælðeodige -> ælþeodig
-frige -> frig
+frige -> friсgan
 and -> and
-þeowe -> þeow
+þeowe -> þeowan
 æðele -> æðele
 and -> and
 unæðele
@@ -4393,7 +4393,7 @@ he -> he
 on -> on
 hæfde -> habban
 and -> and
-eode -> None
+eode -> gan
 into -> into
 ðam -> ðam
 þweale
@@ -4402,7 +4402,7 @@ mid -> mid
 þi -> þi
 þe -> þu
 he -> he
-beheold -> None
+beheold -> behealdan
 heora -> hira
 anra -> an
 gehwilcne -> gehwylc
@@ -4410,7 +4410,7 @@ on -> on
 heora -> hira
 weorce -> weorc
 he -> he
-sohte -> None
+sohte -> sœ̄сan
 his -> hit
 gelican
 ac -> None
@@ -4429,7 +4429,7 @@ com -> cuman
 Arcestrates -> arcestrates
 ealre -> eall
 þare -> se
-þeode -> None
+þeode -> þeon
 cyningc -> None
 mid -> mid
 micelre -> micel
@@ -4438,7 +4438,7 @@ his -> hit
 manna -> mannian
 and -> and
 in -> in
-eode -> None
+eode -> gan
 on -> on
 þæt -> þæt
 bæð
@@ -4449,7 +4449,7 @@ cyngc -> None
 plegan -> plegan
 wið -> wiþ
 his -> hit
-geferan -> gefera
+geferan -> gefere
 mid -> mid
 þoðere
 and -> None
@@ -4468,7 +4468,7 @@ and -> and
 yrnende -> yrnan
 þone -> se
 ðoðor -> þoþor
-gelæhte -> gelæccan
+gelæhte -> gelæссan
 and -> and
 mid -> mid
 swiftre -> swift
@@ -4476,7 +4476,7 @@ rædnesse -> rædness
 geslegene -> geslean
 ongean -> ongeagn
 gesænde -> gesendan
-to -> to
+to -> toh
 ðam -> ðam
 plegendan -> plegan
 cynge
@@ -4486,7 +4486,7 @@ agean -> agean
 asænde
 he -> None
 rædlice -> rædlice
-sloh -> None
+sloh -> slean
 swa -> swa
 he -> he
 hine -> he
@@ -4516,7 +4516,7 @@ plegan
 þa -> None
 cwæð -> cweðan
 he -> he
-to -> to
+to -> toh
 his -> hit
 geferan
 Gað -> None
@@ -4534,7 +4534,7 @@ gelica
 Ða -> None
 ða -> þe
 Apollonius -> apollonius
-gehyrde -> None
+gehyrde -> gehyrdan
 þæt -> þæt
 se -> se
 cyning -> cyning
@@ -4545,12 +4545,12 @@ arn -> yrnan
 rædlice -> rædlice
 and -> and
 genealæhte -> genealæcan
-to -> to
+to -> toh
 ðam -> ðam
 cynge
 and -> None
 mid -> mid
-gelæredre -> None
+gelæredre -> gelæred
 handa -> hand
 he -> he
 swang -> swingan
@@ -4564,12 +4564,12 @@ swiftnesse -> swiftness
 se -> se
 cyngc -> None
 wæs -> wesan
-geþuht -> geþyncan
+geþuht -> þynсan
 swilce -> swilce
 he -> he
 of -> of
 ylde -> yldan
-to -> to
+to -> toh
 iuguðe -> geoguþ
 gewænd -> None
 wære
@@ -4588,13 +4588,13 @@ And -> None
 ða -> þe
 he -> he
 ut -> ut
-eode -> None
+eode -> gan
 of -> of
 ðam -> ðam
 bæðe -> None
 he -> he
 hine -> he
-lædde -> None
+lædde -> lædan
 be -> be
 þare -> se
 handa -> hand
@@ -4614,7 +4614,7 @@ com
 cwæð -> cweðan
 se -> se
 cyningc -> None
-to -> to
+to -> toh
 his -> hit
 mannum -> mann
 siððan -> siððan
@@ -4647,10 +4647,10 @@ iunges -> None
 mannes -> mann
 þenunge
 Ða -> None
-beseah -> besēon
+beseah -> beseon
 he -> he
 hine -> he
-to -> to
+to -> toh
 anum -> an
 his -> hit
 manna -> mannian
@@ -4663,7 +4663,7 @@ hwæt -> hwæt#2
 se -> se
 iunga -> None
 man -> munan
-sy -> None
+sy -> su
 þe -> þu
 me -> me
 todæg -> todæg
@@ -4673,7 +4673,7 @@ gehirsumode
 Se -> None
 man -> munan
 ða -> þe
-eode -> None
+eode -> gan
 æfter -> æfter
 Apollonio
 Mid -> None
@@ -4692,7 +4692,7 @@ bewæfed -> bewæfan
 wænde -> None
 he -> he
 ongean -> ongeagn
-to -> to
+to -> toh
 ðam -> ðam
 cynge -> cyng
 and -> and
@@ -4705,7 +4705,7 @@ man -> munan
 æfter -> æfter
 axsodest -> None
 is -> wesan
-forliden -> forlīþan
+forliden -> forliþan
 man
 Ða -> None
 cwæð -> cweðan
@@ -4713,7 +4713,7 @@ se -> se
 cyng
 þurh -> None
 hwæt -> hwæt#2
-wast -> None
+wast -> witan
 ðu -> þu
 þæt
 Se -> None
@@ -4743,23 +4743,23 @@ him -> him
 þæt -> þæt
 se -> se
 cyngc -> None
-bit -> biddan
+bit -> bitan
 ðe -> þu
 þæt -> þæt
 ðu -> þu
 cume -> cuman
-to -> to
+to -> toh
 his -> hit
 gereorde
 Ða -> None
 Apollonius -> apollonius
 þæt -> þæt
-gehyrde -> None
+gehyrde -> gehyrdan
 he -> he
 þam -> þæm
 gehyrsumode -> gehyrsumian
 and -> and
-eode -> None
+eode -> gan
 forð -> forþ
 mid -> mid
 þam -> þæm
@@ -4768,17 +4768,17 @@ oð -> oþ
 þæt -> þæt
 he -> he
 becom -> becuman
-to -> to
+to -> toh
 ðæs -> se
 cynges -> cyng
 healle
 Ða -> None
-eode -> None
+eode -> gan
 se -> se
 man -> munan
 in -> in
 beforan -> beforan
-to -> to
+to -> toh
 ðam -> ðam
 cynge -> cyng
 and -> and
@@ -4799,7 +4799,7 @@ mæg -> mæg
 for -> for
 scame -> sceamu
 in -> in
-gan -> None
+gan -> gan
 buton -> butan
 scrude
 Ða -> None
@@ -4816,19 +4816,19 @@ and -> and
 het -> hettan
 hine -> he
 in -> in
-gan -> None
-to -> to
+gan -> gan
+to -> toh
 ðam -> ðam
 gereorde
 Ða -> None
-eode -> None
+eode -> gan
 Apollonius -> apollonius
 in -> in
 and -> and
 gesæt -> gesittan
 þar -> þær
 him -> him
-getæht -> geteon
+getæht -> tæсan
 wæs -> wesan
 ongean -> ongeagn
 ðone -> se
@@ -4836,7 +4836,7 @@ cyngc
 Ðar -> None
 wearð -> None
 ða -> þe
-seo -> se
+seo -> seon
 þenung -> þenung
 in -> in
 geboren
@@ -4856,13 +4856,13 @@ ne -> nesan
 ealle -> ealle
 oðre -> oðer
 men -> mann
-æton -> None
+æton -> etan
 and -> and
 bliðe -> bliðe
 wæron
 ac -> None
 he -> he
-beheold -> None
+beheold -> behealdan
 þæt -> þæt
 gold -> gold
 and -> and
@@ -4871,7 +4871,7 @@ seolfor -> seolfor
 and -> and
 ða -> þe
 deorwurðan -> deorwyrþe
-reaf -> reaf
+reaf -> reofan
 and -> and
 þa -> þu
 beodas -> beod
@@ -4886,9 +4886,9 @@ he -> he
 eal -> eal
 mid -> mid
 sarnesse -> sarness
-beheold -> None
+beheold -> behealdan
 ða -> þe
-sæt -> sittan
+sæt -> sæt
 sum -> sum
 eald -> eald
 and -> and
@@ -4907,11 +4907,11 @@ geseah -> geseon
 Apollonius -> apollonius
 swa -> swa
 sarlice -> sarlice
-sæt -> sittan
+sæt -> sæt
 and -> and
 ealle -> ealle
 þingc -> None
-beheold -> None
+beheold -> behealdan
 and -> and
 nan -> nan
 ðingc -> None
@@ -4920,7 +4920,7 @@ ne -> nesan
 ða -> þe
 cwæð -> cweðan
 he -> he
-to -> to
+to -> toh
 ðam -> ðam
 cynge
 ðu -> None
@@ -4959,7 +4959,7 @@ nanum -> nanum
 ðingum -> None
 ðe -> þu
 he -> he
-her -> her
+her -> heran
 gesihð
 ac -> None
 he -> he
@@ -4970,20 +4970,20 @@ hæfð -> None
 fela -> fela
 forloren
 Ða -> None
-beseah -> besēon
+beseah -> beseon
 Arcestrates -> arcestrates
 se -> se
 cyngc -> None
 bliðum -> bliðe
-andwlitan -> andwlita
-to -> to
+andwlitan -> andwlitan
+to -> toh
 Apollonio -> apollonius
 and -> and
 cwæð
 ðu -> None
 iunga -> None
 man -> munan
-beo -> None
+beo -> beon
 bliðe -> bliðe
 mid -> mid
 us -> we
@@ -4993,9 +4993,9 @@ on -> on
 God -> god
 þæt -> þæt
 þu -> þu
-mote -> None
+mote -> motan
 silf -> self
-to -> to
+to -> toh
 ðam -> ðam
 selran -> god
 becuman
@@ -5010,7 +5010,7 @@ gecwæð -> cweðan
 ða -> þe
 færinga -> færinga
 þar -> þær
-eode -> None
+eode -> gan
 in -> in
 ðæs -> se
 cynges -> cyng
@@ -5026,13 +5026,13 @@ ymbsittendan
 Þa -> None
 heo -> heo
 becom -> becuman
-to -> to
+to -> toh
 Apollonio -> apollonius
 þa -> þu
 gewænde -> None
 heo -> heo
 ongean -> ongeagn
-to -> to
+to -> toh
 hire -> hire
 fæder -> fæder
 and -> and
@@ -5091,7 +5091,7 @@ forðam -> None
 ic -> ic
 hine -> he
 gelaðode -> gelaðian
-to -> to
+to -> toh
 ðysum -> þes
 urum -> ure
 gebeorscipe
@@ -5112,7 +5112,7 @@ wille -> willan
 witan -> witan
 hwæt -> hwæt#2
 he -> he
-sy -> None
+sy -> su
 axsa -> None
 hine -> he
 forðam -> forðam
@@ -5122,23 +5122,23 @@ gedafenað -> gedafenian
 þu -> þu
 wite
 Ða -> None
-eode -> None
+eode -> gan
 þæt -> þæt
 mæden -> mæden
-to -> to
+to -> toh
 Apollonio -> apollonius
 and -> and
 mid -> mid
 forwandigendre -> forwandian
-spræce -> None
+spræce -> sprecan
 cwæð
 ðeah -> None
 ðu -> þu
 stille -> stille
-sy -> None
+sy -> su
 and -> and
 unrot -> unrot
-þeah -> þiċġan
+þeah -> þiсgan
 ic -> ic
 þine -> þin
 æðelborennesse -> æþelborenness
@@ -5149,7 +5149,7 @@ Nu -> None
 þonne -> þonne
 gif -> gif
 ðe -> þu
-to -> to
+to -> toh
 hefig -> hefig
 ne -> nesan
 þince -> None
@@ -5178,7 +5178,7 @@ secge -> secg
 þe
 ic -> None
 hine -> he
-forleas -> None
+forleas -> forleosan
 on -> on
 sæ
 Gif -> None
@@ -5187,12 +5187,12 @@ wilt -> willan
 mine -> min
 æðelborennesse -> æþelborenness
 witan -> witan
-wite -> wītan
+wite -> wite
 ðu -> þu
 þæt -> þæt
 ic -> ic
 hig -> hi
-forlet -> None
+forlet -> forlætan
 on -> on
 Tharsum
 Ðæt -> None
@@ -5226,7 +5226,7 @@ of -> of
 ðam -> ðam
 eagum
 Mid -> None
-þy -> þy
+þy -> þywan
 þe -> þu
 se -> se
 cyngc -> None
@@ -5236,7 +5236,7 @@ he -> he
 bewænde -> bewendan
 hine -> he
 ða -> þe
-to -> to
+to -> toh
 ðare -> se
 dohtor -> dohtor
 and -> and
@@ -5246,7 +5246,7 @@ dohtor -> dohtor
 þu -> þu
 gesingodest
 mid -> None
-þy -> þy
+þy -> þywan
 þe -> þu
 þu -> þu
 woldest -> willan
@@ -5284,7 +5284,7 @@ gehirde -> None
 þæt -> þæt
 hire -> hire
 wæs -> wesan
-alyfed -> None
+alyfed -> alyfan
 fram -> fram
 hire -> hire
 fæder -> fæder
@@ -5298,7 +5298,7 @@ wolde -> willan
 ða -> þe
 cwæð -> cweðan
 heo -> heo
-to -> to
+to -> toh
 Apollonio
 Apolloni -> None
 soðlice -> soþlice
@@ -5333,18 +5333,18 @@ dohtor -> dohtor
 welwillendnesse -> welwilledness
 and -> and
 hyre -> hyrian
-to -> to
+to -> toh
 cwæð
 Leofe -> None
 dohtor -> dohtor
-hat -> None
+hat -> hatan
 feccan -> None
 þine -> þin
 hearpan -> hearpe
 and -> and
 gecig -> gecigan
 ðe -> þu
-to -> to
+to -> toh
 þine -> þin
 frynd -> None
 and -> and
@@ -5355,7 +5355,7 @@ iungan -> None
 his -> hit
 sarnesse
 Ða -> None
-eode -> None
+eode -> gan
 heo -> heo
 ut -> ut
 and -> and
@@ -5378,7 +5378,7 @@ gemægnde -> gemengan
 hearpan -> hearpe
 sweg
 Ða -> None
-ongunnon -> onġinnan
+ongunnon -> onginnan
 ealle -> ealle
 þa -> þu
 men -> mann
@@ -5398,7 +5398,7 @@ cyningc
 Apolloni -> None
 nu -> nu
 ðu -> þu
-dest -> None
+dest -> don
 yfele -> yfele
 forðam -> forðam
 þe -> þu
@@ -5447,14 +5447,14 @@ na -> na
 wel -> wel
 geleornod
 Ac -> None
-hat -> None
+hat -> hatan
 me -> me
 nu -> nu
 sillan -> sillan
 þa -> þu
 hearpan
 þonne -> None
-wast -> None
+wast -> witan
 þu -> þu
 þæt -> þæt
 þu -> þu
@@ -5489,7 +5489,7 @@ hearpan
 Apollonius -> None
 þa -> þu
 ut -> ut
-eode -> None
+eode -> gan
 and -> and
 hine -> he
 scridde -> scrydan
@@ -5499,7 +5499,7 @@ sette -> settan
 cynehelm -> cynehelm
 uppon -> uppon
 his -> hit
-heafod -> None
+heafod -> heafod
 and -> and
 nam -> niman
 þa -> þu
@@ -5509,10 +5509,10 @@ his -> hit
 hand -> hand
 and -> and
 in -> in
-eode -> None
+eode -> gan
 and -> and
 swa -> swa
-stod -> None
+stod -> standan
 þæt -> þæt
 se -> se
 cyngc -> None
@@ -5524,7 +5524,7 @@ wendon -> wendan
 þæt -> þæt
 he -> he
 n -> næs
-ære -> None
+ære -> ær
 Apollonius -> apollonius
 ac -> acan
 þæt -> þæt
@@ -5538,7 +5538,7 @@ God
 wearð -> None
 stilnes -> stilnes
 and -> and
-swige -> None
+swige -> swige
 geworden -> weorþan
 innon -> innon
 ðare -> se
@@ -5559,7 +5559,7 @@ ongan -> onginnan
 and -> and
 þare -> se
 hearpan -> hearpe
-sweg -> sweg
+sweg -> swegan
 mid -> mid
 winsumum -> None
 sange -> sang
@@ -5573,7 +5573,7 @@ ealle -> ealle
 þe -> þu
 þar -> þær
 andwearde -> andweard
-wæron -> None
+wæron -> wesan
 micelre -> micel
 stæfne -> stefn
 cliopodon -> clypian
@@ -5582,7 +5582,7 @@ hine -> he
 heredon
 Æfter -> None
 þisum -> þes
-forlet -> None
+forlet -> forlætan
 Apollonius -> apollonius
 þa -> þu
 hearpan -> hearpe
@@ -5606,7 +5606,7 @@ and -> None
 heom -> hi
 eallum -> eall
 þearle -> þearle
-licode -> None
+licode -> lician
 ælc -> ælc
 þara -> þær
 þinga -> þingian
@@ -5616,7 +5616,7 @@ forð -> forþ
 teah
 Soðlice -> None
 mid -> mid
-þy -> þy
+þy -> þywan
 þe -> þu
 þæs -> se
 cynges -> cyng
@@ -5631,11 +5631,11 @@ cræftum -> cræft
 swa -> swa
 wel -> wel
 wæs -> wesan
-getogen -> geteon
+getogen -> teon
 þa -> þu
 gefeol -> gefeallan
 hyre -> hyrian
-mod -> None
+mod -> mod
 on -> on
 his -> hit
 lufe
@@ -5647,7 +5647,7 @@ geendunge -> geendung
 cwæð -> cweðan
 þæt -> þæt
 mæden -> mæden
-to -> to
+to -> toh
 ðam -> ðam
 cynge
 Leofa -> None
@@ -5659,7 +5659,7 @@ litle -> None
 ær -> ær
 þæt -> þæt
 ic -> ic
-moste -> None
+moste -> motan
 gifan -> gifan
 Apollonio -> apollonius
 swa -> swa
@@ -5674,7 +5674,7 @@ Arcestrates -> None
 se -> se
 cyng -> cyng
 cwæð -> cweðan
-to -> to
+to -> toh
 hyre
 Gif -> None
 him -> him
@@ -5688,7 +5688,7 @@ Heo -> None
 swiðe -> swiðe
 bliðe -> bliðe
 ut -> ut
-eode -> None
+eode -> gan
 and -> and
 cwæð
 Lareow -> None
@@ -5713,7 +5713,7 @@ seolfres -> seolfor
 and -> and
 þone -> se
 mæstan -> micel
-dæl -> dæl
+dæl -> dælan
 deorwurðan -> deorwyrþe
 reafes -> reaf
 and -> and
@@ -5725,7 +5725,7 @@ heo -> heo
 þa -> þu
 þus -> þus
 cwæð -> cweðan
-to -> to
+to -> toh
 ðam -> ðam
 þeowum -> þeow
 mannum
@@ -5739,7 +5739,7 @@ ic -> ic
 behet -> behatan
 Apollonio -> apollonius
 minum -> minum
-lareowe -> None
+lareowe -> lareow
 and -> and
 lecgað -> None
 innon -> innon
@@ -5784,10 +5784,10 @@ and -> and
 ða -> þe
 cwene -> cwene
 and -> and
-bædon -> None
+bædon -> biddan
 hig -> hi
 gesunde -> gesund
-beon -> None
+beon -> beon
 and -> and
 ham -> ham
 gewændon
@@ -5803,16 +5803,16 @@ earmra -> earm
 gemiltsigend -> gemiltsigend
 and -> and
 þu -> þu
-cwen -> None
+cwen -> cwen
 lare -> lar
 lufigend -> lufiend
-beon -> None
+beon -> beon
 ge -> ge
 gesunde
 He -> None
-beseah -> besēon
-eac -> eac
-to -> to
+beseah -> beseon
+eac -> eacan
+to -> toh
 ðam -> ðam
 þeowum -> þeow
 mannum -> mann
@@ -5833,13 +5833,13 @@ mid -> mid
 eow -> ge
 þe -> þu
 me -> me
-seo -> se
-cwen -> None
+seo -> seon
+cwen -> cwen
 forgeaf
 and -> None
-gan -> None
+gan -> gan
 we -> we
-secan -> None
+secan -> sec
 ure -> ure
 gesthus -> gesthus
 þæt -> þæt
@@ -5857,16 +5857,16 @@ næfre -> næfre
 eft -> eft
 Apollonium -> apollonius
 ne -> nesan
-gesawe -> None
+gesawe -> geseon
 swa -> swa
 raðe -> raðe
 swa -> swa
 heo -> heo
 wolde -> willan
 and -> and
-eode -> None
+eode -> gan
 þa -> þu
-to -> to
+to -> toh
 hire -> hire
 fæder -> fæder
 and -> and
@@ -5916,21 +5916,21 @@ dide -> None
 mæden -> mæden
 swa -> swa
 hyre -> hyrian
-beboden -> bebēodan
+beboden -> bebiddan
 wæs
 and -> None
 Apollonius -> apollonius
-onfeng -> None
+onfeng -> onfon
 þare -> se
 wununge -> wunung
 ðe -> þu
 hym -> he
-getæht -> geteon
+getæht -> tæсan
 wæs -> wesan
 and -> and
 ðar -> þær
 in -> in
-eode -> None
+eode -> gan
 Gode -> god
 þancigende -> þancian
 ðe -> þu
@@ -5957,7 +5957,7 @@ and -> and
 sanga -> sang
 þe -> þu
 heo -> heo
-gehyrde -> None
+gehyrde -> gehyrdan
 æt -> æt
 Apollonige
 and -> None
@@ -5965,13 +5965,13 @@ na -> na
 leng -> lengan
 heo -> heo
 ne -> nesan
-gebad -> None
+gebad -> gebidan
 ðonne -> þonne
 hit -> hit
 dæg -> dæg
 wæs -> wesan
 ac -> acan
-eode -> None
+eode -> gan
 sona -> sona
 swa -> swa
 hit -> hit
@@ -6018,7 +6018,7 @@ me -> me
 urum -> ure
 cuman -> cuman
 Apollonige -> apollonius
-to -> to
+to -> toh
 lare
 Ða -> None
 wearð -> None
@@ -6032,14 +6032,14 @@ feccan -> None
 Apollonium -> apollonius
 and -> and
 him -> him
-to -> to
+to -> toh
 cwæð
 Min -> None
 dohtor -> dohtor
 girnð -> gyrnan
 þæt -> þæt
 heo -> heo
-mote -> None
+mote -> motan
 leornian -> leornian
 æt -> æt
 ðe -> þu
@@ -6056,7 +6056,7 @@ wilt -> willan
 þisum -> þes
 þingum -> þing
 gehyrsum -> gehyrsum
-beon -> None
+beon -> beon
 ic -> ic
 swerige -> None
 ðe -> þu
@@ -6071,7 +6071,7 @@ swa -> swa
 ðu -> þu
 on -> on
 sæ -> sæ
-forlure -> forlēosan
+forlure -> forleosan
 ic -> ic
 ðe -> þu
 þæt -> þæt
@@ -6082,16 +6082,16 @@ gestaðelige
 ða -> þe
 Apollonius -> apollonius
 þæt -> þæt
-gehyrde -> None
+gehyrde -> gehyrdan
 he -> he
 onfengc -> None
 þam -> þæm
 mædenne -> None
-to -> to
+to -> toh
 lare -> lar
 and -> and
 hire -> hire
-tæhte -> None
+tæhte -> tæсan
 swa -> swa
 wel -> wel
 swa -> swa
@@ -6110,13 +6110,13 @@ tidum -> tid
 Arcestrates -> arcestrates
 se -> se
 cyngc -> None
-heold -> None
+heold -> healdan
 Apollonius -> apollonius
 hand -> hand
 on -> on
 handa
 and -> None
-eodon -> None
+eodon -> gan
 swa -> swa
 ut -> ut
 on -> on
@@ -6126,13 +6126,13 @@ stræte
 Þa -> None
 æt -> æt
 nyhstan -> neah
-comon -> None
+comon -> cuman
 ðar -> þær
-gan -> None
+gan -> gan
 ongean -> ongeagn
 hy -> hi
 þry -> þri
-gelærede -> None
+gelærede -> gelæred
 weras -> wer
 and -> and
 æþelborene -> æþelboren
@@ -6159,8 +6159,8 @@ se -> se
 cyng -> cyng
 and -> and
 heom -> hi
-to -> to
-beseah -> besēon
+to -> toh
+beseah -> beseon
 and -> and
 þus -> þus
 cwæð
@@ -6180,7 +6180,7 @@ an -> on
 and -> and
 cwæð
 We -> None
-bædon -> None
+bædon -> biddan
 gefirn -> gefyrn
 þynre -> þynne
 dohtor
@@ -6193,7 +6193,7 @@ elcunge -> elcung
 geswænctest
 Forðam -> None
 we -> we
-comon -> None
+comon -> cuman
 hider -> hider
 todæg -> todæg
 þus -> þus
@@ -6222,7 +6222,7 @@ hwilcne -> hwilc
 þu -> þu
 wille -> willan
 þe -> þu
-to -> to
+to -> toh
 aðume -> aðum
 habban
 Ða -> None
@@ -6234,7 +6234,7 @@ abbe -> None
 ge -> ge
 na -> na
 godne -> god
-timan -> None
+timan -> tima
 aredodne
 Min -> None
 dohtor -> dohtor
@@ -6251,7 +6251,7 @@ læs -> læs
 þe -> þu
 ic -> ic
 eow -> ge
-a -> wīfcynn
+a -> wifcynn
 leng -> lengan
 slæce -> slæccan
 awritað -> awritan
@@ -6274,7 +6274,7 @@ heo -> heo
 sylf -> self
 geceose -> geceosan
 hwilcne -> hwilc
-eowerne -> None
+eowerne -> eower
 heo -> heo
 wille
 Ða -> None
@@ -6301,7 +6301,7 @@ Apollonio -> apollonius
 cweðende
 Nim -> None
 nu -> nu
-lareow -> None
+lareow -> lareow
 Apolloni -> apollonius
 swa -> swa
 hit -> hit
@@ -6318,8 +6318,8 @@ Apollonius -> apollonius
 þa -> þu
 gewrita -> gewrit
 and -> and
-eode -> None
-to -> to
+eode -> gan
+to -> toh
 ðare -> se
 cynelican -> cynelic
 healle
@@ -6335,14 +6335,14 @@ cwæð -> cweðan
 heo
 Lareow -> None
 hwi -> hwy
-gæst -> None
+gæst -> gæstan
 ðu -> þu
 ana
 Apollonius -> None
 cwæð
 Hlæfdige -> None
 n -> næs
-æs -> None
+æs -> æs
 git -> git
 yfel -> yfel
 wif
@@ -6360,7 +6360,7 @@ ræd
 mæden -> mæden
 nam -> niman
 and -> and
-rædde -> None
+rædde -> rædan
 þara -> þær
 þreora -> þri
 cnihta -> cniht
@@ -6383,9 +6383,9 @@ gewrita -> gewrit
 oferræd -> oferrædan
 hæfde -> habban
 ða -> þe
-beseah -> besēon
+beseah -> beseon
 heo -> heo
-to -> to
+to -> toh
 Apollonio -> apollonius
 and -> and
 cwæð
@@ -6442,7 +6442,7 @@ wille
 mæden -> mæden
 cwæð
 Eala -> None
-lareow -> None
+lareow -> lareow
 gif -> gif
 ðu -> þu
 me -> me
@@ -6455,11 +6455,11 @@ besorgodest
 wordum -> word
 heo -> heo
 mid -> mid
-modes -> None
+modes -> mod
 anrædnesse -> anrædnes
 awrat -> awritan
 oðer -> oðer
-gewrit -> gewrit
+gewrit -> gewritan
 and -> and
 þæt -> þæt
 geinseglode -> geinseglian
@@ -6479,7 +6479,7 @@ sealde -> sellan
 þam -> þæm
 cynge
 Ðæt -> None
-gewrit -> gewrit
+gewrit -> gewritan
 wæs -> wesan
 þus -> þus
 gewriten
@@ -6500,7 +6500,7 @@ sealde -> sellan
 þæt -> þæt
 ic -> ic
 silf -> self
-moste -> None
+moste -> motan
 ceosan -> None
 hwilcne -> hwilc
 wer -> wer
@@ -6509,7 +6509,7 @@ wolde -> willan
 ic -> ic
 secge -> secg
 ðe -> þu
-to -> to
+to -> toh
 soðan
 þone -> None
 forlidenan -> forliðan
@@ -6530,19 +6530,19 @@ unforwandigendlice -> unforwandigendlice
 word -> word
 awrat -> awritan
 þonne -> þonne
-wite -> wītan
+wite -> wite
 þu -> þu
 þæt -> þæt
 ic -> ic
 hæbbe -> habban
 þurh -> þurh
 weax -> weaxan
-aboden -> None
+aboden -> abeodan
 ðe -> þu
 nane -> nan
 scame -> sceamu
 ne -> nesan
-can -> cunnan
+can -> сinan
 þæt -> þæt
 ic -> ic
 silf -> self
@@ -6558,7 +6558,7 @@ se -> se
 cyningc -> None
 hæfde -> habban
 þæt -> þæt
-gewrit -> gewrit
+gewrit -> gewritan
 oferræd -> oferrædan
 þa -> þu
 n -> næs
@@ -6570,7 +6570,7 @@ heo -> heo
 nemde
 Beseah -> None
 ða -> þe
-to -> to
+to -> toh
 ðam -> ðam
 þrim -> þri
 cnihtum -> cniht
@@ -6585,7 +6585,7 @@ cwæð -> cweðan
 heora -> hira
 an -> on
 se -> se
-hatte -> None
+hatte -> hatan
 Ardalius
 Ic -> None
 eom -> wesan
@@ -6604,8 +6604,8 @@ fornime -> forniman
 þæt -> þæt
 ðu -> þu
 ne -> nesan
-beo -> None
-hal -> None
+beo -> beon
+hal -> hal
 ne -> nesan
 gesund
 Mid -> None
@@ -6619,7 +6619,7 @@ næfre -> næfre
 buton -> butan
 þare -> se
 ceastre -> ceaster
-geate -> geat
+geate -> gietan
 fram -> fram
 me -> me
 ne -> nesan
@@ -6638,11 +6638,11 @@ mihte -> miht
 findan -> findan
 hwilc -> hwilc
 heora -> hira
-forliden -> forlīþan
+forliden -> forliþan
 wære -> wære
 he -> he
-beseah -> besēon
-to -> to
+beseah -> beseon
+to -> toh
 Apollonio -> apollonius
 and -> and
 cwæð
@@ -6650,16 +6650,16 @@ Nim -> None
 ðu -> þu
 Apolloni -> apollonius
 þis -> þes
-gewrit -> gewrit
+gewrit -> gewritan
 and -> and
-ræd -> None
+ræd -> rædan
 hit
 Eaðe -> None
 mæg -> mæg
 gewurðan -> gewurðan
 þæt -> þæt
 þu -> þu
-wite -> wītan
+wite -> wite
 þæt -> þæt
 ic -> ic
 n -> næs
@@ -6673,7 +6673,7 @@ wære
 nam -> niman
 Apollonius -> apollonius
 þæt -> þæt
-gewrit -> gewrit
+gewrit -> gewritan
 and -> and
 rædde
 and -> None
@@ -6687,7 +6687,7 @@ gelufod -> lufian
 wæs -> wesan
 fram -> fram
 ðam -> ðam
-mædene -> None
+mædene -> mæden
 his -> hit
 andwlita -> andwlita
 eal -> eal
@@ -6736,7 +6736,7 @@ cyngc -> None
 Apollonius -> apollonius
 mid -> mid
 rosan -> rose
-rude -> rēodan
+rude -> rudu
 wæs -> wesan
 eal -> eal
 oferbræded
@@ -6748,7 +6748,7 @@ cwyde -> None
 and -> and
 þus -> þus
 cwæð -> cweðan
-to -> to
+to -> toh
 him
 Blissa -> None
 blissa -> blissian
@@ -6777,8 +6777,8 @@ buton -> butan
 Godes -> godes
 willan
 Arcestrates -> None
-beseah -> besēon
-to -> to
+beseah -> beseon
+to -> toh
 ðam -> ðam
 þrym -> þri
 cnihtum -> cniht
@@ -6794,13 +6794,13 @@ sæde -> sæd
 þæt -> þæt
 ge -> ge
 ne -> nesan
-comon -> None
+comon -> cuman
 on -> on
 gedafenlicre -> gedafenlic
-tide -> tid
+tide -> tidan
 mynre -> mynre
 dohtor -> dohtor
-to -> to
+to -> toh
 biddanne
 ac -> None
 þonne -> þonne
@@ -6827,14 +6827,14 @@ And -> None
 Arcestrates -> arcestrates
 se -> se
 cyngc -> None
-heold -> None
+heold -> healdan
 for -> for
 ðon -> se
 Apollonius -> apollonius
 hand -> hand
 and -> and
 hine -> he
-lædde -> None
+lædde -> lædan
 ham -> ham
 mid -> mid
 him -> him
@@ -6852,13 +6852,13 @@ wære
 Ða -> None
 æt -> æt
 nyxstan -> neah
-forlet -> None
+forlet -> forlætan
 se -> se
 cyng -> cyng
 Apollonius -> apollonius
 hand -> hand
 and -> and
-eode -> None
+eode -> gan
 ana -> ana
 into -> into
 ðam -> ðam
@@ -6877,23 +6877,23 @@ hwæne -> None
 hafast -> hafian
 þu -> þu
 ðe -> þu
-gecoren -> gecoren
-to -> to
+gecoren -> сeosan
+to -> toh
 gemæccan
 Ðæt -> None
 mæden -> mæden
 þa -> þu
-feol -> None
-to -> to
+feol -> feolan
+to -> toh
 hyre -> hyrian
 fæder -> fæder
 fotum -> fot
 and -> and
 cwæð
 ðu -> None
-arfæsta -> None
+arfæsta -> arfæst
 fæder -> fæder
-gehyr -> None
+gehyr -> gehyran
 þinre -> þinne
 dohtor -> dohtor
 willan
@@ -6914,7 +6914,7 @@ læs -> læs
 þe -> þu
 tweonige -> tweonian
 þare -> se
-spræce -> None
+spræce -> sprecan
 Apollonium -> apollonius
 ic -> ic
 wille -> willan
@@ -6928,7 +6928,7 @@ him -> him
 ne -> nesan
 silst -> sillan
 þu -> þu
-forlætst -> None
+forlætst -> forlætan
 ðine -> þin
 dohtor
 Se -> None
@@ -6947,7 +6947,7 @@ hi -> hi
 up -> up
 and -> and
 hire -> hire
-to -> to
+to -> toh
 cwæð
 Leofe -> None
 dohtor -> dohtor
@@ -6959,7 +6959,7 @@ ondræt -> ondrædan
 þinges
 Þu -> None
 hafast -> hafian
-gecoren -> gecoren
+gecoren -> сeosan
 þone -> se
 wer -> wer
 þe -> þu
@@ -6970,18 +6970,18 @@ Eode -> None
 ða -> þe
 ut -> ut
 and -> and
-beseah -> besēon
-to -> to
+beseah -> beseon
+to -> toh
 Apollonio -> apollonius
 and -> and
 cwæð
 Lareow -> None
 Apolloni -> apollonius
 ic -> ic
-smeade -> smeagan
+smeade -> smeagean
 minre -> minre
 dohtor -> dohtor
-modes -> None
+modes -> mod
 willan
 Ða -> None
 arehte -> arecan
@@ -6991,7 +6991,7 @@ mid -> mid
 wope -> wop
 betweox -> betweoh
 oðre -> oðer
-spræce -> None
+spræce -> sprecan
 þas -> þes
 þingc -> None
 þus -> þus
@@ -7015,7 +7015,7 @@ geinnian -> geinnian
 swa -> swa
 hwæt -> hwæt#2
 swa -> swa
-seo -> se
+seo -> seon
 sæ -> sæ
 him -> him
 ætbræd
@@ -7045,15 +7045,15 @@ Worr -> worr
 aldormon
 & -> None
 Ecgbryht -> ecgbryht
-feng -> None
-to -> to
+feng -> fon
+to -> toh
 Wesseaxna -> west-seaxe
 rice
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
-dæge -> dæg
-rad -> None
+dæge -> dæge
+rad -> ridan
 Æþelmund -> æþelmund
 aldorman -> ealdorman
 of -> of
@@ -7080,14 +7080,14 @@ ofslægene -> ofslean
 aldormen
 & -> None
 Wilsætan -> wilsætan
-namon -> None
+namon -> niman
 sige
 Her -> None
 wæs -> wesan
-gehadod -> gehadian
+gehadod -> hadian
 Beornmod -> beornmod
 biscep -> bisceop
-to -> to
+to -> toh
 Hrofesceastre
 Her -> None
 Æþelheard -> æþelheard
@@ -7096,7 +7096,7 @@ forþferde
 & -> None
 Wulfred -> wulfred
 wæs -> wesan
-to -> to
+to -> toh
 ærcebiscep -> arcebisceop
 gehadod
 & -> None
@@ -7126,7 +7126,7 @@ cyning -> cyning
 forþferde
 & -> None
 he -> he
-ricsode -> None
+ricsode -> ricsian
 xlv -> feowertigfif
 wintra
 & -> None
@@ -7136,9 +7136,9 @@ arcebiscep -> arcebisceop
 Wigbryht -> wigbryht
 Wesseaxna -> west-seaxe
 biscep -> bisceop
-foron -> None
+foron -> faran
 begen -> begen
-to -> to
+to -> toh
 Rome
 Her -> None
 Wulfred -> wulfred
@@ -7150,12 +7150,12 @@ papan -> papa
 Leon -> leo
 hwearf -> hwerfan
 eft -> eft
-to -> to
+to -> toh
 his -> hit
 agnum -> agen
 biscepdome
 & -> None
-þy -> þy
+þy -> þywan
 geare -> geare
 gehergade -> gehergian
 Ecgbryht -> ecgbryht
@@ -7173,14 +7173,14 @@ se -> se
 papa -> papa
 & -> None
 se -> se
-halga -> halga
+halga -> halig
 forþferde
 & -> None
 æfter -> æfter
 him -> him
 Stephanus -> stephanus
-feng -> None
-to -> to
+feng -> fon
+to -> toh
 rice
 Her -> None
 Stephanus -> stephanus
@@ -7191,11 +7191,11 @@ forþferde
 him -> him
 was -> None
 Paschalis -> paschalis
-to -> to
+to -> toh
 papan -> papa
 gehadod
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 forborn -> forbirnan
@@ -7208,8 +7208,8 @@ cyning -> cyning
 forþferde
 & -> None
 Ceolwulf -> ceolwulf
-feng -> None
-to -> to
+feng -> fon
+to -> toh
 rice
 & -> None
 Eadbryht -> eadbryht
@@ -7237,13 +7237,13 @@ Clofeshoo
 Her -> None
 wæs -> wesan
 Wala -> walas
-gefeoht -> gefeoht
+gefeoht -> gefeohtan
 & -> None
 Defna -> defenas
 æt -> æt
 Gafulforda
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 gefeaht -> gefeohtan
@@ -7256,7 +7256,7 @@ on -> on
 Ellen.dune
 & -> None
 Ecgbryht -> ecgbryht
-sige -> sīgan
+sige -> sige
 nam
 & -> None
 þær -> þær
@@ -7281,7 +7281,7 @@ biscep -> bisceop
 Wulfheard -> wulfheard
 his -> hit
 aldormon -> ealdorman
-to -> to
+to -> toh
 Cent -> cent
 micle -> micel
 werede
@@ -7297,7 +7297,7 @@ adrifon
 & -> None
 Cantware -> cantware
 him -> him
-to -> to
+to -> toh
 cirdon -> cyrran
 & -> None
 Suþrige -> suþrige
@@ -7305,7 +7305,7 @@ Suþrige -> suþrige
 Suþ.Seaxe -> suþ-seaxe
 & -> None
 East.Seaxe -> east-seaxe
-þy -> þy
+þy -> þywan
 hie -> hi
 from -> from
 his -> hit
@@ -7316,30 +7316,30 @@ unryhte -> unriht
 anidde -> anydan
 wærun
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 East.Engla -> east-engle
 cyning -> cyning
 & -> None
-seo -> se
-þeod -> None
-gesohte -> None
+seo -> seon
+þeod -> þeodan
+gesohte -> geseсan
 Ecgbryht -> ecgbryht
 cyning -> cyning
 him -> him
-to -> to
+to -> toh
 friþe -> friþ
 & -> None
-to -> to
+to -> toh
 mundboran -> mundbora
 for -> for
 Miercna -> mirce
 ege
 & -> None
-þy -> þy
+þy -> þywan
 geare -> geare
-slogon -> None
+slogon -> slean
 East.Engle -> east-engle
 Beornwulf -> beornwulf
 Miercna -> mirce
@@ -7358,8 +7358,8 @@ mid -> mid
 him
 & -> None
 Wiiglaf -> wiglaf
-feng -> None
-to -> to
+feng -> fon
+to -> toh
 rice
 Her -> None
 mona -> mona
@@ -7369,7 +7369,7 @@ middes -> midd
 wintres -> winter
 mæsseniht
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 geeode -> gegan
@@ -7446,9 +7446,9 @@ cyning
 & -> None
 se -> se
 Ecgbryht -> ecgbryht
-lædde -> None
+lædde -> lædan
 fierd -> fierd
-to -> to
+to -> toh
 Dore -> dor
 wiþ -> wiþ
 Norþanhymbre
@@ -7457,7 +7457,7 @@ hie -> hi
 him -> him
 þær -> þær
 eaþmedo -> eaþmedu
-budon -> bēodan
+budon -> buan
 & -> None
 geþuærnesse
 & -> None
@@ -7468,7 +7468,7 @@ tohwurfon
 Her -> None
 eft -> eft
 Wilaf -> wiglaf
-onfeng -> None
+onfeng -> onfon
 Miercna -> mirce
 rices
 & -> None
@@ -7476,10 +7476,10 @@ rices
 biscop -> bisceop
 forþferde
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
-lædde -> None
+lædde -> lædan
 Ecgbryht -> ecgbryht
 cyning -> cyning
 fierd -> fierd
@@ -7488,7 +7488,7 @@ Norþ.Walas
 & -> None
 he -> he
 hie -> hi
-to -> to
+to -> toh
 eaþmodre -> eaþmod
 hersumnesse -> hyrsumness
 gedyde
@@ -7499,8 +7499,8 @@ forþferde
 Her -> None
 Ceolnoþ -> ceolnoþ
 wæs -> wesan
-gecoren -> gecoren
-to -> to
+gecoren -> сeosan
+to -> toh
 biscep -> bisceop
 & -> None
 gehadod
@@ -7511,7 +7511,7 @@ forþferde
 Her -> None
 Ceolnoþ -> ceolnoþ
 ærcebiscep -> arcebisceop
-onfeng -> None
+onfeng -> onfon
 pallium
 Her -> None
 hæþne -> hæþen
@@ -7536,7 +7536,7 @@ geslægen
 & -> None
 þa -> þu
 Denescan -> deniscan
-ahton -> None
+ahton -> agan
 wælstowe -> wælstow
 gewald
 & -> None
@@ -7561,7 +7561,7 @@ on -> on
 West.Walas
 & -> None
 hie -> hi
-to -> to
+to -> toh
 anum -> an
 gecierdon -> gecirran
 & -> None
@@ -7578,7 +7578,7 @@ hierde -> hyran
 & -> None
 mid -> mid
 fierde -> fierd
-ferde -> None
+ferde -> feran
 & -> None
 him -> him
 wiþ -> wiþ
@@ -7622,32 +7622,32 @@ he -> he
 cyning -> cyning
 wære
 & -> None
-þy -> þy
+þy -> þywan
 fultumode -> fultumian
 Beorhtric -> beorhtric
 Offan -> offa
-þy -> þy
+þy -> þywan
 he -> he
 hæfde -> habban
 his -> hit
 dohtor -> dohtor
 him -> him
-to -> to
+to -> toh
 cuene
 & -> None
 se -> se
 Ecgbryht -> ecgbryht
-ricsode -> None
+ricsode -> ricsian
 xxxvii -> þritigseofon
 wintra -> wintra
 & -> None
 vii -> seofon
 monaþ
 & -> None
-feng -> None
+feng -> fon
 Eþelwulf -> æþelwulf
 Ecgbrehting -> ecgbrehting
-to -> to
+to -> toh
 Wesseaxna -> west-seaxe
 rice
 & -> None
@@ -7679,15 +7679,15 @@ micel -> micel
 wæl -> wæl
 geslog -> geslean
 & -> None
-sige -> sīgan
+sige -> sige
 nom
 & -> None
-þy -> þy
+þy -> þywan
 geare -> geare
 forþferde -> forþferan
 Wulfheard
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 gefeaht -> gefeohtan
@@ -7709,7 +7709,7 @@ gefliemde
 & -> None
 þa -> þu
 Deniscan -> deniscan
-ahton -> None
+ahton -> agan
 wælstowe -> wælstow
 gewald -> geweald
 & -> None
@@ -7731,7 +7731,7 @@ him -> him
 on -> on
 Merscwarum
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 eft -> eft
@@ -7774,7 +7774,7 @@ sciphlæsta
 & -> None
 þa -> þu
 Deniscan -> deniscan
-ahton -> None
+ahton -> agan
 wælstowe -> wælstow
 gewald
 Her -> None
@@ -7794,7 +7794,7 @@ Dornsætum -> dornsætum
 gefuhton -> gefeohtan
 æt -> æt
 Pedridan -> pedrida
-muþan -> None
+muþan -> muþa
 wiþ -> wiþ
 Deniscne -> denisc
 here -> herian
@@ -7804,14 +7804,14 @@ micel -> micel
 wæl -> wæl
 geslogon -> geslean
 & -> None
-sige -> sīgan
+sige -> sige
 namon
 Her -> None
 Ceorl -> None
 aldormon -> ealdorman
 gefeaht -> gefeohtan
 wiþ -> wiþ
-hæþene -> hæðen
+hæþene -> hæþen
 men -> mann
 mid -> mid
 Defenascire -> defena
@@ -7823,10 +7823,10 @@ micel -> micel
 wæl -> wæl
 geslogon -> geslean
 & -> None
-sige -> sīgan
+sige -> sige
 namon
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 Æþelstan -> æþelstan
@@ -7847,7 +7847,7 @@ scipu -> scip
 gefengun -> gefon
 & -> None
 þa -> þu
-oþre -> oðer
+oþre -> oþer
 gefliemdon
 & -> None
 hæþne -> hæþen
@@ -7857,7 +7857,7 @@ ofer -> ofer
 winter -> winter
 sæton
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 cuom -> None
@@ -7866,9 +7866,9 @@ healfhund -> healfhund
 scipa -> scip
 on -> on
 Temese -> temesemuþa
-muþan -> None
+muþan -> muþa
 & -> None
-bræcon -> None
+bræcon -> brecan
 Contwaraburg -> cantwara
 & -> None
 Lundenburg -> lundenburh
@@ -7881,7 +7881,7 @@ mid -> mid
 his -> hit
 fierde -> fierd
 & -> None
-foron -> None
+foron -> faran
 þa -> þu
 suþ -> suþ
 ofer -> ofer
@@ -7922,10 +7922,10 @@ ondweardan -> None
 dæg -> dæg
 & -> None
 þær -> þær
-sige -> sīgan
+sige -> sige
 namon
 Her -> None
-bæd -> biddan
+bæd -> bædan
 Burgred -> burgred
 Miercna -> mirce
 cyning -> cyning
@@ -7945,7 +7945,7 @@ gehiersumade
 He -> None
 þa -> þu
 swa -> swa
-dyde -> dōn
+dyde -> dydan
 & -> None
 mid -> mid
 fierde -> fierd
@@ -7961,7 +7961,7 @@ alle -> eal
 gehiersume -> gehyrsum
 dydon
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 sende -> sendan
@@ -7970,7 +7970,7 @@ cyning -> cyning
 Ælfred -> ælfred
 his -> hit
 sunu -> sunu
-to -> to
+to -> toh
 Rome
 Þa -> None
 was -> None
@@ -7982,17 +7982,17 @@ Rome
 & -> None
 he -> he
 hine -> he
-to -> to
+to -> toh
 cyninge -> cyninge
 gehalgode -> gehalgian
 & -> None
 hiene -> he
 him -> him
-to -> to
+to -> toh
 biscepsuna -> bisceop-sunu
 nam
 Þa -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 Ealhere -> ealchere
@@ -8010,7 +8010,7 @@ hæþnum -> hæþen
 herige -> herian
 & -> None
 ærest -> ærest
-sige -> sīgan
+sige -> sige
 namon
 & -> None
 þær -> þær
@@ -8048,14 +8048,14 @@ ofer -> ofer
 winter -> winter
 sætun
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 gebocude -> gebocian
 Æþelwulf -> æþelwulf
 cyning -> cyning
 teoþan -> teoða
-dæl -> dæl
+dæl -> dælan
 his -> hit
 londes -> land
 ofer -> ofer
@@ -8063,20 +8063,20 @@ al -> eal
 his -> hit
 rice -> romana
 Gode -> god
-to -> to
+to -> toh
 lofe -> lof
 & -> None
 him -> him
 selfum -> self
-to -> to
+to -> toh
 ecere -> ece
 hælo -> hælu
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
-ferde -> None
-to -> to
+ferde -> feran
+to -> toh
 Rome -> rom
 mid -> mid
 micelre -> micel
@@ -8102,14 +8102,14 @@ his -> hit
 dohtor -> dohtor
 geaf -> gifan
 him -> him
-to -> to
+to -> toh
 cuene
 & -> None
 æfter -> æfter
 þam -> þæm
-to -> to
+to -> toh
 his -> hit
-leodum -> None
+leodum -> leode
 cuom
 & -> None
 hie -> hi
@@ -8130,47 +8130,47 @@ he -> he
 gefor
 & -> None
 his -> hit
-lic -> lic
-liþ -> None
+lic -> liс
+liþ -> liþan
 æt -> æt
 Wintanceastre
 & -> None
 he -> he
-ricsode -> None
+ricsode -> ricsian
 nigonteoþe -> nigonteoþa
 healf -> healf
 gear
 Ond -> None
 þa -> þu
-fengon -> None
+fengon -> fon
 Æþelwulfes -> æþelwulf
 suna -> sunu
 twegen -> twegen
-to -> to
+to -> toh
 rice -> romana
 Æþelbald -> æþelbald
-to -> to
+to -> toh
 Wesseaxna -> west-seaxe
 rice -> romana
 & -> None
 Æþelbryht -> æþelbryht
-to -> to
+to -> toh
 Cantwara -> cantware
 rice -> romana
 & -> None
-to -> to
+to -> toh
 East.Seaxna -> east-seaxe
 rice -> romana
 & -> None
-to -> to
+to -> toh
 Suþrigea -> suþrige
 & -> None
-to -> to
+to -> toh
 Suþ.Seaxna -> suþ-seaxe
 rice
 & -> None
 þa -> þu
-ricsode -> None
+ricsode -> ricsian
 Æþelbald -> æþelbald
 v -> fif
 gear
@@ -8180,14 +8180,14 @@ cyng -> cyng
 forþferde
 & -> None
 his -> hit
-lic -> lic
-liþ -> None
+lic -> liс
+liþ -> liþan
 æt -> æt
 Sciraburnan
 & -> None
-feng -> None
+feng -> fon
 Æþelbryht -> æþelbryht
-to -> to
+to -> toh
 allum -> eal
 þam -> þæm
 rice -> romana
@@ -8196,7 +8196,7 @@ broþur
 & -> None
 he -> he
 hit -> hit
-heold -> None
+heold -> healdan
 on -> on
 godre -> god
 geþuærnesse -> geþwærnes
@@ -8207,13 +8207,13 @@ sibsumnesse
 & -> None
 on -> on
 his -> hit
-dæge -> dæg
+dæge -> dæge
 cuom -> None
 micel -> micel
 sciphere -> sciphere
 up -> up
 & -> None
-abræcon -> None
+abræcon -> abrecan
 Wintanceastre
 & -> None
 wiþ -> wiþ
@@ -8240,17 +8240,17 @@ ahton
 & -> None
 se -> se
 Æþelbryht -> æþelbryht
-ricsode -> None
+ricsode -> ricsian
 v -> fif
 gear
 & -> None
 his -> hit
-lic -> lic
-liþ -> None
+lic -> liс
+liþ -> liþan
 æt -> æt
 Scireburnan
 Her -> None
-sæt -> sittan
+sæt -> sæt
 hæþen -> hæþen
 here -> herian
 on -> on
@@ -8288,15 +8288,15 @@ alle -> eal
 Cent -> cent
 eastewearde
 Her -> None
-feng -> None
+feng -> fon
 Æþered -> æþered
 Æþelbryhtes -> æþelbryht
 broþur -> broðor
-to -> to
+to -> toh
 Wesseaxna -> west-seaxe
 rice
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 cuom -> None
@@ -8307,7 +8307,7 @@ Angelcynnes -> angelcynn
 lond -> land
 & -> None
 wintersetl -> wintersetl
-namon -> None
+namon -> niman
 on -> on
 East.Englum -> east-engle
 & -> None
@@ -8328,8 +8328,8 @@ of -> of
 East.Englum -> east-engle
 ofer -> ofer
 Humbre -> humbre
-muþan -> None
-to -> to
+muþan -> muþa
+to -> toh
 Eoforwicceastre -> eoforwicceaster
 on -> on
 Norþhymbre
@@ -8339,7 +8339,7 @@ wæs -> wesan
 micel -> micel
 ungeþuærnes -> ungeþwærness
 þære -> þære
-þeode -> None
+þeode -> þeon
 betweox -> betweoh
 him -> him
 selfum
@@ -8360,7 +8360,7 @@ hie -> hi
 late -> læt
 on -> on
 geare -> geare
-to -> to
+to -> toh
 þam -> þæm
 gecirdon -> gecirran
 þæt -> þæt
@@ -8372,14 +8372,14 @@ winnende -> winnan
 wærun
 & -> None
 hie -> hi
-þeah -> þiċġan
+þeah -> þiсgan
 micle -> micel
 fierd -> fierd
 gegadrodon -> gegaderian
 & -> None
 þone -> se
 here -> herian
-sohton -> None
+sohton -> sœ̄сan
 æt -> æt
 Eoforwicceastre -> eoforwicceaster
 & -> None
@@ -8397,7 +8397,7 @@ wurdon
 was -> None
 ungemetlic -> ungemetlic
 wæl -> wæl
-geslægen -> geslean
+geslægen -> slean
 Norþanhymbra
 sume -> None
 binnan -> binnan
@@ -8417,7 +8417,7 @@ here -> herian
 friþ -> friþ
 nam
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 gefor -> gefaran
@@ -8434,8 +8434,8 @@ wintra -> wintra
 Scireburnan
 & -> None
 his -> hit
-lic -> lic
-liþ -> None
+lic -> liс
+liþ -> liþan
 þær -> þær
 on -> on
 tune
@@ -8446,7 +8446,7 @@ ilca -> ilca
 here -> herian
 innan -> innan
 Mierce -> mirce
-to -> to
+to -> toh
 Snotengaham -> snotingaham
 & -> None
 þær -> þær
@@ -8459,7 +8459,7 @@ cyning -> cyning
 & -> None
 his -> hit
 wiotan -> None
-bædon -> None
+bædon -> biddan
 Æþered -> æþered
 West.Seaxna -> west-seaxe
 cyning -> cyning
@@ -8479,7 +8479,7 @@ here -> herian
 gefuhton
 & -> None
 þa -> þu
-ferdon -> None
+ferdon -> feran
 hie -> hi
 mid -> mid
 Wesseaxna -> west-seaxe
@@ -8500,13 +8500,13 @@ geweorce
 þær -> þær
 nan -> nan
 hefelic -> hefelic
-gefeoht -> gefeoht
+gefeoht -> gefeohtan
 ne -> nesan
 wearþ
 & -> None
 Mierce -> mirce
 friþ -> friþ
-namon -> None
+namon -> niman
 wiþ -> wiþ
 þone -> se
 here
@@ -8515,15 +8515,15 @@ for -> for
 se -> se
 here -> herian
 eft -> eft
-to -> to
+to -> toh
 Eoforwicceastre -> eoforwicceaster
 & -> None
 þær -> þær
-sæt -> sittan
+sæt -> sæt
 i -> an
 gear
 Her -> None
-rad -> None
+rad -> ridan
 se -> se
 here -> herian
 ofer -> ofer
@@ -8532,11 +8532,11 @@ innan -> innan
 East.Engle -> east-engle
 & -> None
 wintersetl -> wintersetl
-namon -> None
+namon -> niman
 æt -> æt
 Þeodforda
 & -> None
-þy -> þy
+þy -> þywan
 wintre -> winter
 Eadmund -> eadmund
 cyning -> cyning
@@ -8546,8 +8546,8 @@ feaht
 & -> None
 þa -> þu
 Deniscan -> deniscan
-sige -> sīgan
-namon -> None
+sige -> sige
+namon -> niman
 & -> None
 þone -> se
 cyning -> cyning
@@ -8558,7 +8558,7 @@ lond -> land
 all -> eal
 geeodon
 & -> None
-þy -> þy
+þy -> þywan
 geare -> geare
 gefor -> gefaran
 Ceolnoþ -> ceolnoþ
@@ -8568,16 +8568,16 @@ Ceolnoþ -> ceolnoþ
 Wiltunscire -> wiltunscir
 biscop -> bisceop
 wearþ -> weorþan
-gecoren -> gecoren
-to -> to
+gecoren -> сeosan
+to -> toh
 ærcebiscpe -> arcebisceop
-to -> to
+to -> toh
 Cantuareberi
 Her -> None
 cuom -> None
 se -> se
 here -> herian
-to -> to
+to -> toh
 Readingum -> readingum
 on -> on
 West.Seaxe
@@ -8586,12 +8586,12 @@ West.Seaxe
 ymb -> ymb
 iii -> þri
 niht -> niht
-ridon -> rīdan
+ridon -> ridan
 ii -> twegen
 eorlas -> eorl
 up
 Þa -> None
-gemette -> None
+gemette -> gemetan
 hie -> hi
 Æþelwulf -> æþelwulf
 aldorman -> ealdorman
@@ -8603,7 +8603,7 @@ him -> him
 wiþ -> wiþ
 gefeaht -> gefeohtan
 & -> None
-sige -> sīgan
+sige -> sige
 nam
 Þæs -> None
 ymb -> ymb
@@ -8618,7 +8618,7 @@ broþur -> broðor
 þær -> þær
 micle -> micel
 fierd -> fierd
-to -> to
+to -> toh
 Readingum -> readingum
 gelæddon -> gelædan
 & -> None
@@ -8631,7 +8631,7 @@ gefuhton
 wæs -> wesan
 micel -> micel
 wæl -> wæl
-geslægen -> geslean
+geslægen -> slean
 on -> on
 gehwæþre -> gehwæðer
 hond
@@ -8643,7 +8643,7 @@ ofslægen
 & -> None
 þa -> þu
 Deniscan -> deniscan
-ahton -> None
+ahton -> agan
 wælstowe -> wælstow
 gewald
 & -> None
@@ -8668,7 +8668,7 @@ on -> on
 hie -> hi
 wærun -> None
 on -> on
-twæm -> twegen
+twæm -> twæman
 gefylcum
 on -> None
 oþrum -> oþrum
@@ -8677,12 +8677,12 @@ Bachsecg -> bagsecg
 & -> None
 Halfdene -> halfdene
 þa -> þu
-hæþnan -> hæðen
+hæþnan -> hæþen
 cyningas
 & -> None
 on -> on
 oþrum -> oþrum
-wæron -> None
+wæron -> wesan
 þa -> þu
 eorlas
 & -> None
@@ -8743,7 +8743,7 @@ fela -> fela
 ofslægenra
 & -> None
 onfeohtende -> onfeohtan
-wæron -> None
+wæron -> wesan
 oþ -> oþ
 niht
 & -> None
@@ -8767,7 +8767,7 @@ Basengum
 þær -> þær
 þa -> þu
 Deniscan -> deniscan
-sige -> sīgan
+sige -> sige
 namon
 & -> None
 þæs -> se
@@ -8800,7 +8800,7 @@ gefliemdon -> geflyman
 longe -> long
 on -> on
 dæg -> dæg
-sige -> sīgan
+sige -> sige
 ahton
 & -> None
 þær -> þær
@@ -8813,7 +8813,7 @@ hond
 & -> None
 þa -> þu
 Deniscan -> deniscan
-ahton -> None
+ahton -> agan
 wælstowe -> wælstow
 gewald
 & -> None
@@ -8842,22 +8842,22 @@ gefor -> gefaran
 cyning
 & -> None
 he -> he
-ricsode -> None
+ricsode -> ricsian
 v -> fif
 gear
 & -> None
 his -> hit
-lic -> lic
-liþ -> None
+lic -> liс
+liþ -> liþan
 æt -> æt
 Winburnan
 Þa -> None
-feng -> None
+feng -> fon
 Ælfred -> ælfred
 Æþelwulfing -> æþelwulfing
 his -> hit
 broþur -> broðor
-to -> to
+to -> toh
 Wesseaxna -> west-seaxe
 rice
 & -> None
@@ -8872,7 +8872,7 @@ wiþ -> wiþ
 alne -> eal
 þone -> se
 here -> herian
-lytle -> None
+lytle -> lytel
 werede -> werian
 æt -> æt
 Wiltune -> wiltun
@@ -8885,7 +8885,7 @@ gefliemde
 & -> None
 þa -> þu
 Deniscan -> deniscan
-ahton -> None
+ahton -> agan
 wælstowe -> wælstow
 gewald
 & -> None
@@ -8899,7 +8899,7 @@ wiþ -> wiþ
 þone -> se
 here -> herian
 on -> on
-þy -> þy
+þy -> þywan
 cynerice -> cynerice
 be -> be
 suþan -> suþan
@@ -8918,7 +8918,7 @@ anlipig -> anlipig
 aldormon -> ealdorman
 & -> None
 cyninges -> cyning
-þegnas -> þegen
+þegnas -> þegn
 oft -> oft
 rade -> rad
 onridon -> onridan
@@ -8938,9 +8938,9 @@ eorlas -> eorl
 an -> on
 cyning
 & -> None
-þy -> þy
+þy -> þywan
 geare -> geare
-namon -> None
+namon -> niman
 Westseaxe -> west-seaxe
 friþ -> friþ
 wiþ -> wiþ
@@ -8950,7 +8950,7 @@ Her -> None
 for -> for
 se -> se
 here -> herian
-to -> to
+to -> toh
 Lundenbyrig -> lundenburh
 from -> from
 Readingum -> readingum
@@ -8960,7 +8960,7 @@ wintersetl -> wintersetl
 nam
 & -> None
 þa -> þu
-namon -> None
+namon -> niman
 Mierce -> mirce
 friþ -> friþ
 wiþ -> wiþ
@@ -8983,7 +8983,7 @@ Tureces -> turec
 iege
 & -> None
 þa -> þu
-namon -> None
+namon -> niman
 Mierce -> mirce
 friþ -> friþ
 wiþ -> wiþ
@@ -8995,7 +8995,7 @@ se -> se
 here -> herian
 from -> from
 Lindesse -> lindesse
-to -> to
+to -> toh
 Hreopedune -> hreopedun
 & -> None
 þær -> þær
@@ -9024,15 +9024,15 @@ geeodon
 & -> None
 he -> he
 for -> for
-to -> to
+to -> toh
 Rome -> rom
 & -> None
 þær -> þær
 gesæt
 & -> None
 his -> hit
-lic -> lic
-liþ -> None
+lic -> liс
+liþ -> liþan
 on -> on
 Sancta -> sancta
 Marian -> marian
@@ -9041,35 +9041,35 @@ on -> on
 Angelcynnes -> angelcynn
 scole
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 hie -> hi
 sealdon -> sellan
 anum -> an
-unwisum -> None
+unwisum -> unwis
 cyninges -> cyning
-þegne -> þegen
+þegne -> þegn
 Miercna -> mirce
 rice -> romana
-to -> to
+to -> toh
 haldanne
 & -> None
 he -> he
 him -> him
 aþas -> aþ
-swor -> None
+swor -> swerian
 & -> None
 gislas -> gisl
 salde -> None
 þæt -> þæt
 he -> he
 him -> him
-gearo -> gearo
+gearo -> gearu
 wære -> wære
 swa -> swa
 hwelce -> hwilc
-dæge -> dæg
+dæge -> dæge
 swa -> swa
 hie -> hi
 hit -> hit
@@ -9077,7 +9077,7 @@ habban -> habban
 wolden -> willan
 & -> None
 he -> he
-gearo -> gearo
+gearo -> gearu
 wære -> wære
 mid -> mid
 him -> him
@@ -9088,9 +9088,9 @@ allum -> eal
 þam -> þæm
 þe -> þu
 him -> him
-læstan -> None
+læstan -> læstan
 woldon -> willan
-to -> to
+to -> toh
 þæs -> se
 heres -> None
 þearfe
@@ -9143,18 +9143,18 @@ iii -> þri
 cyningas -> cyning
 of -> of
 Hreopedune -> hreopedun
-to -> to
+to -> toh
 Grante.brycge -> grantebrycg
 mid -> mid
 micle -> micel
 here -> herian
 & -> None
-sæton -> None
+sæton -> sittan
 þær -> þær
 an -> on
 gear
 & -> None
-þy -> þy
+þy -> þywan
 sumera -> sumer
 for -> for
 Ælfred -> ælfred
@@ -9172,10 +9172,10 @@ sciphlæstas -> sciphlæst
 & -> None
 hiera -> hira
 an -> on
-gefeng -> gefeng
+gefeng -> gefon
 & -> None
 þa -> þu
-oþru -> oðer
+oþru -> oþer
 gefliemde
 Her -> None
 hiene -> he
@@ -9198,16 +9198,16 @@ nam
 him -> him
 þa -> þu
 aþas -> aþ
-sworon -> None
+sworon -> swerian
 on -> on
 þam -> þæm
-halgan -> halga
+halgan -> halig
 beage -> beah
 þe -> þu
 hie -> hi
 ær -> ær
 nanre -> nan
-þeode -> None
+þeode -> þeon
 n -> næs
 oldon -> None
 þæt -> þæt
@@ -9233,7 +9233,7 @@ here -> herian
 into -> into
 Escanceaster
 & -> None
-þy -> þy
+þy -> þywan
 geare -> geare
 Healfdene -> halfdene
 Norþanhymbra -> norþan-hymbre
@@ -9241,7 +9241,7 @@ lond -> land
 gedælde
 & -> None
 ergende -> None
-wæron -> None
+wæron -> wesan
 & -> None
 hiera -> hira
 tilgende
@@ -9257,14 +9257,14 @@ Werham
 se -> se
 sciphere -> sciphere
 sigelede -> seglan
-west -> west
+west -> westan
 ymbutan
 & -> None
 þa -> þu
 mette -> metan
 hie -> hi
 micel -> micel
-yst -> None
+yst -> yþan
 on -> on
 sæ
 & -> None
@@ -9284,7 +9284,7 @@ gehorsudan -> gehorsian
 here -> herian
 mid -> mid
 fierde -> fierd
-rad -> None
+rad -> ridan
 oþ -> oþ
 Exanceaster -> exanceaster
 & -> None
@@ -9298,11 +9298,11 @@ hie -> hi
 on -> on
 þam -> þæm
 fæstene -> fæsten
-wæron -> None
+wæron -> wesan
 þær -> þær
 him -> him
 mon -> mann
-to -> to
+to -> toh
 ne -> nesan
 meahte
 & -> None
@@ -9320,7 +9320,7 @@ wolde -> willan
 & -> None
 micle -> micel
 aþas -> aþ
-sworon -> None
+sworon -> swerian
 & -> None
 þa -> þu
 godne -> god
@@ -9338,7 +9338,7 @@ Miercna -> mirce
 lond -> land
 & -> None
 hit -> hit
-gedældon -> None
+gedældon -> gedælan
 sum -> sum
 & -> None
 sum -> sum
@@ -9355,7 +9355,7 @@ winter -> winter
 ofer -> ofer
 tuelftan -> twelfta
 niht -> niht
-to -> to
+to -> toh
 Cippanhamme -> cippanham
 & -> None
 geridon -> geridan
@@ -9372,15 +9372,15 @@ sæ -> sæ
 adræfdon
 & -> None
 þæs -> se
-oþres -> oðer
+oþres -> oþer
 þone -> se
 mæstan -> micel
-dæl -> dæl
+dæl -> dælan
 hie -> hi
 geridon -> geridan
 & -> None
 him -> him
-to -> to
+to -> toh
 gecirdon -> gecirran
 buton -> butan
 þam -> þæm
@@ -9388,7 +9388,7 @@ cyninge -> cyninge
 Ælfrede
 & -> None
 he -> he
-lytle -> None
+lytle -> lytel
 werede -> werian
 unieþelice -> uneaðelíce
 æfter -> æfter
@@ -9432,10 +9432,10 @@ heres
 þæs -> se
 on -> on
 Eastron -> easter
-worhte -> wyrċean
+worhte -> wyrсean
 Ælfred -> ælfred
 cyning -> cyning
-lytle -> None
+lytle -> lytel
 werede -> werian
 geweorc -> geweorc
 æt -> æt
@@ -9453,7 +9453,7 @@ here -> herian
 & -> None
 Sumursætna -> sumersæte
 se -> se
-dæl -> dæl
+dæl -> dælan
 se -> se
 þær -> þær
 niehst -> neah
@@ -9467,7 +9467,7 @@ ofer -> ofer
 Eastron -> easter
 he -> he
 gerad -> geridan
-to -> to
+to -> toh
 Ecgbryhtes -> ecgbryht
 stane -> stane
 be -> be
@@ -9475,7 +9475,7 @@ eastan -> eastan
 Sealwyda
 & -> None
 him -> him
-to -> to
+to -> toh
 com -> cuman
 þær -> þær
 ongen -> ongeagn
@@ -9486,7 +9486,7 @@ Wilsætan -> wilsætan
 & -> None
 Hamtunscir -> hamtunscir
 se -> se
-dæl -> dæl
+dæl -> dælan
 se -> se
 hiere -> hiere
 behinon -> beheonan
@@ -9504,14 +9504,14 @@ ane -> an
 niht -> niht
 of -> of
 þam -> þæm
-wicum -> wiċe
-to -> to
+wicum -> wiсe
+to -> toh
 Iglea -> iglea
 & -> None
 þæs -> se
 ymb -> ymb
 ane -> an
-to -> to
+to -> toh
 Eþandune -> eþandun
 & -> None
 þær -> þær
@@ -9526,13 +9526,13 @@ gefliemde -> geflyman
 & -> None
 him -> him
 æfter -> æfter
-rad -> None
+rad -> ridan
 oþ -> oþ
 þæt -> þæt
 geweorc -> geweorc
 & -> None
 þær -> þær
-sæt -> sittan
+sæt -> sæt
 xiiii -> feowertyne
 niht
 & -> None
@@ -9553,13 +9553,13 @@ rice -> romana
 uuoldon -> None
 & -> None
 him -> him
-eac -> eac
+eac -> eacan
 geheton -> gehatan
 þæt -> þæt
 hiera -> hira
 kyning -> kyning
 fulwihte -> fulwihtan
-onfon -> None
+onfon -> onfon
 wolde
 & -> None
 hie -> hi
@@ -9574,7 +9574,7 @@ wiecan -> wicu
 com -> cuman
 se -> se
 cyning -> cyning
-to -> to
+to -> toh
 him -> him
 Godrum -> godrum
 þritiga -> þritig
@@ -9586,7 +9586,7 @@ in -> in
 þam -> þæm
 here -> herian
 weorþuste -> weorþ
-wæron -> None
+wæron -> wesan
 æt -> æt
 Alre
 & -> None
@@ -9600,7 +9600,7 @@ his -> hit
 se -> se
 cyning -> cyning
 þær -> þær
-onfeng -> None
+onfeng -> onfon
 æt -> æt
 fulwihte
 & -> None
@@ -9623,7 +9623,7 @@ hine -> he
 miclum -> micel
 & -> None
 his -> hit
-geferan -> gefera
+geferan -> gefere
 mid -> mid
 feo -> feoh
 weorðude
@@ -9631,17 +9631,17 @@ Her -> None
 for -> for
 se -> se
 here -> herian
-to -> to
+to -> toh
 Cirenceastre -> cirenceaster
 of -> of
 Cippan.hamme -> cippanham
 & -> None
-sæt -> sittan
+sæt -> sæt
 þær -> þær
 an -> on
 gear
 & -> None
-þy -> þy
+þy -> þywan
 geare -> geare
 gegadrode -> gegaderian
 on -> on
@@ -9654,14 +9654,14 @@ Fullan.hamme -> fullanham
 be -> be
 Temese
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 aþiestrode -> aþystrian
 sio -> se
 sunne -> sunne
 ane -> an
-tid -> tid
+tid -> tidan
 dæges
 Her -> None
 for -> for
@@ -9678,7 +9678,7 @@ lond -> land
 & -> None
 gedælde
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 for -> for
@@ -9690,13 +9690,13 @@ sæ -> sæ
 ær -> ær
 on -> on
 Fullan.homme -> fullanham
-sæt -> sittan
+sæt -> sæt
 on -> on
 Fronclond -> francland
-to -> to
+to -> toh
 Gend -> gend
 & -> None
-sæt -> sittan
+sæt -> sæt
 þær -> þær
 an -> on
 gear
@@ -9735,11 +9735,11 @@ on -> on
 Fronclond -> francland
 & -> None
 þær -> þær
-sæt -> sittan
+sæt -> sæt
 an -> on
 gear
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 for -> for
@@ -9766,7 +9766,7 @@ genam
 þa -> þu
 men -> mann
 ofslægene -> ofslean
-wæron -> None
+wæron -> wesan
 þe -> þu
 ðær.on -> þæron
 wæron
@@ -9779,7 +9779,7 @@ hond -> None
 eodon
 & -> None
 þa -> þu
-wæron -> None
+wæron -> wesan
 miclum -> micel
 forslægene -> forslean
 & -> None
@@ -9796,11 +9796,11 @@ here -> herian
 up -> up
 on -> on
 Scald -> scald
-to -> to
+to -> toh
 Cundoþ -> cundoþ
 & -> None
 þær -> þær
-sæt -> sittan
+sæt -> sæt
 an -> on
 gear
 Her -> None
@@ -9810,41 +9810,41 @@ here -> herian
 up -> up
 on -> on
 Sunnan -> sunna
-to -> to
+to -> toh
 Embenum -> embene
 & -> None
 þær -> þær
-sæt -> sittan
+sæt -> sæt
 an -> on
 gear
 Her -> None
-todælde -> None
+todælde -> todælan
 se -> se
 foresprecena -> foresprecen
 here -> herian
 on -> on
 tu -> twegen
-oþer -> oðer
-dæl -> dæl
-east -> None
-oþer -> oðer
-dæl -> dæl
-to -> to
+oþer -> oþer
+dæl -> dælan
+east -> east
+oþer -> oþer
+dæl -> dælan
+to -> toh
 Hrofesceastre
 & -> None
 ymbsæton -> ymbsittan
 ða -> þe
 ceastre -> ceaster
 & -> None
-worhton -> wyrċean
-oþer -> oðer
+worhton -> wyrсean
+oþer -> oþer
 fæsten -> fæsten
 ymb -> ymb
 hie -> hi
 selfe
 & -> None
 hie -> hi
-þeah -> þiċġan
+þeah -> þiсgan
 þa -> þu
 ceastre -> ceaster
 aweredon -> awerian
@@ -9856,14 +9856,14 @@ utan -> utan
 mid -> mid
 fierde
 Þa -> None
-eode -> None
+eode -> gan
 se -> se
 here -> herian
-to -> to
+to -> toh
 hiera -> hira
 scipum -> scip
 & -> None
-forlet -> None
+forlet -> forlætan
 þæt -> þæt
 geweorc
 & -> None
@@ -9873,14 +9873,14 @@ wurdon -> wurdon
 behorsude -> behorsian
 & -> None
 sona -> sona
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 sumere -> sumer
 ofer -> ofer
 sæ -> sæ
 gewiton
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 sende -> sendan
@@ -9892,7 +9892,7 @@ East.Engle
 sona -> None
 swa -> swa
 hie -> hi
-comon -> None
+comon -> cuman
 on -> on
 Stufemuþan -> stufemuþa
 þa -> þu
@@ -9933,13 +9933,13 @@ wicenga -> wicing
 wiþ -> wiþ
 þa -> þu
 gefuhton -> gefeohtan
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 dæge
 & -> None
 þa -> þu
 Deniscan -> deniscan
-ahton -> None
+ahton -> agan
 sige
 Þy -> None
 ilcan -> ilca
@@ -9965,23 +9965,23 @@ broður -> broður
 forþferde -> forþferan
 se -> se
 hæfde -> habban
-eac -> eac
+eac -> eacan
 þæt -> þæt
 westrice
 & -> None
 hie -> hi
-wæron -> None
+wæron -> wesan
 begen -> begen
 Hloþwiges -> hloþwig
 suna
 Se -> None
 hæfde -> habban
-eac -> eac
+eac -> eacan
 þæt -> þæt
 westrice -> westrice
 & -> None
 forþferde -> forþferan
-þy -> þy
+þy -> þywan
 geare -> geare
 þe -> þu
 sio -> se
@@ -9999,10 +9999,10 @@ his -> hit
 dohtor -> dohtor
 hæfde -> habban
 him -> him
-to -> to
+to -> toh
 cuene
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 gegadrode -> gegaderian
@@ -10014,7 +10014,7 @@ Aldseaxum
 þær -> þær
 wearþ -> weorþan
 micel -> micel
-gefeoht -> gefeoht
+gefeoht -> gefeohtan
 tua -> twiwa
 on -> on
 geare
@@ -10025,19 +10025,19 @@ hæfdun -> None
 sige
 & -> None
 þær -> þær
-wæron -> None
+wæron -> wesan
 Frisan -> frysa
 mid
 Þy -> None
 ilcan -> ilca
 geare -> geare
-feng -> None
+feng -> fon
 Carl -> carl
-to -> to
+to -> toh
 þam -> þæm
 westrice -> westrice
 & -> None
-to -> to
+to -> toh
 allum -> eal
 þam -> þæm
 westrice -> westrice
@@ -10075,7 +10075,7 @@ cyning -> cyning
 hæfde
 & -> None
 hie -> hi
-wæron -> None
+wæron -> wesan
 Hloþwiges -> hloþwig
 suna
 se -> None
@@ -10091,7 +10091,7 @@ was -> None
 Pippenes -> pippen
 sunu
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 forþferde -> forþferan
@@ -10117,13 +10117,13 @@ gifa -> gifu
 & -> None
 þære -> þære
 rode -> rode
-dæl -> dæl
+dæl -> dælan
 þe -> þu
 Crist -> crist
 on -> on
 þrowude
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 se -> se
@@ -10140,10 +10140,10 @@ for -> for
 se -> se
 here -> herian
 eft -> eft
-west -> west
+west -> westan
 þe -> þu
 ær -> ær
-east -> None
+east -> east
 gelende -> gelende
 & -> None
 þa -> þu
@@ -10165,7 +10165,7 @@ Lundenburg
 him -> him
 all -> eal
 Angelcyn -> angelcynn
-to -> to
+to -> toh
 cirde -> cyrran
 þæt -> þæt
 buton -> butan
@@ -10181,7 +10181,7 @@ befæste -> befæstan
 burg -> cantwara
 Æþerede -> æþered
 aldormen -> ealdorman
-to -> to
+to -> toh
 haldonne
 Her -> None
 for -> for
@@ -10204,7 +10204,7 @@ oþ -> oþ
 Cariei -> cariei
 & -> None
 þa -> þu
-sæton -> None
+sæton -> sittan
 þara -> þær
 & -> None
 innan -> innan
@@ -10216,7 +10216,7 @@ on -> on
 twam -> twegen
 stedum
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 forþferde -> forþferan
@@ -10230,7 +10230,7 @@ broþur -> broðor
 sunu -> sunu
 hine -> he
 vi -> six
-wicum -> wiċe
+wicum -> wiсe
 ær -> ær
 he -> he
 forþferde -> forþferan
@@ -10243,17 +10243,17 @@ rice
 wearþ -> weorþan
 þæt -> þæt
 rice -> romana
-todæled -> None
+todæled -> todælan
 on -> on
 v -> fif
 & -> None
 v -> fif
 kyningas -> kyning
-to -> to
+to -> toh
 gehalgode
 Þæt -> None
 wæs -> wesan
-þeah -> þiċġan
+þeah -> þiсgan
 mid -> mid
 Earnulfes -> earnulf
 geþafunge
@@ -10263,7 +10263,7 @@ cuædon -> None
 þæt -> þæt
 hie -> hi
 þæt -> þæt
-to -> to
+to -> toh
 his -> hit
 honda -> None
 healdan -> healdan
@@ -10272,11 +10272,11 @@ forþæm -> forðam
 hira -> hira
 nan -> nan
 n -> næs
-æs -> None
+æs -> æs
 on -> on
 fædrenhealfe -> fæderenhealf
-to -> to
-geboren -> geberan
+to -> toh
+geboren -> geboren
 buton -> butan
 him -> him
 anum
@@ -10292,24 +10292,24 @@ Rin
 & -> None
 Roþulf -> roþulf
 þa -> þu
-feng -> None
-to -> to
+feng -> fon
+to -> toh
 þæm -> þæm
 middelrice -> middelrice
 & -> None
 Oda -> oda
-to -> to
+to -> toh
 þæm -> þæm
 westdæle -> westdæl
 & -> None
 Beorngar -> beorngar
 & -> None
 Wiþa -> wiþa
-to -> to
+to -> toh
 Longbeardna -> langbeardas
 londe -> land
 & -> None
-to -> to
+to -> toh
 þæm -> þæm
 londum -> land
 on -> on
@@ -10335,12 +10335,12 @@ gelome -> gelome
 forhergodon
 & -> None
 æghwæþer -> æghwæðer
-oþerne -> oðer
+oþerne -> oþer
 oftrædlice -> oftrædlice
 ut -> ut
 dræfde
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 þe -> þu
@@ -10356,16 +10356,16 @@ brycge -> None
 Paris -> paris
 Æþelhelm -> æþelhelm
 aldormon -> ealdorman
-lædde -> None
+lædde -> lædan
 Wesseaxna -> west-seaxe
 ælmessan -> ælmesse
 & -> None
 Ælfredes -> ælfred
 cyninges -> cyning
-to -> to
+to -> toh
 Rome
 Her -> None
-lædde -> None
+lædde -> lædan
 Beocca -> beocca
 aldormon -> ealdorman
 Wesseaxna -> west-seaxe
@@ -10373,7 +10373,7 @@ Wesseaxna -> west-seaxe
 & -> None
 Ælfredes -> ælfred
 cyninges -> cyning
-to -> to
+to -> toh
 Rome
 & -> None
 Æþelswiþ -> æþelswiþ
@@ -10386,12 +10386,12 @@ cyninges -> cyning
 forþferde
 & -> None
 hire -> hire
-lic -> lic
-liþ -> None
+lic -> liс
+liþ -> liþan
 æt -> æt
 Pafian
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 Æþelred -> æþelred
@@ -10407,10 +10407,10 @@ On -> None
 þissum -> þes
 geare -> geare
 n -> næs
-æs -> None
+æs -> æs
 nan -> nan
 færeld -> færeld
-to -> to
+to -> toh
 Rome -> rom
 buton -> butan
 tuegen -> twegen
@@ -10421,12 +10421,12 @@ sende -> sendan
 mid -> mid
 gewritum
 Her -> None
-lædde -> None
+lædde -> lædan
 Beornhelm -> beornhelm
 abbod -> abbad
 West.Seaxna -> west-seaxe
 ælmessan -> ælmesse
-to -> to
+to -> toh
 Rome -> rom
 & -> None
 Ælfredes -> ælfred
@@ -10448,7 +10448,7 @@ cyninges -> cyning
 godsunu
 & -> None
 he -> he
-bude -> bēodan
+bude -> buan
 on -> on
 East.Englum -> east-engle
 & -> None
@@ -10457,7 +10457,7 @@ lond -> land
 ærest -> ærest
 gesæt
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 for -> for
@@ -10465,7 +10465,7 @@ se -> se
 here -> herian
 of -> of
 Sigene -> sigen
-to -> to
+to -> toh
 Sant.Laudan -> sant
 þæt -> þæt
 is -> wesan
@@ -10480,14 +10480,14 @@ wiþ -> wiþ
 gefuhton -> gefeohtan
 & -> None
 hæfdon -> habban
-sige -> sīgan
+sige -> sige
 & -> None
 hie -> hi
-bedrifon -> bedrīfan
+bedrifon -> bedrifan
 ut -> ut
 on -> on
 ane -> an
-ea -> None
+ea -> ea
 & -> None
 monige -> manig
 adrencton
@@ -10530,8 +10530,8 @@ gefliemde
 & -> None
 þrie -> þrie
 Scottas -> scottas
-comon -> None
-to -> to
+comon -> cuman
+to -> toh
 Ælfrede -> ælfred
 cyninge -> cyninge
 on -> on
@@ -10558,53 +10558,53 @@ elþiodignesse -> elþeodignes
 beon
 hi -> None
 ne -> nesan
-rohton -> recan
+rohton -> reссan
 hwær
 Se -> None
-bat -> bat
+bat -> bitan
 wæs -> wesan
-geworht -> wyrcan
+geworht -> wyrсean
 of -> of
 þriddan -> þridda
 healfre -> healf
-hyde -> None
+hyde -> hydan
 þe -> þu
 hi -> hi
 on -> on
 foron
 & -> None
 hi -> hi
-namon -> None
+namon -> niman
 mid -> mid
 him -> him
 þæt -> þæt
 hi -> hi
 hæfdun -> None
-to -> to
+to -> toh
 seofon -> seofon
 nihtum -> niht
 mete
 & -> None
 þa -> þu
-comon -> None
+comon -> cuman
 hie -> hi
 ymb -> ymb
 vii -> seofon
 niht -> niht
-to -> to
+to -> toh
 londe -> land
 on -> on
 Cornwalum -> cornwealas
 & -> None
-foron -> None
+foron -> faran
 þa -> þu
 sona -> sona
-to -> to
+to -> toh
 Ælfrede -> ælfred
 cyninge
 Þus -> None
 hie -> hi
-wæron -> None
+wæron -> wesan
 genemnde -> genemnan
 Dubslane -> dubslane
 & -> None
@@ -10615,14 +10615,14 @@ Maelinmun
 Swifneh -> swifneh
 se -> se
 betsta -> god
-lareow -> None
+lareow -> lareow
 þe -> þu
 on -> on
 Scottum -> scottas
 wæs -> wesan
 gefor
 & -> None
-þy -> þy
+þy -> þywan
 ilcan -> ilca
 geare -> geare
 ofer -> ofer
@@ -10638,7 +10638,7 @@ steorra -> steorra
 mon -> mann
 on -> on
 boclæden -> bocleden
-hæt -> None
+hæt -> hætan
 cometa
 Same -> None
 men -> mann
@@ -10647,14 +10647,14 @@ on -> on
 Englisc -> englisc
 þæt -> þæt
 hit -> hit
-sie -> None
+sie -> wesan
 feaxede -> feaxede
 steorra -> steorra
 forþæm -> forðam
 þær -> þær
 stent -> standan
 lang -> lang
-leoma -> None
+leoma -> leoma
 of -> of
 hwilum -> hwilum
 on -> on
@@ -10676,13 +10676,13 @@ here -> herian
 we -> we
 gefyrn -> gefyrn
 ymbe -> ymbe
-spræcon -> None
+spræcon -> sprecan
 eft -> eft
 of -> of
 þæm -> þæm
 eastrice -> eastrice
 westweard -> westweard
-to -> to
+to -> toh
 Bunnan -> bune
 & -> None
 þær -> þær
@@ -10691,7 +10691,7 @@ gescipode -> gescipian
 swa -> swa
 þæt -> þæt
 hie -> hi
-asettan -> None
+asettan -> asettan
 him -> him
 on -> on
 anne -> an
@@ -10703,17 +10703,17 @@ mid -> mid
 ealle -> ealle
 & -> None
 þa -> þu
-comon -> None
+comon -> cuman
 up -> up
 on -> on
 Limene -> limene
-muþan -> None
+muþan -> muþa
 mid -> mid
 ccl -> twegenhundfiftig
 hunde -> hund
 scipa
 Se -> None
-muþa -> None
+muþa -> muþa
 is -> wesan
 on -> on
 easteweardre -> easteweard
@@ -10743,12 +10743,12 @@ lengra -> lengra
 mila -> mil
 brad
 seo -> None
-ea -> None
+ea -> ea
 þe -> þu
 we -> we
 ær -> ær
 ymbe -> ymbe
-spræcon -> None
+spræcon -> sprecan
 lið -> None
 ut -> ut
 of -> of
@@ -10756,9 +10756,9 @@ of -> of
 wealda
 On -> None
 þa -> þu
-ea -> None
+ea -> ea
 hi -> hi
-tugon -> tēon
+tugon -> teon
 up -> up
 hiora -> hira
 scipu -> scip
@@ -10769,18 +10769,18 @@ iiii -> feower
 mila -> mil
 fram -> fram
 þæm -> þæm
-muþan -> None
+muþan -> muþa
 uteweardum -> uteweard
 & -> None
 þær -> þær
-abræcon -> None
+abræcon -> abrecan
 an -> on
 geweorc
 inne -> None
 on -> on
 þæm -> þæm
 fæstenne -> fæsten
-sæton -> None
+sæton -> sittan
 feawa -> feawa
 cirlisce -> ceorlisc
 men -> mann
@@ -10802,14 +10802,14 @@ on -> on
 Temese -> temesemuþa
 muðan -> None
 & -> None
-worhte -> wyrċean
+worhte -> wyrсean
 him -> him
 geweorc -> geweorc
 æt -> æt
 Middeltune
 & -> None
 se -> se
-oþer -> oðer
+oþer -> oþer
 here -> herian
 æt -> æt
 Apuldre
@@ -10828,7 +10828,7 @@ on -> on
 þæm -> þæm
 eastrice -> eastrice
 geweorc -> geweorc
-geworht -> wyrcan
+geworht -> wyrсean
 hæfdon -> habban
 Norþhymbre -> norþan-hymbre
 & -> None
@@ -10846,20 +10846,20 @@ vi
 þeh -> þeah
 ofer -> ofer
 þa -> þu
-treowa -> treow
+treowa -> treowe
 swa -> swa
 oft -> oft
 swa -> swa
 þa -> þu
-oþre -> oðer
+oþre -> oþer
 hergas -> here
 mid -> mid
 ealle -> ealle
 herige -> herian
 ut -> ut
-foron -> None
+foron -> faran
 þonne -> þonne
-foron -> None
+foron -> faran
 hie -> hi
 oþþe -> oþþe
 mid -> mid
@@ -10904,10 +10904,10 @@ gif -> gif
 hie -> hi
 ænigne -> ænig
 feld -> feld
-secan -> None
+secan -> sec
 wolden
 Þa -> None
-foron -> None
+foron -> faran
 hie -> hi
 siþþan -> siððan
 æfter -> æfter
@@ -10928,13 +10928,13 @@ wæs
 & -> None
 him -> him
 mon -> mann
-eac -> eac
+eac -> eacan
 mid -> mid
 oþrum -> oþrum
 floccum -> flocc
-sohte -> None
+sohte -> sœ̄сan
 mæstra -> micel
-daga -> dæġ
+daga -> dæg
 ælce -> ælc
 oþþe -> oþþe
 on -> on
@@ -10947,7 +10947,7 @@ of -> of
 þære -> þære
 fierde -> fierd
 ge -> ge
-eac -> eac
+eac -> eacan
 of -> of
 þæm -> þæm
 burgum
@@ -10962,7 +10962,7 @@ tonumen -> toniman
 swa -> swa
 þæt -> þæt
 hie -> hi
-wæron -> None
+wæron -> wesan
 simle -> simble
 healfe -> healf
 æt -> æt
@@ -10989,20 +10989,20 @@ of -> of
 setum -> set
 þonne -> þonne
 tuwwa -> twiwa
-oþre -> oðer
+oþre -> oþer
 siþe -> siþ
 þa -> þu
 hie -> hi
 ærest -> ærest
-to -> to
+to -> toh
 londe -> land
-comon -> None
+comon -> cuman
 ær -> ær
 sio -> se
 fierd -> fierd
-gesamnod -> gesamnian
+gesamnod -> samnian
 wære -> wære
-oþre -> oðer
+oþre -> oþer
 siþe -> siþ
 þa -> þu
 hie -> hi
@@ -11051,7 +11051,7 @@ herehyþa -> herehyþ
 ahreddon
 & -> None
 hie -> hi
-flugon -> flēon
+flugon -> fleon
 ofer -> ofer
 Temese -> temesemuþa
 buton -> butan
@@ -11076,7 +11076,7 @@ hwile -> hwil
 þe -> þu
 hie -> hi
 þær -> þær
-lengest -> lengan
+lengest -> lengest
 mete -> mete
 hæfdon
 Ac -> None
@@ -11119,7 +11119,7 @@ hamweardes
 & -> None
 ða -> þe
 Deniscan -> deniscan
-sæton -> None
+sæton -> sittan
 þær -> þær
 behindan -> behindan
 forþæm -> forðam
@@ -11150,7 +11150,7 @@ sum -> sum
 hund -> hund
 scipa -> scip
 & -> None
-foron -> None
+foron -> faran
 suð -> suþ
 ymbutan -> ymbutan
 & -> None
@@ -11173,7 +11173,7 @@ norþ.sæ
 þe -> þu
 suð -> suþ
 ymbutan -> ymbutan
-foron -> None
+foron -> faran
 ymb.sæton -> ymbsittan
 Exancester
 Þa -> None
@@ -11185,7 +11185,7 @@ hierde -> hyran
 wende -> wendan
 he -> he
 hine -> he
-west -> west
+west -> westan
 wið -> wiþ
 Exanceastres -> exanceaster
 mid -> mid
@@ -11195,18 +11195,18 @@ fierde -> fierd
 buton -> butan
 swiþe -> swiþe
 gewaldenum -> gewealden
-dæle -> dæl
+dæle -> dælan
 easteweardes -> easteweard
 þæs -> se
 folces
 Þa -> None
-foron -> None
+foron -> faran
 forð -> forþ
 oþ -> oþ
 þe -> þu
 hie -> hi
-comon -> None
-to -> to
+comon -> cuman
+to -> toh
 Lundenbyrg -> lundenburh
 & -> None
 þa -> þu
@@ -11218,11 +11218,11 @@ burgwarum -> burhware
 fultume -> fultuman
 þe -> þu
 him -> him
-westan -> westan
+westan -> weste
 com -> cuman
-foron -> None
-east -> None
-to -> to
+foron -> faran
+east -> east
+to -> toh
 Beamfleote
 Wæs -> None
 Hæsten -> hæsten
@@ -11238,7 +11238,7 @@ herge -> here
 Middeltune -> middeltun
 sæt
 & -> None
-eac -> eac
+eac -> eacan
 se -> se
 micla -> micel
 here -> herian
@@ -11250,14 +11250,14 @@ tocumen -> tocuman
 ær -> ær
 on -> on
 Limene -> limene
-muþan -> None
-sæt -> sittan
+muþan -> muþa
+sæt -> sæt
 æt -> æt
 Apuldre
 Hæfde -> None
 Hæsten -> hæsten
 ær -> ær
-geworht -> wyrcan
+geworht -> wyrсean
 þæt -> þæt
 geweorc -> geweorc
 æt -> æt
@@ -11277,9 +11277,9 @@ here -> herian
 æt -> æt
 ham
 Þa -> None
-foron -> None
+foron -> faran
 hie -> hi
-to -> to
+to -> toh
 & -> None
 gefliemdon -> geflyman
 þone -> se
@@ -11287,7 +11287,7 @@ here -> herian
 & -> None
 þæt -> þæt
 geweorc -> geweorc
-abræcon -> None
+abræcon -> abrecan
 & -> None
 genamon -> geniman
 eal -> eal
@@ -11302,14 +11302,14 @@ ge -> ge
 on -> on
 wifum -> wif
 ge -> ge
-eac -> eac
+eac -> eacan
 on -> on
 bearnum -> bearn
 & -> None
-brohton -> None
+brohton -> bringan
 eall -> eall
 in -> in
-to -> to
+to -> toh
 Lundenbyrig -> lundenburh
 & -> None
 þa -> þu
@@ -11320,11 +11320,11 @@ tobræcon -> tobrecan
 oþþe -> oþþe
 forbærndon -> forbærnan
 oþþe -> oþþe
-to -> to
+to -> toh
 Lundenbyrig -> lundenburh
-brohton -> None
+brohton -> bringan
 oþþe -> oþþe
-to -> to
+to -> toh
 Hrofesceastre
 & -> None
 Hæstenes -> hæsten
@@ -11334,8 +11334,8 @@ his -> hit
 suna -> sunu
 twegen -> twegen
 mon -> mann
-brohte -> None
-to -> to
+brohte -> bringan
+to -> toh
 þæm -> þæm
 cyninge
 & -> None
@@ -11343,24 +11343,24 @@ he -> he
 hi -> hi
 him -> him
 eft -> eft
-ageaf -> None
+ageaf -> agifan
 forþæm -> forðam
 þe -> þu
 hiora -> hira
 wæs -> wesan
-oþer -> oðer
+oþer -> oþer
 his -> hit
 godsunu -> godsunu
-oþer -> oðer
+oþer -> oþer
 Æðeredes -> æþered
 ealdormonnes
 Hæfdon -> None
 hi -> hi
 hiora -> hira
-onfangen -> onfōn
+onfangen -> onfon
 ær -> ær
 Hæsten -> hæsten
-to -> to
+to -> toh
 Beamfleote -> beamfleot
 come
 & -> None
@@ -11375,12 +11375,12 @@ aðas
 se -> se
 cyng -> cyng
 him -> him
-eac -> eac
+eac -> eacan
 wel -> wel
 feoh -> feoh
 sealde -> sellan
 & -> None
-eac -> eac
+eac -> eacan
 swa -> swa
 þa -> þu
 he -> he
@@ -11394,13 +11394,13 @@ Ac -> None
 sona -> sona
 swa -> swa
 hie -> hi
-to -> to
+to -> toh
 Bleam.fleote -> beamfleot
-comon -> None
+comon -> cuman
 & -> None
 þæt -> þæt
 geweorc -> geweorc
-geworht -> wyrcan
+geworht -> wyrсean
 wæs -> wesan
 swa -> swa
 hergode -> hergian
@@ -11419,7 +11419,7 @@ healdan -> healdan
 sceolde
 & -> None
 eft -> eft
-oþre -> oðer
+oþre -> oþer
 siþe -> siþ
 he -> he
 wæs -> wesan
@@ -11441,7 +11441,7 @@ se -> se
 cyning -> cyning
 hine -> he
 þa -> þu
-west -> west
+west -> westan
 wende -> wendan
 mid -> mid
 þære -> þære
@@ -11465,9 +11465,9 @@ he -> he
 togefaren -> tofaran
 wæs -> wesan
 þa -> þu
-eodon -> None
+eodon -> gan
 hie -> hi
-to -> to
+to -> toh
 hiora -> hira
 scipum
 Þa -> None
@@ -11477,17 +11477,17 @@ wið -> wiþ
 þone -> se
 here -> herian
 þær -> þær
-wæst -> west
+wæst -> wæþan
 abisgod -> abisgian
 wæs -> wesan
 & -> None
 þa -> þu
 hergas -> here
-wæron -> None
+wæron -> wesan
 þa -> þu
 gegaderode -> gegaderian
 begen -> begen
-to -> to
+to -> toh
 Sceobyrig -> sceoburh
 on -> on
 East.Seaxum -> east-seaxe
@@ -11505,8 +11505,8 @@ Temese
 him -> him
 com -> cuman
 micel -> micel
-eaca -> None
-to -> to
+eaca -> eaca
+to -> toh
 ægþer -> æghwæðer
 ge -> ge
 of -> of
@@ -11542,7 +11542,7 @@ ealdorman -> ealdorman
 & -> None
 þa -> þu
 cinges -> None
-þegnas -> þegen
+þegnas -> þegn
 þe -> þu
 þa -> þu
 æt -> æt
@@ -11550,33 +11550,33 @@ ham -> ham
 æt -> æt
 þæm -> þæm
 geweorcum -> geweorc
-wæron -> None
+wæron -> wesan
 of -> of
-ælcre -> ælc
+ælcre -> ælс
 byrig -> burh
 be -> be
 eastan -> eastan
 Pedredan -> pedrida
 ge -> ge
 be -> be
-westan -> westan
+westan -> weste
 Sealwuda -> sealhwudu
 ge -> ge
 be -> be
 eastan -> eastan
 ge -> ge
-eac -> eac
+eac -> eacan
 be -> be
 norþan -> norþan
 Temese -> temesemuþa
 & -> None
 be -> be
-westan -> westan
+westan -> weste
 Sæfern -> sæfern
 ge -> ge
-eac -> eac
+eac -> eacan
 sum -> sum
-dæl -> dæl
+dæl -> dælan
 þæs -> se
 Norð.Weal.cynnes
 Þa -> None
@@ -11584,7 +11584,7 @@ hie -> hi
 þa -> þu
 ealle -> ealle
 gegaderode -> gegaderian
-wæron -> None
+wæron -> wesan
 þa -> þu
 offoron -> offaran
 hie -> hi
@@ -11612,7 +11612,7 @@ hie -> hi
 ða -> þe
 fela -> fela
 wucena -> wicu
-sæton -> None
+sæton -> sittan
 on -> on
 twa -> twegen
 healfe -> healf
@@ -11622,14 +11622,14 @@ e -> flet
 se -> se
 cyng -> cyng
 wæs -> wesan
-west -> west
+west -> westan
 on -> on
 Defnum -> defenas
 wiþ -> wiþ
 þone -> se
 sciphere -> sciphere
 þa -> þu
-wæron -> None
+wæron -> wesan
 hie -> hi
 mid -> mid
 metelieste -> meteleast
@@ -11637,21 +11637,21 @@ gewægde -> gewægan
 & -> None
 hæfdon -> habban
 miclne -> micel
-dæl -> dæl
+dæl -> dælan
 þara -> þær
 horsa -> hors
 freten
 & -> None
 þa -> þu
-oþre -> oðer
-wæron -> None
+oþre -> oþer
+wæron -> wesan
 hungre -> hungor
 acwolen
 Þa -> None
-eodon -> None
+eodon -> gan
 hie -> hi
 ut -> ut
-to -> to
+to -> toh
 ðæm -> þæm
 monnum -> mann
 þe -> þu
@@ -11674,12 +11674,12 @@ sige
 wearð -> None
 Ordheh -> ordheh
 cyninges -> cyning
-þegn -> None
+þegn -> þegn
 ofslægen -> ofslean
 & -> None
-eac -> eac
+eac -> eacan
 monige -> manig
-oþre -> oðer
+oþre -> oþer
 cyninges -> cyning
 þegnas
 & -> None
@@ -11693,7 +11693,7 @@ wæl -> wæl
 geslegen
 & -> None
 se -> se
-dæl -> dæl
+dæl -> dælan
 þe -> þu
 þær -> þær
 aweg -> aweg
@@ -11706,12 +11706,12 @@ generede
 hie -> hi
 on -> on
 East.Seaxe -> east-seaxe
-comon -> None
-to -> to
+comon -> cuman
+to -> toh
 hiora -> hira
 geweorce -> geweorc
 & -> None
-to -> to
+to -> toh
 hiora -> hira
 scipum -> scip
 þa -> þu
@@ -11741,7 +11741,7 @@ feoh -> feoh
 on -> on
 East.Englum -> east-engle
 & -> None
-foron -> None
+foron -> faran
 anstreces -> anstreces
 dæges -> dæg
 & -> None
@@ -11751,18 +11751,18 @@ hie -> hi
 gedydon -> gedon
 on -> on
 anre -> an
-westre -> west
+westre -> weste
 ceastre -> ceaster
 on -> on
 Wirhealum -> wirhealh
-seo -> se
+seo -> seon
 is -> wesan
 Legaceaster -> legaceaster
 gehaten
 Þa -> None
 ne -> nesan
 mehte -> magan
-seo -> se
+seo -> seon
 fird -> None
 hie -> hi
 na -> na
@@ -11770,19 +11770,19 @@ hindan -> hindan
 offaran -> offaran
 ær -> ær
 hie -> hi
-wæron -> None
+wæron -> wesan
 inne -> inne
 on -> on
 þæm -> þæm
 geweorce
 Besæton -> None
-þeah -> þiċġan
+þeah -> þiсgan
 þæt -> þæt
 geweorc -> geweorc
 utan -> utan
 sume -> sum
 twegen -> twegen
-dagas -> dæġ
+dagas -> dæg
 & -> None
 genamon -> geniman
 ceapes -> ceap
@@ -11813,7 +11813,7 @@ hira -> hira
 horsum -> hors
 fretton -> frettan
 on -> on
-ælcre -> ælc
+ælcre -> ælс
 efenehðe
 & -> None
 þæt -> þæt
@@ -11856,7 +11856,7 @@ wæs -> wesan
 forðy -> forði
 þe -> þu
 hie -> hi
-wæron -> None
+wæron -> wesan
 benumene -> beniman
 ægðer -> æghwæðer
 ge -> ge
@@ -11867,7 +11867,7 @@ ge -> ge
 cornes -> corn
 ðe -> þu
 hie -> hi
-gehergod -> gehergian
+gehergod -> hergian
 hæfdon
 Þa -> None
 hie -> hi
@@ -11886,7 +11886,7 @@ hie -> hi
 genumen -> niman
 hæfdon -> habban
 þa -> þu
-foron -> None
+foron -> faran
 hie -> hi
 ofer -> ofer
 Norðhymbra -> norþan-hymbre
@@ -11904,14 +11904,14 @@ mehte -> magan
 oþ -> oþ
 þæt -> þæt
 hie -> hi
-comon -> None
+comon -> cuman
 on -> on
 East.Seaxna -> east-seaxe
 lond -> land
 easteweard -> easteweard
 on -> on
 an -> on
-igland -> None
+igland -> igland
 þæt -> þæt
 is -> wesan
 ute -> ute
@@ -11958,7 +11958,7 @@ scipu -> scip
 sumu -> sum
 genamon
 Ða -> None
-þy -> þy
+þy -> þywan
 ylcan -> ilca
 gere -> gear
 onforan -> onforan
@@ -11969,8 +11969,8 @@ Deniscan -> deniscan
 on -> on
 Meres -> None
 ige -> ig
-sæton -> None
-tugon -> tēon
+sæton -> sittan
+tugon -> teon
 hira -> hira
 scipu -> scip
 up -> up
@@ -11994,10 +11994,10 @@ ofer -> ofer
 sæ -> sæ
 comon
 On -> None
-þy -> þy
+þy -> þywan
 ylcan -> ilca
 gere -> gear
-worhte -> wyrċean
+worhte -> wyrсean
 se -> se
 foresprecena -> foresprecen
 here -> herian
@@ -12012,15 +12012,15 @@ Lundenbyrig
 þæs -> se
 on -> on
 sumera -> sumer
-foron -> None
+foron -> faran
 micel -> micel
-dæl -> dæl
+dæl -> dælan
 þara -> þær
 burgwara -> burhware
 & -> None
-eac -> eac
+eac -> eacan
 swa -> swa
-oþres -> oðer
+oþres -> oþer
 folces -> folc
 þæt -> þæt
 hie -> hi
@@ -12037,7 +12037,7 @@ gefliemde
 sume -> sum
 feower -> feower
 cyninges -> cyning
-þegnas -> þegen
+þegnas -> þegn
 ofslægene
 Þa -> None
 þæs -> se
@@ -12065,12 +12065,12 @@ him -> him
 ne -> nesan
 mehton -> magan
 þæs -> se
-ripes -> rip
+ripes -> ripe
 forwiernan
 Þa -> None
 sume -> sum
-dæge -> dæg
-rad -> None
+dæge -> dæge
+rad -> ridan
 se -> se
 cyng -> cyng
 up -> up
@@ -12083,7 +12083,7 @@ hwær -> hwær
 mon -> mann
 mehte -> magan
 þa -> þu
-ea -> None
+ea -> ea
 forwyrcan -> None
 þæt -> þæt
 hie -> hi
@@ -12113,7 +12113,7 @@ hie -> hi
 þæt -> þæt
 geweorc -> geweorc
 furþum -> furþum
-ongunnen -> onġinnan
+ongunnen -> onginnan
 hæfdon -> habban
 & -> None
 þær.to -> þærto
@@ -12132,11 +12132,11 @@ scypu -> None
 ut -> ut
 brengan
 Þa -> None
-forleton -> None
+forleton -> forlætan
 hie -> hi
 hie -> hi
 & -> None
-eodon -> None
+eodon -> gan
 ofer -> ofer
 land -> land
 þæt -> þæt
@@ -12151,10 +12151,10 @@ Sæfern -> sæfern
 gewerc -> None
 worhton
 Þa -> None
-rad -> None
-seo -> se
+rad -> ridan
+seo -> seon
 fird -> None
-west -> west
+west -> westan
 æfter -> æfter
 þæm -> þæm
 herige
@@ -12180,7 +12180,7 @@ tobræcon -> tobrecan
 þe -> þu
 þær -> þær
 stælwyrðe -> stælwirðe
-wæron -> None
+wæron -> wesan
 binnan -> binnan
 Lundenbyrig -> lundenburh
 gebrohton
@@ -12201,7 +12201,7 @@ of -> of
 geweorce -> geweorc
 foron
 Þa -> None
-sæton -> None
+sæton -> sittan
 hie -> hi
 þone -> se
 winter -> winter
@@ -12218,7 +12218,7 @@ hie -> hi
 on -> on
 Limene -> limene
 muðan -> None
-comon -> None
+comon -> cuman
 hider -> hider
 ofer -> ofer
 sæ
@@ -12242,7 +12242,7 @@ Norðhymbre
 þa -> þu
 þe -> þu
 feohlease -> feohleas
-wæron -> None
+wæron -> wesan
 him -> him
 þær -> þær
 scipu -> scip
@@ -12251,8 +12251,8 @@ begeton -> begitan
 suð -> suþ
 ofer -> ofer
 sæ -> sæ
-foron -> None
-to -> to
+foron -> faran
+to -> toh
 Sigene
 N -> None
 æfde -> None
@@ -12266,7 +12266,7 @@ forswiðe -> forswiðe
 gebrocod
 Ac -> None
 hie -> hi
-wæron -> None
+wæron -> wesan
 micle -> micel
 swiþor -> swiðe
 gebrocede -> gebrocian
@@ -12288,12 +12288,12 @@ manige -> manig
 þara -> þær
 selestena -> sel
 cynges -> cyng
-þena -> None
+þena -> þenian
 þe -> þu
 þær -> þær
 on -> on
 londe -> land
-wæron -> None
+wæron -> wesan
 forðferdon -> forþferan
 on -> on
 þæm -> þæm
@@ -12329,7 +12329,7 @@ Dorceceastre -> dorceceaster
 & -> None
 Eadulf -> eadulf
 cynges -> cyng
-þegn -> None
+þegn -> þegn
 on -> on
 Suð.Seaxum -> suþ-seaxe
 & -> None
@@ -12343,7 +12343,7 @@ cynges -> cyng
 horsþegn -> horsþegn
 & -> None
 manige -> manig
-eac -> eac
+eac -> eacan
 him -> him
 þeh -> þeah
 ic -> ic
@@ -12353,7 +12353,7 @@ nemde
 Þy -> None
 ilcan -> ilca
 geare -> geare
-drehton -> dreċċan
+drehton -> dreссan
 þa -> þu
 hergas -> here
 on -> on
@@ -12390,7 +12390,7 @@ ongen -> ongeagn
 ða -> þe
 æscas
 þa -> None
-wæron -> None
+wæron -> wesan
 fulneah -> fulneah
 tu -> twegen
 swa -> swa
@@ -12401,19 +12401,19 @@ oðru
 sume -> None
 hæfdon -> habban
 lx -> sixtig
-ara -> ar
+ara -> arian
 sume -> sum
 ma
 Þa -> None
-wæron -> None
+wæron -> wesan
 ægðer -> æghwæðer
 ge -> ge
 swiftran -> swift
 ge -> ge
 unwealtran -> unwealt
 ge -> ge
-eac -> eac
-hieran -> None
+eac -> eacan
+hieran -> hieran
 þonne -> þonne
 þa -> þu
 oðru
@@ -12435,7 +12435,7 @@ selfum -> self
 þæt -> þæt
 hie -> hi
 nytwyrðoste -> nytweorð
-beon -> None
+beon -> beon
 meahten
 Þa -> None
 æt -> æt
@@ -12444,11 +12444,11 @@ cirre -> cyrr
 þæs -> se
 ilcan -> ilca
 geares -> gear
-comon -> None
+comon -> cuman
 þær -> þær
 sex -> six
 scipu -> scip
-to -> to
+to -> toh
 Wiht -> wiht
 & -> None
 þær -> þær
@@ -12471,9 +12471,9 @@ cyng -> cyng
 faran -> faran
 mid -> mid
 nigonum -> nigon
-to -> to
+to -> toh
 þara -> þær
-niwena -> None
+niwena -> niwe
 scipa
 & -> None
 forforon -> forfaran
@@ -12484,7 +12484,7 @@ foran -> foran
 on -> on
 utermere
 Þa -> None
-foron -> None
+foron -> faran
 hie -> hi
 mid -> mid
 þrim -> þri
@@ -12494,7 +12494,7 @@ ongen -> ongeagn
 hie
 & -> None
 þreo -> þri
-stodon -> None
+stodon -> standan
 æt -> æt
 ufeweardum -> ufeweard
 þæm -> þæm
@@ -12530,25 +12530,25 @@ an -> on
 oðwand
 On -> None
 þæm -> þæm
-wæron -> None
-eac -> eac
+wæron -> wesan
+eac -> eacan
 þa -> þu
 men -> mann
 ofslægene -> ofslean
 buton -> butan
 fifum
 Þa -> None
-comon -> None
+comon -> cuman
 forðy -> forði
 on.weg -> onweg
 ðe -> þu
 ðara -> se
-oþerra -> oðer
+oþerra -> oþer
 scipu -> scip
 asæton
 þa -> None
 wurdon -> wurdon
-eac -> eac
+eac -> eacan
 swiðe -> swiðe
 uneðelice -> uneðelice
 aseten
@@ -12558,26 +12558,26 @@ on -> on
 ða -> þe
 healfe -> healf
 þæs -> se
-deopes -> None
+deopes -> deop
 ðe -> þu
 ða -> þe
 Deniscan -> deniscan
 scipu -> scip
 aseten -> asittan
-wæron -> None
+wæron -> wesan
 & -> None
 þa -> þu
 oðru -> oðer
 eall -> eall
 on -> on
-oþre -> oðer
+oþre -> oþer
 healfe -> healf
 þæt -> þæt
 hira -> hira
 ne -> nesan
 mehte -> magan
 nan -> nan
-to -> to
+to -> toh
 oðrum
 Ac -> None
 ða -> þe
@@ -12598,7 +12598,7 @@ from -> from
 þæm -> þæm
 þrim -> þri
 scipum -> scip
-to -> to
+to -> toh
 þæm -> þæm
 oðrum -> oðer
 þrim -> þri
@@ -12618,7 +12618,7 @@ wearð -> None
 ofslægen -> ofslean
 Lucumon -> lucumon
 cynges -> cyng
-gerefa -> None
+gerefa -> gerefa
 & -> None
 Wulfheard -> wulfheard
 Friesa -> frysa
@@ -12651,7 +12651,7 @@ scipum -> scip
 þeh -> þeah
 ær -> ær
 flod -> flod
-to -> to
+to -> toh
 ær -> ær
 þa -> þu
 Cristnan -> cristen
@@ -12664,9 +12664,9 @@ forðy -> forði
 ut -> ut
 oðreowon
 Þa -> None
-wæron -> None
+wæron -> wesan
 hie -> hi
-to -> to
+to -> toh
 þæm -> þæm
 gesargode -> gesargian
 þæt -> þæt
@@ -12689,10 +12689,10 @@ wearp
 þa -> þu
 men -> mann
 mon -> mann
-lædde -> None
-to -> to
+lædde -> lædan
+to -> toh
 Winteceastre -> wintanceaster
-to -> to
+to -> toh
 þæm -> þæm
 cynge
 & -> None
@@ -12704,7 +12704,7 @@ het
 & -> None
 þa -> þu
 men -> mann
-comon -> None
+comon -> cuman
 on -> on
 East.Engle -> east-engle
 þe -> þu
@@ -12712,7 +12712,7 @@ on -> on
 þæm -> þæm
 anum -> an
 scipe -> scip
-wæron -> None
+wæron -> wesan
 swiðe -> swiðe
 forwundode
 Þy -> None
@@ -12739,7 +12739,7 @@ cynges -> cyng
 horsðegn -> horsþegn
 se -> se
 wæs -> wesan
-eac -> eac
+eac -> eacan
 Wealh -> wealh
 gefera
 Her -> None
@@ -12756,7 +12756,7 @@ nihtum -> niht
 middum -> midde
 sumere
 & -> None
-her -> her
+her -> heran
 forðferde -> forþferan
 Heahstan -> heahstan
 se -> se
@@ -12766,14 +12766,14 @@ Lundenne -> lunden
 biscop
 
 Mæg -> None
-gehyran -> None
+gehyran -> gehyran
 se -> se
 ðe -> þu
 wyle -> None
 be -> be
 þam -> þæm
-halgan -> halga
-mædene -> None
+halgan -> halig
+mædene -> mæden
 Eugenian -> eugenia
 Philyppus -> philippus
 dæhter -> None
@@ -12782,7 +12782,7 @@ heo -> heo
 ðurh -> þurh
 mægðhad -> mægþhad
 mærlice -> mærlice
-þeah -> þiċġan
+þeah -> þiсgan
 and -> and
 þurh -> þurh
 martyrdom -> martyrdom
@@ -12794,7 +12794,7 @@ Sum -> None
 þægn -> None
 wæs -> wesan
 Philippus -> philippus
-gehaten -> gehatan
+gehaten -> hatan
 ðone -> se
 asende -> asendan
 se -> se
@@ -12803,22 +12803,22 @@ Commodus -> commodus
 þe -> þu
 on -> on
 ðam -> ðam
-dagum -> dæġ
+dagum -> dæg
 rixode -> None
 fram -> fram
 Rome.byrig -> romeburh
-to -> to
+to -> toh
 ðære -> se
 byrig -> burh
 ðe -> þu
 is -> wesan
-gehaten -> gehatan
+gehaten -> hatan
 Alexandria
 And -> None
 he -> he
 hine -> he
 gesette -> gesette
-to -> to
+to -> toh
 heahgerefan -> heahgerefa
 ofer -> ofer
 Alexandrian -> alexandria
@@ -12829,7 +12829,7 @@ and -> and
 het -> hettan
 þæt -> þæt
 he -> he
-heolde -> None
+heolde -> healdan
 þa -> þu
 romaniscan -> romanisc
 gesætnysse
@@ -12837,7 +12837,7 @@ gesætnysse
 ðægn -> None
 Philippus -> philippus
 n -> næs
-æs -> None
+æs -> æs
 na -> na
 gefullod -> gefullian
 on -> on
@@ -12846,20 +12846,20 @@ forþan -> forðam
 þe -> þu
 cristendom -> cristendom
 n -> næs
-æs -> None
+æs -> æs
 þa -> þu
 gyt -> git
 geond -> geond
 eall -> eall
 cuð -> None
 and -> and
-seo -> se
-reþe -> reðe
+seo -> seon
+reþe -> reþe
 æhtnyss -> eahtnes
 þa -> þu
 gyt -> git
 n -> næs
-æs -> None
+æs -> æs
 gestylled
 His -> None
 wif -> wif
@@ -12888,14 +12888,14 @@ befæste -> befæstan
 se -> se
 fæder -> fæder
 Philippus -> philippus
-to -> to
+to -> toh
 lare -> lar
 þæt -> þæt
 heo -> heo
 on -> on
 woruldwysdome -> weoroldwisdom
 wære -> wære
-getogen -> geteon
+getogen -> teon
 æfter -> æfter
 greciscre -> grecisc
 uðwytegunge -> uþwitigung
@@ -12908,9 +12908,9 @@ Eugenia -> None
 æðele -> æðele
 mæden -> mæden
 wel -> wel
-þeah -> þiċġan
+þeah -> þiсgan
 on -> on
-wisdome -> None
+wisdome -> wisdom
 and -> and
 on -> on
 uðwytegunge
@@ -12920,7 +12920,7 @@ hyre -> hyrian
 on -> on
 hand -> hand
 þæs -> se
-halgan -> halga
+halgan -> halig
 apostoles -> apostol
 lar -> lar
 Paules -> paulus
@@ -12932,14 +12932,14 @@ lareowes
 Þa -> None
 wearð -> None
 hyre -> hyrian
-mod -> None
+mod -> mod
 mycclum -> micel
 onbryrd -> onbryrdan
 þuruh -> þurh
 þa -> þu
 halgen -> None
 lare -> lar
-þeah -> þiċġan
+þeah -> þiсgan
 ðe -> þu
 heo -> heo
 þa -> þu
@@ -12947,14 +12947,14 @@ gyt -> git
 hæðen -> hæðen
 wære
 Heo -> None
-bæd -> biddan
+bæd -> bædan
 þa -> þu
 hyre -> hyrian
 fæder -> fæder
 þæt -> þæt
 heo -> heo
 færen -> None
-moste -> None
+moste -> motan
 geond -> geond
 his -> hit
 hames -> ham
@@ -12963,7 +12963,7 @@ Alexandiscre -> alexandisc
 scyre
 Wolde -> None
 swa -> swa
-cepan -> None
+cepan -> cepan
 þære -> þære
 cristenra -> cristen
 lare -> lar
@@ -12976,12 +12976,12 @@ on -> on
 ðære -> se
 byrig -> burh
 nænne -> nan
-geleaffulne -> geleafful
+geleaffulne -> geleaffull
 mann -> mann
 þe -> þu
 hi -> hi
-læren -> None
-cuþe -> None
+læren -> læran
+cuþe -> cuþ
 forðan -> forðam
 Philippus -> philippus
 aflygde -> afleon
@@ -13022,7 +13022,7 @@ fecit
 Ealle -> None
 þære -> þære
 hæðenra -> hæðen
-godas -> god
+godas -> gripe
 syndon -> None
 deofla
 and -> None
@@ -13044,13 +13044,13 @@ twægen -> twægen
 cnihtas -> cniht
 þære -> þære
 naman -> naman
-wæron -> None
+wæron -> wesan
 Protus -> protus
 et -> etan
 Iacinctus
 Þa -> None
-wæron -> None
-gelærede -> None
+wæron -> wesan
+gelærede -> gelæred
 on -> on
 Leden -> læden
 and -> and
@@ -13059,16 +13059,16 @@ grecisc -> grecisc
 mid -> mid
 Eugenian -> eugenia
 mid -> mid
-woruldlicra -> weoroldlic
+woruldlicra -> woruldliс
 lare -> lar
 and -> and
-wæron -> None
+wæron -> wesan
 eunuchi -> eunuchi
 þæt -> þæt
 synt -> None
 belisnode -> belisnian
 and -> and
-wæron -> None
+wæron -> wesan
 heora -> hira
 hlæfdige -> hlæfdige
 holde -> hold
@@ -13084,12 +13084,12 @@ het -> hettan
 hi -> hi
 gebroðra -> gebroðor
 and -> and
-bæd -> biddan
+bæd -> bædan
 þæt -> þæt
 hi -> hi
 hyre -> hyrian
 fæx -> None
-forcurfon -> forċeorfan
+forcurfon -> forсeorfan
 on -> on
 wæpmonna -> wæpenmann
 wysan -> wise
@@ -13107,7 +13107,7 @@ cristenan -> cristen
 genealecan -> genealæcan
 on -> on
 wærlicum -> werlic
-hiwe -> None
+hiwe -> hiw
 þæt -> þæt
 heo -> heo
 ne -> nesan
@@ -13120,12 +13120,12 @@ færdon -> None
 and -> and
 heora -> hira
 gefæran -> gefera
-forleton -> None
+forleton -> forlætan
 oð -> oþ
 þæt -> þæt
 hi -> hi
 becoman -> None
-to -> to
+to -> toh
 ðære -> se
 cristenra -> cristen
 wununge -> wunung
@@ -13140,13 +13140,13 @@ heroden
 On -> None
 ðam -> ðam
 ylcan -> ilca
-dæge -> dæg
+dæge -> dæge
 com -> cuman
 sum -> sum
 bisceop -> bisceop
 Helenus -> helenus
-gehaten -> gehatan
-haliges -> None
+gehaten -> hatan
+haliges -> halig
 lifes -> lifes
 mid -> mid
 mycelre -> micel
@@ -13157,7 +13157,7 @@ Uia -> None
 iustorum -> iustorum
 recta -> recta
 facta -> facta
-est -> None
+est -> est
 et -> etan
 iter -> iter
 sanctorum -> sanctorum
@@ -13166,20 +13166,20 @@ est
 þæt -> None
 is -> wesan
 þæra -> se
-rihtwisra -> None
+rihtwisra -> rihtwis
 wæg -> wegan
 is -> wesan
 gerihtlæced
 and -> None
 þæra -> se
-halgena -> halga
+halgena -> halig
 siðfæt -> siþfæt
 is -> wesan
 gegearcod
 Þes -> None
 bisceop -> bisceop
 worhta -> None
-fæla -> fela
+fæla -> fæle
 wundra -> wundrian
 þuruh -> þurh
 God
@@ -13194,8 +13194,8 @@ be -> be
 and -> None
 eall -> eall
 þæs -> se
-mædenes -> None
-mod -> None
+mædenes -> mæden
+mod -> mod
 him -> him
 wearð -> None
 ameldod
@@ -13206,12 +13206,12 @@ mæden -> mæden
 sumne -> sum
 messepreost -> mæssepreost
 Eutropius -> eutropius
-gehaten -> gehatan
+gehaten -> hatan
 þæt -> þæt
 he -> he
 hyre -> hyrian
-ærende -> ærend
-abude -> None
+ærende -> ærende
+abude -> abeodan
 þam -> þæm
 bisceope -> bisceop
 þysum -> þes
@@ -13226,7 +13226,7 @@ fram -> fram
 þam -> þæm
 fulan -> ful
 hæðenscype -> hæðenscipe
-to -> to
+to -> toh
 hælende -> hælend
 Criste
 and -> None
@@ -13243,9 +13243,9 @@ on -> on
 mergen -> merigen
 se -> se
 mæssepreost -> mæssepreost
-abead -> None
+abead -> abeodan
 þæs -> se
-mædenes -> None
+mædenes -> mæden
 word -> word
 þam -> þæm
 mæron -> mære
@@ -13259,7 +13259,7 @@ gelangian -> gelangian
 mycclum -> micel
 þanciende -> þancian
 þam -> þæm
-ælmihtigan -> eallmihtig
+ælmihtigan -> ælmihtig
 Gode -> god
 þæt -> þæt
 he -> he
@@ -13267,7 +13267,7 @@ wolde -> willan
 him -> him
 onwreon -> onwreon
 þæs -> se
-mædenes -> None
+mædenes -> mæden
 wyllan
 He -> None
 genam -> geniman
@@ -13298,7 +13298,7 @@ heofonlican -> heofonlic
 cyninge -> cyninge
 þe -> þu
 heo -> heo
-gecoren -> gecoren
+gecoren -> сeosan
 hæfde -> habban
 and -> and
 cwæð -> cweðan
@@ -13311,12 +13311,12 @@ for -> for
 mægðhade -> mægþhad
 ðrowian -> None
 and -> and
-þeah -> þiċġan
-beon -> None
+þeah -> þiсgan
+beon -> beon
 gescyld -> gescildan
 þurh -> þurh
 þone -> se
-soðan -> None
+soðan -> soð
 Drihten -> dryhten
 þe -> þu
 gescylt -> gescildan
@@ -13333,8 +13333,8 @@ hi -> hi
 heoldan -> None
 æþelborennyss -> æþelborenness
 on -> on
-mode -> None
-þeah -> þiċġan
+mode -> mod
+þeah -> þiсgan
 þe -> þu
 hi -> hi
 mannum -> mann
@@ -13344,12 +13344,12 @@ cwæð -> cweðan
 þæt -> þæt
 hi -> hi
 Crist -> crist
-gespræce -> None
+gespræce -> gesprecan
 þysum -> þes
 godspellicum -> godspellic
 wordum
 Ne -> None
-hate -> hat
+hate -> hatan
 ic -> ic
 eow -> ge
 na -> na
@@ -13365,7 +13365,7 @@ se -> se
 biscop -> bisceop
 þam -> þæm
 gebogenan -> gebugan
-mædene -> None
+mædene -> mæden
 þæt -> þæt
 heo -> heo
 swa -> swa
@@ -13373,7 +13373,7 @@ swa -> swa
 on -> on
 þam -> þæm
 wærlicum -> werlic
-hiwe -> None
+hiwe -> hiw
 oþ -> oþ
 þæt -> þæt
 hi -> hi
@@ -13394,8 +13394,8 @@ on -> on
 mynstre -> mynster
 mid -> mid
 wærlicum -> werlic
-mode -> None
-þeah -> þiċġan
+mode -> mod
+þeah -> þiсgan
 þe -> þu
 heo -> heo
 mæden -> mæden
@@ -13407,27 +13407,27 @@ cnihtum -> cniht
 uncuð -> uncuþ
 gehwam -> gehwa
 And -> and
-heold -> None
+heold -> healdan
 on -> on
 hyre -> hyrian
 þeawum -> þeaw
-halige -> None
+halige -> halig
 drohtnunge -> drohtnung
 ðurh -> þurh
-modes -> None
+modes -> mod
 liþnesse -> liðness
 and -> and
 mycelre -> micel
 eadmodnesse -> eadmodnes
 and -> and
 þurh -> þurh
-halige -> None
+halige -> halig
 mægnu -> mægen
 þam -> þæm
 hælende -> hælend
 gecwæmde
 Heo -> None
-þeah -> þiċġan
+þeah -> þiсgan
 on -> on
 lare -> lar
 þæs -> se
@@ -13445,18 +13445,18 @@ wearð -> None
 awend -> awendan
 of -> of
 wulfe -> wulf
-to -> to
+to -> toh
 sceape
 Hyre -> None
 geeuenlæhton -> geefemlæcan
-eac -> eac
+eac -> eacan
 hyre -> hyrian
 cnihtas -> cniht
 Protus -> protus
 et -> etan
 Iacinctus -> iacinctus
 on -> on
-synderlicre -> synderlic
+synderlicre -> synderliс
 drohtnunge -> drohtnung
 and -> and
 hyre -> hyrian
@@ -13471,7 +13471,7 @@ forwearð -> None
 on -> on
 mode
 and -> None
-seo -> se
+seo -> seon
 modor -> modor
 Claudia -> claudia
 mid -> mid
@@ -13480,28 +13480,28 @@ wæs -> wesan
 fornumen
 and -> None
 eall -> eall
-seo -> se
+seo -> seon
 mægð -> mægþ
 on -> on
-mode -> None
+mode -> mod
 wearð -> None
-astyred -> None
+astyred -> astyrian
 and -> and
-sohten -> None
+sohten -> sœ̄сan
 þæt -> þæt
 mæden -> mæden
 mid -> mid
 mycelre -> micel
 sarnysse
 Hi -> None
-axoden -> None
+axoden -> axian
 æt -> æt
 wyccum -> wicca
 and -> and
 æt -> æt
-wisum -> None
+wisum -> wise
 dryum -> dry
-eac -> eac
+eac -> eacan
 æt -> æt
 heora -> hira
 leasum -> leas
@@ -13514,8 +13514,8 @@ Him -> None
 wearð -> None
 þa -> þu
 gesæd -> gesecgan
-to -> to
-soþum -> None
+to -> toh
+soþum -> soþ
 þinge -> þingan
 þæt -> þæt
 ða -> þe
@@ -13526,7 +13526,7 @@ for -> for
 hyre -> hyrian
 godnysse
 Þa -> None
-gelyfde -> gelifan
+gelyfde -> gelyfan
 se -> se
 fæder -> fæder
 þære -> þære
@@ -13544,7 +13544,7 @@ and -> and
 wurðode -> None
 swa -> swa
 swa -> swa
-halige -> None
+halige -> halig
 gydenan
 ac -> None
 hit -> hit
@@ -13561,7 +13561,7 @@ gearum -> gear
 heo -> heo
 gecyrred -> gecyrran
 wæs -> wesan
-gewat -> None
+gewat -> gewitan
 se -> se
 abbod -> abbad
 þe -> þu
@@ -13573,17 +13573,17 @@ And -> None
 gebroðra -> gebroðor
 sona -> sona
 ceosan -> None
-ongunnen -> onġinnan
+ongunnen -> onginnan
 Eugenian -> eugenia
-to -> to
+to -> toh
 abbude -> abbad
 for -> for
 hyre -> hyrian
-arfæstan -> None
-life -> None
+arfæstan -> arfæst
+life -> lif
 and -> and
 n -> næs
-yston -> None
+yston -> ystan
 þæt -> þæt
 heo -> heo
 wæs -> wesan
@@ -13605,17 +13605,17 @@ sceolde
 Ne -> None
 dorste -> durran
 swa -> swa
-þeah -> þiċġan
+þeah -> þiсgan
 hi -> hi
 ealle -> ealle
 gedrefan -> gedrefan
 and -> and
 hyra -> hyra
-geþeaht -> geþeaht
+geþeaht -> þeссean
 forseon -> forseon
 ac -> acan
 fæng -> None
-to -> to
+to -> toh
 ðam -> ðam
 hade
 Hwæt -> None
@@ -13627,7 +13627,7 @@ gebysnode -> gebysnian
 mid -> mid
 goddre -> god
 gedrohtnunge -> gedrohtnung
-to -> to
+to -> toh
 Godes -> godes
 þeowdome -> þeowdom
 and -> and
@@ -13640,7 +13640,7 @@ Hyre -> None
 geuðe -> None
 þa -> þu
 se -> se
-ælmihtiga -> eallmihtig
+ælmihtiga -> ælmihtig
 wealdend -> wealdend
 þæt -> þæt
 heo -> heo
@@ -13658,7 +13658,7 @@ on -> on
 sare
 Heo -> None
 aflygde -> afleon
-eac -> eac
+eac -> eacan
 swylce -> swilce
 þa -> þu
 fulan -> ful
@@ -13667,7 +13667,7 @@ fram -> fram
 ofsættum -> ofsettan
 mannum -> mann
 þurh -> þurh
-soðne -> None
+soðne -> soð
 geleafan
 Þa -> None
 wæs -> wesan
@@ -13675,7 +13675,7 @@ sum -> sum
 wif -> wif
 wælig -> welig
 on -> on
-æhtum -> None
+æhtum -> æht
 Melantia -> melantia
 gecyged -> gecigan
 swiðe -> swiðe
@@ -13686,7 +13686,7 @@ langsumum -> langsumum
 feofore -> fefer
 and -> and
 com -> cuman
-to -> to
+to -> toh
 ðære -> se
 femnan
 Eugenia -> None
@@ -13695,10 +13695,10 @@ hi -> hi
 gesmyrode -> gesmyrian
 mid -> mid
 gehalgodum -> gehalgian
-ele -> ele
+ele -> elh
 and -> and
-eac -> eac
-gemearcode -> gemearcian
+eac -> eacan
+gemearcode -> gemearcod
 mid -> mid
 rodetacne
 And -> None
@@ -13714,17 +13714,17 @@ hyre -> hyrian
 dærede -> None
 and -> and
 wearþ -> weorþan
-gehæled -> gehælan
+gehæled -> hælan
 þurh -> þurh
 þæt -> þæt
-halige -> None
+halige -> halig
 mæden
 Þa -> None
-bead -> None
-seo -> se
+bead -> beodan
+seo -> seon
 wydewe -> widuwe
 þam -> þæm
-mædene -> None
+mædene -> mæden
 sceattas -> sceatt
 for -> for
 hyre -> hyrian
@@ -13736,11 +13736,11 @@ forsoc -> forsacan
 and -> and
 tihte -> tyhtan
 ða -> þe
-oþre -> oðer
+oþre -> oþer
 þæt -> þæt
 heo -> heo
 hi -> hi
-dælde -> None
+dælde -> dælan
 þearfum -> þearfa
 and -> and
 wædlum -> wædla
@@ -13750,10 +13750,10 @@ gewissan -> gewiss
 eadleane
 Ða -> None
 gewænde -> None
-seo -> se
+seo -> seon
 wydewe -> widuwe
 ham -> ham
-to -> to
+to -> toh
 hyre -> hyrian
 agenum -> agen
 and -> and
@@ -13762,8 +13762,8 @@ siððan -> siððan
 gelome -> gelome
 mid -> mid
 leasum -> leas
-mode -> None
-to -> to
+mode -> mod
+to -> toh
 þam -> þæm
 wlytegan -> wlitig
 mædene
@@ -13784,13 +13784,13 @@ Ac -> None
 heo -> heo
 geseah -> geseon
 þæt -> þæt
-seo -> se
+seo -> seon
 soðfæste -> soþfæst
 fæmne -> fæmne
 hyre -> hyrian
 laca -> lacu
 ne -> nesan
-rohte -> reccan
+rohte -> reссan
 ne -> nesan
 hyre -> hyrian
 rununga -> runung
@@ -13809,7 +13809,7 @@ mid -> mid
 bysmorfullum -> bysmorfull
 geþance
 Heo -> None
-bæd -> biddan
+bæd -> bædan
 þa -> þu
 Eugenian -> eugenia
 þæt -> þæt
@@ -13834,9 +13834,9 @@ geare
 and -> None
 hyre -> hyrian
 wer -> wer
-læfde -> None
+læfde -> læfan
 unlytle -> unlytel
-æhta -> None
+æhta -> æht
 on -> on
 lande -> land
 and -> and
@@ -13848,7 +13848,7 @@ forewyrcendum
 And -> None
 unc -> wit
 n -> næs
-æs -> None
+æs -> æs
 gemæne -> gemæne
 man -> munan
 on -> on
@@ -13857,17 +13857,17 @@ lyfe
 Nu -> None
 is -> wesan
 min -> min
-mod -> None
+mod -> mod
 awend -> awendan
 mycclum -> micel
-to -> to
+to -> toh
 ðe -> þu
 þæt -> þæt
 þu -> þu
-hlaford -> None
-beo -> None
+hlaford -> hlaford
+beo -> beon
 þæra -> se
-æhta -> None
+æhta -> æht
 and -> and
 min
 Ic -> None
@@ -13875,15 +13875,15 @@ wene -> wennan
 þæt -> þæt
 hit -> hit
 ne -> nesan
-sy -> None
+sy -> su
 unrihtwisnysse -> unrihtwisness
 ætforan -> ætforan
 Gode -> god
-þeah -> þiċġan
+þeah -> þiсgan
 ðe -> þu
 þu -> þu
 wifes -> wif
-bruce -> brūcan
+bruce -> brucan
 and -> and
 blysse -> blis
 on -> on
@@ -13895,7 +13895,7 @@ Eugenia -> eugenia
 olecunge -> oleccung
 and -> and
 cwæð -> cweðan
-to -> to
+to -> toh
 þam -> þæm
 wife -> wif
 mid -> mid
@@ -13910,11 +13910,11 @@ worulde -> weorold
 synt -> None
 swiðe -> swiðe
 swicole -> swicol
-þeah -> þiċġan
+þeah -> þiсgan
 þe -> þu
 hi -> hi
 geswæse -> geswæs
-beon -> None
+beon -> beon
 And -> and
 þæs -> se
 lichoman -> None
@@ -13922,7 +13922,7 @@ lustas -> lust
 gelome -> gelome
 bepæceð -> bepæcan
 and -> and
-to -> to
+to -> toh
 sarnissum -> sarness
 gelædað -> gelædan
 þa -> þu
@@ -13938,16 +13938,16 @@ on -> on
 oðrum -> oðer
 larum -> lar
 beclypte -> beclyppan
-seo -> se
+seo -> seon
 myltestre -> miltestre
 þæt -> þæt
-clæne -> None
+clæne -> clæne
 mæden -> mæden
 and -> and
 wolde -> willan
 hi -> hi
 gebygan -> gebygan
-to -> to
+to -> toh
 bismorlicum -> bismerlic
 hæmede
 Hwæt -> None
@@ -13957,7 +13957,7 @@ hi -> hi
 gebletsode -> gebledsian
 and -> and
 cwæð -> cweðan
-to -> to
+to -> toh
 ðære -> se
 sceande -> sceand
 þæt -> þæt
@@ -13982,7 +13982,7 @@ deofles -> deofol
 fætels
 Habban -> None
 þine -> þin
-æhta -> None
+æhta -> æht
 þine -> þin
 gelican
 We -> None
@@ -13991,7 +13991,7 @@ ealle -> ealle
 ðing -> None
 mid -> mid
 þam -> þæm
-ælmihtigan -> eallmihtig
+ælmihtigan -> ælmihtig
 Drihtne
 Ða -> None
 wearð -> None
@@ -14016,28 +14016,28 @@ cydde
 Færde -> None
 þa -> þu
 ardlice -> arodlice
-to -> to
+to -> toh
 Alexandrian -> alexandria
 byrig -> burh
-to -> to
+to -> toh
 þam -> þæm
 heahgeræfan -> heahgerefa
 þe -> þu
 wæs -> wesan
-gehaten -> gehatan
+gehaten -> hatan
 Philippus -> philippus
 Eugenian -> eugenia
 fæder -> fæder
-þeah -> þiċġan
-seo -> se
+þeah -> þiсgan
+seo -> seon
 fule -> ful
 þæt -> þæt
 n -> næs
-yste -> None
+yste -> ystan
 and -> and
-begann -> beġinnan
+begann -> beginnan
 hi -> hi
-to -> to
+to -> toh
 wrægenne -> wregan
 and -> and
 wolde -> willan
@@ -14045,13 +14045,13 @@ forsæcgan
 Cwæð -> None
 þæt -> þæt
 heo -> heo
-eode -> None
-to -> to
+eode -> gan
+to -> toh
 hyre -> hyrian
 licgendre -> None
 on -> on
 læces -> læce
-hiwe -> None
+hiwe -> hiw
 and -> and
 hi -> hi
 wolde -> willan
@@ -14079,7 +14079,7 @@ wið -> wiþ
 hine -> he
 ahredde
 Ða -> None
-gelyfde -> gelifan
+gelyfde -> gelyfan
 Philippus -> philippus
 þære -> þære
 facenfyllan -> facenful
@@ -14091,13 +14091,13 @@ het -> hettan
 hi -> hi
 gefæccan -> gefeccan
 and -> and
-eac -> eac
+eac -> eacan
 ða -> þe
 gebroðra -> gebroðor
 ealle -> ealle
 gebundene -> gebindan
 and -> and
-heold -> None
+heold -> healdan
 hi -> hi
 on -> on
 bendum -> bend
@@ -14122,7 +14122,7 @@ se -> se
 dema -> dema
 gesætte
 And -> None
-wæron -> None
+wæron -> wesan
 gegeorcode -> gegearcian
 þa -> þu
 reðan -> reðe
@@ -14132,7 +14132,7 @@ wurdon -> wurdon
 gefætte -> gefetian
 ætforan -> ætforan
 þam -> þæm
-deman -> dema
+deman -> deman
 þa -> þu
 unscildigan -> unscyldig
 cristenan -> cristen
@@ -14145,7 +14145,7 @@ Philippus -> philippus
 mid -> mid
 fullum -> full
 graman -> grama
-to -> to
+to -> toh
 Eugenian -> eugenia
 his -> hit
 agenre -> agen
@@ -14156,7 +14156,7 @@ forscyldeguda
 hwi -> None
 woldest -> willan
 ðu -> þu
-beswican -> None
+beswican -> beswican
 þæt -> þæt
 mære -> mære
 wif -> wif
@@ -14166,7 +14166,7 @@ forligre -> forliger
 and -> and
 on -> on
 læces -> læce
-hiwe -> None
+hiwe -> hiw
 hi -> hi
 forlicgan -> forlicgan
 woldest
@@ -14175,18 +14175,18 @@ cwæð -> cweðan
 Eugenia -> eugenia
 þæt -> þæt
 heo -> heo
-eaþe -> None
+eaþe -> eaþe
 mihte -> miht
 þæs -> se
 forlyres -> forliger
 unhlisan -> unhlisa
 hi -> hi
-beladian -> None
+beladian -> beladian
 and -> and
 Melantian -> melantia
 onsage -> onsagu
 mid -> mid
-soðe -> None
+soðe -> soð
 oferdrifan -> oferdrifan
 gif -> gif
 Philippus -> philippus
@@ -14195,14 +14195,14 @@ gefæstnian -> gefæstnian
 mid -> mid
 aþe -> aþ
 þæt -> þæt
-seo -> se
+seo -> seon
 lease -> leas
 wrægistre -> wregestre
 ne -> nesan
 wurde -> weorþan
 fordæmed
 Ða -> None
-swor -> None
+swor -> swerian
 Philippus -> philippus
 þæt -> þæt
 he -> he
@@ -14217,15 +14217,15 @@ heo -> heo
 gelignod -> gelygnian
 wurðe
 Þa -> None
-bæd -> biddan
+bæd -> bædan
 Eugenia -> eugenia
 þæt -> þæt
-seo -> se
+seo -> seon
 wyln -> wiln
 sceolde -> sculan
 sæcgan -> None
 þam -> þæm
-deman -> dema
+deman -> deman
 hu -> hu
 hit -> hit
 gedon -> gedon
@@ -14241,9 +14241,9 @@ lustas -> lust
 ahrædde
 And -> None
 se -> se
-gerefa -> None
+gerefa -> gerefa
 het -> hettan
-eac -> eac
+eac -> eacan
 þa -> þu
 cnihtas -> cniht
 Melantian -> melantia
@@ -14257,7 +14257,7 @@ hi -> hi
 gehyrdon
 Þa -> None
 cwæð -> cweðan
-seo -> se
+seo -> seon
 wyln -> wiln
 þæt -> þæt
 heo -> heo
@@ -14265,7 +14265,7 @@ wyste -> None
 gefyrn -> gefyrn
 hu -> hu
 Eugenia -> eugenia
-ferde -> None
+ferde -> feran
 fracodlice -> fracodlice
 on -> on
 forlygre -> forliger
@@ -14292,12 +14292,12 @@ ic -> ic
 þider -> þider
 clypode
 Ða -> None
-sædon -> None
+sædon -> secgan
 þa -> þu
 hyredmenn -> hiredmann
 þæt -> þæt
 hit -> hit
-soð -> None
+soð -> soð
 wære
 and -> None
 ealle -> ealle
@@ -14334,7 +14334,7 @@ aclænsian
 Hwæt -> None
 ða -> þe
 Eugenia -> eugenia
-seo -> se
+seo -> seon
 æþele -> æþelu
 fæmne -> fæmne
 cwæð -> cweðan
@@ -14363,7 +14363,7 @@ fruman -> fruma
 þa -> þu
 gyrlan -> gerela
 wærlices -> werlic
-hades -> None
+hades -> had
 and -> and
 wurde -> weorþan
 geefsod
@@ -14379,7 +14379,7 @@ and -> and
 hyre -> hyrian
 breost -> breost
 þam -> þæm
-breman -> None
+breman -> breme
 Philippe -> philippus
 and -> and
 cwæð -> cweðan
@@ -14395,7 +14395,7 @@ gebædda -> None
 Claudia -> claudia
 gebær -> geberan
 me -> me
-to -> to
+to -> toh
 mannum
 and -> None
 ðas -> þes
@@ -14412,7 +14412,7 @@ ic -> ic
 soðlice -> soþlice
 eom -> wesan
 Eugenia -> eugenia
-gehaten -> gehatan
+gehaten -> hatan
 þin -> þu
 agen -> ongeagn
 dohtor
@@ -14421,7 +14421,7 @@ ic -> ic
 for -> for
 Cristes -> crist
 lufe -> lufu
-forlæt -> None
+forlæt -> forlætan
 eow -> ge
 ealle -> ealle
 and -> and
@@ -14433,7 +14433,7 @@ meox -> meox
 forseah
 Her -> None
 synd -> None
-eac -> eac
+eac -> eacan
 þa -> þu
 cnihtas -> cniht
 þe -> þu
@@ -14450,7 +14450,7 @@ mid -> mid
 ðam -> ðam
 ic -> ic
 becom -> becuman
-to -> to
+to -> toh
 Cristes -> crist
 scole -> scolu
 and -> and
@@ -14500,9 +14500,9 @@ heo -> heo
 mid -> mid
 wundrunge -> wundrung
 wearð -> None
-befangen -> befōn
+befangen -> befon
 and -> and
-to -> to
+to -> toh
 Eugenian -> eugenia
 com -> cuman
 mid -> mid
@@ -14520,7 +14520,7 @@ unþances -> unþanc
 and -> and
 up -> up
 gesætton -> gesettan
-to -> to
+to -> toh
 him
 Þa -> None
 clypode -> clypian
@@ -14529,7 +14529,7 @@ folc -> folc
 þæt -> þæt
 Crist -> crist
 wære -> wære
-soð -> None
+soð -> soð
 God
 and -> None
 hi -> hi
@@ -14546,16 +14546,16 @@ geþingod -> þingian
 þære -> þære
 leasan -> leas
 Melantian -> melantia
-to -> to
+to -> toh
 hyre -> hyrian
-leofan -> None
+leofan -> leof
 fæder -> fæder
 þæt -> þæt
 heo -> heo
 mid -> mid
 wytum -> None
 ne -> nesan
-awræce -> None
+awræce -> awrecan
 hyre -> hyrian
 welhreowan -> wælhreow
 ehtnysse
@@ -14571,7 +14571,7 @@ heofonum -> heofon
 þæt -> þæt
 menn -> mann
 onhawoden -> onhawian
-to -> to
+to -> toh
 Melantian -> melantia
 botle -> botl
 and -> and
@@ -14583,8 +14583,8 @@ swa -> swa
 þæt -> þæt
 ðær -> þær
 n -> næs
-æs -> None
-to -> to
+æs -> æs
+to -> toh
 lafe -> laf
 nan -> nan
 ðing -> None
@@ -14602,18 +14602,18 @@ heora -> hira
 twægen -> twægen
 suna -> sunu
 mid -> mid
-soðum -> None
+soðum -> soð
 geleafan
 and -> None
-seo -> se
+seo -> seon
 mæste -> micel
 mæniu -> menigu
 þæs -> se
 mennisces -> mennisc
 gebeah -> gebugan
-to -> to
+to -> toh
 Cristes -> crist
-bigengum -> bigeng
+bigengum -> bigenga
 and -> and
 þa -> þu
 cristenan -> cristen
@@ -14629,13 +14629,13 @@ geare -> geare
 forlætenan -> None
 cyrcan
 and -> None
-seo -> se
+seo -> seon
 geleaffulnyss -> geleaffulnes
 weox
 Philippus -> None
 þa -> þu
 asende -> asendan
-to -> to
+to -> toh
 Seuero -> seuerus
 þam -> þæm
 casere -> casere
@@ -14650,12 +14650,12 @@ his -> hit
 cynerice -> cynerice
 and -> and
 romaniscere -> romanisc
-leode -> None
+leode -> leode
 and -> and
 hi -> hi
 wæl -> wæl
 wyrðe -> weorþ
-wæron -> None
+wæron -> wesan
 þæt -> þæt
 hi -> hi
 wunodon -> wunian
@@ -14680,7 +14680,7 @@ casere -> casere
 geræfan
 and -> None
 Alexandria -> alexandria
-seo -> se
+seo -> seon
 burh -> burh
 sona -> sona
 wearð -> None
@@ -14703,7 +14703,7 @@ mid -> mid
 wurðfulnysse -> weorþfulness
 God -> god
 wurðodon -> wurðodon
-eac -> eac
+eac -> eacan
 for -> for
 þysum -> þes
 intingan -> intinga
@@ -14712,18 +14712,18 @@ intingan -> intinga
 folc -> folc
 forlætenum -> None
 gedwylde -> gedwyld
-gelyfde -> gelifan
+gelyfde -> gelyfan
 on -> on
 Drihten
 And -> None
 Philippus -> philippus
 forgeaf -> forgifan
-fæla -> fela
+fæla -> fæle
 eahta -> eahtian
 þam -> þæm
 cristenum -> cristen
 him -> him
-to -> to
+to -> toh
 gemænan -> gemæne
 brice -> bryce
 and -> and
@@ -14738,23 +14738,23 @@ leasan -> leas
 hæðenan -> hæðena
 wrægdon -> wregan
 Philippum -> philippus
-to -> to
+to -> toh
 ðam -> ðam
 foresæden -> foresecgan
 casere
 sædon -> None
 þæt -> þæt
 he -> he
-forlete -> None
+forlete -> forlætan
 þa -> þu
 lifiendan -> lifian
-godas -> god
+godas -> gripe
 and -> and
 ealle -> ealle
 þa -> þu
 burhwaræ -> burhware
 gebigde -> gebugan
-to -> to
+to -> toh
 Criste
 Þa -> None
 wearð -> None
@@ -14767,8 +14767,8 @@ bebead -> bebeodan
 Philippe -> philippus
 þæt -> þæt
 he -> he
-buge -> būgan
-to -> to
+buge -> bugan
+to -> toh
 his -> hit
 godum -> god
 oððe -> oððe
@@ -14778,11 +14778,11 @@ wurðscipes -> None
 and -> and
 æhta
 Þa -> None
-dælde -> None
+dælde -> dælan
 Philippus -> philippus
 digollice -> digollice
 his -> hit
-æhta -> None
+æhta -> æht
 geond -> geond
 ealle -> ealle
 þa -> þu
@@ -14802,8 +14802,8 @@ swa -> swa
 ða -> þe
 cristenan -> cristen
 hine -> he
-gecuron -> geceosan
-to -> to
+gecuron -> geсeosan
+to -> toh
 bisceope
 Ða -> None
 æfter -> æfter
@@ -14821,7 +14821,7 @@ sænde -> None
 fram -> fram
 Rome -> rom
 oðerne -> oðer
-gerefan -> None
+gerefan -> gerefa
 mid -> mid
 reðum -> reðe
 bebode -> bebod
@@ -14835,7 +14835,7 @@ cristenan -> cristen
 Philippum -> philippus
 gif -> gif
 hit -> hit
-soð -> None
+soð -> soð
 wære -> wære
 swa -> swa
 him -> him
@@ -14844,7 +14844,7 @@ wæs
 Ða -> None
 com -> cuman
 se -> se
-gerefa -> None
+gerefa -> gerefa
 and -> and
 hine -> he
 acwællan -> acwellan
@@ -14861,25 +14861,25 @@ ac -> acan
 asende -> asendan
 sume -> sum
 þe -> þu
-sædon -> None
+sædon -> secgan
 þæt -> þæt
 hi -> hi
-wæran -> None
+wæran -> wær
 on -> on
 Criste -> crist
 gelyfede
 ac -> None
 hi -> hi
-lugon -> lēogan
+lugon -> leogan
 swa -> swa
 þeah
 Ða -> None
-eoden -> None
-to -> to
+eoden -> gan
+to -> toh
 cyrcean -> circe
 mid -> mid
 swiðlicum -> swiþlic
-facne -> facen
+facne -> facn
 and -> and
 ðone -> se
 mæran -> mære
@@ -14899,7 +14899,7 @@ wundum -> wund
 cucu -> None
 geond -> geond
 þreora -> þri
-daga -> dæġ
+daga -> dæg
 fæc -> fæc
 and -> and
 gefrefrode -> gefrefrian
@@ -14910,20 +14910,20 @@ swa -> swa
 mid -> mid
 martyrdome -> martyrdom
 siþþan -> siððan
-gewat -> None
-to -> to
+gewat -> gewitan
+to -> toh
 ðam -> ðam
 lifigendan -> lifian
 Drihtne -> dryhten
 þe -> þu
 he -> he
 on -> on
-life -> None
+life -> lif
 wurðode
 Eugenia -> None
 hæfde -> habban
 ær -> ær
-þan -> se
+þan -> þan
 asteald -> astellan
 mynecena -> mynecenu
 mynster -> mynster
@@ -14931,7 +14931,7 @@ mid -> mid
 mycelre -> micel
 gehealdsumnysse
 and -> None
-seo -> se
+seo -> seon
 modor -> modor
 Claudia -> claudia
 hit -> hit
@@ -14950,12 +14950,12 @@ siþþan -> siððan
 ealle -> ealle
 endemes -> endemes
 færdon -> None
-seo -> se
+seo -> seon
 modor -> modor
 and -> and
-seo -> se
+seo -> seon
 dohtor -> dohtor
-to -> to
+to -> toh
 ðære -> se
 mæran -> mære
 Rome.byrig -> romeburh
@@ -15009,7 +15009,7 @@ Rome
 and -> None
 hire -> hire
 coman -> None
-to -> to
+to -> toh
 gehwylce -> gehwylc
 mædenu
 and -> None
@@ -15019,7 +15019,7 @@ gebegde -> gebegan
 mid -> mid
 hyre -> hyrian
 gebysnunge -> gebysnung
-to -> to
+to -> toh
 Criste
 and -> None
 hi -> hi
@@ -15037,15 +15037,15 @@ sum -> sum
 cyneboren -> cyneboren
 mæden -> mæden
 Basilla -> basilla
-gehaten -> gehatan
+gehaten -> hatan
 on -> on
 hæðenscype -> hæðenscipe
 wunigende -> wunian
-seo -> se
+seo -> seon
 wolde -> willan
-gehyran -> None
+gehyran -> gehyran
 þa -> þu
-halgan -> halga
+halgan -> halig
 lare -> lar
 of -> of
 Eugenian -> eugenia
@@ -15067,11 +15067,11 @@ sende -> sendan
 Eugenia -> eugenia
 þa -> þu
 twægen -> twægen
-halgan -> halga
+halgan -> halig
 Protum -> protus
 and -> and
 Iacinctum -> iacinctus
-to -> to
+to -> toh
 ðam -> ðam
 hæðenen -> hæðen
 mædene
@@ -15089,10 +15089,10 @@ nihtes -> niht
 mid -> mid
 þam -> þæm
 deorwurðum -> deorwyrþe
-halgum -> halga
+halgum -> halig
 Godes -> godes
 lare -> lar
-beeode -> None
+beeode -> began
 and -> and
 hyre -> hyrian
 gebæda -> gebed
@@ -15114,13 +15114,13 @@ fulnyssum
 wurdon -> wurdon
 gelome -> gelome
 þa -> þu
-leofan -> None
-mædenu -> None
+leofan -> leof
+mædenu -> mæden
 Eugenia -> eugenia
 and -> and
 Basilla -> basilla
 and -> and
-eac -> eac
+eac -> eacan
 se -> se
 biscop -> bisceop
 on -> on
@@ -15145,31 +15145,31 @@ biscope
 Þurh -> None
 ðas -> þes
 twa -> twegen
-mædena -> None
+mædena -> mæden
 manega -> manig
 oðre -> oðer
 becoman -> None
-to -> to
+to -> toh
 Cristes -> crist
 geleafan -> geleafa
 and -> and
-to -> to
-clænre -> None
+to -> toh
+clænre -> clæne
 drohtnunge
 Ðurh -> None
 Claudian -> claudia
 becoman -> None
-eac -> eac
-clæne -> None
+eac -> eacan
+clæne -> clæne
 wudewan -> widuwe
 mid -> mid
 godum -> god
 wyllan -> willa
-to -> to
+to -> toh
 Godes -> godes
 geleafan
 And -> None
-fæla -> fela
+fæla -> fæle
 cnihta -> cniht
 on -> on
 Crist -> crist
@@ -15177,7 +15177,7 @@ gelyfden -> gelyfan
 þurh -> þurh
 ða -> þe
 twægen -> twægen
-halgan -> halga
+halgan -> halig
 Protum -> protus
 et -> etan
 Iacinctum
@@ -15200,10 +15200,10 @@ mæden
 ac -> None
 heo -> heo
 hæfde -> habban
-gecoren -> gecoren
+gecoren -> сeosan
 Crist -> crist
 hyre -> hyrian
-to -> to
+to -> toh
 brydguman -> brydguma
 and -> and
 þone -> se
@@ -15214,7 +15214,7 @@ habban -> habban
 n -> næs
 olde
 Þa -> None
-gesohte -> None
+gesohte -> geseсan
 se -> se
 cniht -> cniht
 þæs -> se
@@ -15229,10 +15229,10 @@ woplicre -> woplic
 ceorunge -> ceorung
 him -> him
 mid -> mid
-spræcon -> None
+spræcon -> sprecan
 and -> and
 ða -> þe
-mædena -> None
+mædena -> mæden
 wregdon -> wregan
 Eugenian -> eugenia
 and -> and
@@ -15246,13 +15246,13 @@ se -> se
 casere -> casere
 cwæð -> cweðan
 him -> him
-to -> to
+to -> toh
 andsware -> andswaru
 þæt -> þæt
 Basilla -> basilla
 sceolde -> sculan
 gebugan -> gebugan
-to -> to
+to -> toh
 ðam -> ðam
 cnihte
 oþþe -> None
@@ -15280,7 +15280,7 @@ welreowlice -> wælhreowlice
 acwealde
 He -> None
 het -> hettan
-eac -> eac
+eac -> eacan
 acwællan -> acwellan
 ealle -> ealle
 þa -> þu
@@ -15289,8 +15289,8 @@ gif -> gif
 hi -> hi
 n -> næs
 oldon -> None
-bugan -> None
-to -> to
+bugan -> bugan
+to -> toh
 ðam -> ðam
 bysmorfullum -> bysmorfull
 hæðenscype
@@ -15305,12 +15305,12 @@ butan -> butan
 Crist -> crist
 þe -> þu
 heo -> heo
-gecoren -> gecoren
+gecoren -> сeosan
 hæfde -> habban
 and -> and
 wearð -> None
 þa -> þu
-gemartyrod -> gemartyrod
+gemartyrod -> martyrian
 for -> for
 hyre -> hyrian
 mægðhade -> mægþhad
@@ -15318,7 +15318,7 @@ mægðhade -> mægþhad
 ham -> ham
 on -> on
 hire -> hire
-huse -> None
+huse -> hus
 mid -> mid
 heardum -> heard
 sweorde
@@ -15328,7 +15328,7 @@ wordum -> word
 þa -> þu
 twægen -> twægen
 Godes -> godes
-halgan -> halga
+halgan -> halig
 Protus -> protus
 and -> and
 Iacinctus -> iacinctus
@@ -15340,7 +15340,7 @@ hi -> hi
 sceoldon -> sculan
 geoffrian -> geoffrian
 heora -> hira
-lac -> None
+lac -> lacan
 þam -> þæm
 godum
 oððe -> None
@@ -15348,13 +15348,13 @@ hi -> hi
 sylfe -> self
 sceoldon -> sculan
 him -> him
-beon -> None
+beon -> beon
 geoffrode
 Hi -> None
 wurdon -> wurdon
 þa -> þu
 gelædde -> gelædan
-to -> to
+to -> toh
 þære -> þære
 laðan -> lað
 anlicnysse
@@ -15362,7 +15362,7 @@ ac -> None
 heo -> heo
 tofeol -> tofeallan
 sona -> sona
-to -> to
+to -> toh
 heora -> hira
 fotum -> fot
 formolsnod -> formolsnian
@@ -15370,9 +15370,9 @@ swa -> swa
 raðe -> raðe
 swa -> swa
 þa -> þu
-halgan -> halga
+halgan -> halig
 hi -> hi
-to -> to
+to -> toh
 Gode -> god
 gebædon
 Þa -> None
@@ -15393,15 +15393,15 @@ Het -> None
 þa -> þu
 behæfdian -> beheafdian
 ða -> þe
-halgan -> halga
+halgan -> halig
 cyðeras
 and -> None
 hi -> hi
 swa -> swa
-ferdon -> None
+ferdon -> feran
 mid -> mid
-sige -> sīgan
-to -> to
+sige -> sige
+to -> toh
 Criste
 Ðas -> None
 martyras -> martyr
@@ -15409,7 +15409,7 @@ n -> næs
 æron -> None
 næfre -> næfre
 on -> on
-life -> None
+life -> lif
 þurh -> þurh
 wif -> wif
 besmytene
@@ -15428,16 +15428,16 @@ geleafan
 Æfter -> None
 þysum -> þes
 wearð -> None
-geleaht -> gelæccan
-seo -> se
+geleaht -> leссan
+seo -> seon
 geleaffulla -> geleaffull
 Eugenia -> eugenia
 and -> and
-to -> to
+to -> toh
 þam -> þæm
 hæðenan -> hæðena
 temple -> templ
-getogen -> geteon
+getogen -> teon
 mid -> mid
 geðreate -> geþreat
 þæt -> þæt
@@ -15452,9 +15452,9 @@ gebude
 gebæd -> gebiddan
 Eugenia -> eugenia
 hi -> hi
-to -> to
+to -> toh
 ðam -> ðam
-ælmihtigan -> eallmihtig
+ælmihtigan -> ælmihtig
 Gode
 and -> None
 þæt -> þæt
@@ -15479,21 +15479,21 @@ anne -> an
 weorcstan -> weorcstan
 on -> on
 hyre -> hyrian
-halgan -> halga
+halgan -> halig
 swuran -> None
 and -> and
 hi -> hi
-bescufan -> None
+bescufan -> bescufan
 on -> on
 ða -> þe
 ea
 Eac -> None
 se -> se
-stan -> None
+stan -> stan
 tobærst
 and -> None
 heo -> heo
-sæt -> sittan
+sæt -> sæt
 up -> up
 on -> on
 þam -> þæm
@@ -15512,7 +15512,7 @@ se -> se
 hwilon -> hwilum
 ær -> ær
 þone -> se
-halgan -> halga
+halgan -> halig
 Petrum -> petrus
 be -> be
 ðære -> se
@@ -15521,7 +15521,7 @@ gelædde -> gelædan
 upp -> upp
 on -> on
 þam -> þæm
-heagan -> None
+heagan -> heah
 brymme -> None
 þæt -> þæt
 ða -> þe
@@ -15537,13 +15537,13 @@ se -> se
 casere -> casere
 hi -> hi
 siððan -> siððan
-bescufan -> None
+bescufan -> bescufan
 on -> on
 byrnende -> beornan
 ofen -> ofen
 þær -> þær
 þær -> þær
-hate -> hat
+hate -> hatan
 baðu -> None
 wæron
 ac -> None
@@ -15573,10 +15573,10 @@ cwearterne
 and -> None
 geond -> geond
 twæntig -> twentig
-daga -> dæġ
+daga -> dæg
 hyre -> hyrian
 n -> næs
-æs -> None
+æs -> æs
 getyðod -> getiðian
 æniges -> ænig
 bigleofan -> bigleofa
@@ -15589,32 +15589,32 @@ hælend -> hælend
 com -> cuman
 mid -> mid
 heofonlicum -> heofonlic
-leohte -> leoht
+leohte -> sunnan
 and -> and
-brohte -> None
+brohte -> bringan
 ðam -> ðam
-mædene -> None
+mædene -> mæden
 mærne -> mære
 bigleofon -> bigleofa
 snawhwitne -> snawhwit
 hlaf -> hlaf
 and -> and
-onlihte -> None
+onlihte -> onlihtan
 ðæt -> þæt
 cweartern
 Þa -> None
 cwæð -> cweðan
 se -> se
 hælend -> hælend
-to -> to
+to -> toh
 ðam -> ðam
-halgan -> halga
+halgan -> halig
 mædene
 Eala -> None
 ðu -> þu
 Eugenia -> eugenia
 ne -> nesan
-beo -> None
+beo -> beon
 þu -> þu
 afyrht
 Ic -> None
@@ -15628,29 +15628,29 @@ wurðost -> None
 and -> and
 mid -> mid
 eallum -> eall
-mode -> None
+mode -> mod
 and -> and
-mægne -> None
+mægne -> mægen
 lufast
 On -> None
 þam -> þæm
-dæge -> dæg
+dæge -> dæge
 þa -> þu
 scealt -> sculan
 cuman -> cuman
-to -> to
+to -> toh
 me -> me
 þe -> þu
 ic -> ic
 com -> cuman
-to -> to
+to -> toh
 mannum
 and -> None
 on -> on
 minre -> minre
 gebyrdtide -> gebyrdtid
 ðu -> þu
-bist -> bēon
+bist -> beon
 on -> on
 heofonum -> heofon
 gebroht
@@ -15661,7 +15661,7 @@ cwællere -> cwellere
 on -> on
 Cristes -> crist
 akennednysse -> acennednes
-dæge -> dæg
+dæge -> dæge
 asend -> asendan
 fram -> fram
 þam -> þæm
@@ -15682,7 +15682,7 @@ hi -> hi
 bebyrgdon
 Ða -> None
 weop -> wepan
-seo -> se
+seo -> seon
 modor -> modor
 mid -> mid
 mycelre -> micel
@@ -15696,7 +15696,7 @@ heo -> heo
 hi -> hi
 geseah -> geseon
 on -> on
-gastlicre -> gastlic
+gastlicre -> gastliс
 gesihðe -> gesiht
 mid -> mid
 golde -> gold
@@ -15717,14 +15717,14 @@ gebroht -> gebrengan
 min -> min
 hælend -> hælend
 Crist -> crist
-to -> to
+to -> toh
 his -> hit
-halgena -> halga
+halgena -> halig
 blysse -> blis
 and -> and
 minne -> min
 fæder -> fæder
-gelogode -> None
+gelogode -> gelogian
 on -> on
 þære -> þære
 heahfædera -> heahfæder
@@ -15732,18 +15732,18 @@ getele
 and -> None
 þu -> þu
 cymst -> cuman
-to -> to
+to -> toh
 us -> we
 nu -> nu
 on -> on
 Sunnandæg
 Seo -> None
 modor -> modor
-gewat -> None
+gewat -> gewitan
 ða -> þe
 of -> of
 worulde -> weorold
-to -> to
+to -> toh
 heofonum -> heofon
 on -> on
 ðam -> ðam
@@ -15762,7 +15762,7 @@ siððan -> siððan
 þurhwunodon -> þurhwunian
 on -> on
 ðam -> ðam
-soðan -> None
+soðan -> soð
 geleafan -> geleafa
 oð -> oþ
 heora -> hira
@@ -15785,9 +15785,9 @@ weldæda
 AMEN
 Basilius -> None
 wes -> wesan
-gehaten -> gehatan
+gehaten -> hatan
 sum -> sum
-halig -> None
+halig -> halig
 biscop -> bisceop
 se -> se
 wæs -> wesan
@@ -15795,10 +15795,10 @@ fram -> fram
 cyldhade -> cildhad
 swiðe -> swiðe
 gehealdsum -> gehealdsum
-þeah -> þiċġan
+þeah -> þiсgan
 þe -> þu
 he -> he
-to -> to
+to -> toh
 langum -> lang
 fyrste -> fyrst
 ungefullod -> ungefullod
