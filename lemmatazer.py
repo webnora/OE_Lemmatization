@@ -8,14 +8,18 @@ class Lemmatazer:
     self.form = {}
     with open(fileDict, 'r') as f:
       for lemma in f.read().split('\n\n'):
-        for form in lemma.split('\n'):
-          arr = form.split('\t')
-          if len(arr) == 2:
-            self.form[arr[1]] = arr[0]
+        for line in lemma.split('\n'):
+          self.make_form(line)
+            
     self.stops = []
     if fileStop:
       with open(fileStop, 'r') as f:
         self.stops = f.read().split('\n')
+
+  def make_form(self, line):
+      arr = line.split('\t')
+      if len(arr) == 2:
+        self.form[arr[1]] = arr[0]
 
   def parse(self, fileName = path_in + 'calgary/allMeters.txt'):
     with open(fileName, 'r') as f:
@@ -53,13 +57,21 @@ class Lemmatazer:
 
 
 if __name__ == "__main__":
-  lm = Lemmatazer(fileStop = "")
-  lm.parse()
-  lm.print_statistics()
+  # lm = Lemmatazer(fileStop = "")
+  # lm.parse()
+  # lm.print_statistics()
 
-  print()
-  lm = Lemmatazer()
-  lm.parse()
-  lm.print_statistics()
-  # lm.save_debug()
-  # lm.save_text()
+  # print()
+  # lm = Lemmatazer()
+  # lm.parse()
+  # lm.print_statistics()
+  # # lm.save_debug()
+  # # lm.save_text()
+
+  from lemmas import Lemmas
+  lm2 = Lemmatazer('', Lemmas.file_out_norm)
+  lm2.parse('d/iswoc/forms.txt')
+  lm2.print_statistics()
+  lm2.save_debug('d/p_read/debug2.txt')
+  lm2.save_text('d/p_read/text2.txt')
+
