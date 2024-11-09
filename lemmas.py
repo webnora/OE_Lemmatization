@@ -2,6 +2,8 @@ class Lemmas:
   file_in  = 'd/unimorph/dict.txt'
   file_out = 'd/lemmas/dict.txt'
   file_unknown = 'd/in/dict.txt'
+  file_unimorph_norm = 'd/lemmas/unimorph_norm.txt'
+  file_norm_map = 'd/in/norm.txt'
 
   def __init__(self, file = file_in, lemmas = None):
     self.lemmas = lemmas or self.load(file)
@@ -12,7 +14,7 @@ class Lemmas:
     with open(file, 'w') as f:
       for lemma in sorted(self.lemmas.keys()):
         if lemma:
-          for form in self.lemmas[lemma]:
+          for form in sorted(self.lemmas[lemma]):
             f.write(f'{lemma}\t{form}\n')
           f.write('\n')
 
@@ -40,8 +42,22 @@ class Lemmas:
         *set(self.lemmas.get(lemma, []))
         })
 
+  def norm(self):
+    def normalize(s): # ū ē ġ ċ ā ǣ ō ī ȳ
+      for v in [('ū','u'),('ē','e'),('ġ','g'),('ċ','с'),('ā','a'),
+                ('ǣ','æ'),('ō','o'),('ī','i'),('ȳ','y')]:
+        s = s.replace(v[0], v[1]) 
+      return s
+    lemmas = {}
+    for lemma in self.lemmas.keys():
+      n_lemma = normalize(lemma)
+      lemmas[n_lemma] = sorted(set(normalize(w) for w in 
+          self.lemmas[lemma] + self.lemmas.get(n_lemma, []) + lemmas.get(n_lemma, [])))
+    self.lemmas = lemmas
+
   def stat(self):
     print(f'lemmas: {len(self.lemmas.keys())} in {self.file}')
+    print(f'Forms:  {sum(len(a) for a in self.lemmas.keys())} in {self.file}')
 
   def print(self, limit = 3):
     keys = list(self.lemmas.keys())
@@ -50,15 +66,21 @@ class Lemmas:
 
 
 if __name__ == "__main__":
-  l0 = Lemmas(Lemmas.file_unknown)
-  l0.stat()
-
   l1 = Lemmas()
   l1.stat()
-  l1.diff()
-  l1.merge()
-  l1.save()
+  l1.norm()
+  l1.stat()
+  l1.save(Lemmas.file_unimorph_norm)
 
-  l2 = Lemmas(Lemmas.file_out)
-  l2.stat()
-  l2.print(1)
+  # l0 = Lemmas(Lemmas.file_unknown)
+  # l0.stat()
+
+  # l1 = Lemmas()
+  # l1.stat()
+  # l1.diff()
+  # l1.merge()
+  # l1.save()
+
+  # l2 = Lemmas(Lemmas.file_out)
+  # l2.stat()
+  # l2.print(1)
