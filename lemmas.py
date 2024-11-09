@@ -1,9 +1,8 @@
 class Lemmas:
-  file_in  = 'd/unimorph/dict.txt'
-  file_out = 'd/lemmas/dict.txt'
-  file_unknown = 'd/in/dict.txt'
-  file_unimorph_norm = 'd/lemmas/unimorph_norm.txt'
-  file_norm_map = 'd/in/norm.txt'
+  file_in  = 'd/unimorph/dict.tsv'
+  file_out = 'd/lemmas/dict.tsv'
+  file_unknown = 'd/in/dict.tsv'
+  file_unimorph_norm = 'd/lemmas/unimorph_norm.tsv'
 
   def __init__(self, file = file_in, lemmas = None):
     self.lemmas = lemmas or self.load(file)
@@ -66,21 +65,21 @@ class Lemmas:
 
 
 if __name__ == "__main__":
+  l0 = Lemmas(Lemmas.file_unknown)
+  l0.stat()
+
   l1 = Lemmas()
   l1.stat()
-  l1.norm()
-  l1.stat()
-  l1.save(Lemmas.file_unimorph_norm)
+  l1.diff()
+  l1.merge()
+  l1.save()
 
-  # l0 = Lemmas(Lemmas.file_unknown)
-  # l0.stat()
+  l2 = Lemmas(Lemmas.file_out)
+  l2.stat()
+  l2.print(1)
 
-  # l1 = Lemmas()
-  # l1.stat()
-  # l1.diff()
-  # l1.merge()
-  # l1.save()
-
-  # l2 = Lemmas(Lemmas.file_out)
-  # l2.stat()
-  # l2.print(1)
+  l3 = Lemmas()
+  l3.stat()
+  l3.norm()
+  l3.stat()
+  l3.save(Lemmas.file_unimorph_norm)

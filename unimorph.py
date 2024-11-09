@@ -2,7 +2,7 @@ from lemmas import Lemmas
 
 class Unimorph(Lemmas):
   file_in  = 's/unimorph-ang/ang'
-  file_out = 'd/unimorph/dict.txt'
+  file_out = 'd/unimorph/dict.tsv'
 
   def __init__(self, file = file_in):
     super().__init__(file)

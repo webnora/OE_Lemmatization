@@ -4,7 +4,7 @@ class Lemmatazer:
 
   def __init__(self, 
                fileStop = path_in + 'stop.txt', 
-               fileDict = path_in + 'dict.txt'):
+               fileDict = path_in + 'dict.tsv'):
     self.form = {}
     with open(fileDict, 'r') as f:
       for lemma in f.read().split('\n\n'):
