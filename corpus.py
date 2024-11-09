@@ -12,7 +12,7 @@ class Corpus:
       print('FILE:', f)
       self.lm.parse(self.path + f)
       self.lm.save_text(path_out + f)
-      self.lm.print_statistics(stop_len = False)
+      self.lm.stat(stop_len = False)
       print()
 
 

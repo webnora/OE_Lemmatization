@@ -47,7 +47,7 @@ class Lemmatazer:
     for w in self.words[:limit]:
       print(w)
 
-  def print_statistics(self, stop_len = True):
+  def stat(self, stop_len = True):
     notFound = [w for w in self.words if not w[1]]
     if stop_len:
       print('Stop words:', len(self.stops))
@@ -59,19 +59,19 @@ class Lemmatazer:
 if __name__ == "__main__":
   # lm = Lemmatazer(fileStop = "")
   # lm.parse()
-  # lm.print_statistics()
+  # lm.stat()
 
   # print()
   # lm = Lemmatazer()
   # lm.parse()
-  # lm.print_statistics()
+  # lm.stat()
   # # lm.save_debug()
   # # lm.save_text()
 
   from lemmas import Lemmas
   lm2 = Lemmatazer('', Lemmas.file_out_norm)
   lm2.parse('d/iswoc/forms.txt')
-  lm2.print_statistics()
+  lm2.stat()
   lm2.save_debug('d/p_read/debug2.txt')
   lm2.save_text('d/p_read/text2.txt')
 
