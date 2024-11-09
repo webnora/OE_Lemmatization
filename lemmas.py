@@ -1,6 +1,7 @@
 class Lemmas:
   file_in  = 'd/unimorph/dict.tsv'
-  file_out = 'd/lemmas/dict.tsv'
+  file_out = 'd/lemmas/dict.tsv'            # merged all source
+  file_out_norm = 'd/lemmas/dict_norm.tsv'  # merged all source & normalize
   file_unknown = 'd/in/dict.tsv'
   file_unimorph_norm = 'd/lemmas/unimorph_norm.tsv'
 
@@ -54,6 +55,13 @@ class Lemmas:
           self.lemmas[lemma] + self.lemmas.get(n_lemma, []) + lemmas.get(n_lemma, [])))
     self.lemmas = lemmas
 
+  def fix(self):
+    for lemma in self.lemmas.keys():
+      arr = []
+      for form in self.lemmas[lemma]:
+        arr += form.split(',')
+      self.lemmas[lemma] = list(set(arr))
+
   def stat(self):
     print(f'lemmas: {len(self.lemmas.keys())} in {self.file}')
     print(f'Forms:  {sum(len(a) for a in self.lemmas.keys())} in {self.file}')
@@ -65,21 +73,33 @@ class Lemmas:
 
 
 if __name__ == "__main__":
-  l0 = Lemmas(Lemmas.file_unknown)
-  l0.stat()
+  # l0 = Lemmas(Lemmas.file_unknown)
+  # l0.stat()
 
-  l1 = Lemmas()
-  l1.stat()
-  l1.diff()
-  l1.merge()
-  l1.save()
+  # l1 = Lemmas()
+  # l1.stat()
+  # l1.diff()
+  # l1.merge()
+  # l1.save()
 
-  l2 = Lemmas(Lemmas.file_out)
-  l2.stat()
-  l2.print(1)
+  # l2 = Lemmas(Lemmas.file_out)
+  # l2.stat()
+  # l2.print(1)
 
-  l3 = Lemmas()
-  l3.stat()
-  l3.norm()
-  l3.stat()
-  l3.save(Lemmas.file_unimorph_norm)
+  # l3 = Lemmas()
+  # l3.stat()
+  # l3.norm()
+  # l3.stat()
+  # l3.save(Lemmas.file_unimorph_norm)
+
+  # l3 = Lemmas(Lemmas.file_out)
+  # l3.stat()
+  # l3.fix()
+  # l3.stat()
+  # l3.save()
+
+  l4 = Lemmas(Lemmas.file_out)
+  l4.stat()
+  l4.norm()
+  l4.stat()
+  l4.save(Lemmas.file_out_norm)
