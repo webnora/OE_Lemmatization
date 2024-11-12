@@ -51,9 +51,12 @@ class Lemmatazer:
     notFound = [w for w in self.words if not w[1]]
     if stop_len:
       print('Stop words:', len(self.stops))
-    print('All words:', len(self.words))
-    print('Forms not found:', len(notFound))
-    print('Lemms not found:', len(set(notFound)))
+    all = len(self.words)
+    nf = len(notFound)
+    nl = len(set(notFound))
+    print(f'All words: {all}')
+    print(f'Forms not found: {nf} ({nf/all*100:.2f}%)')
+    print(f'Lemms not found: {nl} ({nl/all*100:.2f}%)')
 
 
 if __name__ == "__main__":
