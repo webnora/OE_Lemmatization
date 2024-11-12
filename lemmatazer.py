@@ -26,6 +26,7 @@ class Lemmatazer:
       self.words = [(w, self.form.get(w)) for w in f.read().split(' ') if w not in self.stops]
 
   def save_debug(self, fileName = path_out + 'debug.txt'):
+    print(f'save debug to: {fileName}')
     with open(fileName, 'w') as f:
       for w in self.words:
         if w[0] == '#':
@@ -34,6 +35,7 @@ class Lemmatazer:
           f.write(f'{w[0]} -> {w[1]}\n')
 
   def save_text(self, fileName = path_out + 'text.txt'):
+    print(f'save text to: {fileName}')
     def get_lemma(w):
       if w[0] == '#':
         return '\n'
