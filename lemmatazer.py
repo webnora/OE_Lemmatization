@@ -25,7 +25,7 @@ class Lemmatazer:
     with open(fileName, 'r') as f:
       self.words = [(w, self.form.get(w)) for w in f.read().split(' ') if w not in self.stops]
 
-  def save_debug(self, fileName = path_out + 'debug.txt'):
+  def save_debug(self, fileName = path_out + 'debug.tsv'):
     print(f'save debug to: {fileName}')
     with open(fileName, 'w') as f:
       for w in self.words:
@@ -77,6 +77,6 @@ if __name__ == "__main__":
   # lm2 = Lemmatazer('', Lemmas.file_out_norm)
   # lm2.parse('d/iswoc/forms.txt')
   # lm2.stat()
-  # lm2.save_debug('d/p_read/debug2.txt')
+  # lm2.save_debug('d/p_read/debug2.tsv')
   # lm2.save_text('d/p_read/text2.txt')
 
