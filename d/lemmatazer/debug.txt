@@ -1,7269 +1,7269 @@
 
-geara -> gear
-ðætte -> None
-gotan -> None
-eastan -> eastan
-
-sciððia -> None
-sceldas -> None
-læddon -> None
-
-þreate -> None
-geþrungon -> geþringan
-þeodlond -> None
-monig -> manig
-
-setton -> settan
-suðweardes -> None
-sigeþeoda -> None
-
-gotena -> None
-rice -> romana
-gearmælum -> None
-weox -> None
-
-hæfdan -> None
-gecynde -> gecynd
-cyningas -> cyning
-
-rædgod -> None
-aleric -> None
-rice -> romana
-geþungon -> geþingan
-
-muntgiop -> None
-monig -> manig
-atyhted -> None
-
-gota -> None
-gylpes -> None
-full -> full
-guðe -> None
-gelysted -> None
-
-folcgewinnes -> None
-fana -> None
-hwearfode -> hwearfian
-
-scir -> scir
-sceafte -> None
-sceotend -> sceotend
-þohton -> None
-
-italia -> None
-gegongan -> None
-
-lindwigende -> None
-gelæstan -> None
-swua -> None
-
-efne -> efne
-muntgiop -> None
-mæran -> mære
-wearoð -> None
-
-sicilia -> None
-sæstreamum -> None
-
-eglond -> None
-eðel -> None
-mærsað -> None
-
-romana -> None
-rice -> romana
-gewunnen -> gewinnan
-
-abrocen -> None
-burga -> burh
-cyst -> cyst
-beadurincum -> None
-
-rom -> None
-gerymed -> None
-rædgot -> None
-aleric -> None
-
-foron -> None
-fæsten -> fæsten
-fleah -> None
-casere -> casere
-
-æþelingum -> None
-grecas -> None
-
-meahte -> magan
-wealaf -> None
-wige -> wigan
-forstandan -> forstandan
-
-gotan -> None
-guðe -> None
-giomonna -> None
-gestrion -> None
-
-sealdon -> sellan
-unwillum -> None
-eþelweardas -> None
-
-halige -> None
-aðas -> aþ
-gehwæðeres -> None
-waa -> None
-
-magorinca -> None
-mod -> None
-grecum -> None
-
-leodfruman -> None
-læstan -> None
-dorsten -> durran
-
-stod -> None
-þeod -> None
-gewunnen -> gewinnan
-
-wintra -> wintra
-mænigo -> None
-wyrd -> wyrd
-gescraf -> None
-
-ðeodrice -> None
-þegnas -> þegen
-eorlas -> eorl
-
-heran -> None
-sceoldan -> None
-heretema -> None
-
-criste -> None
-gecnoden -> None
-cyning -> cyning
-onfeng -> None
-
-fulluhtþeawum -> None
-fægnodon -> None
-
-romwara -> None
-bearn -> beirnan
-recene -> recen
-
-friðes -> None
-wilnedon -> None
-gehet -> None
-
-ealdrihta -> None
-ælces -> None
-mosten -> None
-
-wyrðe -> weorþ
-gewunigen -> gewunian
-welegan -> welig
-byrig -> burh
-
-ðenden -> None
-god -> god
-wuolde -> None
-gotena -> None
-geweald -> geweald
-
-agan -> aginnan
-moste -> None
-aleag -> None
-
-æþelinge -> None
-arrianes -> None
-
-gedwola -> None
-leofre -> None
-drihtnes -> drihten
-æ -> None
-
-het -> het
-iohannes -> None
-godne -> god
-papan -> papa
-
-heafde -> None
-beheawon -> None
-hærlic -> None
-dæd -> None
-
-unrim -> None
-oðres -> None
-manes -> None
-
-gota -> None
-fremede -> fremman
-godra -> god
-gehwilcum -> None
-
-ricra -> None
-rome -> None
-byrig -> burh
-
-ahefen -> None
-heretoga -> None
-hlaforde -> None
-leof -> None
-
-þenden -> None
-cynestole -> None
-creacas -> None
-wioldon -> None
-
-rihtwis -> None
-rinc -> rinc
-romwarum -> None
-
-sincgeofa -> None
-sella -> None
-longe -> lange
-
-weorulde -> None
-wis -> None
-weorðmynða -> None
-georn -> georn
-
-beorn -> beornan
-boca -> None
-gleaw -> None
-boitius -> None
-
-hæle -> hæle
-hatte -> None
-hlisan -> hlisa
-geþah -> None
-
-gemynde -> gemynd
-mæla -> None
-gehwilce -> None
-
-yfel -> yfel
-edwit -> None
-elðeodge -> None
-
-kyningas -> kyning
-cyðdon -> None
-greacas -> None
-hold -> None
-
-gemunde -> gemunan
-ara -> ar
-ealdrihta -> None
-
-eldran -> None
-ahton -> None
-longe -> lange
-
-lufan -> lufu
-lissa -> None
-angan -> None
-listum -> list
-
-ðencean -> None
-þearflice -> None
-ðider -> þider
-meahte -> magan
-
-crecas -> None
-oncerran -> None
-casere -> casere
-
-anwald -> anweald
-agan -> aginnan
-moste -> None
-
-sende -> sendan
-ærendgewrit -> None
-ealdhlafordum -> None
-
-degelice -> None
-drihtne -> drihten
-bæd -> biddan
-
-ealdum -> eald
-treowum -> treow
-æft -> None
-
-comen -> None
-ceastre -> ceaster
-lete -> lettan
-greca -> None
-witan -> witan
-
-rædan -> None
-romwarum -> None
-rihtes -> None
-wyrðe -> weorþ
-
-lete -> lettan
-leodscipe -> None
-lare -> lar
-ongeat -> ongitan
-
-ðeodric -> None
-amuling -> None
-þegn -> None
-oferfeng -> None
-
-heht -> hatan
-fæstlice -> None
-folcgesiðas -> None
-
-healdon -> None
-hererinc -> None
-hreoh -> None
-sefa -> None
-
-ege -> ege
-eorle -> None
-inne -> inne
-heht -> hatan
-
-carcernes -> carcern
-cluster -> None
-belucan -> None
-
-modsefa -> None
-miclum -> micel
-gedrefed -> gedrefan
-
-boetius -> None
-breac -> None
-longe -> lange
-
-wlencea -> None
-wolcnum -> wolcen
-wyrs -> None
-meahte -> magan
-
-þolian -> þolian
-þearl -> None
-becom -> becuman
-
-ormod -> None
-eorl -> eorl
-are -> ar
-wende -> wendan
-
-fæstene -> fæsten
-frofre -> None
-gemunde -> gemunan
-
-neowol -> None
-astreaht -> None
-niðer -> None
-dune -> None
-
-feol -> None
-flore -> None
-worda -> word
-spræc -> sprecan
-
-forþoht -> None
-ðearle -> None
-wende -> wendan
-
-clammum -> None
-cleopode -> cleopian
-drihtne -> drihten
-
-geomran -> None
-stemne -> stefn
-gyddode -> None
-: -> None
-## -> None
-hæleða -> None
-hwone -> hwæt
-hlisan -> hlisa
-lyste -> None
-
-unnytne -> None
-gelp -> gelpan
-agan -> aginnan
-wille -> willan
-
-wolde -> willan
-wordum -> word
-biddan -> biddan
-
-æghwonon -> None
-utan -> utan
-ymbeþohte -> None
-
-sweotole -> sweotol
-ymbsawe -> None
-suð -> suþ
-east -> None
-west -> west
-
-widgil -> None
-wolcnum -> wolcen
-ymbutan -> ymbutan
-
-heofones -> heofon
-hwealfe -> hwealf
-higesnotrum -> None
-
-eaðe -> None
-ðincan -> None
-eorðe -> eorþ
-
-unigmet -> None
-
-unwisum -> unwis
-widgel -> None
-þince -> None
-
-stede -> stede
-stronglic -> None
-steorleasum -> None
-men -> mann
-
-wisan -> None
-gewitlocan -> None
-
-gitsunge -> gitsung
-gelpes -> None
-scamian -> scamian
-
-hlisan -> hlisa
-heardost -> None
-lysteð -> None
-
-tobredan -> None
-
-nearowan -> None
-nænige -> None
-ðinga -> None
-
-eorðan -> eorþ
-sceatas -> None
-unnet -> None
-gelp -> gelpan
-
-ofermodan -> None
-hwi -> hwy
-a -> hosp
-lyste -> None
-
-eowrum -> eower
-swiran -> None
-selfra -> None
-willum -> None
-
-swære -> None
-gioc -> None
-symle -> simble
-underlutan -> None
-
-unnet -> None
-ealnig -> None
-swincen -> swincan
-
-hlisan -> hlisa
-tiliað -> None
-
-ðioda -> None
-ma -> micel
-þearf -> þurfan
-
-gesæle -> None
-suð -> suþ
-norð -> None
-
-ytmestan -> None
-eorðbuende -> None
-
-monig -> manig
-ðiodisc -> None
-miclum -> micel
-herien -> herian
-
-æðele -> æðele
-eorlgebyrdum -> None
-
-welum -> wela
-geweorðad -> None
-wlencum -> wlencu
-ðio -> None
-
-duguðum -> None
-diore -> None
-deað -> None
-scrifeð -> None
-
-rum -> None
-forlæt -> None
-rodora -> rodor
-waldend -> None
-
-welegan -> welig
-wædlum -> wædla
-gelice -> gelice
-
-efnmærne -> None
-gedeð -> None
-ælces -> None
-þinges -> þing
-
-hwær -> hwær
-wisan -> None
-welandes -> None
-ban -> ban
-
-goldsmiðes -> None
-geo -> None
-mærost -> None
-
-forþy -> None
-wisan -> None
-welandes -> None
-ban -> ban
-
-forðy -> forði
-eorðbuendra -> None
-
-cræft -> cræft
-losian -> losian
-crist -> None
-onlænð -> None
-
-mon -> mann
-eð -> None
-ænne -> an
-wræccan -> None
-
-cræftes -> cræft
-beniman -> beniman
-mon -> mann
-oncerran -> None
-
-sunnan -> sunne
-onswifan -> None
-swiftan -> None
-rodor -> rodor
-
-rihtryne -> None
-rinca -> rinc
-
-wat -> witan
-wisan -> None
-welandes -> None
-ban -> ban
-
-hwelcum -> hwelca
-hlæwa -> None
-hrusan -> hruse
-þeccen -> None
-
-hwær -> hwær
-rica -> ric
-romana -> None
-wita -> wite
-
-aroda -> None
-sprecað -> None
-
-heretoga -> None
-gehaten -> gehatan
-
-burgwarum -> burhware
-brutus -> None
-nemned -> None
-
-hwær -> hwær
-wisa -> None
-weorðgeorna -> None
-
-fæstræda -> None
-folces -> folc
-hyrde -> hyrdan
-
-uðwita -> None
-ælces -> None
-ðinges -> None
-
-cene -> cennan
-cræftig -> cræftig
-caton -> None
-nama -> nama
-
-gefyrn -> gefyrn
-forðgewitene -> None
-
-nat -> None
-mon -> mann
-hwær -> hwær
-
-here -> herian
-hlisa -> hlisa
-
-swelcra -> None
-lariowa -> None
-
-magorincas -> None
-maran -> micel
-wyrðe -> weorþ
-
-worulde -> weorold
-wyrse -> None
-
-eorðan -> eorþ
-æghwær -> None
-
-gelican -> gelica
-hwon -> hwon
-ymbspræce -> None
-
-openlice -> openlice
-forgitene -> None
-
-hlisa -> hlisa
-hiwcuðe -> None
-
-foremære -> None
-weras -> wer
-gebrengan -> None
-
-wenen -> None
-wilnigen -> wilnian
-
-lange -> lange
-tid -> tid
-libban -> libban
-moten -> None
-
-iow -> None
-bet -> wel
-bio -> None
-þince -> None
-
-nane -> nan
-forlet -> None
-lang -> lang
-ðince -> None
-
-deað -> None
-dogorrime -> None
-hæfð -> None
-drihtnes -> drihten
-leafe -> leaf
-
-hæbbe -> habban
-hæleþa -> hæle
-
-guma -> guma
-gilpe -> None
-gegripan -> None
-mot -> None
-
-eca -> None
-deað -> None
-worulde -> weorold
-## -> None
-sceppend -> None
-ælcum -> ælc
-tweon -> None
-
-wealdend -> wealdend
-woruldgesceafta -> None
-
-heofones -> heofon
-eorðan -> eorþ
-heare -> None
-sæ -> sæ
-
-wuniað -> None
-
-ungesæwenlicra -> None
-same -> same
-
-eagum -> None
-lociað -> None
-
-gesceafta -> None
-ælmihtig -> None
-
-oleccað -> None
-gesceafte -> None
-
-ambehtes -> None
-awuht -> None
-cunnon -> cunnan
-
-same -> same
-auht -> None
-nyton -> nytan
-
-ðeodnes -> None
-þeowas -> None
-
-gesette -> gesette
-sido -> None
-þeawas -> None
-
-gesceaftum -> None
-unawendende -> None
-
-singallice -> None
-sibbe -> sibb
-gecynde -> gecynd
-
-wolde -> willan
-wolde -> willan
-
-lange -> lange
-wolde -> willan
-sceolde -> sculan
-
-worulde -> weorold
-sceal -> sculan
-wunian -> wunian
-
-forþæm -> forðam
-magon -> magan
-unstillan -> None
-
-woruldgesceafta -> None
-weorðan -> None
-gestilde -> None
-
-ryne -> ryne
-onwend -> onwendan
-rodera -> None
-weard -> weard
-
-endebyrdes -> None
-gesette -> gesette
-
-hæfð -> None
-alwealda -> None
-gesceafta -> None
-
-gebæt -> None
-bridle -> None
-hafað -> None
-butu -> butu
-gedon -> gedon
-
-gemanode -> None
-getogen -> geteon
-
-moten -> None
-metodes -> metod
-est -> None
-
-gestillan -> gestillan
-eallunga -> None
-
-swiðor -> swiðe
-stirian -> None
-sigora -> sigorian
-weard -> weard
-
-gewealdleðer -> None
-wille -> willan
-onlæten -> None
-
-hafað -> None
-bridle -> None
-butu -> butu
-befangen -> befon
-
-heofon -> heofon
-eorðan -> eorþ
-holma -> holm
-begong -> begong
-
-hæfð -> None
-geheaðærod -> None
-hefonrices -> None
-weard -> weard
-
-anwealde -> anweald
-gesceafta -> None
-
-æghwilc -> None
-winð -> None
-
-winnende -> winnan
-wreðiað -> None
-
-æghwilc -> None
-utan -> utan
-ymbclyppeð -> None
-
-læs -> læs
-toswifen -> None
-symle -> simble
-sculon -> sculan
-
-ilcan -> ilca
-ryne -> ryne
-gecyrran -> gecyrran
-
-frymðe -> frymþ
-fæder -> fæder
-getiode -> None
-
-edniwe -> None
-gewiorðan -> None
-
-fagað -> None
-frean -> None
-ealdgeweorc -> None
-
-winnende -> winnan
-wiðerweard -> wiþerweard
-gesceaft -> None
-
-sibbe -> sibb
-anhealdað -> None
-
-fyr -> fyr
-wæter -> wæter
-folde -> folde
-lagustream -> None
-
-manigu -> None
-oðru -> oðer
-gesceaft -> None
-efnswiðe -> None
-
-giond -> None
-widan -> None
-worulde -> weorold
-winnað -> None
-
-magon -> magan
-þegnunga -> None
-
-geferscipe -> None
-gehealdan -> gehealdan
-
-eaðe -> None
-
-wiðerweard -> wiþerweard
-gesceaft -> None
-ætgædere -> ætgædere
-
-symbel -> None
-geferan -> gefera
-sellicre -> None
-
-bion -> None
-
-sceal -> sculan
-wuhta -> None
-gehwilc -> None
-wiðerweardes -> None
-hwæthwugu -> None
-
-heofonum -> heofon
-hige -> None
-durre -> durran
-
-gemetgian -> None
-weorðe -> None
-
-hæfð -> None
-ælmihtiga -> eallmihtig
-gesceaftum -> None
-
-gewrixle -> None
-geset -> gesettan
-wunian -> wunian
-sceal -> sculan
-
-wyrta -> wyrtian
-growan -> None
-leaf -> leaf
-grenian -> None
-
-hærfest -> hærfest
-hrest -> None
-wealuwað -> None
-
-winter -> winter
-bringeð -> None
-weder -> weder
-ungemet -> None
-cald -> None
-
-swifte -> None
-windas -> wind
-sumor -> sumer
-
-wearm -> wearm
-gewideru -> None
-wonnan -> None
-niht -> niht
-
-mona -> mona
-onlihteð -> None
-monnum -> mann
-dæg -> dæg
-
-sunne -> sunne
-bringeð -> None
-giond -> None
-sidan -> None
-gesceaft -> None
-
-hæfð -> None
-ilca -> ilca
-god -> god
-eorðan -> eorþ
-wætere -> wæter
-
-mearce -> mearc
-gesette -> gesette
-merestream -> None
-dear -> durran
-
-eorðan -> eorþ
-sceat -> None
-eard -> None
-gebrædan -> None
-
-fisca -> fiscian
-cynne -> cynn
-frean -> None
-leafe -> leaf
-
-mot -> None
-eorðan -> eorþ
-þyrscwold -> None
-
-ofersteppan -> ofersteppan
-ebban -> None
-ma -> micel
-
-foldes -> None
-mearce -> mearc
-oferfaran -> oferfaran
-moton -> None
-
-gesetnessa -> gesetnes
-sigora -> sigorian
-wealdend -> wealdend
-
-leohtfruma -> None
-læt -> læt
-þenden -> None
-wile -> wil
-
-mæran -> mære
-gesceaft -> None
-mearce -> mearc
-healden -> healdan
-
-eca -> None
-ælmihtiga -> eallmihtig
-
-gewealdleðeru -> None
-wile -> wil
-onlætan -> None
-
-efne -> efne
-bridla -> None
-gebætte -> None
-
-agen -> ongeagn
-weorc -> weorc
-frymðe -> frymþ
-
-( -> None
-wiðerweardnes -> None
-wuhte -> None
-gehwelcre -> None
-
-bridle -> None
-becnan -> None
-tiliað -> None
-) -> None
-
-ðioden -> None
-læt -> læt
-toslupan -> None
-
-sona -> sona
-forlætað -> None
-lufan -> lufu
-sibbe -> sibb
-
-geferscipes -> None
-freondrædenne -> None
-
-tilaþ -> tilian
-anra -> an
-gehwilc -> None
-agnes -> None
-
-woruldgesceafta -> None
-winnað -> None
-
-ðios -> None
-eorðe -> eorþ
-forweorðeð -> None
-
-same -> same
-oðra -> oðer
-gesceafta -> None
-
-weorðað -> None
-nauhte -> None
-
-ilca -> ilca
-god -> god
-metgað -> None
-
-gefehð -> None
-folca -> folc
-tosomne -> tosamne
-
-freondscipe -> freondscipe
-gegadrað -> None
-
-gesamnað -> None
-sinscipas -> None
-sibbe -> sibb
-gemengeð -> None
-
-clænlice -> None
-lufe -> lufu
-cræftga -> cræftig
-
-geferscipas -> None
-gesamnað -> None
-
-freondscipe -> freondscipe
-symbel -> None
-
-untweofealde -> None
-treowa -> treow
-gehealdað -> None
-
-sibbe -> sibb
-samrade -> None
-sigora -> sigorian
-god -> god
-
-moncyn -> None
-miclum -> micel
-gesælig -> None
-
-modsefa -> None
-meahte -> magan
-weorðan -> None
-
-staðolfæst -> None
-gereaht -> None
-strongan -> None
-meaht -> magan
-
-geendebyrd -> None
-oðra -> oðer
-
-woruldgesceafta -> None
-la -> la
-
-murge -> None
-monnum -> mann
-meahte -> magan
-## -> None
-wille -> willan
-wyrcan -> None
-wæstmbære -> None
-lond -> land
-
-atio -> None
-æcere -> æcer
-ærest -> ærest
-sona -> sona
-
-fearn -> fearn
-þornas -> þorn
-fyrsas -> None
-same -> same
-
-wiod -> None
-willað -> None
-welhwær -> welhwær
-derian -> derian
-
-clænum -> None
-hwæte -> hwæte
-læs -> læs
-ciða -> None
-leas -> None
-
-licge -> licgan
-lande -> land
-leoda -> None
-gehwæm -> None
-
-ðios -> None
-oðru -> oðer
-bysen -> None
-efnbehefu -> None
-
-ðynceð -> None
-þegna -> þegnian
-gehwelcum -> None
-
-huniges -> None
-bibread -> None
-healfe -> healf
-swetre -> None
-
-hwene -> hwene
-huniges -> None
-teare -> None
-
-bitres -> biter
-onbyrgeð -> None
-same -> same
-
-monna -> mann
-æghwilc -> None
-fægenra -> fægen
-
-liðes -> None
-weðres -> None
-lytle -> None
-
-stormas -> None
-gestondað -> None
-stearca -> None
-wind -> windan
-
-norðan -> norþan
-eastan -> eastan
-nænegum -> nænig
-þuhte -> None
-
-dæg -> dæg
-þonce -> None
-dimme -> None
-niht -> niht
-
-eldum -> None
-egesan -> None
-brohte -> None
-
-þincð -> None
-anra -> an
-gehwæm -> None
-eorðbuendra -> None
-
-soðe -> None
-gesælð -> None
-symle -> simble
-betere -> god
-
-wynsumre -> wynsum
-wita -> wite
-ma -> micel
-
-heardra -> heard
-henða -> None
-adreogeð -> None
-
-meaht -> magan
-mycle -> None
-eð -> None
-modsefan -> None
-
-soða -> None
-gesælða -> None
-sweotolor -> None
-gecnawan -> None
-
-cyððe -> cyþ
-becuman -> becuman
-
-atyhsð -> None
-ærest -> ærest
-sona -> sona
-
-awyrtwalast -> None
-gewitlocan -> None
-
-leasa -> None
-gesælða -> None
-londes -> land
-ceorl -> None
-
-æcere -> æcer
-lycð -> None
-yfel -> yfel
-weod -> None
-monig -> manig
-
-secge -> secg
-sweotole -> sweotol
-meaht -> magan
-
-soða -> None
-gesælða -> None
-sona -> sona
-oncnawan -> oncnawan
-
-recst -> recan
-æniges -> ænig
-ðinges -> None
-
-ane -> an
-ealles -> eall
-ongitst -> None
-## -> None
-wille -> willan
-giddum -> None
-get -> None
-gecyðan -> gecyðan
-
-ælmihtga -> None
-gesceafta -> None
-
-bryrð -> None
-bridlum -> None
-begð -> None
-ðider -> þider
-wile -> wil
-
-anwalde -> None
-endebyrd -> None
-
-wundorlice -> None
-wel -> wel
-gemetgað -> None
-
-hafað -> None
-geheaðorad -> None
-heofona -> heofon
-wealdend -> wealdend
-
-utan -> utan
-befangen -> befon
-gesceafta -> None
-
-geræped -> None
-racentan -> racente
-aredian -> None
-magon -> magan
-
-aslepen -> None
-
-wuhta -> None
-gehwilc -> None
-wrigað -> None
-toheald -> None
-
-sidra -> None
-gesceafta -> None
-onhelded -> None
-
-gecyndes -> gecynd
-cyning -> cyning
-
-fæder -> fæder
-frymðe -> frymþ
-getiode -> None
-
-þinga -> þingian
-gehwilc -> None
-ðiderweard -> None
-fundað -> None
-
-sidra -> None
-gesceafta -> None
-sumum -> sum
-englum -> engel
-
-moncynne -> None
-micles -> None
-feola -> None
-
-woroldwuniendra -> None
-winð -> None
-gecynde -> gecynd
-
-londe -> land
-leon -> None
-gemete -> gemet
-
-wynsume -> wynsum
-wiht -> None
-wel -> wel
-atemede -> None
-
-magister -> None
-miclum -> micel
-lufige -> lufian
-
-ondræde -> ondrædan
-dogora -> None
-gehwelce -> None
-
-gesælð -> None
-æniges -> ænig
-
-blodes -> None
-onbyrgeð -> None
-ðearf -> None
-beorna -> beorn
-nan -> nan
-
-wenan -> None
-wyrde -> wyrd
-wel -> wel
-
-taman -> None
-healde -> healdan
-tiohhie -> None
-
-niwan -> None
-taman -> None
-nauht -> None
-gehicgge -> None
-
-wildan -> wilde
-gewunan -> gewuna
-wille -> willan
-geþencan -> None
-
-eldrena -> None
-onginð -> None
-eorneste -> None
-
-racentan -> racente
-slitan -> None
-ryn -> None
-grymetigan -> None
-
-ærest -> ærest
-abit -> None
-agenes -> None
-
-huses -> None
-hirde -> None
-hraðe -> None
-
-hæleða -> None
-gehwilcne -> gehwylc
-gehentan -> None
-
-nele -> None
-forlætan -> None
-libbendes -> None
-wuht -> None
-
-neata -> None
-monna -> mann
-nimð -> None
-fint -> None
-
-doð -> None
-wudufuglas -> None
-wel -> wel
-sien -> None
-
-tela -> None
-atemede -> None
-treowum -> treow
-weorðað -> None
-
-holte -> None
-tomiddes -> None
-hræðe -> None
-bioð -> None
-forsewene -> None
-
-lareowas -> None
-lange -> lange
-
-tydon -> None
-temedon -> None
-treowum -> treow
-wilde -> wilde
-
-ealdgecynde -> None
-a -> hosp
-
-willum -> None
-wuniað -> None
-wolde -> willan
-hwilc -> hwilc
-
-lareowa -> None
-listum -> list
-beodan -> None
-
-ilcan -> ilca
-mete -> mete
-æror -> None
-
-tame -> None
-getede -> None
-twigu -> None
-þincað -> None
-
-emne -> None
-merge -> None
-metes -> mete
-recð -> None
-
-ðincð -> None
-wynsum -> wynsum
-weald -> weald
-oncwyð -> None
-
-geherað -> None
-hleoðrum -> None
-brægdan -> None
-
-fugelas -> None
-agne -> None
-
-stefne -> stefn
-styriað -> None
-stunað -> None
-geador -> None
-
-welwynsum -> None
-sanc -> sincan
-wudu -> wudu
-oncwyð -> None
-
-treowum -> treow
-æðele -> æðele
-
-holte -> None
-hyhst -> None
-geweaxe -> geweaxan
-
-hwilcne -> hwilc
-boh -> None
-byge -> bycgan
-eorðan -> eorþ
-
-upweardes -> None
-forlætst -> None
-
-widu -> None
-went -> None
-gecynde -> gecynd
-
-deð -> None
-sunne -> sunne
-sige -> sige
-weorðeð -> None
-
-midne -> None
-dæg -> dæg
-merecondel -> None
-scyfð -> None
-
-ofdæle -> None
-uncuðne -> None
-weg -> wegan
-
-nihtes -> niht
-geneðeð -> None
-norð -> None
-east -> None
-
-eldum -> None
-oteweð -> None
-brencð -> None
-eorðwarum -> None
-
-morgen -> morgen
-meretorhtne -> None
-moncyn -> None
-stihð -> None
-
-a -> hosp
-upweardes -> None
-
-yfemesð -> None
-eard -> None
-gecynde -> gecynd
-
-gesceaft -> None
-mægene -> None
-
-widan -> None
-woruld -> weorold
-wrigað -> None
-higað -> None
-
-mægene -> None
-symle -> simble
-onlyt -> None
-
-gecyndes -> gecynd
-cymð -> None
-
-eorðan -> eorþ
-ænegu -> None
-gesceaft -> None
-
-wilnie -> wilnian
-wolde -> willan
-
-earde -> eard
-becom -> becuman
-
-orsorgnes -> orsorgnes
-ecu -> None
-rest -> None
-
-openlice -> openlice
-ælmihti -> None
-god -> god
-
-eorðan -> eorþ
-ænegu -> None
-gesceaft -> None
-
-hwearfige -> hwearfian
-hweol -> None
-deð -> None
-
-selfre -> None
-hwearfað -> None
-
-æror -> None
-
-ærest -> ærest
-utan -> utan
-behwerfed -> None
-
-ealles -> eall
-wyrð -> weorþ
-utan -> utan
-becerred -> None
-
-sceal -> sculan
-dyde -> don
-
-æror -> None
-## -> None
-welegan -> welig
-woruldgitsere -> None
-
-mode -> None
-bet -> wel
-age -> None
-
-goldes -> gold
-gimma -> gimm
-gooda -> None
-
-æhta -> None
-unrim -> None
-mon -> mann
-erigen -> None
-scyle -> sculan
-
-æghwelce -> None
-dæg -> dæg
-æcera -> None
-ðusend -> None
-
-middangeard -> middangeard
-manna -> mann
-cyn -> None
-
-sunnan -> sunne
-suð -> suþ
-west -> west
-east -> None
-
-anwalde -> None
-underðieded -> None
-
-mot -> None
-hyrsta -> None
-hionane -> None
-lædan -> None
-
-worulde -> weorold
-wuhte -> None
-mare -> micel
-
-hordgestreona -> None
-hiðer -> None
-brohte -> None
-## -> None
-yfela -> yfel
-unrihtwisa -> None
-
-neron -> None
-cynincg -> None
-niwan -> None
-gescerpte -> None
-
-wlitegum -> None
-wædum -> wæd
-wundorlice -> None
-
-golde -> gold
-geglengde -> None
-gimcynnum -> None
-
-worulde -> weorold
-witena -> wita
-gehwelcum -> None
-
-lifdagum -> None
-lað -> None
-unweorð -> None
-
-fierenfull -> None
-feond -> None
-
-diorlingas -> None
-duguðum -> None
-stepte -> None
-
-gehycgan -> gehycgan
-hige -> None
-þorfte -> þurfan
-
-a -> hosp
-sæl -> sæl
-
-gecure -> geceosan
-cræftum -> cræft
-cyninga -> cyning
-dysegast -> None
-
-næron -> None
-weorðran -> None
-witena -> wita
-ænegum -> ænig
-
-dysega -> None
-cyninge -> cyninge
-
-gesceadwis -> None
-scealc -> None
-gereccan -> None
-
-selra -> None
-þince -> None
-## -> None
-wille -> willan
-anwald -> anweald
-agon -> None
-sceal -> sculan
-ærest -> ærest
-tilian -> tilian
-
-selfes -> None
-sefan -> None
-age -> None
-
-anwald -> anweald
-innan -> innan
-læs -> læs
-
-unþeawum -> None
-underðyded -> None
-
-ado -> None
-mode -> None
-mislicra -> None
-
-ymbhogona -> None
-unnet -> None
-
-læte -> None
-siofunga -> None
-
-ermða -> None
-sinra -> None
-
-middangeard -> middangeard
-merestreamas -> None
-
-utan -> utan
-belicgað -> None
-æht -> None
-gifen -> None
-
-efne -> efne
-wide -> None
-westmest -> None
-
-iglond -> None
-ligð -> None
-garsecg -> None
-
-nængu -> None
-niht -> niht
-sumera -> sumer
-
-wuhte -> None
-ma -> micel
-wintra -> wintra
-dæg -> dæg
-
-toteled -> None
-tidum -> tid
-tile -> None
-haten -> None
-
-anra -> an
-ealles -> eall
-wealde -> None
-
-iglandes -> None
-
-indeas -> None
-eastewearde -> easteweard
-
-agan -> aginnan
-mote -> None
-
-anwald -> anweald
-auhte -> None
-mara -> None
-
-nah -> None
-selfes -> None
-geweald -> geweald
-
-ingeðances -> None
-eorneste -> None
-
-wel -> wel
-bewarenað -> None
-wordum -> word
-dædum -> None
-
-unþeawas -> None
-sprecað -> None
-## -> None
-eorðwaran -> None
-hæfden -> habban
-
-foldbuende -> None
-fruman -> fruma
-gelicne -> None
-
-comon -> None
-
-were -> werian
-wife -> wif
-woruld -> weorold
-innan -> innan
-
-get -> None
-gelice -> gelice
-
-woruld -> weorold
-cumað -> None
-wlance -> None
-heane -> None
-
-nan -> nan
-wundor -> wundor
-witan -> witan
-
-god -> god
-gesceafta -> None
-
-frea -> None
-moncynnes -> None
-fæder -> fæder
-scippend -> None
-
-sunnan -> sunne
-leoht -> sunnan
-seleð -> None
-heofonum -> heofon
-
-monan -> None
-þyssum -> þes
-mærum -> None
-steorrum -> steorra
-
-milda -> None
-metod -> metod
-gesceop -> gesceppan
-men -> mann
-eorðan -> eorþ
-
-gesamnade -> None
-sawle -> sawel
-
-fruman -> fruma
-ærest -> ærest
-folc -> folc
-wolcnum -> wolcen
-
-emnæðele -> None
-gesceop -> gesceppan
-æghwilcne -> None
-mon -> mann
-
-men -> mann
-
-ofermodigen -> None
-andweorce -> andweorc
-
-unæðelne -> None
-nænigne -> None
-metað -> metan
-
-æþelum -> æþelu
-ahebben -> None
-
-mode -> None
-monna -> mann
-gehwilcum -> None
-
-rihtæþelo -> None
-recce -> None
-
-nales -> None
-flæsce -> flæsc
-foldbuendra -> None
-
-æghwilc -> None
-mon -> mann
-
-unþeawum -> None
-underðieded -> None
-
-forlæt -> None
-ærest -> ærest
-frumsceaft -> None
-
-agene -> agen
-æþelo -> None
-
-fæder -> fæder
-fruman -> fruma
-gesceop -> gesceppan
-
-anæþelað -> None
-ælmihtig -> None
-god -> god
-
-unæþele -> None
-a -> hosp
-þanan -> None
-
-wyrð -> weorþ
-weorulde -> None
-wuldre -> wuldor
-cymð -> None
-## -> None
-yfla -> yfel
-unrihta -> None
-gedeð -> None
-
-wraða -> None
-willa -> willian
-wohhæmetes -> None
-
-gedræfð -> None
-anra -> an
-
-monna -> mann
-cynnes -> cynn
-mod -> None
-fulneah -> fulneah
-
-wilde -> wilde
-wis -> None
-
-anunga -> None
-sceal -> sculan
-forweorðan -> None
-
-yrringa -> None
-awuht -> None
-stingeð -> None
-
-sceal -> sculan
-sawla -> sawel
-gehwilc -> None
-losian -> losian
-
-lichoma -> None
-forlegen -> forlicgan
-weorðeð -> None
-
-unrihthæmede -> None
-bute -> bute
-
-hreow -> None
-heortan -> heorte
-hionan -> None
-wende -> wendan
-## -> None
-hefig -> hefig
-dysig -> dysig
-hygeð -> None
-wile -> wil
-
-frecenlic -> None
-fira -> None
-gehwilcum -> None
-
-earman -> earm
-men -> mann
-gedwæleð -> None
-
-rihtan -> riht
-wege -> wegan
-recene -> recen
-alæded -> None
-
-hwæðer -> hwæðer
-willen -> willan
-wuda -> wudu
-secan -> None
-
-gold -> gold
-reade -> None
-grenum -> None
-triowum -> None
-
-wat -> witan
-witena -> wita
-nan -> nan
-
-þider -> þider
-seceð -> None
-wexð -> None
-
-wingeardum -> None
-wlitige -> wlitig
-gimmas -> gimm
-
-settan -> settan
-dune -> None
-
-fiscnet -> None
-eowru -> None
-fon -> None
-lysteð -> None
-
-leax -> leax
-cyperan -> None
-gelicost -> None
-ðincð -> None
-
-witen -> witan
-eorðbuende -> None
-
-þoncolmode -> None
-
-hwæþer -> hwæðer
-willen -> willan
-wæþan -> None
-hundum -> hund
-
-sealtne -> sealt
-sæ -> sæ
-secan -> None
-lyst -> None
-
-heorotas -> heorot
-hinda -> hind
-gehicgan -> None
-meaht -> magan
-
-willað -> None
-wuda -> wudu
-secan -> None
-
-oftor -> oft
-sæ -> sæ
-
-wundorlic -> wundorlic
-witan -> witan
-
-mon -> mann
-secan -> None
-sceal -> sculan
-sæwaroðe -> None
-
-eaofrum -> None
-æþele -> æþelu
-gimmas -> gimm
-
-hwite -> None
-reade -> None
-hiwa -> None
-
-witon -> witan
-hwær -> hwær
-eafiscas -> None
-
-secan -> None
-þurfan -> þurfan
-swylcra -> None
-
-weoruldwelena -> None
-wel -> wel
-doð -> None
-
-geornfulle -> None
-men -> mann
-geara -> gear
-gehwilce -> None
-
-earmlicost -> None
-þinga -> þingian
-
-dysegan -> None
-gedwolan -> None
-wordene -> None
-
-efne -> efne
-blinde -> blind
-breostum -> None
-magon -> magan
-
-eaðe -> None
-gecnawan -> None
-hwær -> hwær
-ecan -> None
-good -> None
-
-soða -> None
-gesælða -> None
-gehydda -> None
-
-forþæm -> forðam
-lyst -> None
-spyrian -> None
-
-secan -> None
-gesælða -> None
-wenað -> None
-samwise -> None
-
-lænan -> None
-mægen -> mægen
-life -> None
-findan -> findan
-
-soða -> None
-gesælða -> None
-god -> god
-
-nat -> None
-mæge -> mæge
-nænige -> None
-ðinga -> None
-
-ealles -> eall
-sefan -> None
-
-dysig -> dysig
-tælan -> None
-lysteð -> None
-
-sweotole -> sweotol
-gesecgan -> None
-
-earmran -> None
-dysegran -> None
-
-ungesæligran -> None
-mæge -> mæge
-
-wilniað -> None
-welan -> wela
-æhta -> None
-
-weorðscipes -> None
-gewinnanne -> None
-
-habbað -> None
-hige -> None
-seceð -> None
-
-wenað -> None
-gewitlease -> None
-
-soðan -> None
-gesælða -> None
-hæbben -> habban
-## -> None
-lioða -> None
-lustlice -> lustlice
-geo -> None
-
-sanc -> sincan
-sælum -> sæl
-sceal -> sculan
-siofigende -> None
-
-wope -> wop
-gewæged -> None
-wreccea -> None
-giomor -> None
-
-singan -> singan
-sarcwidas -> None
-þios -> None
-siccetung -> None
-hafað -> None
-
-agæled -> None
-geocsa -> None
-ged -> None
-
-gefegean -> None
-fægre -> fæger
-gio -> None
-
-sette -> settan
-soðcwida -> None
-sælum -> sæl
-
-miscyrre -> None
-cuðe -> None
-spræce -> None
-
-uncuðre -> None
-fond -> None
-
-woruldsælða -> None
-welhwæs -> None
-blindne -> blind
-
-dimme -> None
-hol -> hol
-dysine -> None
-forlæddon -> None
-
-berypton -> None
-rædes -> None
-frofre -> None
-
-untreowum -> None
-betst -> wel
-
-truwian -> None
-sceolde -> sculan
-wendon -> wendan
-
-bacu -> None
-bitere -> biter
-blisse -> blis
-
-forhwam -> None
-wolde -> willan
-weoruldfrynd -> None
-
-singan -> singan
-gesællic -> None
-mon -> mann
-
-weorulde -> None
-synt -> wesan
-soð -> None
-
-gesælða -> None
-magon -> magan
-simle -> simble
-gewunigan -> None
-## -> None
-ælmihtig -> None
-
-modilic -> None
-mærþum -> None
-gefræge -> None
-
-wundorlic -> wundorlic
-witena -> wita
-gehwylcum -> gehwylc
-
-ece -> ece
-god -> god
-gesceafta -> None
-
-wundorlice -> None
-wel -> wel
-gesceope -> None
-
-ungesewenlica -> None
-same -> same
-
-gesewenlicra -> None
-softe -> None
-wealdest -> None
-
-scirra -> None
-gesceafta -> None
-gesceadwisum -> None
-
-mægne -> None
-cræfte -> cræft
-þysne -> þes
-middangeard -> middangeard
-
-fruman -> fruma
-ærest -> ærest
-
-tidum -> tid
-totældes -> None
-getæsost -> None
-
-endebyrdes -> None
-æghwæðer -> None
-
-farað -> None
-cumað -> None
-
-unstilla -> None
-agna -> None
-gesceafta -> None
-
-wislice -> wislice
-astyrest -> None
-
-wunæst -> None
-stille -> stille
-
-unanwendendlic -> None
-a -> hosp
-simle -> simble
-
-nan -> nan
-mihtigra -> mihtig
-nan -> nan
-mærra -> None
-
-gesceaft -> None
-efnlica -> None
-
-nedþearf -> None
-giet -> git
-
-weorca -> weorc
-geworht -> wyrcan
-hafast -> hafian
-
-worhtes -> None
-
-anwalde -> None
-agenum -> agen
-
-weorulde -> None
-geworhtest -> gewyrcan
-wuhta -> None
-gehwæt -> None
-
-nænegu -> None
-nedðearf -> None
-
-eallra -> eall
-mærþa -> None
-gecynd -> gecynd
-
-þines -> þin
-goodes -> None
-þencð -> None
-wile -> wil
-
-ælces -> None
-þincges -> None
-
-good -> None
-agen -> ongeagn
-
-utan -> utan
-auht -> None
-
-georne -> georne
-wat -> witan
-goodnes -> None
-
-ælmihtig -> None
-good -> None
-selfum -> self
-
-ungelic -> None
-urum -> ure
-gecynde -> gecynd
-
-utan -> utan
-cymen -> None
-habbað -> None
-
-gooda -> None
-grundum -> grund
-gode -> god
-selfum -> self
-
-næfst -> nabban
-ænegum -> ænig
-andan -> anda
-genumenne -> None
-
-forðam -> forðam
-nan -> nan
-þing -> þingan
-gelica -> gelica
-
-huru -> huru
-ælcræftigre -> None
-
-ealgood -> None
-anes -> an
-geþeahte -> geþeaht
-
-þines -> þin
-geþohtest -> None
-worhtest -> wyrcan
-
-æror -> None
-ænegu -> None
-gesceaft -> None
-
-auht -> None
-nauht -> None
-auðer -> None
-worhte -> wyrcan
-
-bysne -> None
-brego -> breogo
-moncynnes -> None
-
-ælmihtig -> None
-god -> god
-geworhtest -> gewyrcan
-
-þing -> þingan
-þearle -> þearle
-good -> None
-
-hehste -> None
-good -> None
-halig -> None
-fæder -> fæder
-
-woruld -> weorold
-gesceope -> None
-
-middangeard -> middangeard
-meahtum -> None
-
-weorada -> None
-woldest -> willan
-
-wealdest -> None
-ealles -> eall
-
-soða -> None
-god -> god
-dælest -> None
-
-gooda -> None
-æghwilc -> None
-geara -> gear
-
-gesceafta -> None
-ærest -> ærest
-gesceope -> None
-
-gelice -> gelice
-sumes -> None
-hwæðre -> None
-
-ungelice -> None
-nemdest -> nemnan
-
-ane -> an
-noman -> None
-togædre -> None
-
-woruld -> weorold
-wolcnum -> wolcen
-wuldres -> wuldor
-god -> god
-
-naman -> naman
-todældes -> None
-
-fæder -> fæder
-folde -> folde
-
-wæter -> wæter
-worulde -> weorold
-dæles -> dæl
-
-fyr -> fyr
-þridde -> None
-feowerðe -> None
-
-weoruld -> None
-togædere -> togædere
-
-habbað -> None
-frumstol -> None
-
-æghwilc -> None
-agenne -> None
-stede -> stede
-
-anra -> an
-hwilc -> hwilc
-
-miclum -> micel
-gemenged -> mengan
-mægne -> None
-
-fæder -> fæder
-ælmihtiges -> None
-gebunden -> gebunden
-
-gesiblice -> None
-softe -> None
-togædre -> None
-
-bebode -> bebod
-bilewit -> bilewit
-fæder -> fæder
-
-oðres -> None
-dorste -> durran
-
-mearce -> mearc
-ofergangan -> ofergangan
-metodes -> metod
-ege -> ege
-
-geþweorod -> None
-ðegnas -> None
-togædre -> None
-
-cyninges -> cyning
-cempan -> cempa
-cele -> cele
-hæto -> None
-
-wæt -> None
-drygum -> dryge
-winnað -> None
-hwæðre -> None
-
-wæter -> wæter
-eorðe -> eorþ
-wæstmas -> None
-brengað -> None
-
-gecynde -> gecynd
-cealda -> cealdian
-ba -> None
-
-wæter -> wæter
-wæt -> None
-ceald -> None
-wangas -> wang
-ymbelicgað -> None
-
-eorðe -> eorþ
-ælgreno -> None
-hwæðre -> None
-ceald -> None
-
-gemenged -> mengan
-forþæm -> forðam
-middum -> midde
-wunað -> None
-
-nan -> nan
-wundor -> wundor
-wearm -> wearm
-ceald -> None
-
-wæt -> None
-wolcnes -> wolcen
-tier -> None
-winde -> windan
-geblonden -> None
-
-midle -> None
-gefræge -> None
-
-fyres -> fyr
-eorðan -> eorþ
-monna -> mann
-wat -> witan
-
-yfemest -> None
-eallra -> eall
-gesceafta -> None
-
-fyr -> fyr
-eorðan -> eorþ
-folde -> folde
-neoðemest -> None
-
-wundorlic -> wundorlic
-weroda -> werod
-
-geþeahte -> geþeaht
-wyrcest -> None
-
-gesceaftum -> None
-gesceadlice -> None
-
-mearce -> mearc
-gesettest -> gesettan
-gemengdest -> gemengan
-
-wættere -> None
-wætum -> None
-cealdum -> None
-
-foldan -> folde
-flore -> None
-gesettest -> gesettan
-
-unstille -> unstille
-æghwider -> None
-wolde -> willan
-
-wide -> None
-toscriðan -> None
-wac -> wacan
-hnesce -> None
-
-meahte -> magan
-selfum -> self
-soð -> None
-geare -> geare
-wat -> witan
-
-gestandan -> gestandan
-eorðe -> eorþ
-hylt -> None
-
-swelgeð -> None
-sumum -> sum
-dæle -> dæl
-
-siðþan -> None
-sype -> None
-weorðan -> None
-
-geleht -> leccan
-lyftum -> lyft
-leaf -> leaf
-gærs -> gærs
-
-bræd -> None
-bretene -> None
-bloweð -> None
-groweð -> None
-
-eldum -> None
-are -> ar
-eorðe -> eorþ
-cealde -> None
-
-brengð -> None
-wæstma -> None
-wundorlicra -> None
-
-wætere -> wæter
-weorðað -> None
-geþawened -> None
-
-nære -> None
-
-fordrugod -> None
-duste -> None
-todrifen -> None
-
-wide -> None
-winde -> windan
-weorðað -> None
-
-axe -> None
-giond -> None
-eorðan -> eorþ
-toblawen -> None
-
-meahte -> magan
-eorðan -> eorþ
-awuht -> None
-libban -> libban
-
-wuhte -> None
-ma -> micel
-wætres -> None
-brucan -> None
-
-eardian -> eardian
-cræfte -> cræft
-
-cele -> cele
-cyning -> cyning
-
-fyre -> fyr
-hwæthwugu -> None
-foldan -> folde
-lagustream -> None
-
-mengdest -> mengan
-togædre -> None
-gemetgodest -> None
-
-cele -> cele
-hæto -> None
-cræfte -> cræft
-
-fyr -> fyr
-foldan -> folde
-merestream -> None
-
-blate -> None
-forbærnan -> None
-ba -> None
-
-gefeged -> None
-fæder -> fæder
-ealdgeweorc -> None
-
-þincð -> None
-wundur -> None
-wuhte -> None
-læsse -> None
-
-ðios -> None
-eorðe -> eorþ
-egorstream -> None
-
-ceald -> None
-gesceaft -> None
-cræfta -> cræft
-nane -> nan
-
-ealles -> eall
-adwæscan -> None
-innan -> innan
-sticað -> None
-
-fyres -> fyr
-gefeged -> None
-frean -> None
-cræfte -> cræft
-
-agen -> ongeagn
-cræft -> cræft
-eagorstreames -> None
-
-wætres -> None
-eorþan -> eorþe
-wolcnum -> wolcen
-
-efne -> efne
-same -> same
-rodere -> None
-
-fyres -> fyr
-frumstol -> None
-riht -> riht
-
-eard -> None
-gesceaftum -> None
-
-gesewenlicum -> None
-sidan -> None
-grund -> grund
-
-gemenged -> mengan
-
-weoruldgesceafta -> None
-waldan -> None
-mot -> None
-
-eallunga -> None
-fordo -> None
-
-leafe -> leaf
-lif -> None
-tiode -> None
-
-eca -> None
-ælmihtga -> None
-
-eorðe -> eorþ
-hefigre -> hefig
-gesceaftum -> None
-
-þicre -> None
-geþuren -> None
-stod -> None
-
-gesceafta -> None
-niðemæst -> None
-
-rodere -> None
-ruman -> None
-gesceaft -> None
-
-æghwylce -> None
-dæge -> dæg
-utan -> utan
-ymbhwyrfeð -> None
-
-eorðan -> eorþ
-oðrineð -> None
-
-nanre -> nan
-mot -> None
-near -> None
-
-stowe -> stow
-gestæppan -> None
-striceð -> None
-ymbutan -> ymbutan
-
-ufane -> None
-neoðane -> None
-efenneah -> None
-gehwæðer -> None
-
-æghwilc -> None
-gesceaft -> None
-sprecað -> None
-
-hæfð -> None
-agenne -> None
-eard -> None
-onsundran -> onsundrum
-
-gemenged -> mengan
-
-bion -> None
-
-unsweotole -> None
-somod -> None
-eardien -> eardian
-
-eorðe -> eorþ
-wæter -> wæter
-earfoðtæcne -> None
-
-unwisra -> None
-gehwæm -> None
-wuniað -> None
-fyre -> fyr
-
-sindan -> None
-sweotole -> sweotol
-wisum -> None
-
-fyr -> fyr
-same -> same
-fæst -> fæstan
-wætre -> None
-
-stanum -> None
-stille -> stille
-geheded -> None
-
-earfoðhawe -> None
-hwæðre -> None
-
-hafað -> None
-fæder -> fæder
-fyr -> fyr
-gebunden -> gebunden
-
-efne -> efne
-fiolan -> None
-
-eðle -> None
-fyr -> fyr
-
-eardfæst -> None
-wunað -> None
-
-sona -> sona
-forlæteð -> None
-lænan -> None
-gesceaft -> None
-
-cele -> cele
-ofercumen -> ofercuman
-cyððe -> cyþ
-gewit -> gewitan
-
-wuhta -> None
-gehwilc -> None
-wilnað -> None
-þiderweard -> None
-
-mægðe -> mægþ
-mæst -> micel
-ætgædre -> None
-
-gestaðoladest -> None
-strongan -> None
-meaht -> magan
-
-weroda -> werod
-wuldorcyning -> wuldorcyning
-wundorlice -> None
-
-eorðan -> eorþ
-
-healfe -> healf
-heldeð -> None
-hider -> hider
-þider -> þider
-
-sigan -> None
-swiðor -> swiðe
-symle -> simble
-dyde -> don
-
-eorðlices -> None
-auht -> None
-haldeð -> None
-
-efneðe -> None
-dune -> None
-
-feallanne -> None
-foldan -> folde
-
-anlicost -> None
-æge -> None
-
-gioleca -> None
-middan -> midde
-glideð -> None
-hwæðre -> None
-
-æg -> None
-ymbutan -> ymbutan
-stent -> standan
-weoruld -> None
-
-stille -> stille
-tille -> None
-streamas -> None
-ymbutan -> ymbutan
-
-lagufloda -> None
-gelac -> None
-lyfte -> lyft
-tungla -> tungol
-
-scire -> scir
-scell -> None
-scriðeð -> None
-ymbutan -> ymbutan
-
-dogora -> None
-gehwilce -> None
-dyde -> don
-lange -> lange
-
-ðioda -> None
-god -> god
-ðriefalde -> None
-
-sawle -> sawel
-gesettest -> gesettan
-
-styrest -> styrian
-stihtest -> None
-strongan -> None
-meaht -> magan
-
-læsse -> None
-lytlan -> None
-
-fingre -> finger
-
-lichoman -> None
-lytle -> None
-
-sweotole -> sweotol
-sæde -> sæd
-sawl -> sawel
-
-þriefald -> None
-gesceaft -> None
-þegna -> þegnian
-gehwilces -> None
-
-uðwitan -> None
-seggað -> None
-
-ðætte -> None
-gecynd -> gecynd
-ælcre -> ælc
-saule -> None
-
-irsung -> None
-wilnung -> None
-
-ðridde -> None
-gecynd -> gecynd
-betere -> god
-
-gesceadwisnes -> None
-scandlic -> None
-cræft -> cræft
-
-hafað -> None
-neat -> None
-monnum -> mann
-
-hæfð -> None
-oðra -> oðer
-unrim -> None
-wuhta -> None
-
-hæfð -> None
-wilnunga -> None
-welhwilc -> None
-neten -> None
-
-yrsunga -> None
-
-forðy -> forði
-men -> mann
-habbæð -> None
-middangeard -> middangeard
-
-eorðgesceafta -> None
-oferþungen -> None
-
-habbað -> None
-nabbað -> None
-
-ænne -> an
-cræft -> cræft
-nemdon -> nemnan
-
-gesceadwisnes -> None
-sceal -> sculan
-gehwelcum -> None
-
-wilnunge -> None
-waldan -> None
-semle -> None
-
-irsunge -> None
-
-sceal -> sculan
-geþeahte -> geþeaht
-þegnes -> þegen
-mode -> None
-
-andgite -> None
-ealles -> eall
-waldan -> None
-
-mæste -> micel
-mægen -> mægen
-monnes -> None
-saule -> None
-
-selesta -> None
-sundorcræfta -> None
-
-saule -> None
-sigora -> sigorian
-waldend -> None
-
-þeoda -> None
-þrymcyning -> None
-gesceope -> None
-
-hwearfode -> hwearfian
-selfre -> None
-
-utan -> utan
-deð -> None
-
-rineswifte -> None
-rodor -> rodor
-recene -> recen
-ymbscriðeð -> None
-
-dogora -> None
-gehwilce -> None
-drihtnes -> drihten
-meahtum -> None
-
-middangeard -> middangeard
-deð -> None
-monnes -> None
-saul -> None
-
-hweole -> None
-gelicost -> None
-hwærfeð -> None
-
-smeagende -> smeagan
-eorðlican -> None
-
-drihtnes -> drihten
-gesceafta -> None
-dagum -> dæg
-nihtum -> neaht
-
-secende -> None
-smeað -> None
-
-smeað -> None
-ecan -> None
-god -> god
-
-sceppend -> None
-scriðende -> None
-færð -> None
-
-hweole -> None
-gelicost -> None
-hwærfð -> None
-
-scyppend -> None
-gescead -> None
-smeað -> None
-
-ahæfen -> None
-
-eallunga -> None
-selfre -> None
-
-secende -> None
-smeað -> None
-
-fior -> None
-selfre -> None
-beneoðan -> None
-
-lænan -> None
-lufað -> None
-wundrað -> None
-
-eorðlicu -> None
-þing -> þingan
-ecne -> None
-ræd -> None
-
-ece -> ece
-god -> god
-eard -> None
-forgeafe -> forgifan
-
-saulum -> None
-heofonum -> heofon
-selest -> None
-weorðlica -> None
-
-ginfæsta -> None
-gifa -> gifu
-god -> god
-ælmihtig -> None
-
-geearnunga -> None
-anra -> an
-gehwelcre -> None
-
-scinað -> None
-sciran -> None
-neaht -> niht
-
-hadre -> None
-heofonum -> heofon
-na -> na
-hwæðre -> None
-
-efenbeorhte -> None
-gesioð -> None
-
-hadrum -> None
-nihtum -> neaht
-heofonsteorran -> None
-
-efenbeorhte -> None
-scinað -> None
-
-ece -> ece
-god -> god
-gemengest -> None
-
-heofoncundan -> None
-hider -> hider
-eorðan -> eorþ
-
-saula -> None
-wuniað -> None
-
-eorðlice -> None
-ece -> ece
-samod -> samod
-
-saul -> None
-flæsce -> flæsc
-simle -> simble
-
-hionan -> None
-fundiað -> None
-hider -> hider
-
-æror -> None
-comon -> None
-sculon -> sculan
-
-sceal -> sculan
-lichama -> lichama
-last -> None
-weardigan -> None
-
-eorðan -> eorþ
-
-weox -> None
-weorulde -> None
-wunedon -> None
-
-efen -> efen
-lange -> lange
-lyfed -> None
-
-ælmihtigan -> eallmihtig
-æror -> None
-gio -> None
-
-gesomnade -> None
-soð -> None
-cining -> None
-
-foldan -> folde
-gesceop -> gesceppan
-gefylde -> gefyllan
-
-mislicum -> None
-gefræge -> None
-
-neata -> None
-cynnum -> cynn
-nergend -> None
-
-asiow -> None
-sæda -> sæd
-monegum -> None
-
-wuda -> wudu
-wyrta -> wyrtian
-weorulde -> None
-sceatum -> None
-
-forgif -> None
-ece -> ece
-god -> god
-urum -> ure
-modum -> None
-
-moten -> None
-metod -> metod
-alwuhta -> None
-
-þurg -> None
-earfoðu -> None
-astigan -> None
-
-þisum -> þes
-bysegum -> None
-bilewit -> bilewit
-fæder -> fæder
-
-þeoda -> None
-waldend -> None
-
-openum -> open
-eagum -> None
-moten -> None
-
-modes -> None
-ures -> ure
-ðinra -> None
-mægna -> mægen
-sped -> None
-
-æwelm -> None
-gesion -> None
-eallra -> eall
-gooda -> None
-
-sigedrihten -> None
-god -> god
-
-eagan -> None
-hal -> None
-ures -> ure
-modes -> None
-
-selfum -> self
-moten -> None
-
-afæstnian -> None
-fæder -> fæder
-todrif -> None
-
-þiccan -> þicce
-mist -> None
-
-eagan -> None
-foran -> foran
-usses -> None
-modes -> None
-
-hangode -> hangian
-hwyle -> None
-hefig -> hefig
-þystre -> þystru
-
-onliht -> None
-eagan -> None
-usses -> None
-modes -> None
-
-leohte -> leoht
-waldend -> None
-
-birhtu -> birhtu
-bilewit -> bilewit
-fæder -> fæder
-
-soðes -> soþes
-leohtes -> None
-
-ræst -> None
-fæder -> fæder
-ælmihtig -> None
-
-eallra -> eall
-soðfæstra -> None
-softe -> None
-gedest -> gedon
-
-selfne -> None
-gesion -> None
-moten -> None
-
-eallra -> eall
-þinga -> þingian
-þeoda -> None
-waldend -> None
-
-fruma -> None
-fæder -> fæder
-
-þing -> þingan
-birest -> None
-eðelice -> None
-
-geswince -> geswincan
-weg -> wegan
-
-latteow -> None
-lifgendra -> None
-
-wlitige -> wlitig
-stow -> stow
-weg -> wegan
-ligð -> None
-
-a -> hosp
-fundiað -> None
-
-men -> mann
-moldan -> molde
-mæran -> mære
-gesceaft -> None
-## -> None
-wel -> wel
-la -> la
-monna -> mann
-bearn -> beirnan
-middangeard -> middangeard
-
-friora -> None
-æghwilc -> None
-fundie -> fundian
-
-ecum -> None
-gode -> god
-sprecað -> None
-
-gesælðum -> None
-
-nearwe -> nearo
-gehefted -> None
-
-mæran -> mære
-middangeardes -> middangeard
-
-unnyttre -> None
-lufe -> lufu
-sece -> None
-hræðe -> None
-
-fulne -> full
-friodom -> None
-
-gesælðum -> None
-saula -> None
-rædes -> None
-
-forþæm -> forðam
-rest -> None
-eallra -> eall
-geswinca -> None
-
-hyhtlicu -> None
-hyð -> None
-heaum -> None
-ceolum -> None
-
-modes -> None
-usses -> None
-meresmylta -> None
-wic -> wic
-
-hyð -> None
-
-yðum -> None
-ura -> None
-geswinca -> None
-
-ysta -> None
-gehwelcre -> None
-ealnig -> None
-smylte -> None
-
-friðstow -> None
-frofor -> None
-
-eallra -> eall
-yrminga -> None
-
-weoruldgeswincum -> None
-wynsum -> wynsum
-stow -> stow
-
-þyssum -> þes
-yrmðum -> None
-aganne -> None
-
-georne -> georne
-wat -> witan
-gylden -> gylden
-maðm -> None
-
-sylofren -> None
-sincstan -> None
-searogimma -> None
-nan -> nan
-
-middangeardes -> middangeard
-wela -> wela
-modes -> None
-eagan -> None
-
-onlyhtað -> None
-auht -> None
-gebetað -> None
-
-scearpnesse -> None
-sceawunga -> None
-
-soðra -> None
-gesælða -> None
-swiðor -> swiðe
-get -> None
-
-monna -> mann
-gehwelces -> None
-modes -> None
-eagan -> None
-
-ablendað -> None
-breostum -> None
-beorhtran -> None
-gedon -> gedon
-
-æghwilc -> None
-ðing -> None
-þys -> þis
-andweardan -> andweard
-
-life -> None
-licað -> lican
-lænu -> None
-
-eorðlicu -> None
-þing -> þingan
-a -> hosp
-fleondu -> None
-
-wundorlic -> wundorlic
-wlite -> wlite
-beorhtnes -> beorhtnes
-
-wuhta -> None
-wlite -> wlite
-geberhteð -> None
-
-wealdeð -> None
-
-nele -> None
-waldend -> None
-forweorðan -> None
-scylen -> sculan
-
-saula -> None
-usse -> None
-wile -> wil
-
-leoman -> None
-onlihtan -> None
-wealdend -> wealdend
-
-hæleða -> None
-hwilc -> hwilc
-hlutrum -> None
-eagum -> None
-
-modes -> None
-sines -> None
-ofsion -> None
-
-hiofones -> None
-leohtes -> None
-hlutre -> None
-beorhto -> None
-
-wile -> wil
-sunnan -> sunne
-
-beorhtnes -> beorhtnes
-þiostro -> None
-beorna -> beorn
-gehwylcum -> gehwylc
-
-metanne -> None
-leoht -> sunnan
-
-godes -> god
-ælmihtiges -> None
-gasta -> None
-gehwæm -> None
-
-ece -> ece
-eadegum -> None
-saulum -> None
-## -> None
-rihte -> rihte
-gerece -> None
-wille -> willan
-
-inweardlice -> None
-spyrian -> None
-
-deoplice -> None
-todrifan -> None
-
-monna -> mann
-amerran -> None
-huru -> huru
-
-eorðlic -> None
-ðincg -> None
-ærest -> ærest
-sceal -> sculan
-
-secan -> None
-selfum -> self
-
-ymbutan -> ymbutan
-æror -> None
-sohte -> None
-
-sece -> None
-sefan -> None
-innan -> innan
-
-forlæte -> None
-oftost -> None
-mæge -> mæge
-
-ælcne -> None
-ymbhogan -> None
-unnet -> None
-
-gesamnige -> None
-swiðost -> swiðe
-mæge -> mæge
-
-ingeðonc -> None
-
-gesecge -> None
-mode -> None
-findan -> findan
-
-innan -> innan
-oftost -> None
-
-ymbutan -> ymbutan
-ealneg -> None
-seceð -> None
-
-gooda -> None
-æghwylc -> None
-ongit -> None
-
-yfel -> yfel
-unnet -> None
-hæfde -> habban
-
-incofan -> None
-æror -> None
-lange -> lange
-
-efne -> efne
-sweotole -> sweotol
-sunnan -> sunne
-
-eagum -> None
-andweardum -> andweard
-locian -> None
-
-ongit -> None
-ingeþonc -> None
-
-leohtre -> None
-berhtre -> None
-leoma -> None
-
-sunnan -> sunne
-sumera -> sumer
-swegles -> swegl
-gim -> None
-
-hador -> None
-heofontungol -> None
-hlutrost -> None
-scineð -> None
-
-lichoman -> None
-leahtras -> None
-hefignes -> hefignes
-
-unþeawas -> None
-eallunga -> None
-magon -> magan
-
-mode -> None
-ation -> None
-monna -> mann
-ænegum -> ænig
-
-rihtwisnesse -> None
-rinca -> rinc
-hwæm -> None
-
-lichoman -> None
-leahtras -> None
-hefignes -> hefignes
-
-unþeawas -> None
-bysigen -> None
-
-monna -> mann
-modsefan -> None
-mæst -> micel
-swiðost -> swiðe
-
-yflan -> yfel
-oforgiotolnesse -> None
-
-gedwolmiste -> None
-dreorigne -> None
-sefan -> None
-
-fortihð -> None
-mod -> None
-foran -> foran
-monna -> mann
-gehwelces -> None
-
-beorhte -> beorht
-mot -> None
-blican -> None
-scinan -> None
-
-wolde -> willan
-geweald -> geweald
-ahte -> None
-
-corn -> corn
-sædes -> None
-gehealden -> gehealdan
-
-symle -> simble
-saule -> None
-soðfæstnesse -> None
-
-þenden -> None
-gadertang -> None
-wunað -> None
-gast -> None
-
-sædes -> None
-corn -> corn
-symle -> simble
-aweaht -> None
-
-ascunga -> None
-
-goodre -> None
-lare -> lar
-growan -> None
-sceal -> sculan
-
-man -> mann
-andsware -> andswaru
-findan -> findan
-
-ðinga -> None
-æniges -> ænig
-þegen -> þicgan
-gesceade -> None
-
-rinca -> rinc
-hwilc -> hwilc
-rihtwislice -> None
-
-frigne -> frignan
-awuht -> None
-nafað -> None
-
-modsefan -> None
-mycles -> None
-lytles -> None
-
-rihtwisnesse -> None
-geradscipes -> None
-
-man -> mann
-ealles -> eall
-
-geradscipes -> None
-bereafod -> None
-
-andsware -> andswaru
-cunne -> cunnan
-
-findan -> findan
-ferhðe -> None
-frugnen -> frignan
-
-riht -> riht
-spell -> None
-reahte -> reccan
-gio -> None
-
-ald -> None
-uðwita -> None
-platon -> None
-
-æghwilc -> None
-ungemyndig -> None
-
-rihtwisnesse -> None
-hræðe -> None
-sceolde -> sculan
-
-gewendan -> gewendan
-into -> into
-sinum -> None
-
-modes -> None
-gemynde -> gemynd
-
-runcofan -> None
-rihtwisnesse -> None
-
-findan -> findan
-ferhte -> None
-gehydde -> None
-
-gedræfnesse -> None
-dogora -> None
-gehwilce -> None
-
-modes -> None
-sines -> None
-mæst -> micel
-swiðost -> swiðe
-
-hefinesse -> None
-lichoman -> None
-
-bisgum -> bisig
-breostum -> None
-styreð -> None
-
-mon -> mann
-mode -> None
-mæla -> None
-gehwylce -> gehwylc
-## -> None
-la -> la
-eorðan -> eorþ
-ælces -> None
-ðinges -> None
-
-gesælig -> None
-mon -> mann
-gesion -> None
-mæge -> mæge
-
-hlutrestan -> None
-heofontorhtan -> None
-stream -> None
-
-æðelne -> æðele
-æwelm -> None
-ælces -> None
-goodes -> None
-
-selfum -> self
-sweartan -> sweart
-mist -> None
-
-modes -> None
-þiostro -> None
-aweorpan -> None
-
-sculon -> sculan
-gita -> None
-godes -> god
-fylste -> None
-
-ealdum -> eald
-leasum -> leas
-ingeðonc -> None
-
-betan -> None
-bispellum -> None
-bet -> wel
-mæge -> mæge
-
-aredian -> None
-rodorum -> rodor
-rihte -> rihte
-stige -> stigan
-
-ecan -> None
-eard -> None
-ussa -> None
-saula -> None
-## -> None
-hæbbe -> habban
-fiðru -> None
-fugle -> fugol
-swiftran -> swift
-
-fleogan -> None
-feor -> feor
-eorðan -> eorþ
-
-heane -> None
-hrof -> hrof
-heofones -> heofon
-
-moste -> None
-mod -> None
-gefeðran -> None
-
-ferðlocan -> None
-feðrum -> None
-
-meahte -> magan
-middangeard -> middangeard
-
-eorðlic -> None
-ðing -> None
-eallunga -> None
-forsion -> None
-
-meahtes -> None
-rodorum -> rodor
-gereclice -> None
-
-feðerum -> feðer
-lacan -> None
-feor -> feor
-
-wolcnu -> wolcen
-windan -> windan
-wlitan -> None
-
-meahtes -> None
-faran -> faran
-
-fyre -> fyr
-geara -> gear
-
-lange -> lange
-lyfte -> lyft
-rodere -> None
-
-frymðe -> frymþ
-fæder -> fæder
-getiode -> None
-
-meahtest -> magan
-sunnan -> sunne
-
-faran -> faran
-tunglum -> tungol
-
-meahtest -> magan
-full -> full
-recen -> recen
-rodere -> None
-
-weorðan -> None
-samtenges -> None
-
-ælcealdan -> None
-steorran -> steorra
-
-yfmest -> None
-eallra -> eall
-tungla -> tungol
-
-saturnus -> None
-sundbuende -> None
-
-hatað -> None
-heofonum -> heofon
-cealda -> cealdian
-
-eallisig -> None
-tungl -> None
-yfemest -> None
-wandrað -> None
-
-steorrum -> steorra
-
-a -> hosp
-hafast -> hafian
-
-oferfarenne -> oferfaran
-meaht -> magan
-feorsian -> feorsian
-
-sona -> sona
-uppan -> None
-
-rodere -> None
-ryneswiftum -> None
-riht -> riht
-færest -> faran
-
-hehstan -> None
-heofon -> heofon
-behindan -> behindan
-lætst -> None
-
-meaht -> magan
-soðes -> soþes
-leohtes -> None
-
-dæl -> dæl
-ðonan -> None
-cyning -> cyning
-
-rume -> None
-ricsað -> None
-roderum -> None
-
-same -> same
-eallra -> eall
-gesceafta -> None
-
-weorulde -> None
-waldeð -> None
-wis -> None
-cyning -> cyning
-
-waldeð -> None
-giond -> None
-werðioda -> None
-
-oðra -> oðer
-eorðan -> eorþ
-cyninga -> cyning
-
-bridle -> None
-ymbebæted -> None
-hæfð -> None
-
-ymbhwyrft -> None
-ealne -> eal
-eorðan -> eorþ
-heofones -> heofon
-
-gewaldleðer -> None
-wel -> wel
-gemetgað -> None
-
-stioreð -> None
-a -> hosp
-þurg -> None
-strongan -> None
-meaht -> magan
-
-hrædwæne -> None
-heofones -> heofon
-eorðan -> eorþ
-
-dema -> dema
-gestæððig -> None
-
-unawendendlic -> None
-wlitig -> None
-mære -> mære
-
-weorðest -> None
-wege -> wegan
-rihtum -> riht
-
-earde -> eard
-æðele -> æðele
-stow -> stow
-
-geta -> None
-forgiten -> None
-hæbbe -> habban
-
-cymest -> None
-
-wilt -> willan
-sona -> sona
-cweðan -> None
-: -> None
-
-" -> None
-eallunga -> None
-agen -> ongeagn
-cyð -> cyðan
-
-eard -> None
-eðel -> None
-hionan -> None
-
-cumen -> cuman
-acenned -> acennan
-cræftgan -> cræftig
-meaht -> magan
-
-nylle -> None
-hionan -> None
-witan -> witan
-
-symle -> simble
-softe -> None
-wille -> willan
-
-fæder -> fæder
-stondan -> None
-" -> None
-
-geweorðeð -> None
-
-wilt -> willan
-most -> None
-weorolde -> None
-ðiostro -> None
-
-fandian -> fandian
-meaht -> magan
-eaðe -> None
-gesion -> None
-
-unrihtwise -> None
-eorðan -> eorþ
-cyningas -> cyning
-
-ofermodan -> None
-rican -> None
-
-werige -> werian
-folc -> folc
-wyrst -> None
-tuciað -> None
-
-symle -> simble
-bioð -> None
-earme -> earm
-
-unmehtige -> None
-ælces -> None
-ðinges -> None
-
-emne -> None
-ilcan -> ilca
-earme -> earm
-folc -> folc
-
-swiðost -> swiðe
-ondrædæð -> None
-## -> None
-geher -> None
-spell -> None
-ofermodum -> None
-
-unrihtwisum -> unrihtwis
-eorðan -> eorþ
-cyningum -> cyninge
-
-manegum -> manig
-mislicum -> None
-
-wædum -> wæd
-wlitebeorhtum -> None
-wundrum -> wundor
-scinað -> None
-
-heahsetlum -> None
-hrofe -> None
-getenge -> None
-
-golde -> gold
-gegerede -> None
-gimcynnum -> None
-
-utan -> utan
-ymbestandne -> None
-unrime -> None
-
-ðegna -> None
-eorla -> eorl
-bioð -> None
-gehyrste -> None
-
-heregeatwum -> None
-hildetorhtum -> None
-
-sweordum -> None
-fetelum -> None
-geglengde -> None
-
-þegniað -> None
-ðrymme -> None
-
-
-ðonan -> None
-ðrymme -> None
-þreatiað -> None
-gehwider -> None
-
-ymbsittenda -> None
-oðra -> oðer
-ðeoda -> None
-
-hlaford -> None
-scrifð -> None
-here -> herian
-waldeð -> None
-
-freonde -> None
-feonde -> None
-feore -> None
-æhtum -> None
-
-reðigmod -> None
-ræst -> None
-gehwilcne -> gehwylc
-
-wedehunde -> None
-wuhta -> None
-gelicost -> None
-
-ahæfen -> None
-inne -> inne
-mode -> None
-
-anwalde -> None
-anra -> an
-gehwilc -> None
-
-tirwina -> None
-fultemað -> None
-
-mon -> mann
-wolde -> willan
-awindan -> None
-
-cynegerelan -> None
-claða -> None
-gehwilcne -> gehwylc
-
-oftion -> None
-ðegnunga -> None
-
-anwaldes -> None
-hæfde -> habban
-
-meaht -> magan
-gesion -> None
-
-sumum -> sum
-gumena -> guma
-geornost -> None
-
-ðegnungum -> None
-ðringað -> None
-ymbeutan -> None
-
-wyrsa -> None
-wene -> None
-na -> na
-beteran -> None
-
-unmendlinga -> None
-
-weas -> None
-geberede -> None
-wurde -> weorþan
-oftogen -> ofteon
-
-þrymmes -> þrymm
-wæda -> None
-þegnunga -> None
-
-anwaldes -> None
-sprecað -> None
-
-ofhende -> None
-wyrð -> weorþ
-
-wat -> witan
-þynceð -> None
-
-becropen -> None
-carcern -> carcern
-coðlice -> None
-
-racentan -> racente
-geræped -> None
-gereccan -> None
-
-ungemete -> None
-ælces -> None
-ðinges -> None
-
-wiste -> witan
-wæda -> None
-wingedrinces -> None
-
-swetmettum -> None
-swiðost -> swiðe
-weaxað -> None
-
-wrænnesse -> None
-wodðrag -> None
-
-gedræfð -> None
-sefan -> None
-ingehygd -> ingehygd
-
-monna -> mann
-gehwelces -> None
-mæst -> micel
-
-yfla -> yfel
-ofermetta -> None
-unnetta -> None
-saca -> None
-
-gebolgene -> None
-weorðað -> None
-wyrð -> weorþ
-breostum -> None
-inne -> inne
-
-beswungen -> None
-sefa -> None
-hraðre -> None
-swiðan -> None
-welme -> None
-
-hatheortnesse -> hatheortnes
-hreðe -> None
-
-unrotnesse -> None
-geræped -> None
-
-hearde -> heard
-gehæfted -> None
-onginð -> None
-
-tohopa -> None
-leogan -> None
-
-gewinnes -> None
-wræce -> wræc
-wilnað -> None
-irre -> irre
-
-anes -> an
-oðres -> None
-gehæt -> None
-
-recelest -> None
-rihtes -> None
-scrifeð -> None
-
-sæde -> sæd
-selfan -> None
-bec -> None
-
-sumes -> None
-goodes -> None
-sidra -> None
-gesceafta -> None
-
-anlepra -> None
-a -> hosp
-wilnode -> wilnian
-
-agenum -> agen
-ealdgecynde -> None
-
-unrihtwise -> None
-eorðan -> eorþ
-cyningas -> cyning
-
-magon -> magan
-þurhtion -> None
-awuht -> None
-goodes -> None
-
-yfle -> yfel
-sæde -> sæd
-
-nan -> nan
-wundor -> wundor
-willað -> None
-
-unðeawum -> None
-nemde -> nemnan
-
-anra -> an
-gehwelcum -> None
-a -> hosp
-underðeodan -> None
-
-sceal -> sculan
-nede -> None
-nearwe -> nearo
-gebugan -> gebugan
-
-hlaforda -> None
-hæftedome -> None
-
-eallunga -> None
-underþiodde -> None
-
-wyrse -> None
-get -> None
-winnan -> winnan
-nyle -> None
-
-anwalde -> None
-stunde -> None
-
-wolde -> willan
-a -> hosp
-winnan -> winnan
-onginnan -> onginnan
-
-gewinne -> gewinnan
-þurhwunian -> þurhwunian
-
-næfde -> nabban
-nane -> nan
-scylde -> None
-
-oferwunnen -> oferwinnan
-weorðan -> None
-sceolde -> sculan
-## -> None
-eaðe -> None
-ealdum -> eald
-leasum -> leas
-
-spellum -> None
-andreccan -> None
-spræce -> None
-gelice -> gelice
-
-efne -> efne
-ilcan -> ilca
-sprecað -> None
-
-gesælde -> None
-gio -> None
-tide -> tid
-
-aulixes -> None
-hæfde -> habban
-
-casere -> casere
-cynericu -> None
-
-þracia -> None
-ðioda -> None
-aldor -> None
-
-retie -> None
-rices -> None
-hirde -> None
-
-freadrihtnes -> None
-folccuð -> None
-nama -> nama
-
-agamemnon -> None
-ealles -> eall
-weold -> None
-
-creca -> None
-rices -> None
-cuð -> None
-wide -> None
-
-tide -> tid
-troia -> None
-gewin -> gewin
-
-wearð -> None
-wolcnum -> wolcen
-wiges -> None
-heard -> heard
-
-creca -> None
-campsted -> None
-secan -> None
-
-aulixes -> None
-scipa -> scip
-
-lædde -> None
-lagustream -> None
-sæt -> sittan
-longe -> lange
-
-tyn -> tin
-winter -> winter
-full -> full
-tid -> tid
-gelomp -> None
-
-rice -> romana
-geræht -> None
-hæfdon -> habban
-
-diore -> None
-gecepte -> None
-creca -> None
-
-troia -> None
-burg -> cantwara
-tilum -> None
-gesiðum -> None
-
-aulixes -> None
-leafe -> leaf
-hæfde -> habban
-
-ðracia -> None
-cining -> None
-moste -> None
-
-let -> None
-behindan -> behindan
-hyrnde -> None
-ciolas -> None
-
-hundnigontig -> None
-nænigne -> None
-
-merehengesta -> None
-ma -> micel
-ænne -> an
-
-ferede -> ferian
-fifelstream -> None
-famigbordon -> None
-
-ðriereðre -> None
-ceol -> None
-mæste -> micel
-
-creciscra -> None
-scipa -> scip
-wearð -> None
-ceald -> None
-weder -> weder
-
-stearc -> None
-storma -> None
-gelac -> None
-stunede -> None
-brune -> None
-
-yð -> None
-feor -> feor
-adraf -> adrifan
-
-wendelsæ -> None
-wigendra -> None
-scola -> scolu
-
-igland -> None
-apolines -> None
-
-dohtor -> dohtor
-wunode -> wunian
-dægrimes -> None
-worn -> None
-
-apollinus -> None
-æðeles -> æðele
-cynnes -> cynn
-
-iobes -> None
-eafora -> None
-gio -> None
-cyning -> cyning
-
-licette -> None
-litlum -> None
-miclum -> micel
-
-gumena -> guma
-gehwylcum -> gehwylc
-good -> None
-
-hehst -> None
-halgost -> None
-hlaford -> None
-
-dysige -> dysig
-folc -> folc
-gedwolan -> None
-lædde -> None
-
-gelyfde -> gelifan
-leoda -> None
-unrim -> None
-
-rihte -> rihte
-rices -> None
-hirde -> None
-
-cynecynnes -> None
-cuð -> None
-wide -> None
-
-tide -> tid
-þeoda -> None
-æghwilc -> None
-
-hæfdon -> habban
-hlaford -> None
-hehstan -> None
-god -> god
-
-weorðodon -> None
-wuldres -> wuldor
-cining -> None
-
-rice -> romana
-rihte -> rihte
-boren -> beran
-
-iobes -> None
-fæder -> fæder
-god -> god
-
-saturnus -> None
-sundbuende -> None
-
-heton -> None
-hæleða -> None
-bearn -> beirnan
-hæfdon -> habban
-mægða -> None
-
-ælcne -> None
-ecne -> None
-god -> god
-
-sceolde -> sculan
-apollines -> None
-
-dohtor -> dohtor
-diorboren -> None
-dysiges -> dysig
-folces -> folc
-
-gumrinca -> None
-gyden -> None
-cuðe -> None
-galdra -> galdor
-
-drifan -> None
-drycræftas -> None
-gedwolan -> None
-fylgde -> None
-
-manna -> mann
-swiðost -> swiðe
-manegra -> manig
-þioda -> None
-
-cyninges -> cyning
-dohtor -> dohtor
-circe -> None
-
-haten -> None
-herigum -> here
-ricsode -> None
-
-iglonde -> None
-aulixes -> None
-
-cining -> None
-þracia -> None
-ane -> an
-
-ceole -> None
-liðan -> None
-cuð -> None
-sona -> sona
-
-eallre -> eall
-mænige -> None
-wunode -> wunian
-
-æþelinges -> None
-sið -> None
-ungemete -> None
-
-lissum -> None
-lufode -> lufian
-liðmonna -> None
-frean -> None
-
-same -> same
-mægne -> None
-
-efne -> efne
-sefan -> None
-lufode -> lufian
-
-earde -> eard
-nyste -> nytan
-
-modes -> None
-mynlan -> None
-mægð -> mægþ
-giunge -> None
-
-wife -> wif
-wunode -> wunian
-
-meahte -> magan
-monna -> mann
-
-ðegna -> None
-sinra -> None
-
-yrmðum -> None
-eardes -> None
-lyste -> None
-
-mynton -> myntan
-forlætan -> None
-leofne -> None
-hlaford -> None
-
-ongunnon -> onginnan
-wercan -> None
-werðeoda -> None
-spell -> None
-
-sædon -> None
-sceolde -> sculan
-scinlace -> None
-
-beornas -> beorn
-forbredan -> None
-balocræftum -> None
-
-wraðum -> None
-weorpan -> weorpan
-wildra -> None
-lic -> lic
-
-cyninges -> cyning
-þegnas -> þegen
-cyspan -> None
-
-racentan -> racente
-ræpan -> None
-mænigne -> None
-
-wulfum -> wulf
-wurdon -> wurdon
-meahton -> magan
-forðbringan -> None
-
-þragmælum -> None
-ðioton -> None
-ongunnon -> onginnan
-
-eaforas -> None
-a -> hosp
-grymetedon -> None
-
-sares -> None
-siofian -> None
-scioldon -> None
-
-leon -> None
-ongunnon -> onginnan
-laðlice -> None
-
-yrrenga -> None
-ryn -> None
-a -> hosp
-sceoldon -> sculan
-
-clipian -> clipian
-corðre -> None
-cnihtas -> cniht
-wurdon -> wurdon
-
-ealde -> eald
-giunge -> None
-forhwerfde -> None
-
-sumum -> sum
-diore -> None
-swelcum -> None
-æror -> None
-
-lifdagum -> None
-gelicost -> None
-
-cyninge -> cyninge
-cwen -> None
-lufode -> lufian
-
-oþra -> None
-onbitan -> None
-
-mennisces -> mennisc
-metes -> mete
-ma -> micel
-lufedon -> None
-
-diora -> None
-drohtað -> None
-gedefe -> None
-
-næfdon -> nabban
-mare -> micel
-monnum -> mann
-gelices -> None
-
-eorðbuendum -> None
-ingeþonc -> None
-
-hæfde -> habban
-anra -> an
-agen -> ongeagn
-mod -> None
-
-sorgum -> sorh
-gebunden -> gebunden
-
-earfoðum -> None
-sæton -> None
-
-dysegan -> None
-men -> mann
-ðysum -> þes
-drycræftum -> None
-
-longe -> lange
-gelyfdon -> gelifan
-leasum -> leas
-spellum -> None
-
-wisson -> None
-hwæðre -> None
-gewit -> gewitan
-
-mod -> None
-onwendan -> onwendan
-monna -> mann
-
-drycræftum -> None
-gedon -> gedon
-meahte -> magan
-
-lichoman -> None
-lange -> lange
-
-onwend -> onwendan
-wurdon -> wurdon
-wundorlic -> wundorlic
-
-mægencræft -> mægencræft
-moda -> None
-gehwilces -> None
-
-lichoman -> None
-lænne -> None
-sænne -> None
-
-swylcum -> swilc
-swylcum -> swilc
-meaht -> magan
-sweotole -> sweotol
-ongitan -> None
-
-lichoman -> None
-listas -> None
-cræftas -> cræft
-
-mode -> None
-cumað -> None
-monna -> mann
-gehwylcum -> gehwylc
-
-anlepra -> None
-meaht -> magan
-eaðe -> None
-ongitan -> None
-
-ma -> micel
-dereð -> None
-monna -> mann
-gehwelcum -> None
-
-modes -> None
-unðeaw -> None
-mettrymnes -> None
-
-lænes -> None
-lichoman -> None
-þearf -> þurfan
-leoda -> None
-nan -> nan
-
-wenan -> None
-wyrde -> wyrd
-werige -> werian
-flæsc -> flæsc
-
-mod -> None
-mæge -> mæge
-monna -> mann
-æniges -> ænig
-
-eallunga -> None
-onwendan -> onwendan
-
-unðeawas -> None
-ælces -> None
-modes -> None
-
-ingeþonc -> None
-ælces -> None
-monnes -> None
-
-lichoman -> None
-lit -> None
-þider -> þider
-wile -> wil
-## -> None
-scylen -> sculan
-unrihtfioungum -> None
-
-mod -> None
-drefan -> None
-mereflodes -> None
-
-yþa -> None
-hrerað -> None
-iscalde -> None
-sæ -> sæ
-
-wecggað -> None
-winde -> windan
-oðwite -> None
-
-wyrde -> wyrd
-geweald -> geweald
-nafað -> None
-
-deaðes -> None
-gesceop -> gesceppan
-
-gebidan -> None
-magon -> magan
-bitres -> biter
-gecyndes -> gecynd
-
-ælce -> ælc
-dæg -> dæg
-onet -> None
-toweard -> None
-
-magon -> magan
-gesion -> None
-symle -> simble
-spyreð -> None
-
-æghwelcum -> None
-eorðan -> eorþ
-tudre -> tudor
-
-diorum -> None
-fuglum -> fugol
-deað -> None
-same -> same
-
-moncynne -> None
-middangeard -> middangeard
-
-egeslic -> None
-hunta -> huntian
-a -> hosp
-waðe -> None
-
-nyle -> None
-swæð -> None
-forlætan -> None
-
-gehede -> None
-
-spyrede -> None
-earmlic -> None
-þing -> þingan
-
-gebidan -> None
-magon -> magan
-burgsittende -> None
-
-ungesælige -> None
-men -> mann
-willað -> None
-
-foran -> foran
-sciotan -> None
-fugla -> fugol
-cyn -> None
-
-wildu -> None
-dior -> None
-winnað -> None
-betwuh -> betweoh
-
-æghwylc -> None
-wolde -> willan
-acwellan -> acwellan
-
-unriht -> None
-æghwelcum -> None
-men -> mann
-
-oðerne -> oðer
-inwitþoncum -> None
-
-fioge -> None
-færðe -> None
-fugl -> None
-dior -> None
-
-rihtost -> None
-rinca -> rinc
-
-gulde -> gieldan
-edlean -> None
-riht -> riht
-
-weorc -> weorc
-geweorhtum -> None
-weoruldbuendum -> None
-
-þinga -> þingian
-gehwilces -> None
-lufige -> lufian
-
-godra -> god
-gehwilcne -> gehwylc
-geornost -> None
-mæge -> mæge
-
-mildsige -> None
-yflum -> yfel
-spræcon -> None
-
-sceal -> sculan
-monnan -> None
-mode -> None
-lufian -> lufian
-
-unþeawas -> None
-hatian -> hatian
-
-ofsniðan -> None
-swiðost -> swiðe
-mæge -> mæge
-## -> None
-eorðan -> eorþ
-unlærdra -> None
-
-wundrige -> wundrian
-wolcna -> wolcen
-færeldes -> None
-
-rodres -> None
-swifto -> None
-ryne -> ryne
-tunglo -> None
-
-ælce -> ælc
-dæge -> dæg
-utan -> utan
-ymbhwerfeð -> None
-
-eallne -> eall
-middangeard -> middangeard
-moncynnes -> None
-
-wundrie -> wundrian
-wlitegan -> None
-tungl -> None
-
-habbað -> None
-
-scyrtran -> None
-ymbehwerft -> None
-scriðað -> None
-leng -> leng
-
-utan -> utan
-tungla -> tungol
-
-woruldmen -> None
-hatað -> None
-wænes -> None
-þisla -> None
-
-habbað -> None
-scyrtran -> None
-scriðe -> None
-færelt -> None
-
-ymbhwerft -> None
-læssan -> None
-oðru -> oðer
-tungl -> None
-
-eaxe -> None
-utan -> utan
-ymbhweorfeð -> None
-
-norðende -> None
-nean -> None
-ymbcerreð -> None
-
-ilcan -> ilca
-eaxe -> None
-hwerfeð -> None
-
-ruma -> None
-rodor -> rodor
-recene -> recen
-scriðeð -> None
-
-suðheald -> None
-swifeð -> None
-swift -> None
-untiorig -> None
-
-weorulde -> None
-wafige -> None
-
-ane -> an
-wisson -> None
-
-mænig -> manig
-tungul -> None
-maran -> micel
-ymbhwyrft -> None
-
-hafað -> None
-heofonum -> heofon
-
-læsse -> None
-geliðað -> None
-lacað -> None
-
-eaxe -> None
-
-mare -> micel
-geferað -> None
-middre -> midd
-
-þearle -> þearle
-þrægeð -> None
-gehaten -> gehatan
-
-saturnus -> None
-hæfð -> None
-
-wintergerimes -> None
-weoruld -> None
-ymbcirred -> None
-
-boetes -> None
-beorhte -> beorht
-scineð -> None
-
-steorra -> steorra
-efne -> efne
-same -> same
-
-ilcan -> ilca
-stede -> stede
-
-geargerimes -> None
-gio -> None
-
-weoruldmonna -> None
-wafige -> None
-
-steorran -> steorra
-sæ -> sæ
-farað -> None
-
-merestreamas -> None
-monnum -> mann
-ðincð -> None
-
-wenað -> None
-sunne -> sunne
-
-wena -> wenian
-wuhte -> None
-soðra -> None
-
-æfen -> None
-ærmorgen -> None
-
-merestreame -> None
-near -> None
-midne -> None
-dæg -> dæg
-
-monnum -> mann
-þyncð -> None
-mere -> mere
-gange -> gangan
-
-sæswife -> None
-setl -> setl
-glideð -> None
-
-weorulde -> None
-wundrige -> wundrian
-
-fulles -> full
-monan -> None
-færinga -> færinga
-
-wyrð -> weorþ
-wolcnum -> wolcen
-wlites -> None
-bereafad -> None
-
-beþeaht -> beþeccan
-þiostrum -> None
-þegna -> þegnian
-mæge -> mæge
-
-wafian -> wafian
-ælces -> None
-stiorran -> None
-
-scinen -> scinan
-scirum -> None
-wederum -> None
-
-sunnan -> sunne
-symle -> simble
-doð -> None
-
-middelnihtum -> None
-monan -> None
-foran -> foran
-
-hadrum -> None
-heofone -> heofon
-hæleða -> None
-
-swelces -> None
-swelces -> None
-wundrað -> None
-
-wundriað -> None
-wuhta -> None
-gehwilc -> None
-
-men -> mann
-netenu -> None
-micelne -> micelne
-habbað -> None
-
-unnetne -> None
-andan -> anda
-betweoh -> None
-
-singalne -> None
-sellic -> None
-þincg -> None
-
-wundriað -> None
-wolcnum -> wolcen
-
-þearle -> þearle
-þunrað -> None
-þragmælum -> None
-
-anforlæteð -> None
-same -> same
-
-yð -> None
-lande -> land
-ealneg -> None
-winneð -> None
-
-wind -> windan
-wæge -> None
-wundrað -> None
-
-oþres -> oðer
-hwi -> hwy
-mæge -> mæge
-
-weorðan -> None
-wætere -> wæter
-wlitetorht -> None
-scineð -> None
-
-sunna -> None
-swegle -> swegl
-hat -> None
-sona -> sona
-gecerreð -> None
-
-ismere -> None
-ænlic -> None
-agen -> ongeagn
-gecynd -> gecynd
-
-weorðeð -> None
-wætre -> None
-þincð -> None
-wundor -> wundor
-
-monna -> mann
-ænegum -> ænig
-mægge -> None
-gesion -> None
-
-dogora -> None
-gehwilce -> None
-dysie -> None
-folc -> folc
-
-seldnor -> None
-gesihð -> gesiht
-swiðor -> swiðe
-wundrað -> None
-
-wisra -> None
-gehwæm -> None
-wundor -> wundor
-ðince -> None
-
-modsefan -> None
-læsse -> None
-
-unstaðolfæste -> unstaþolfæst
-ealneg -> None
-wenað -> None
-
-ealdgesceaft -> None
-
-seldon -> None
-gesioð -> None
-swiðor -> swiðe
-giet -> git
-
-weoruldmen -> None
-wenað -> None
-weas -> None
-come -> come
-
-niwan -> None
-gesælde -> None
-nængum -> None
-
-oðeowde -> None
-earmlic -> None
-þinc -> None
-
-weorðeð -> None
-
-firwetgeorn -> None
-onginð -> None
-
-leornian -> leornian
-lista -> list
-weard -> weard
-
-mode -> None
-abrit -> None
-dysig -> dysig
-
-oferwrigen -> None
-wunode -> wunian
-lange -> lange
-
-wæt -> None
-geare -> geare
-wundriað -> None
-
-mæniges -> None
-þinges -> þing
-monnum -> mann
-
-wæfðo -> None
-wunder -> None
-welhwær -> welhwær
-þynceð -> None
-## -> None
-wilnige -> wilnian
-weorulddrihtnes -> None
-
-heane -> None
-anwald -> anweald
-hlutre -> None
-mode -> None
-
-ongitan -> None
-giorne -> None
-gem -> None
-almægene -> None
-
-heofones -> heofon
-tunglu -> tungol
-healdað -> None
-betwuh -> betweoh
-
-sibbe -> sibb
-singale -> None
-dydon -> don
-lange -> lange
-
-gewenede -> None
-wuldres -> wuldor
-aldor -> None
-
-frumsceafte -> None
-fyrene -> fyren
-mot -> None
-
-sunne -> sunne
-gesecan -> None
-snawcealdes -> None
-weg -> wegan
-
-monan -> None
-gemæro -> None
-mæran -> mære
-tungl -> None
-
-auðer -> None
-oðres -> None
-rene -> None
-a -> hosp
-gehrineð -> None
-
-gewiteð -> gewitan
-
-huru -> huru
-stiorra -> None
-gestigan -> None
-wile -> wil
-
-westdæl -> None
-wolcna -> wolcen
-wise -> None
-men -> mann
-
-ursa -> None
-nemnað -> None
-stiorran -> None
-
-sigað -> None
-sunnan -> sunne
-samod -> samod
-rodere -> None
-
-eorðan -> eorþ
-grund -> grund
-stent -> standan
-
-nan -> nan
-wundor -> wundor
-wundrum -> wundor
-fæst -> fæstan
-
-upende -> None
-neah -> neah
-eaxe -> None
-roderes -> None
-
-steorra -> steorra
-beorht -> beorht
-
-eastan -> eastan
-sunne -> sunne
-
-monna -> mann
-bearn -> beirnan
-morgenstiorra -> None
-
-hatað -> None
-heofonum -> heofon
-hæleþum -> hæle
-dæg -> dæg
-
-bodað -> None
-burgum -> burh
-brengeð -> None
-
-swegeltorht -> None
-sunne -> sunne
-samad -> None
-dæg -> dæg
-
-forrynel -> None
-fæger -> fæger
-sciene -> None
-
-eastan -> eastan
-sunnan -> sunne
-
-sunnan -> sunne
-setl -> setl
-glideð -> None
-
-west -> west
-weorulde -> None
-werðioda -> None
-
-noman -> None
-onwendað -> None
-niht -> niht
-
-hatað -> None
-æfenstiorra -> None
-
-sunnan -> sunne
-swiftra -> None
-setl -> setl
-gewitað -> gewitan
-
-ofirneð -> None
-æþele -> æþelu
-tungol -> tungol
-eastan -> eastan
-weorðeð -> None
-
-eldum -> None
-oðewed -> None
-sunne -> sunne
-
-habbað -> None
-æðele -> æðele
-tungol -> tungol
-emne -> None
-gedæled -> None
-
-dæg -> dæg
-nihte -> niht
-drihtnes -> drihten
-meahtum -> None
-
-sunna -> None
-mona -> mona
-geþwære -> None
-
-frymþe -> None
-fæder -> fæder
-getiohhode -> None
-
-þearft -> þurfan
-wenan -> None
-wlitegan -> None
-tungl -> None
-
-þeowdomes -> None
-aðroten -> None
-weorðe -> None
-
-domes -> None
-dæge -> dæg
-deð -> None
-
-moncynnes -> None
-fruma -> None
-gemet -> None
-þinceð -> None
-
-healfe -> healf
-heofones -> heofon
-
-ane -> an
-læt -> læt
-ælmihtig -> None
-god -> god
-
-læs -> læs
-oðra -> oðer
-fordyden -> fordon
-æþela -> æþelu
-gesceafta -> None
-
-eca -> None
-god -> god
-gemetgað -> None
-
-sida -> sidu
-gesceafta -> None
-softa -> None
-geþwerað -> None
-
-drige -> None
-drifð -> None
-wætan -> None
-
-hwylum -> None
-gemengeð -> None
-metodes -> metod
-cræfte -> cræft
-
-cile -> None
-hæto -> None
-cerreð -> None
-
-uprodor -> None
-ælbeorhta -> None
-leg -> None
-
-leoht -> sunnan
-lyfte -> lyft
-ligeð -> None
-behindan -> behindan
-
-hefig -> hefig
-hrusan -> hruse
-dæl -> dæl
-hwilan -> None
-
-eorðe -> eorþ
-cealde -> None
-oninnan -> None
-
-heold -> None
-hydde -> None
-haliges -> None
-meahtum -> None
-
-cyninges -> cyning
-gebode -> gebod
-geara -> gear
-gehwæt -> None
-
-eorðe -> eorþ
-bringeð -> None
-æghwylc -> None
-tudor -> None
-
-hata -> hatian
-sumor -> sumer
-hæleða -> None
-bearnum -> bearn
-
-geara -> gear
-gehwilce -> None
-giereð -> None
-drigeð -> None
-
-sidne -> None
-grund -> grund
-sæd -> sæd
-bleda -> None
-
-hærfest -> hærfest
-honda -> None
-herbuendum -> None
-
-ripa -> None
-receð -> None
-ren -> None
-
-hagal -> None
-snaw -> None
-hrusan -> hruse
-leccað -> None
-
-wintres -> winter
-tid -> tid
-weder -> weder
-unhiore -> None
-
-eorðe -> eorþ
-onfehð -> None
-sædum -> None
-
-gedeð -> None
-growað -> None
-geara -> gear
-gehwilce -> None
-
-lenctentid -> None
-leaf -> leaf
-spryttað -> None
-
-milda -> None
-metod -> metod
-monna -> mann
-bearnum -> bearn
-
-eorðan -> eorþ
-fet -> fot
-groweð -> None
-
-wæstmas -> None
-weorolde -> None
-wel -> wel
-forðbrengeð -> None
-
-wile -> wil
-heofona -> heofon
-waldend -> None
-
-eowað -> None
-eorðbuendum -> None
-
-nimð -> None
-wile -> wil
-nergende -> None
-god -> god
-
-hehste -> None
-good -> None
-heahsetle -> None
-
-siteð -> None
-cyning -> cyning
-þios -> None
-side -> None
-gesceaft -> None
-
-þenað -> None
-ðiowað -> None
-waldeð -> None
-
-geweltleðrum -> None
-weoruldgesceafta -> None
-
-nan -> nan
-wundor -> wundor
-weroda -> werod
-god -> god
-
-cyning -> cyning
-cwucera -> None
-gehwelces -> None
-
-æwelm -> None
-fruma -> None
-eallra -> eall
-gesceafta -> None
-
-wyrhta -> wyrhta
-sceppend -> None
-weorulde -> None
-
-wisdom -> None
-æ -> None
-woruldbuendra -> None
-
-gesceafta -> None
-ærendo -> None
-
-hionane -> None
-sendeð -> None
-hæt -> None
-
-gestæððig -> None
-staðolade -> None
-
-gesceafta -> None
-æghwylc -> None
-
-wraðe -> None
-tostencte -> None
-weorðan -> None
-sceolden -> sculan
-
-æghwilc -> None
-nauhte -> None
-
-weorðan -> None
-sceoldon -> sculan
-wraðe -> None
-toslopena -> None
-
-ane -> an
-lufe -> lufu
-gesceafta -> None
-
-heofones -> heofon
-eorðan -> eorþ
-hæbben -> habban
-gemæne -> gemæne
-
-þiowien -> None
-swilcum -> None
-þiodfruman -> None
-
-fægniað -> None
-fæder -> fæder
-wealdeð -> None
-
-nan -> nan
-wundor -> wundor
-wuhta -> None
-nan -> nan
-
-meahte -> magan
-elles -> elles
-wunian -> wunian
-
-eallmægene -> None
-ordfruman -> None
-
-þiowoden -> None
-þeodne -> None
-mærum -> None
-## -> None
-æala -> None
-grimmum -> grim
-grundleasum -> None
-
-seaðe -> None
-swinceð -> None
-sweorcende -> sweorcan
-mod -> None
-
-strongan -> None
-stormas -> None
-beatað -> None
-
-weoruldbisgunga -> None
-winnende -> winnan
-
-agen -> ongeagn
-leoht -> sunnan
-forlæteð -> None
-
-uua -> None
-forgit -> None
-ecan -> None
-gefean -> None
-
-ðringð -> None
-ðiostro -> None
-worulde -> weorold
-
-sorgum -> sorh
-geswenced -> None
-
-mode -> None
-gelumpen -> limpan
-mare -> micel
-wat -> witan
-
-gode -> god
-godes -> god
-gnornunge -> None
-
-fremdre -> fremde
-worulde -> weorold
-frofre -> None
-ðearf -> None
-## -> None
-omerus -> None
-east -> None
-crecum -> None
-
-leodscipe -> None
-leoða -> None
-cræftgast -> None
-
-firgilies -> None
-freond -> None
-lareow -> None
-
-mæran -> mære
-sceope -> None
-magistra -> None
-betst -> wel
-
-omerus -> None
-gelome -> gelome
-
-sunnan -> sunne
-wlite -> wlite
-herede -> herian
-
-æðelo -> None
-cræftas -> cræft
-gelome -> gelome
-
-leoðum -> None
-spellum -> None
-leodum -> None
-reahte -> reccan
-
-gescinan -> None
-scir -> scir
-beorht -> beorht
-
-ahwærgen -> None
-neah -> neah
-gesceafta -> None
-
-furðum -> None
-gesceafta -> None
-gescinan -> None
-
-endemes -> endemes
-geondlihtan -> None
-
-innan -> innan
-utan -> utan
-ælmihtega -> None
-
-waldend -> None
-wyrhta -> wyrhta
-weorulde -> None
-gesceafta -> None
-
-agen -> ongeagn
-weorc -> weorc
-geondwliteð -> None
-
-endemes -> endemes
-þurhsyhð -> None
-gesceafta -> None
-
-soðe -> None
-sunne -> sunne
-rihte -> rihte
-
-magon -> magan
-singan -> singan
-lease -> leas
-## -> None
-meaht -> magan
-ongitan -> None
-geman -> gemunan
-lyst -> None
-
-mislice -> None
-manega -> manig
-wuhta -> None
-
-eorðan -> eorþ
-farað -> None
-ungelice -> None
-
-habbað -> None
-blioh -> None
-fær -> None
-bu -> None
-ungelice -> None
-
-mægwlitas -> None
-manegra -> manig
-cynna -> cynn
-
-cuð -> None
-uncuð -> uncuþ
-creopað -> None
-snicað -> None
-
-lichoma -> None
-eorðan -> eorþ
-getenge -> None
-
-nabbað -> None
-fiðrum -> None
-fultum -> fultum
-magon -> magan
-fotum -> fot
-gangan -> gangan
-
-eorðan -> eorþ
-brucan -> None
-eaden -> None
-
-fotum -> fot
-foldan -> folde
-peððað -> None
-
-fierfete -> None
-fleogende -> None
-
-windað -> None
-wolcnum -> wolcen
-wuhta -> None
-
-onhnigen -> None
-hrusan -> hruse
-hnipað -> None
-dune -> None
-
-weoruld -> None
-wliteð -> None
-wilnað -> None
-eorðan -> eorþ
-
-nedþearfe -> None
-neodfræce -> None
-
-man -> mann
-metodes -> metod
-gesceafta -> None
-
-andwlitan -> andwlita
-gerihte -> gerihte
-
-getacnod -> None
-treowa -> treow
-sceal -> sculan
-
-modgeþonc -> None
-ma -> micel
-niðer -> None
-
-heofonum -> heofon
-læs -> læs
-hige -> None
-wende -> wendan
-
-niðer -> None
-nyten -> nytan
-gedafenlic -> None
-
-modsefa -> None
-monna -> mann
-æniges -> ænig
-
-niðerheald -> None
-wese -> None
-neb -> None
-upweard -> None
-## -> None
-æala -> None
-scippend -> None
-scirra -> None
-tungla -> tungol
-
-hefones -> None
-eorðan -> eorþ
-heahsetle -> None
-
-ecum -> None
-ricsast -> None
-ealne -> eal
-hræðe -> None
-
-hefon -> None
-ymbhwearfest -> None
-halige -> None
-miht -> miht
-
-tunglu -> tungol
-genedest -> None
-herað -> None
-
-sunne -> sunne
-sweartra -> sweart
-nihta -> niht
-
-ðiostro -> None
-adwæsceð -> None
-meht -> None
-
-blacum -> blæc
-leohte -> leoht
-beorhte -> beorht
-steorran -> steorra
-
-mona -> mona
-gemetgað -> None
-ðinra -> None
-meahta -> None
-sped -> None
-
-sunnan -> sunne
-sines -> None
-bereafað -> None
-
-beorhtan -> beorht
-leohtes -> None
-gebyrigan -> None
-
-geneahsne -> None
-nede -> None
-weorðað -> None
-
-swelce -> None
-mæran -> mære
-morgensteorran -> None
-
-naman -> naman
-æfensteorra -> None
-
-nemnan -> nemnan
-herað -> None
-genedest -> None
-
-sunnan -> sunne
-sið -> None
-bewitige -> None
-
-geara -> gear
-gehwelce -> None
-gongan -> None
-sceal -> sculan
-
-feran -> None
-fæder -> fæder
-wercest -> None
-
-sumurlange -> None
-dagas -> dæg
-hate -> hat
-
-winterdagum -> None
-wundrum -> wundor
-sceorta -> None
-
-tida -> None
-getiohhast -> None
-treowum -> treow
-selest -> None
-
-suðan -> None
-westan -> westan
-swearta -> sweart
-storm -> None
-
-norðan -> norþan
-eastan -> eastan
-benumen -> beniman
-hæfde -> habban
-
-leafa -> None
-gehwelces -> None
-laðran -> None
-wind -> windan
-
-eorðan -> eorþ
-gesceafta -> None
-
-hyrað -> None
-hæse -> hæs
-doð -> None
-heofonum -> heofon
-some -> None
-
-mode -> None
-mægne -> None
-men -> mann
-
-wyrceð -> None
-oftost -> None
-
-wel -> wel
-la -> la
-eca -> None
-ælmihtiga -> eallmihtig
-
-gesceafta -> None
-sceppend -> None
-reccend -> None
-
-ara -> ar
-earmum -> earm
-eorðan -> eorþ
-tudre -> tudor
-
-monna -> mann
-cynne -> cynn
-ðinra -> None
-mehta -> None
-sped -> None
-
-hwi -> hwy
-ece -> ece
-god -> god
-wolde -> willan
-
-wyrd -> wyrd
-gewill -> gewil
-wendan -> wendan
-sceolde -> sculan
-
-yflum -> yfel
-monnum -> mann
-ealles -> eall
-
-ful -> None
-dereð -> None
-unscyldegum -> None
-
-sittað -> None
-yfele -> yfele
-men -> mann
-giond -> None
-eorðricu -> None
-
-heahsetlum -> None
-halige -> None
-þriccað -> None
-
-fotum -> fot
-firum -> None
-uncuð -> uncuþ
-
-hwi -> hwy
-wyrd -> wyrd
-wo -> None
-wendan -> wendan
-sceolde -> sculan
-
-gehydde -> None
-worulde -> weorold
-
-burga -> burh
-beorhte -> beorht
-cræftas -> cræft
-
-unrihtwise -> None
-tidum -> tid
-
-habbað -> None
-hospe -> hosp
-
-rihtes -> None
-wisran -> None
-rices -> None
-wyrðran -> None
-
-lease -> leas
-lot -> None
-lange -> lange
-
-bewrigen -> None
-wrencum -> wrenc
-worulde -> weorold
-
-monnum -> mann
-deriað -> None
-mane -> None
-aðas -> aþ
-
-waldend -> None
-wilt -> willan
-wirde -> None
-steoran -> None
-
-selfwille -> None
-sigan -> None
-lætest -> None
-
-wat -> witan
-wile -> wil
-woruldmen -> None
-tweogan -> None
-
-foldan -> folde
-sceat -> None
-fea -> None
-ane -> an
-
-ofersihst -> None
-
-worulde -> weorold
-gesceafta -> None
-wlit -> None
-moncyn -> None
-
-mildum -> None
-eagum -> None
-monegum -> None
-
-worulde -> weorold
-yðum -> None
-wynnað -> None
-swincað -> None
-
-earme -> earm
-eorðwaran -> None
-ara -> ar
-## -> None
-meaht -> magan
-sunnan -> sunne
-sweotole -> sweotol
-geþencean -> None
-
-æghwelcum -> None
-steorran -> steorra
-
-burgum -> burh
-beorhtost -> None
-scineð -> None
-
-wan -> None
-wolcen -> wolcen
-hangað -> None
-
-mægen -> mægen
-leohtne -> None
-leoman -> None
-ansendan -> None
-
-þicca -> þicce
-mist -> None
-þynra -> None
-weorðe -> None
-
-smylte -> None
-sæ -> sæ
-suðerne -> None
-wind -> windan
-
-græge -> None
-glashlutre -> None
-grimme -> grimman
-gedrefeð -> None
-
-gemengað -> None
-micla -> micel
-ysta -> None
-
-onhrerað -> None
-hronmere -> None
-hrioh -> None
-
-gladu -> glæd
-onsiene -> None
-
-æspringe -> None
-awealleð -> None
-
-clife -> None
-harum -> hara
-col -> col
-hlutor -> None
-
-gereclice -> None
-rihte -> rihte
-floweð -> None
-
-irneð -> None
-eardes -> None
-innan -> innan
-felð -> None
-
-muntes -> munt
-mægenstan -> None
-middan -> midde
-geligeð -> None
-
-atrendlod -> None
-torre -> torr
-
-tosceaden -> None
-wyrð -> weorþ
-scir -> scir
-gedrefed -> gedrefan
-
-burna -> None
-geblonden -> None
-broc -> None
-onwended -> onwendan
-
-rihtryne -> None
-ryðum -> None
-toflowen -> None
-
-þiostro -> None
-heortan -> heorte
-
-willað -> None
-minre -> minre
-leohtan -> None
-lare -> lar
-wiðstondan -> None
-
-modgeþonc -> None
-miclum -> micel
-gedrefan -> gedrefan
-
-wilnast -> wilnian
-wel -> wel
-mæge -> mæge
-
-soðe -> None
-leoht -> sunnan
-sweotole -> sweotol
-oncnawan -> oncnawan
-
-leohte -> leoht
-geleafan -> geleafa
-forlætan -> None
-scealt -> sculan
-
-idle -> None
-ofersælða -> None
-unnytne -> None
-gefean -> None
-
-scealt -> sculan
-yfelne -> yfel
-ege -> ege
-forlætan -> None
-
-woruldearfoða -> None
-most -> None
-
-ealles -> eall
-ormod -> None
-læt -> læt
-
-wlenca -> wlencu
-gewæcan -> None
-læs -> læs
-weorðe -> None
-
-ofermettum -> None
-gescended -> None
-
-ahafen -> None
-orsorgum -> None
-
-woruldgesælðum -> None
-waclice -> None
-
-geortreowe -> None
-æniges -> ænig
-godes -> god
-
-worulde -> weorold
-wiðerwearda -> None
-mæsð -> None
-
-þinga -> þingian
-þreage -> þreagan
-selfum -> self
-
-swiðost -> swiðe
-onsitte -> onsittan
-simle -> simble
-
-modsefa -> None
-miclum -> micel
-gebunden -> gebunden
-
-gedrefnesse -> None
-dreccean -> None
-mot -> None
-
-þissa -> None
-yfla -> yfel
-hwæðer -> hwæðer
-innan -> innan
-swencan -> None
-
-tregan -> None
-teoð -> None
-tosomne -> tosamne
-
-mod -> None
-foran -> foran
-mistes -> None
-dwoleman -> None
-
-ece -> ece
-mot -> None
-innan -> innan
-geondscinan -> None
-
-sunne -> sunne
-sweartum -> sweart
-mistum -> None
-ærðæm -> None
-geswiðrad -> None
-weorðen -> None
-## -> None
-wisdom -> None
-wordhord -> wordhord
-onleac -> None
-
-sang -> singan
-soðcwidas -> None
-: -> None
-
-sunne -> sunne
-sweotolost -> None
-scineð -> None
-
-hadrost -> None
-hefone -> None
-hræðe -> None
-bioð -> None
-aðistrod -> None
-
-ofir -> None
-eorðan -> eorþ
-steorran -> steorra
-
-birhtu -> birhtu
-auht -> None
-
-gesettane -> None
-sunnan -> sunne
-leoht -> sunnan
-
-smolte -> None
-blæwð -> None
-suðan -> None
-westan -> westan
-
-wind -> windan
-wolcnum -> wolcen
-weaxeð -> None
-hraðe -> None
-
-feldes -> None
-blostman -> None
-fægen -> fægen
-moton -> None
-
-stearca -> None
-storm -> None
-strong -> None
-cymð -> None
-
-norðan -> norþan
-eastan -> eastan
-genimeð -> None
-hraðe -> None
-
-rosan -> rose
-wlite -> wlite
-ruman -> None
-sæ -> sæ
-
-norðerne -> None
-yst -> None
-nede -> None
-gebædeð -> None
-
-strange -> strang
-geondstyred -> geondstyrian
-staðu -> None
-beateð -> None
-
-eorðan -> eorþ
-auht -> None
-fæstlices -> None
-
-weorces -> weorc
-worulde -> weorold
-wunað -> None
-## -> None
-ongon -> None
-wisdom -> None
-gewunan -> gewuna
-fylgan -> None
-
-gliowordum -> None
-gol -> None
-gyd -> None
-spelle -> None
-
-song -> None
-soðcwida -> None
-sumne -> sum
-geta -> None
-
-herde -> None
-heane -> None
-munt -> munt
-
-monna -> mann
-meahte -> magan
-asettan -> None
-
-healle -> heall
-hroffæste -> None
-þearf -> þurfan
-hæleða -> None
-nan -> nan
-
-wenan -> None
-weorces -> weorc
-wisdom -> None
-mæge -> mæge
-
-ofermetta -> None
-gemengan -> gemengan
-
-herdes -> None
-mon -> mann
-
-sondbeorgas -> None
-settan -> settan
-meahte -> magan
-
-healle -> heall
-fira -> None
-nan -> nan
-
-wisdom -> None
-timbran -> timbran
-woruldgitsung -> None
-
-beorg -> beorg
-oferbrædeð -> None
-baru -> bær
-sond -> None
-willað -> None
-
-ren -> None
-forswelgan -> forswelgan
-deð -> None
-ricra -> None
-
-grundleas -> None
-gitsung -> None
-gilpes -> None
-æhta -> None
-
-gedrinceð -> None
-dryggum -> None
-dreosendne -> None
-welan -> wela
-
-þearfan -> þearfa
-þurst -> None
-aceled -> None
-
-hæleþa -> hæle
-gehwæm -> None
-hus -> None
-munte -> munt
-
-lange -> lange
-gelæstan -> None
-lungre -> None
-
-swift -> None
-wind -> windan
-swapeð -> None
-sond -> None
-ma -> micel
-
-micelne -> micelne
-ren -> None
-manna -> mann
-
-huses -> None
-hirde -> None
-hreosan -> None
-wile -> wil
-
-sigan -> None
-sond -> None
-rene -> None
-bioð -> None
-anra -> an
-
-monna -> mann
-modsefan -> None
-miclum -> micel
-awegede -> None
-
-stede -> stede
-styrede -> styrian
-strong -> None
-dreceð -> None
-
-wind -> windan
-wolcnum -> wolcen
-woruldearfoða -> None
-
-reða -> None
-ren -> None
-onhrereð -> None
-
-sumes -> None
-ymbhogan -> None
-ungemet -> None
-gemen -> None
-
-ecan -> None
-agan -> aginnan
-wille -> willan
-
-soðan -> None
-gesælða -> None
-sceal -> sculan
-flion -> None
-
-worulde -> weorold
-wlite -> wlite
-wyrce -> None
-
-modes -> None
-hus -> None
-mæge -> mæge
-findan -> findan
-
-eaðmetta -> None
-stan -> None
-unigmet -> None
-fæstne -> fæst
-
-grundweal -> None
-gearone -> gearu
-toglidan -> None
-þearf -> þurfan
-
-wecge -> None
-wind -> windan
-woruldearfoða -> None
-
-ymbhogena -> None
-ormete -> None
-ren -> None
-
-forþæm -> forðam
-dene -> denu
-
-eadmetta -> None
-eardfæst -> None
-wunigað -> None
-
-wisdom -> None
-a -> hosp
-wunað -> None
-gemyndum -> gemynd
-
-orsorg -> None
-lif -> None
-ealnig -> None
-lædað -> None
-
-woruldmen -> None
-wise -> None
-wendinge -> None
-
-forsihð -> None
-eorðlicu -> None
-good -> None
-
-yfela -> yfel
-orsorh -> None
-wunað -> None
-
-hopað -> None
-ecum -> None
-cumað -> None
-
-æghwonan -> None
-ælmihtig -> None
-good -> None
-
-singallice -> None
-simle -> simble
-gehealdeð -> None
-
-anwunigendne -> None
-agenum -> agen
-
-modes -> None
-gesælðum -> None
-metodes -> metod
-gife -> gifu
-
-wind -> windan
-woruldearfoða -> None
-
-swence -> None
-singale -> None
-
-gemen -> None
-gæle -> gælan
-grimme -> grimman
-
-woruldsælða -> None
-wind -> windan
-wraðe -> None
-blaweð -> None
-
-ealneg -> None
-ymbhoga -> None
-
-ðyssa -> None
-woruldsælða -> None
-wraðe -> None
-drecce -> dreccan
-## -> None
-sona -> sona
-wisdom -> None
-hæfde -> habban
-
-swetole -> None
-areahte -> None
-ongan -> onginnan
-
-singan -> singan
-soðcwidas -> None
-: -> None
-
-forme -> None
-eld -> None
-foldbuendum -> None
-
-eorðan -> eorþ
-sceat -> None
-æghwam -> None
-dohte -> dugan
-
-anra -> an
-gehwæm -> None
-eorðwæstmum -> None
-
-genoh -> genoh
-ðuhte -> None
-swelc -> None
-
-næron -> None
-weorulde -> None
-welige -> welig
-hamas -> None
-
-mislice -> None
-mettas -> None
-drincas -> None
-
-hrægla -> None
-huru -> huru
-gemdon -> None
-
-drihtguman -> None
-diorost -> None
-lætað -> None
-
-gieta -> None
-
-gesawon -> None
-sundbuende -> None
-
-ymbutan -> ymbutan
-awer -> None
-herdon -> None
-
-firenlusta -> None
-frece -> frec
-
-meahton -> magan
-gemetlicost -> None
-
-gecynd -> gecynd
-began -> beginnan
-crist -> None
-gesceop -> gesceppan
-
-æne -> None
-dæge -> dæg
-æton -> None
-symle -> simble
-
-æfentid -> None
-eorðan -> eorþ
-wæstmas -> None
-
-wudes -> None
-wyrta -> wyrtian
-win -> win
-druncon -> drincan
-
-scir -> scir
-steape -> None
-scealca -> None
-nan -> nan
-
-mete -> mete
-drinc -> drincan
-mængan -> None
-cuðe -> None
-
-wæter -> wæter
-hunige -> None
-wæda -> None
-ma -> micel
-
-sioloce -> None
-siowian -> None
-siarocræftum -> None
-
-godweb -> None
-giredon -> None
-gimreced -> None
-
-setton -> settan
-searolice -> None
-simle -> simble
-
-tidum -> tid
-ute -> ute
-slepon -> None
-
-beamsceade -> None
-druncon -> drincan
-burnan -> None
-wæter -> wæter
-
-calde -> None
-wyllan -> willa
-cepa -> None
-seah -> seon
-
-eargeblond -> None
-ellendne -> None
-wearod -> None
-
-huru -> huru
-sciphergas -> None
-scealcas -> None
-herdon -> None
-
-furðum -> None
-fira -> None
-nan -> nan
-gefeoht -> gefeoht
-sprecan -> sprecan
-
-eorðe -> eorþ
-besmiten -> besmitan
-awer -> None
-geta -> None
-
-beornes -> beorn
-blode -> None
-bill -> None
-rude -> rudu
-
-furðum -> None
-wundne -> None
-wer -> wer
-weoruldbuende -> None
-
-gesawan -> None
-sunnan -> sunne
-
-weorð -> None
-weorulde -> None
-mon -> mann
-ongeat -> ongitan
-
-yfelne -> yfel
-eldum -> None
-æghwæm -> None
-lað -> None
-
-wurde -> weorþan
-wolde -> willan
-god -> god
-
-eorðan -> eorþ
-ussa -> None
-tida -> None
-
-widan -> None
-weoruld -> None
-æghwæs -> None
-
-swelce -> None
-sunnan -> sunne
-sæmre -> None
-
-gitsunc -> None
-hafað -> None
-gumena -> guma
-gehwelces -> None
-
-mod -> None
-amerred -> None
-maran -> micel
-recð -> None
-
-witte -> None
-weallende -> None
-byrnð -> None
-
-efne -> efne
-gitsung -> None
-nænne -> nan
-grund -> grund
-hafað -> None
-
-swearte -> sweart
-swæfeð -> None
-sumes -> None
-onlice -> None
-
-efne -> efne
-munte -> munt
-monna -> mann
-bearn -> beirnan
-
-etne -> None
-hatað -> None
-iglonde -> None
-
-sicilia -> None
-swefle -> swefl
-byrneð -> None
-
-mon -> mann
-helle -> hel
-fyr -> fyr
-hateð -> None
-wide -> None
-
-forþæm -> forðam
-symle -> simble
-sinbyrnende -> None
-
-ymbutan -> ymbutan
-oðra -> oðer
-stowa -> stow
-
-blate -> None
-forbærnð -> None
-biteran -> biter
-lege -> lecgan
-
-forma -> None
-feohgitsere -> None
-
-worulde -> weorold
-wongstedas -> None
-
-grof -> None
-golde -> gold
-gimcynnum -> None
-
-frecnu -> None
-gestreon -> None
-funde -> findan
-mænegum -> None
-
-bewrigen -> None
-weorulde -> None
-wætere -> wæter
-eorðan -> eorþ
-## -> None
-witon -> witan
-hwelce -> hwilc
-ærleste -> None
-
-neah -> neah
-feor -> feor
-neron -> None
-worhte -> wyrcan
-
-romwara -> None
-cyning -> cyning
-rice -> romana
-
-hehst -> None
-heofonum -> heofon
-hryre -> hryre
-monegum -> None
-
-wælhreowes -> None
-gewed -> None
-ful -> None
-wide -> None
-cuð -> None
-
-unrihthæmed -> unrihthæmed
-arleasta -> None
-
-man -> mann
-morðor -> None
-misdæda -> None
-worn -> None
-
-unrihtwises -> None
-inwidþoncas -> None
-
-het -> het
-gamene -> gamen
-geara -> gear
-forbærnan -> None
-
-romana -> None
-burig -> None
-rices -> None
-
-ealles -> eall
-eðelstol -> None
-unsnyttrum -> None
-
-wolde -> willan
-fandian -> fandian
-fyr -> fyr
-meahte -> magan
-
-lixan -> None
-leohte -> leoht
-longe -> lange
-
-read -> None
-rasettan -> None
-romane -> None
-
-geherde -> None
-tide -> tid
-
-troia -> None
-burg -> cantwara
-ofertogen -> oferteon
-hæfde -> habban
-
-lega -> None
-leohtost -> None
-lengest -> lange
-burne -> birnan
-
-hama -> None
-hefonum -> None
-herlic -> None
-dæd -> None
-
-swelces -> None
-gamenes -> gamen
-gilpan -> None
-lyste -> None
-
-earnade -> None
-elles -> elles
-wuhte -> None
-
-wolde -> willan
-werðiode -> None
-
-anes -> an
-huru -> huru
-anwald -> anweald
-cyðan -> cyþan
-
-gesælde -> None
-sumum -> sum
-cierre -> None
-
-ilca -> ilca
-het -> het
-acwellan -> acwellan
-
-ricostan -> None
-romana -> None
-witan -> witan
-
-æþelestan -> None
-eorlgebyrdum -> None
-
-folce -> folc
-gefrigen -> None
-hæfde -> habban
-
-uppan -> None
-agene -> agen
-broðor -> broðor
-
-modor -> modor
-meca -> None
-ecgum -> None
-
-billum -> bil
-ofbeatan -> None
-bryde -> None
-ofslog -> ofslean
-
-sweorde -> sweord
-symle -> simble
-
-bliðra -> None
-breostcofan -> None
-
-swylces -> None
-morðres -> None
-mæst -> micel
-gefremede -> gefremian
-
-sorgode -> sorgian
-hwæðer -> hwæðer
-a -> hosp
-
-mihtig -> mihtig
-ametan -> None
-wolde -> willan
-
-wrece -> wrecan
-gewyrhtum -> None
-wohfremmendum -> None
-
-ferðe -> None
-fægn -> None
-facnes -> None
-searuwa -> None
-
-wælriow -> None
-wunode -> wunian
-wiold -> None
-emne -> None
-
-ealles -> eall
-mæran -> mære
-middangeardes -> middangeard
-
-lagu -> lagu
-land -> land
-ymbclyppað -> None
-
-garsecg -> None
-embegyrt -> None
-gumena -> guma
-rice -> romana
-
-secgea -> None
-sitlu -> None
-suð -> suþ
-east -> None
-west -> west
-
-norðmestan -> None
-næssan -> None
-eorðan -> eorþ
-
-nerone -> None
-nede -> None
-lustum -> None
-
-heaðorinca -> None
-gehwilc -> None
-heran -> None
-sceolde -> sculan
-
-hæfde -> habban
-gamene -> gamen
-gylp -> None
-astag -> None
-
-eorðcyningas -> None
-yrmde -> None
-cwelmde -> None
-
-wenst -> None
-anwald -> anweald
-eaðe -> None
-meahte -> magan
-
-godes -> god
-ælmihtiges -> None
-gelpscaðan -> None
-
-rice -> romana
-berædan -> None
-bereafian -> bereafian
-
-anwaldes -> None
-ecan -> None
-meaht -> magan
-
-yfeles -> yfel
-elles -> elles
-gestioran -> None
-
-wolde -> willan
-wel -> wel
-meahte -> magan
-
-unriht -> None
-eaðe -> None
-forbiodan -> None
-
-eawla -> None
-hlaford -> None
-hefig -> hefig
-gioc -> None
-slepte -> None
-
-sware -> None
-swyran -> None
-sinra -> None
-ðegena -> None
-
-hæleða -> None
-tidum -> tid
-
-lænan -> None
-worold -> None
-liban -> None
-sceoldon -> sculan
-
-unscyldgum -> None
-eorla -> eorl
-blode -> None
-
-sweord -> None
-selede -> None
-gelome -> gelome
-
-sweotol -> sweotol
-sædon -> None
-
-anwald -> anweald
-deð -> None
-awiht -> None
-godes -> god
-
-wel -> wel
-nele -> None
-geweald -> geweald
-hafað -> None
-## -> None
-ælfred -> None
-ealdspell -> None
-reahte -> reccan
-
-cyning -> cyning
-westsexna -> None
-cræft -> cræft
-meldode -> None
-
-leoðwyrhta -> None
-list -> list
-lust -> None
-
-ðiossum -> None
-leodum -> None
-leoð -> None
-spellode -> None
-
-monnum -> mann
-myrgen -> None
-mislice -> None
-cwidas -> cwide
-
-læs -> læs
-ælinge -> None
-adrife -> adrifan
-
-selflicne -> None
-swelces -> None
-lyt -> None
-
-gymð -> None
-gilpe -> None
-sceal -> sculan
-giet -> git
-sprecan -> sprecan
-
-fon -> None
-fitte -> fitt
-folccuðne -> None
-ræd -> None
-
-hæleðum -> None
-secgean -> None
-hliste -> None
-wille -> willan
+geara	gear
+ðætte	None
+gotan	None
+eastan	eastan
+
+sciððia	None
+sceldas	None
+læddon	None
+
+þreate	None
+geþrungon	geþringan
+þeodlond	None
+monig	manig
+
+setton	settan
+suðweardes	None
+sigeþeoda	None
+
+gotena	None
+rice	romana
+gearmælum	None
+weox	None
+
+hæfdan	None
+gecynde	gecynd
+cyningas	cyning
+
+rædgod	None
+aleric	None
+rice	romana
+geþungon	geþingan
+
+muntgiop	None
+monig	manig
+atyhted	None
+
+gota	None
+gylpes	None
+full	full
+guðe	None
+gelysted	None
+
+folcgewinnes	None
+fana	None
+hwearfode	hwearfian
+
+scir	scir
+sceafte	None
+sceotend	sceotend
+þohton	None
+
+italia	None
+gegongan	None
+
+lindwigende	None
+gelæstan	None
+swua	None
+
+efne	efne
+muntgiop	None
+mæran	mære
+wearoð	None
+
+sicilia	None
+sæstreamum	None
+
+eglond	None
+eðel	None
+mærsað	None
+
+romana	None
+rice	romana
+gewunnen	gewinnan
+
+abrocen	None
+burga	burh
+cyst	cyst
+beadurincum	None
+
+rom	None
+gerymed	None
+rædgot	None
+aleric	None
+
+foron	None
+fæsten	fæsten
+fleah	None
+casere	casere
+
+æþelingum	None
+grecas	None
+
+meahte	magan
+wealaf	None
+wige	wigan
+forstandan	forstandan
+
+gotan	None
+guðe	None
+giomonna	None
+gestrion	None
+
+sealdon	sellan
+unwillum	None
+eþelweardas	None
+
+halige	None
+aðas	aþ
+gehwæðeres	None
+waa	None
+
+magorinca	None
+mod	None
+grecum	None
+
+leodfruman	None
+læstan	None
+dorsten	durran
+
+stod	None
+þeod	None
+gewunnen	gewinnan
+
+wintra	wintra
+mænigo	None
+wyrd	wyrd
+gescraf	None
+
+ðeodrice	None
+þegnas	þegen
+eorlas	eorl
+
+heran	None
+sceoldan	None
+heretema	None
+
+criste	None
+gecnoden	None
+cyning	cyning
+onfeng	None
+
+fulluhtþeawum	None
+fægnodon	None
+
+romwara	None
+bearn	beirnan
+recene	recen
+
+friðes	None
+wilnedon	None
+gehet	None
+
+ealdrihta	None
+ælces	None
+mosten	None
+
+wyrðe	weorþ
+gewunigen	gewunian
+welegan	welig
+byrig	burh
+
+ðenden	None
+god	god
+wuolde	None
+gotena	None
+geweald	geweald
+
+agan	aginnan
+moste	None
+aleag	None
+
+æþelinge	None
+arrianes	None
+
+gedwola	None
+leofre	None
+drihtnes	drihten
+æ	None
+
+het	het
+iohannes	None
+godne	god
+papan	papa
+
+heafde	None
+beheawon	None
+hærlic	None
+dæd	None
+
+unrim	None
+oðres	None
+manes	None
+
+gota	None
+fremede	fremman
+godra	god
+gehwilcum	None
+
+ricra	None
+rome	None
+byrig	burh
+
+ahefen	None
+heretoga	None
+hlaforde	None
+leof	None
+
+þenden	None
+cynestole	None
+creacas	None
+wioldon	None
+
+rihtwis	None
+rinc	rinc
+romwarum	None
+
+sincgeofa	None
+sella	None
+longe	lange
+
+weorulde	None
+wis	None
+weorðmynða	None
+georn	georn
+
+beorn	beornan
+boca	None
+gleaw	None
+boitius	None
+
+hæle	hæle
+hatte	None
+hlisan	hlisa
+geþah	None
+
+gemynde	gemynd
+mæla	None
+gehwilce	None
+
+yfel	yfel
+edwit	None
+elðeodge	None
+
+kyningas	kyning
+cyðdon	None
+greacas	None
+hold	None
+
+gemunde	gemunan
+ara	ar
+ealdrihta	None
+
+eldran	None
+ahton	None
+longe	lange
+
+lufan	lufu
+lissa	None
+angan	None
+listum	list
+
+ðencean	None
+þearflice	None
+ðider	þider
+meahte	magan
+
+crecas	None
+oncerran	None
+casere	casere
+
+anwald	anweald
+agan	aginnan
+moste	None
+
+sende	sendan
+ærendgewrit	None
+ealdhlafordum	None
+
+degelice	None
+drihtne	drihten
+bæd	biddan
+
+ealdum	eald
+treowum	treow
+æft	None
+
+comen	None
+ceastre	ceaster
+lete	lettan
+greca	None
+witan	witan
+
+rædan	None
+romwarum	None
+rihtes	None
+wyrðe	weorþ
+
+lete	lettan
+leodscipe	None
+lare	lar
+ongeat	ongitan
+
+ðeodric	None
+amuling	None
+þegn	None
+oferfeng	None
+
+heht	hatan
+fæstlice	None
+folcgesiðas	None
+
+healdon	None
+hererinc	None
+hreoh	None
+sefa	None
+
+ege	ege
+eorle	None
+inne	inne
+heht	hatan
+
+carcernes	carcern
+cluster	None
+belucan	None
+
+modsefa	None
+miclum	micel
+gedrefed	gedrefan
+
+boetius	None
+breac	None
+longe	lange
+
+wlencea	None
+wolcnum	wolcen
+wyrs	None
+meahte	magan
+
+þolian	þolian
+þearl	None
+becom	becuman
+
+ormod	None
+eorl	eorl
+are	ar
+wende	wendan
+
+fæstene	fæsten
+frofre	None
+gemunde	gemunan
+
+neowol	None
+astreaht	None
+niðer	None
+dune	None
+
+feol	None
+flore	None
+worda	word
+spræc	sprecan
+
+forþoht	None
+ðearle	None
+wende	wendan
+
+clammum	None
+cleopode	cleopian
+drihtne	drihten
+
+geomran	None
+stemne	stefn
+gyddode	None
+:	None
+##	None
+hæleða	None
+hwone	hwæt
+hlisan	hlisa
+lyste	None
+
+unnytne	None
+gelp	gelpan
+agan	aginnan
+wille	willan
+
+wolde	willan
+wordum	word
+biddan	biddan
+
+æghwonon	None
+utan	utan
+ymbeþohte	None
+
+sweotole	sweotol
+ymbsawe	None
+suð	suþ
+east	None
+west	west
+
+widgil	None
+wolcnum	wolcen
+ymbutan	ymbutan
+
+heofones	heofon
+hwealfe	hwealf
+higesnotrum	None
+
+eaðe	None
+ðincan	None
+eorðe	eorþ
+
+unigmet	None
+
+unwisum	unwis
+widgel	None
+þince	None
+
+stede	stede
+stronglic	None
+steorleasum	None
+men	mann
+
+wisan	None
+gewitlocan	None
+
+gitsunge	gitsung
+gelpes	None
+scamian	scamian
+
+hlisan	hlisa
+heardost	None
+lysteð	None
+
+tobredan	None
+
+nearowan	None
+nænige	None
+ðinga	None
+
+eorðan	eorþ
+sceatas	None
+unnet	None
+gelp	gelpan
+
+ofermodan	None
+hwi	hwy
+a	hosp
+lyste	None
+
+eowrum	eower
+swiran	None
+selfra	None
+willum	None
+
+swære	None
+gioc	None
+symle	simble
+underlutan	None
+
+unnet	None
+ealnig	None
+swincen	swincan
+
+hlisan	hlisa
+tiliað	None
+
+ðioda	None
+ma	micel
+þearf	þurfan
+
+gesæle	None
+suð	suþ
+norð	None
+
+ytmestan	None
+eorðbuende	None
+
+monig	manig
+ðiodisc	None
+miclum	micel
+herien	herian
+
+æðele	æðele
+eorlgebyrdum	None
+
+welum	wela
+geweorðad	None
+wlencum	wlencu
+ðio	None
+
+duguðum	None
+diore	None
+deað	None
+scrifeð	None
+
+rum	None
+forlæt	None
+rodora	rodor
+waldend	None
+
+welegan	welig
+wædlum	wædla
+gelice	gelice
+
+efnmærne	None
+gedeð	None
+ælces	None
+þinges	þing
+
+hwær	hwær
+wisan	None
+welandes	None
+ban	ban
+
+goldsmiðes	None
+geo	None
+mærost	None
+
+forþy	None
+wisan	None
+welandes	None
+ban	ban
+
+forðy	forði
+eorðbuendra	None
+
+cræft	cræft
+losian	losian
+crist	None
+onlænð	None
+
+mon	mann
+eð	None
+ænne	an
+wræccan	None
+
+cræftes	cræft
+beniman	beniman
+mon	mann
+oncerran	None
+
+sunnan	sunne
+onswifan	None
+swiftan	None
+rodor	rodor
+
+rihtryne	None
+rinca	rinc
+
+wat	witan
+wisan	None
+welandes	None
+ban	ban
+
+hwelcum	hwelca
+hlæwa	None
+hrusan	hruse
+þeccen	None
+
+hwær	hwær
+rica	ric
+romana	None
+wita	wite
+
+aroda	None
+sprecað	None
+
+heretoga	None
+gehaten	gehatan
+
+burgwarum	burhware
+brutus	None
+nemned	None
+
+hwær	hwær
+wisa	None
+weorðgeorna	None
+
+fæstræda	None
+folces	folc
+hyrde	hyrdan
+
+uðwita	None
+ælces	None
+ðinges	None
+
+cene	cennan
+cræftig	cræftig
+caton	None
+nama	nama
+
+gefyrn	gefyrn
+forðgewitene	None
+
+nat	None
+mon	mann
+hwær	hwær
+
+here	herian
+hlisa	hlisa
+
+swelcra	None
+lariowa	None
+
+magorincas	None
+maran	micel
+wyrðe	weorþ
+
+worulde	weorold
+wyrse	None
+
+eorðan	eorþ
+æghwær	None
+
+gelican	gelica
+hwon	hwon
+ymbspræce	None
+
+openlice	openlice
+forgitene	None
+
+hlisa	hlisa
+hiwcuðe	None
+
+foremære	None
+weras	wer
+gebrengan	None
+
+wenen	None
+wilnigen	wilnian
+
+lange	lange
+tid	tid
+libban	libban
+moten	None
+
+iow	None
+bet	wel
+bio	None
+þince	None
+
+nane	nan
+forlet	None
+lang	lang
+ðince	None
+
+deað	None
+dogorrime	None
+hæfð	None
+drihtnes	drihten
+leafe	leaf
+
+hæbbe	habban
+hæleþa	hæle
+
+guma	guma
+gilpe	None
+gegripan	None
+mot	None
+
+eca	None
+deað	None
+worulde	weorold
+##	None
+sceppend	None
+ælcum	ælc
+tweon	None
+
+wealdend	wealdend
+woruldgesceafta	None
+
+heofones	heofon
+eorðan	eorþ
+heare	None
+sæ	sæ
+
+wuniað	None
+
+ungesæwenlicra	None
+same	same
+
+eagum	None
+lociað	None
+
+gesceafta	None
+ælmihtig	None
+
+oleccað	None
+gesceafte	None
+
+ambehtes	None
+awuht	None
+cunnon	cunnan
+
+same	same
+auht	None
+nyton	nytan
+
+ðeodnes	None
+þeowas	None
+
+gesette	gesette
+sido	None
+þeawas	None
+
+gesceaftum	None
+unawendende	None
+
+singallice	None
+sibbe	sibb
+gecynde	gecynd
+
+wolde	willan
+wolde	willan
+
+lange	lange
+wolde	willan
+sceolde	sculan
+
+worulde	weorold
+sceal	sculan
+wunian	wunian
+
+forþæm	forðam
+magon	magan
+unstillan	None
+
+woruldgesceafta	None
+weorðan	None
+gestilde	None
+
+ryne	ryne
+onwend	onwendan
+rodera	None
+weard	weard
+
+endebyrdes	None
+gesette	gesette
+
+hæfð	None
+alwealda	None
+gesceafta	None
+
+gebæt	None
+bridle	None
+hafað	None
+butu	butu
+gedon	gedon
+
+gemanode	None
+getogen	geteon
+
+moten	None
+metodes	metod
+est	None
+
+gestillan	gestillan
+eallunga	None
+
+swiðor	swiðe
+stirian	None
+sigora	sigorian
+weard	weard
+
+gewealdleðer	None
+wille	willan
+onlæten	None
+
+hafað	None
+bridle	None
+butu	butu
+befangen	befon
+
+heofon	heofon
+eorðan	eorþ
+holma	holm
+begong	begong
+
+hæfð	None
+geheaðærod	None
+hefonrices	None
+weard	weard
+
+anwealde	anweald
+gesceafta	None
+
+æghwilc	None
+winð	None
+
+winnende	winnan
+wreðiað	None
+
+æghwilc	None
+utan	utan
+ymbclyppeð	None
+
+læs	læs
+toswifen	None
+symle	simble
+sculon	sculan
+
+ilcan	ilca
+ryne	ryne
+gecyrran	gecyrran
+
+frymðe	frymþ
+fæder	fæder
+getiode	None
+
+edniwe	None
+gewiorðan	None
+
+fagað	None
+frean	None
+ealdgeweorc	None
+
+winnende	winnan
+wiðerweard	wiþerweard
+gesceaft	None
+
+sibbe	sibb
+anhealdað	None
+
+fyr	fyr
+wæter	wæter
+folde	folde
+lagustream	None
+
+manigu	None
+oðru	oðer
+gesceaft	None
+efnswiðe	None
+
+giond	None
+widan	None
+worulde	weorold
+winnað	None
+
+magon	magan
+þegnunga	None
+
+geferscipe	None
+gehealdan	gehealdan
+
+eaðe	None
+
+wiðerweard	wiþerweard
+gesceaft	None
+ætgædere	ætgædere
+
+symbel	None
+geferan	gefera
+sellicre	None
+
+bion	None
+
+sceal	sculan
+wuhta	None
+gehwilc	None
+wiðerweardes	None
+hwæthwugu	None
+
+heofonum	heofon
+hige	None
+durre	durran
+
+gemetgian	None
+weorðe	None
+
+hæfð	None
+ælmihtiga	eallmihtig
+gesceaftum	None
+
+gewrixle	None
+geset	gesettan
+wunian	wunian
+sceal	sculan
+
+wyrta	wyrtian
+growan	None
+leaf	leaf
+grenian	None
+
+hærfest	hærfest
+hrest	None
+wealuwað	None
+
+winter	winter
+bringeð	None
+weder	weder
+ungemet	None
+cald	None
+
+swifte	None
+windas	wind
+sumor	sumer
+
+wearm	wearm
+gewideru	None
+wonnan	None
+niht	niht
+
+mona	mona
+onlihteð	None
+monnum	mann
+dæg	dæg
+
+sunne	sunne
+bringeð	None
+giond	None
+sidan	None
+gesceaft	None
+
+hæfð	None
+ilca	ilca
+god	god
+eorðan	eorþ
+wætere	wæter
+
+mearce	mearc
+gesette	gesette
+merestream	None
+dear	durran
+
+eorðan	eorþ
+sceat	None
+eard	None
+gebrædan	None
+
+fisca	fiscian
+cynne	cynn
+frean	None
+leafe	leaf
+
+mot	None
+eorðan	eorþ
+þyrscwold	None
+
+ofersteppan	ofersteppan
+ebban	None
+ma	micel
+
+foldes	None
+mearce	mearc
+oferfaran	oferfaran
+moton	None
+
+gesetnessa	gesetnes
+sigora	sigorian
+wealdend	wealdend
+
+leohtfruma	None
+læt	læt
+þenden	None
+wile	wil
+
+mæran	mære
+gesceaft	None
+mearce	mearc
+healden	healdan
+
+eca	None
+ælmihtiga	eallmihtig
+
+gewealdleðeru	None
+wile	wil
+onlætan	None
+
+efne	efne
+bridla	None
+gebætte	None
+
+agen	ongeagn
+weorc	weorc
+frymðe	frymþ
+
+(	None
+wiðerweardnes	None
+wuhte	None
+gehwelcre	None
+
+bridle	None
+becnan	None
+tiliað	None
+)	None
+
+ðioden	None
+læt	læt
+toslupan	None
+
+sona	sona
+forlætað	None
+lufan	lufu
+sibbe	sibb
+
+geferscipes	None
+freondrædenne	None
+
+tilaþ	tilian
+anra	an
+gehwilc	None
+agnes	None
+
+woruldgesceafta	None
+winnað	None
+
+ðios	None
+eorðe	eorþ
+forweorðeð	None
+
+same	same
+oðra	oðer
+gesceafta	None
+
+weorðað	None
+nauhte	None
+
+ilca	ilca
+god	god
+metgað	None
+
+gefehð	None
+folca	folc
+tosomne	tosamne
+
+freondscipe	freondscipe
+gegadrað	None
+
+gesamnað	None
+sinscipas	None
+sibbe	sibb
+gemengeð	None
+
+clænlice	None
+lufe	lufu
+cræftga	cræftig
+
+geferscipas	None
+gesamnað	None
+
+freondscipe	freondscipe
+symbel	None
+
+untweofealde	None
+treowa	treow
+gehealdað	None
+
+sibbe	sibb
+samrade	None
+sigora	sigorian
+god	god
+
+moncyn	None
+miclum	micel
+gesælig	None
+
+modsefa	None
+meahte	magan
+weorðan	None
+
+staðolfæst	None
+gereaht	None
+strongan	None
+meaht	magan
+
+geendebyrd	None
+oðra	oðer
+
+woruldgesceafta	None
+la	la
+
+murge	None
+monnum	mann
+meahte	magan
+##	None
+wille	willan
+wyrcan	None
+wæstmbære	None
+lond	land
+
+atio	None
+æcere	æcer
+ærest	ærest
+sona	sona
+
+fearn	fearn
+þornas	þorn
+fyrsas	None
+same	same
+
+wiod	None
+willað	None
+welhwær	welhwær
+derian	derian
+
+clænum	None
+hwæte	hwæte
+læs	læs
+ciða	None
+leas	None
+
+licge	licgan
+lande	land
+leoda	None
+gehwæm	None
+
+ðios	None
+oðru	oðer
+bysen	None
+efnbehefu	None
+
+ðynceð	None
+þegna	þegnian
+gehwelcum	None
+
+huniges	None
+bibread	None
+healfe	healf
+swetre	None
+
+hwene	hwene
+huniges	None
+teare	None
+
+bitres	biter
+onbyrgeð	None
+same	same
+
+monna	mann
+æghwilc	None
+fægenra	fægen
+
+liðes	None
+weðres	None
+lytle	None
+
+stormas	None
+gestondað	None
+stearca	None
+wind	windan
+
+norðan	norþan
+eastan	eastan
+nænegum	nænig
+þuhte	None
+
+dæg	dæg
+þonce	None
+dimme	None
+niht	niht
+
+eldum	None
+egesan	None
+brohte	None
+
+þincð	None
+anra	an
+gehwæm	None
+eorðbuendra	None
+
+soðe	None
+gesælð	None
+symle	simble
+betere	god
+
+wynsumre	wynsum
+wita	wite
+ma	micel
+
+heardra	heard
+henða	None
+adreogeð	None
+
+meaht	magan
+mycle	None
+eð	None
+modsefan	None
+
+soða	None
+gesælða	None
+sweotolor	None
+gecnawan	None
+
+cyððe	cyþ
+becuman	becuman
+
+atyhsð	None
+ærest	ærest
+sona	sona
+
+awyrtwalast	None
+gewitlocan	None
+
+leasa	None
+gesælða	None
+londes	land
+ceorl	None
+
+æcere	æcer
+lycð	None
+yfel	yfel
+weod	None
+monig	manig
+
+secge	secg
+sweotole	sweotol
+meaht	magan
+
+soða	None
+gesælða	None
+sona	sona
+oncnawan	oncnawan
+
+recst	recan
+æniges	ænig
+ðinges	None
+
+ane	an
+ealles	eall
+ongitst	None
+##	None
+wille	willan
+giddum	None
+get	None
+gecyðan	gecyðan
+
+ælmihtga	None
+gesceafta	None
+
+bryrð	None
+bridlum	None
+begð	None
+ðider	þider
+wile	wil
+
+anwalde	None
+endebyrd	None
+
+wundorlice	None
+wel	wel
+gemetgað	None
+
+hafað	None
+geheaðorad	None
+heofona	heofon
+wealdend	wealdend
+
+utan	utan
+befangen	befon
+gesceafta	None
+
+geræped	None
+racentan	racente
+aredian	None
+magon	magan
+
+aslepen	None
+
+wuhta	None
+gehwilc	None
+wrigað	None
+toheald	None
+
+sidra	None
+gesceafta	None
+onhelded	None
+
+gecyndes	gecynd
+cyning	cyning
+
+fæder	fæder
+frymðe	frymþ
+getiode	None
+
+þinga	þingian
+gehwilc	None
+ðiderweard	None
+fundað	None
+
+sidra	None
+gesceafta	None
+sumum	sum
+englum	engel
+
+moncynne	None
+micles	None
+feola	None
+
+woroldwuniendra	None
+winð	None
+gecynde	gecynd
+
+londe	land
+leon	None
+gemete	gemet
+
+wynsume	wynsum
+wiht	None
+wel	wel
+atemede	None
+
+magister	None
+miclum	micel
+lufige	lufian
+
+ondræde	ondrædan
+dogora	None
+gehwelce	None
+
+gesælð	None
+æniges	ænig
+
+blodes	None
+onbyrgeð	None
+ðearf	None
+beorna	beorn
+nan	nan
+
+wenan	None
+wyrde	wyrd
+wel	wel
+
+taman	None
+healde	healdan
+tiohhie	None
+
+niwan	None
+taman	None
+nauht	None
+gehicgge	None
+
+wildan	wilde
+gewunan	gewuna
+wille	willan
+geþencan	None
+
+eldrena	None
+onginð	None
+eorneste	None
+
+racentan	racente
+slitan	None
+ryn	None
+grymetigan	None
+
+ærest	ærest
+abit	None
+agenes	None
+
+huses	None
+hirde	None
+hraðe	None
+
+hæleða	None
+gehwilcne	gehwylc
+gehentan	None
+
+nele	None
+forlætan	None
+libbendes	None
+wuht	None
+
+neata	None
+monna	mann
+nimð	None
+fint	None
+
+doð	None
+wudufuglas	None
+wel	wel
+sien	None
+
+tela	None
+atemede	None
+treowum	treow
+weorðað	None
+
+holte	None
+tomiddes	None
+hræðe	None
+bioð	None
+forsewene	None
+
+lareowas	None
+lange	lange
+
+tydon	None
+temedon	None
+treowum	treow
+wilde	wilde
+
+ealdgecynde	None
+a	hosp
+
+willum	None
+wuniað	None
+wolde	willan
+hwilc	hwilc
+
+lareowa	None
+listum	list
+beodan	None
+
+ilcan	ilca
+mete	mete
+æror	None
+
+tame	None
+getede	None
+twigu	None
+þincað	None
+
+emne	None
+merge	None
+metes	mete
+recð	None
+
+ðincð	None
+wynsum	wynsum
+weald	weald
+oncwyð	None
+
+geherað	None
+hleoðrum	None
+brægdan	None
+
+fugelas	None
+agne	None
+
+stefne	stefn
+styriað	None
+stunað	None
+geador	None
+
+welwynsum	None
+sanc	sincan
+wudu	wudu
+oncwyð	None
+
+treowum	treow
+æðele	æðele
+
+holte	None
+hyhst	None
+geweaxe	geweaxan
+
+hwilcne	hwilc
+boh	None
+byge	bycgan
+eorðan	eorþ
+
+upweardes	None
+forlætst	None
+
+widu	None
+went	None
+gecynde	gecynd
+
+deð	None
+sunne	sunne
+sige	sige
+weorðeð	None
+
+midne	None
+dæg	dæg
+merecondel	None
+scyfð	None
+
+ofdæle	None
+uncuðne	None
+weg	wegan
+
+nihtes	niht
+geneðeð	None
+norð	None
+east	None
+
+eldum	None
+oteweð	None
+brencð	None
+eorðwarum	None
+
+morgen	morgen
+meretorhtne	None
+moncyn	None
+stihð	None
+
+a	hosp
+upweardes	None
+
+yfemesð	None
+eard	None
+gecynde	gecynd
+
+gesceaft	None
+mægene	None
+
+widan	None
+woruld	weorold
+wrigað	None
+higað	None
+
+mægene	None
+symle	simble
+onlyt	None
+
+gecyndes	gecynd
+cymð	None
+
+eorðan	eorþ
+ænegu	None
+gesceaft	None
+
+wilnie	wilnian
+wolde	willan
+
+earde	eard
+becom	becuman
+
+orsorgnes	orsorgnes
+ecu	None
+rest	None
+
+openlice	openlice
+ælmihti	None
+god	god
+
+eorðan	eorþ
+ænegu	None
+gesceaft	None
+
+hwearfige	hwearfian
+hweol	None
+deð	None
+
+selfre	None
+hwearfað	None
+
+æror	None
+
+ærest	ærest
+utan	utan
+behwerfed	None
+
+ealles	eall
+wyrð	weorþ
+utan	utan
+becerred	None
+
+sceal	sculan
+dyde	don
+
+æror	None
+##	None
+welegan	welig
+woruldgitsere	None
+
+mode	None
+bet	wel
+age	None
+
+goldes	gold
+gimma	gimm
+gooda	None
+
+æhta	None
+unrim	None
+mon	mann
+erigen	None
+scyle	sculan
+
+æghwelce	None
+dæg	dæg
+æcera	None
+ðusend	None
+
+middangeard	middangeard
+manna	mann
+cyn	None
+
+sunnan	sunne
+suð	suþ
+west	west
+east	None
+
+anwalde	None
+underðieded	None
+
+mot	None
+hyrsta	None
+hionane	None
+lædan	None
+
+worulde	weorold
+wuhte	None
+mare	micel
+
+hordgestreona	None
+hiðer	None
+brohte	None
+##	None
+yfela	yfel
+unrihtwisa	None
+
+neron	None
+cynincg	None
+niwan	None
+gescerpte	None
+
+wlitegum	None
+wædum	wæd
+wundorlice	None
+
+golde	gold
+geglengde	None
+gimcynnum	None
+
+worulde	weorold
+witena	wita
+gehwelcum	None
+
+lifdagum	None
+lað	None
+unweorð	None
+
+fierenfull	None
+feond	None
+
+diorlingas	None
+duguðum	None
+stepte	None
+
+gehycgan	gehycgan
+hige	None
+þorfte	þurfan
+
+a	hosp
+sæl	sæl
+
+gecure	geceosan
+cræftum	cræft
+cyninga	cyning
+dysegast	None
+
+næron	None
+weorðran	None
+witena	wita
+ænegum	ænig
+
+dysega	None
+cyninge	cyninge
+
+gesceadwis	None
+scealc	None
+gereccan	None
+
+selra	None
+þince	None
+##	None
+wille	willan
+anwald	anweald
+agon	None
+sceal	sculan
+ærest	ærest
+tilian	tilian
+
+selfes	None
+sefan	None
+age	None
+
+anwald	anweald
+innan	innan
+læs	læs
+
+unþeawum	None
+underðyded	None
+
+ado	None
+mode	None
+mislicra	None
+
+ymbhogona	None
+unnet	None
+
+læte	None
+siofunga	None
+
+ermða	None
+sinra	None
+
+middangeard	middangeard
+merestreamas	None
+
+utan	utan
+belicgað	None
+æht	None
+gifen	None
+
+efne	efne
+wide	None
+westmest	None
+
+iglond	None
+ligð	None
+garsecg	None
+
+nængu	None
+niht	niht
+sumera	sumer
+
+wuhte	None
+ma	micel
+wintra	wintra
+dæg	dæg
+
+toteled	None
+tidum	tid
+tile	None
+haten	None
+
+anra	an
+ealles	eall
+wealde	None
+
+iglandes	None
+
+indeas	None
+eastewearde	easteweard
+
+agan	aginnan
+mote	None
+
+anwald	anweald
+auhte	None
+mara	None
+
+nah	None
+selfes	None
+geweald	geweald
+
+ingeðances	None
+eorneste	None
+
+wel	wel
+bewarenað	None
+wordum	word
+dædum	None
+
+unþeawas	None
+sprecað	None
+##	None
+eorðwaran	None
+hæfden	habban
+
+foldbuende	None
+fruman	fruma
+gelicne	None
+
+comon	None
+
+were	werian
+wife	wif
+woruld	weorold
+innan	innan
+
+get	None
+gelice	gelice
+
+woruld	weorold
+cumað	None
+wlance	None
+heane	None
+
+nan	nan
+wundor	wundor
+witan	witan
+
+god	god
+gesceafta	None
+
+frea	None
+moncynnes	None
+fæder	fæder
+scippend	None
+
+sunnan	sunne
+leoht	sunnan
+seleð	None
+heofonum	heofon
+
+monan	None
+þyssum	þes
+mærum	None
+steorrum	steorra
+
+milda	None
+metod	metod
+gesceop	gesceppan
+men	mann
+eorðan	eorþ
+
+gesamnade	None
+sawle	sawel
+
+fruman	fruma
+ærest	ærest
+folc	folc
+wolcnum	wolcen
+
+emnæðele	None
+gesceop	gesceppan
+æghwilcne	None
+mon	mann
+
+men	mann
+
+ofermodigen	None
+andweorce	andweorc
+
+unæðelne	None
+nænigne	None
+metað	metan
+
+æþelum	æþelu
+ahebben	None
+
+mode	None
+monna	mann
+gehwilcum	None
+
+rihtæþelo	None
+recce	None
+
+nales	None
+flæsce	flæsc
+foldbuendra	None
+
+æghwilc	None
+mon	mann
+
+unþeawum	None
+underðieded	None
+
+forlæt	None
+ærest	ærest
+frumsceaft	None
+
+agene	agen
+æþelo	None
+
+fæder	fæder
+fruman	fruma
+gesceop	gesceppan
+
+anæþelað	None
+ælmihtig	None
+god	god
+
+unæþele	None
+a	hosp
+þanan	None
+
+wyrð	weorþ
+weorulde	None
+wuldre	wuldor
+cymð	None
+##	None
+yfla	yfel
+unrihta	None
+gedeð	None
+
+wraða	None
+willa	willian
+wohhæmetes	None
+
+gedræfð	None
+anra	an
+
+monna	mann
+cynnes	cynn
+mod	None
+fulneah	fulneah
+
+wilde	wilde
+wis	None
+
+anunga	None
+sceal	sculan
+forweorðan	None
+
+yrringa	None
+awuht	None
+stingeð	None
+
+sceal	sculan
+sawla	sawel
+gehwilc	None
+losian	losian
+
+lichoma	None
+forlegen	forlicgan
+weorðeð	None
+
+unrihthæmede	None
+bute	bute
+
+hreow	None
+heortan	heorte
+hionan	None
+wende	wendan
+##	None
+hefig	hefig
+dysig	dysig
+hygeð	None
+wile	wil
+
+frecenlic	None
+fira	None
+gehwilcum	None
+
+earman	earm
+men	mann
+gedwæleð	None
+
+rihtan	riht
+wege	wegan
+recene	recen
+alæded	None
+
+hwæðer	hwæðer
+willen	willan
+wuda	wudu
+secan	None
+
+gold	gold
+reade	None
+grenum	None
+triowum	None
+
+wat	witan
+witena	wita
+nan	nan
+
+þider	þider
+seceð	None
+wexð	None
+
+wingeardum	None
+wlitige	wlitig
+gimmas	gimm
+
+settan	settan
+dune	None
+
+fiscnet	None
+eowru	None
+fon	None
+lysteð	None
+
+leax	leax
+cyperan	None
+gelicost	None
+ðincð	None
+
+witen	witan
+eorðbuende	None
+
+þoncolmode	None
+
+hwæþer	hwæðer
+willen	willan
+wæþan	None
+hundum	hund
+
+sealtne	sealt
+sæ	sæ
+secan	None
+lyst	None
+
+heorotas	heorot
+hinda	hind
+gehicgan	None
+meaht	magan
+
+willað	None
+wuda	wudu
+secan	None
+
+oftor	oft
+sæ	sæ
+
+wundorlic	wundorlic
+witan	witan
+
+mon	mann
+secan	None
+sceal	sculan
+sæwaroðe	None
+
+eaofrum	None
+æþele	æþelu
+gimmas	gimm
+
+hwite	None
+reade	None
+hiwa	None
+
+witon	witan
+hwær	hwær
+eafiscas	None
+
+secan	None
+þurfan	þurfan
+swylcra	None
+
+weoruldwelena	None
+wel	wel
+doð	None
+
+geornfulle	None
+men	mann
+geara	gear
+gehwilce	None
+
+earmlicost	None
+þinga	þingian
+
+dysegan	None
+gedwolan	None
+wordene	None
+
+efne	efne
+blinde	blind
+breostum	None
+magon	magan
+
+eaðe	None
+gecnawan	None
+hwær	hwær
+ecan	None
+good	None
+
+soða	None
+gesælða	None
+gehydda	None
+
+forþæm	forðam
+lyst	None
+spyrian	None
+
+secan	None
+gesælða	None
+wenað	None
+samwise	None
+
+lænan	None
+mægen	mægen
+life	None
+findan	findan
+
+soða	None
+gesælða	None
+god	god
+
+nat	None
+mæge	mæge
+nænige	None
+ðinga	None
+
+ealles	eall
+sefan	None
+
+dysig	dysig
+tælan	None
+lysteð	None
+
+sweotole	sweotol
+gesecgan	None
+
+earmran	None
+dysegran	None
+
+ungesæligran	None
+mæge	mæge
+
+wilniað	None
+welan	wela
+æhta	None
+
+weorðscipes	None
+gewinnanne	None
+
+habbað	None
+hige	None
+seceð	None
+
+wenað	None
+gewitlease	None
+
+soðan	None
+gesælða	None
+hæbben	habban
+##	None
+lioða	None
+lustlice	lustlice
+geo	None
+
+sanc	sincan
+sælum	sæl
+sceal	sculan
+siofigende	None
+
+wope	wop
+gewæged	None
+wreccea	None
+giomor	None
+
+singan	singan
+sarcwidas	None
+þios	None
+siccetung	None
+hafað	None
+
+agæled	None
+geocsa	None
+ged	None
+
+gefegean	None
+fægre	fæger
+gio	None
+
+sette	settan
+soðcwida	None
+sælum	sæl
+
+miscyrre	None
+cuðe	None
+spræce	None
+
+uncuðre	None
+fond	None
+
+woruldsælða	None
+welhwæs	None
+blindne	blind
+
+dimme	None
+hol	hol
+dysine	None
+forlæddon	None
+
+berypton	None
+rædes	None
+frofre	None
+
+untreowum	None
+betst	wel
+
+truwian	None
+sceolde	sculan
+wendon	wendan
+
+bacu	None
+bitere	biter
+blisse	blis
+
+forhwam	None
+wolde	willan
+weoruldfrynd	None
+
+singan	singan
+gesællic	None
+mon	mann
+
+weorulde	None
+synt	wesan
+soð	None
+
+gesælða	None
+magon	magan
+simle	simble
+gewunigan	None
+##	None
+ælmihtig	None
+
+modilic	None
+mærþum	None
+gefræge	None
+
+wundorlic	wundorlic
+witena	wita
+gehwylcum	gehwylc
+
+ece	ece
+god	god
+gesceafta	None
+
+wundorlice	None
+wel	wel
+gesceope	None
+
+ungesewenlica	None
+same	same
+
+gesewenlicra	None
+softe	None
+wealdest	None
+
+scirra	None
+gesceafta	None
+gesceadwisum	None
+
+mægne	None
+cræfte	cræft
+þysne	þes
+middangeard	middangeard
+
+fruman	fruma
+ærest	ærest
+
+tidum	tid
+totældes	None
+getæsost	None
+
+endebyrdes	None
+æghwæðer	None
+
+farað	None
+cumað	None
+
+unstilla	None
+agna	None
+gesceafta	None
+
+wislice	wislice
+astyrest	None
+
+wunæst	None
+stille	stille
+
+unanwendendlic	None
+a	hosp
+simle	simble
+
+nan	nan
+mihtigra	mihtig
+nan	nan
+mærra	None
+
+gesceaft	None
+efnlica	None
+
+nedþearf	None
+giet	git
+
+weorca	weorc
+geworht	wyrcan
+hafast	hafian
+
+worhtes	None
+
+anwalde	None
+agenum	agen
+
+weorulde	None
+geworhtest	gewyrcan
+wuhta	None
+gehwæt	None
+
+nænegu	None
+nedðearf	None
+
+eallra	eall
+mærþa	None
+gecynd	gecynd
+
+þines	þin
+goodes	None
+þencð	None
+wile	wil
+
+ælces	None
+þincges	None
+
+good	None
+agen	ongeagn
+
+utan	utan
+auht	None
+
+georne	georne
+wat	witan
+goodnes	None
+
+ælmihtig	None
+good	None
+selfum	self
+
+ungelic	None
+urum	ure
+gecynde	gecynd
+
+utan	utan
+cymen	None
+habbað	None
+
+gooda	None
+grundum	grund
+gode	god
+selfum	self
+
+næfst	nabban
+ænegum	ænig
+andan	anda
+genumenne	None
+
+forðam	forðam
+nan	nan
+þing	þingan
+gelica	gelica
+
+huru	huru
+ælcræftigre	None
+
+ealgood	None
+anes	an
+geþeahte	geþeaht
+
+þines	þin
+geþohtest	None
+worhtest	wyrcan
+
+æror	None
+ænegu	None
+gesceaft	None
+
+auht	None
+nauht	None
+auðer	None
+worhte	wyrcan
+
+bysne	None
+brego	breogo
+moncynnes	None
+
+ælmihtig	None
+god	god
+geworhtest	gewyrcan
+
+þing	þingan
+þearle	þearle
+good	None
+
+hehste	None
+good	None
+halig	None
+fæder	fæder
+
+woruld	weorold
+gesceope	None
+
+middangeard	middangeard
+meahtum	None
+
+weorada	None
+woldest	willan
+
+wealdest	None
+ealles	eall
+
+soða	None
+god	god
+dælest	None
+
+gooda	None
+æghwilc	None
+geara	gear
+
+gesceafta	None
+ærest	ærest
+gesceope	None
+
+gelice	gelice
+sumes	None
+hwæðre	None
+
+ungelice	None
+nemdest	nemnan
+
+ane	an
+noman	None
+togædre	None
+
+woruld	weorold
+wolcnum	wolcen
+wuldres	wuldor
+god	god
+
+naman	naman
+todældes	None
+
+fæder	fæder
+folde	folde
+
+wæter	wæter
+worulde	weorold
+dæles	dæl
+
+fyr	fyr
+þridde	None
+feowerðe	None
+
+weoruld	None
+togædere	togædere
+
+habbað	None
+frumstol	None
+
+æghwilc	None
+agenne	None
+stede	stede
+
+anra	an
+hwilc	hwilc
+
+miclum	micel
+gemenged	mengan
+mægne	None
+
+fæder	fæder
+ælmihtiges	None
+gebunden	gebunden
+
+gesiblice	None
+softe	None
+togædre	None
+
+bebode	bebod
+bilewit	bilewit
+fæder	fæder
+
+oðres	None
+dorste	durran
+
+mearce	mearc
+ofergangan	ofergangan
+metodes	metod
+ege	ege
+
+geþweorod	None
+ðegnas	None
+togædre	None
+
+cyninges	cyning
+cempan	cempa
+cele	cele
+hæto	None
+
+wæt	None
+drygum	dryge
+winnað	None
+hwæðre	None
+
+wæter	wæter
+eorðe	eorþ
+wæstmas	None
+brengað	None
+
+gecynde	gecynd
+cealda	cealdian
+ba	None
+
+wæter	wæter
+wæt	None
+ceald	None
+wangas	wang
+ymbelicgað	None
+
+eorðe	eorþ
+ælgreno	None
+hwæðre	None
+ceald	None
+
+gemenged	mengan
+forþæm	forðam
+middum	midde
+wunað	None
+
+nan	nan
+wundor	wundor
+wearm	wearm
+ceald	None
+
+wæt	None
+wolcnes	wolcen
+tier	None
+winde	windan
+geblonden	None
+
+midle	None
+gefræge	None
+
+fyres	fyr
+eorðan	eorþ
+monna	mann
+wat	witan
+
+yfemest	None
+eallra	eall
+gesceafta	None
+
+fyr	fyr
+eorðan	eorþ
+folde	folde
+neoðemest	None
+
+wundorlic	wundorlic
+weroda	werod
+
+geþeahte	geþeaht
+wyrcest	None
+
+gesceaftum	None
+gesceadlice	None
+
+mearce	mearc
+gesettest	gesettan
+gemengdest	gemengan
+
+wættere	None
+wætum	None
+cealdum	None
+
+foldan	folde
+flore	None
+gesettest	gesettan
+
+unstille	unstille
+æghwider	None
+wolde	willan
+
+wide	None
+toscriðan	None
+wac	wacan
+hnesce	None
+
+meahte	magan
+selfum	self
+soð	None
+geare	geare
+wat	witan
+
+gestandan	gestandan
+eorðe	eorþ
+hylt	None
+
+swelgeð	None
+sumum	sum
+dæle	dæl
+
+siðþan	None
+sype	None
+weorðan	None
+
+geleht	leccan
+lyftum	lyft
+leaf	leaf
+gærs	gærs
+
+bræd	None
+bretene	None
+bloweð	None
+groweð	None
+
+eldum	None
+are	ar
+eorðe	eorþ
+cealde	None
+
+brengð	None
+wæstma	None
+wundorlicra	None
+
+wætere	wæter
+weorðað	None
+geþawened	None
+
+nære	None
+
+fordrugod	None
+duste	None
+todrifen	None
+
+wide	None
+winde	windan
+weorðað	None
+
+axe	None
+giond	None
+eorðan	eorþ
+toblawen	None
+
+meahte	magan
+eorðan	eorþ
+awuht	None
+libban	libban
+
+wuhte	None
+ma	micel
+wætres	None
+brucan	None
+
+eardian	eardian
+cræfte	cræft
+
+cele	cele
+cyning	cyning
+
+fyre	fyr
+hwæthwugu	None
+foldan	folde
+lagustream	None
+
+mengdest	mengan
+togædre	None
+gemetgodest	None
+
+cele	cele
+hæto	None
+cræfte	cræft
+
+fyr	fyr
+foldan	folde
+merestream	None
+
+blate	None
+forbærnan	None
+ba	None
+
+gefeged	None
+fæder	fæder
+ealdgeweorc	None
+
+þincð	None
+wundur	None
+wuhte	None
+læsse	None
+
+ðios	None
+eorðe	eorþ
+egorstream	None
+
+ceald	None
+gesceaft	None
+cræfta	cræft
+nane	nan
+
+ealles	eall
+adwæscan	None
+innan	innan
+sticað	None
+
+fyres	fyr
+gefeged	None
+frean	None
+cræfte	cræft
+
+agen	ongeagn
+cræft	cræft
+eagorstreames	None
+
+wætres	None
+eorþan	eorþe
+wolcnum	wolcen
+
+efne	efne
+same	same
+rodere	None
+
+fyres	fyr
+frumstol	None
+riht	riht
+
+eard	None
+gesceaftum	None
+
+gesewenlicum	None
+sidan	None
+grund	grund
+
+gemenged	mengan
+
+weoruldgesceafta	None
+waldan	None
+mot	None
+
+eallunga	None
+fordo	None
+
+leafe	leaf
+lif	None
+tiode	None
+
+eca	None
+ælmihtga	None
+
+eorðe	eorþ
+hefigre	hefig
+gesceaftum	None
+
+þicre	None
+geþuren	None
+stod	None
+
+gesceafta	None
+niðemæst	None
+
+rodere	None
+ruman	None
+gesceaft	None
+
+æghwylce	None
+dæge	dæg
+utan	utan
+ymbhwyrfeð	None
+
+eorðan	eorþ
+oðrineð	None
+
+nanre	nan
+mot	None
+near	None
+
+stowe	stow
+gestæppan	None
+striceð	None
+ymbutan	ymbutan
+
+ufane	None
+neoðane	None
+efenneah	None
+gehwæðer	None
+
+æghwilc	None
+gesceaft	None
+sprecað	None
+
+hæfð	None
+agenne	None
+eard	None
+onsundran	onsundrum
+
+gemenged	mengan
+
+bion	None
+
+unsweotole	None
+somod	None
+eardien	eardian
+
+eorðe	eorþ
+wæter	wæter
+earfoðtæcne	None
+
+unwisra	None
+gehwæm	None
+wuniað	None
+fyre	fyr
+
+sindan	None
+sweotole	sweotol
+wisum	None
+
+fyr	fyr
+same	same
+fæst	fæstan
+wætre	None
+
+stanum	None
+stille	stille
+geheded	None
+
+earfoðhawe	None
+hwæðre	None
+
+hafað	None
+fæder	fæder
+fyr	fyr
+gebunden	gebunden
+
+efne	efne
+fiolan	None
+
+eðle	None
+fyr	fyr
+
+eardfæst	None
+wunað	None
+
+sona	sona
+forlæteð	None
+lænan	None
+gesceaft	None
+
+cele	cele
+ofercumen	ofercuman
+cyððe	cyþ
+gewit	gewitan
+
+wuhta	None
+gehwilc	None
+wilnað	None
+þiderweard	None
+
+mægðe	mægþ
+mæst	micel
+ætgædre	None
+
+gestaðoladest	None
+strongan	None
+meaht	magan
+
+weroda	werod
+wuldorcyning	wuldorcyning
+wundorlice	None
+
+eorðan	eorþ
+
+healfe	healf
+heldeð	None
+hider	hider
+þider	þider
+
+sigan	None
+swiðor	swiðe
+symle	simble
+dyde	don
+
+eorðlices	None
+auht	None
+haldeð	None
+
+efneðe	None
+dune	None
+
+feallanne	None
+foldan	folde
+
+anlicost	None
+æge	None
+
+gioleca	None
+middan	midde
+glideð	None
+hwæðre	None
+
+æg	None
+ymbutan	ymbutan
+stent	standan
+weoruld	None
+
+stille	stille
+tille	None
+streamas	None
+ymbutan	ymbutan
+
+lagufloda	None
+gelac	None
+lyfte	lyft
+tungla	tungol
+
+scire	scir
+scell	None
+scriðeð	None
+ymbutan	ymbutan
+
+dogora	None
+gehwilce	None
+dyde	don
+lange	lange
+
+ðioda	None
+god	god
+ðriefalde	None
+
+sawle	sawel
+gesettest	gesettan
+
+styrest	styrian
+stihtest	None
+strongan	None
+meaht	magan
+
+læsse	None
+lytlan	None
+
+fingre	finger
+
+lichoman	None
+lytle	None
+
+sweotole	sweotol
+sæde	sæd
+sawl	sawel
+
+þriefald	None
+gesceaft	None
+þegna	þegnian
+gehwilces	None
+
+uðwitan	None
+seggað	None
+
+ðætte	None
+gecynd	gecynd
+ælcre	ælc
+saule	None
+
+irsung	None
+wilnung	None
+
+ðridde	None
+gecynd	gecynd
+betere	god
+
+gesceadwisnes	None
+scandlic	None
+cræft	cræft
+
+hafað	None
+neat	None
+monnum	mann
+
+hæfð	None
+oðra	oðer
+unrim	None
+wuhta	None
+
+hæfð	None
+wilnunga	None
+welhwilc	None
+neten	None
+
+yrsunga	None
+
+forðy	forði
+men	mann
+habbæð	None
+middangeard	middangeard
+
+eorðgesceafta	None
+oferþungen	None
+
+habbað	None
+nabbað	None
+
+ænne	an
+cræft	cræft
+nemdon	nemnan
+
+gesceadwisnes	None
+sceal	sculan
+gehwelcum	None
+
+wilnunge	None
+waldan	None
+semle	None
+
+irsunge	None
+
+sceal	sculan
+geþeahte	geþeaht
+þegnes	þegen
+mode	None
+
+andgite	None
+ealles	eall
+waldan	None
+
+mæste	micel
+mægen	mægen
+monnes	None
+saule	None
+
+selesta	None
+sundorcræfta	None
+
+saule	None
+sigora	sigorian
+waldend	None
+
+þeoda	None
+þrymcyning	None
+gesceope	None
+
+hwearfode	hwearfian
+selfre	None
+
+utan	utan
+deð	None
+
+rineswifte	None
+rodor	rodor
+recene	recen
+ymbscriðeð	None
+
+dogora	None
+gehwilce	None
+drihtnes	drihten
+meahtum	None
+
+middangeard	middangeard
+deð	None
+monnes	None
+saul	None
+
+hweole	None
+gelicost	None
+hwærfeð	None
+
+smeagende	smeagan
+eorðlican	None
+
+drihtnes	drihten
+gesceafta	None
+dagum	dæg
+nihtum	neaht
+
+secende	None
+smeað	None
+
+smeað	None
+ecan	None
+god	god
+
+sceppend	None
+scriðende	None
+færð	None
+
+hweole	None
+gelicost	None
+hwærfð	None
+
+scyppend	None
+gescead	None
+smeað	None
+
+ahæfen	None
+
+eallunga	None
+selfre	None
+
+secende	None
+smeað	None
+
+fior	None
+selfre	None
+beneoðan	None
+
+lænan	None
+lufað	None
+wundrað	None
+
+eorðlicu	None
+þing	þingan
+ecne	None
+ræd	None
+
+ece	ece
+god	god
+eard	None
+forgeafe	forgifan
+
+saulum	None
+heofonum	heofon
+selest	None
+weorðlica	None
+
+ginfæsta	None
+gifa	gifu
+god	god
+ælmihtig	None
+
+geearnunga	None
+anra	an
+gehwelcre	None
+
+scinað	None
+sciran	None
+neaht	niht
+
+hadre	None
+heofonum	heofon
+na	na
+hwæðre	None
+
+efenbeorhte	None
+gesioð	None
+
+hadrum	None
+nihtum	neaht
+heofonsteorran	None
+
+efenbeorhte	None
+scinað	None
+
+ece	ece
+god	god
+gemengest	None
+
+heofoncundan	None
+hider	hider
+eorðan	eorþ
+
+saula	None
+wuniað	None
+
+eorðlice	None
+ece	ece
+samod	samod
+
+saul	None
+flæsce	flæsc
+simle	simble
+
+hionan	None
+fundiað	None
+hider	hider
+
+æror	None
+comon	None
+sculon	sculan
+
+sceal	sculan
+lichama	lichama
+last	None
+weardigan	None
+
+eorðan	eorþ
+
+weox	None
+weorulde	None
+wunedon	None
+
+efen	efen
+lange	lange
+lyfed	None
+
+ælmihtigan	eallmihtig
+æror	None
+gio	None
+
+gesomnade	None
+soð	None
+cining	None
+
+foldan	folde
+gesceop	gesceppan
+gefylde	gefyllan
+
+mislicum	None
+gefræge	None
+
+neata	None
+cynnum	cynn
+nergend	None
+
+asiow	None
+sæda	sæd
+monegum	None
+
+wuda	wudu
+wyrta	wyrtian
+weorulde	None
+sceatum	None
+
+forgif	None
+ece	ece
+god	god
+urum	ure
+modum	None
+
+moten	None
+metod	metod
+alwuhta	None
+
+þurg	None
+earfoðu	None
+astigan	None
+
+þisum	þes
+bysegum	None
+bilewit	bilewit
+fæder	fæder
+
+þeoda	None
+waldend	None
+
+openum	open
+eagum	None
+moten	None
+
+modes	None
+ures	ure
+ðinra	None
+mægna	mægen
+sped	None
+
+æwelm	None
+gesion	None
+eallra	eall
+gooda	None
+
+sigedrihten	None
+god	god
+
+eagan	None
+hal	None
+ures	ure
+modes	None
+
+selfum	self
+moten	None
+
+afæstnian	None
+fæder	fæder
+todrif	None
+
+þiccan	þicce
+mist	None
+
+eagan	None
+foran	foran
+usses	None
+modes	None
+
+hangode	hangian
+hwyle	None
+hefig	hefig
+þystre	þystru
+
+onliht	None
+eagan	None
+usses	None
+modes	None
+
+leohte	leoht
+waldend	None
+
+birhtu	birhtu
+bilewit	bilewit
+fæder	fæder
+
+soðes	soþes
+leohtes	None
+
+ræst	None
+fæder	fæder
+ælmihtig	None
+
+eallra	eall
+soðfæstra	None
+softe	None
+gedest	gedon
+
+selfne	None
+gesion	None
+moten	None
+
+eallra	eall
+þinga	þingian
+þeoda	None
+waldend	None
+
+fruma	None
+fæder	fæder
+
+þing	þingan
+birest	None
+eðelice	None
+
+geswince	geswincan
+weg	wegan
+
+latteow	None
+lifgendra	None
+
+wlitige	wlitig
+stow	stow
+weg	wegan
+ligð	None
+
+a	hosp
+fundiað	None
+
+men	mann
+moldan	molde
+mæran	mære
+gesceaft	None
+##	None
+wel	wel
+la	la
+monna	mann
+bearn	beirnan
+middangeard	middangeard
+
+friora	None
+æghwilc	None
+fundie	fundian
+
+ecum	None
+gode	god
+sprecað	None
+
+gesælðum	None
+
+nearwe	nearo
+gehefted	None
+
+mæran	mære
+middangeardes	middangeard
+
+unnyttre	None
+lufe	lufu
+sece	None
+hræðe	None
+
+fulne	full
+friodom	None
+
+gesælðum	None
+saula	None
+rædes	None
+
+forþæm	forðam
+rest	None
+eallra	eall
+geswinca	None
+
+hyhtlicu	None
+hyð	None
+heaum	None
+ceolum	None
+
+modes	None
+usses	None
+meresmylta	None
+wic	wic
+
+hyð	None
+
+yðum	None
+ura	None
+geswinca	None
+
+ysta	None
+gehwelcre	None
+ealnig	None
+smylte	None
+
+friðstow	None
+frofor	None
+
+eallra	eall
+yrminga	None
+
+weoruldgeswincum	None
+wynsum	wynsum
+stow	stow
+
+þyssum	þes
+yrmðum	None
+aganne	None
+
+georne	georne
+wat	witan
+gylden	gylden
+maðm	None
+
+sylofren	None
+sincstan	None
+searogimma	None
+nan	nan
+
+middangeardes	middangeard
+wela	wela
+modes	None
+eagan	None
+
+onlyhtað	None
+auht	None
+gebetað	None
+
+scearpnesse	None
+sceawunga	None
+
+soðra	None
+gesælða	None
+swiðor	swiðe
+get	None
+
+monna	mann
+gehwelces	None
+modes	None
+eagan	None
+
+ablendað	None
+breostum	None
+beorhtran	None
+gedon	gedon
+
+æghwilc	None
+ðing	None
+þys	þis
+andweardan	andweard
+
+life	None
+licað	lican
+lænu	None
+
+eorðlicu	None
+þing	þingan
+a	hosp
+fleondu	None
+
+wundorlic	wundorlic
+wlite	wlite
+beorhtnes	beorhtnes
+
+wuhta	None
+wlite	wlite
+geberhteð	None
+
+wealdeð	None
+
+nele	None
+waldend	None
+forweorðan	None
+scylen	sculan
+
+saula	None
+usse	None
+wile	wil
+
+leoman	None
+onlihtan	None
+wealdend	wealdend
+
+hæleða	None
+hwilc	hwilc
+hlutrum	None
+eagum	None
+
+modes	None
+sines	None
+ofsion	None
+
+hiofones	None
+leohtes	None
+hlutre	None
+beorhto	None
+
+wile	wil
+sunnan	sunne
+
+beorhtnes	beorhtnes
+þiostro	None
+beorna	beorn
+gehwylcum	gehwylc
+
+metanne	None
+leoht	sunnan
+
+godes	god
+ælmihtiges	None
+gasta	None
+gehwæm	None
+
+ece	ece
+eadegum	None
+saulum	None
+##	None
+rihte	rihte
+gerece	None
+wille	willan
+
+inweardlice	None
+spyrian	None
+
+deoplice	None
+todrifan	None
+
+monna	mann
+amerran	None
+huru	huru
+
+eorðlic	None
+ðincg	None
+ærest	ærest
+sceal	sculan
+
+secan	None
+selfum	self
+
+ymbutan	ymbutan
+æror	None
+sohte	None
+
+sece	None
+sefan	None
+innan	innan
+
+forlæte	None
+oftost	None
+mæge	mæge
+
+ælcne	None
+ymbhogan	None
+unnet	None
+
+gesamnige	None
+swiðost	swiðe
+mæge	mæge
+
+ingeðonc	None
+
+gesecge	None
+mode	None
+findan	findan
+
+innan	innan
+oftost	None
+
+ymbutan	ymbutan
+ealneg	None
+seceð	None
+
+gooda	None
+æghwylc	None
+ongit	None
+
+yfel	yfel
+unnet	None
+hæfde	habban
+
+incofan	None
+æror	None
+lange	lange
+
+efne	efne
+sweotole	sweotol
+sunnan	sunne
+
+eagum	None
+andweardum	andweard
+locian	None
+
+ongit	None
+ingeþonc	None
+
+leohtre	None
+berhtre	None
+leoma	None
+
+sunnan	sunne
+sumera	sumer
+swegles	swegl
+gim	None
+
+hador	None
+heofontungol	None
+hlutrost	None
+scineð	None
+
+lichoman	None
+leahtras	None
+hefignes	hefignes
+
+unþeawas	None
+eallunga	None
+magon	magan
+
+mode	None
+ation	None
+monna	mann
+ænegum	ænig
+
+rihtwisnesse	None
+rinca	rinc
+hwæm	None
+
+lichoman	None
+leahtras	None
+hefignes	hefignes
+
+unþeawas	None
+bysigen	None
+
+monna	mann
+modsefan	None
+mæst	micel
+swiðost	swiðe
+
+yflan	yfel
+oforgiotolnesse	None
+
+gedwolmiste	None
+dreorigne	None
+sefan	None
+
+fortihð	None
+mod	None
+foran	foran
+monna	mann
+gehwelces	None
+
+beorhte	beorht
+mot	None
+blican	None
+scinan	None
+
+wolde	willan
+geweald	geweald
+ahte	None
+
+corn	corn
+sædes	None
+gehealden	gehealdan
+
+symle	simble
+saule	None
+soðfæstnesse	None
+
+þenden	None
+gadertang	None
+wunað	None
+gast	None
+
+sædes	None
+corn	corn
+symle	simble
+aweaht	None
+
+ascunga	None
+
+goodre	None
+lare	lar
+growan	None
+sceal	sculan
+
+man	mann
+andsware	andswaru
+findan	findan
+
+ðinga	None
+æniges	ænig
+þegen	þicgan
+gesceade	None
+
+rinca	rinc
+hwilc	hwilc
+rihtwislice	None
+
+frigne	frignan
+awuht	None
+nafað	None
+
+modsefan	None
+mycles	None
+lytles	None
+
+rihtwisnesse	None
+geradscipes	None
+
+man	mann
+ealles	eall
+
+geradscipes	None
+bereafod	None
+
+andsware	andswaru
+cunne	cunnan
+
+findan	findan
+ferhðe	None
+frugnen	frignan
+
+riht	riht
+spell	None
+reahte	reccan
+gio	None
+
+ald	None
+uðwita	None
+platon	None
+
+æghwilc	None
+ungemyndig	None
+
+rihtwisnesse	None
+hræðe	None
+sceolde	sculan
+
+gewendan	gewendan
+into	into
+sinum	None
+
+modes	None
+gemynde	gemynd
+
+runcofan	None
+rihtwisnesse	None
+
+findan	findan
+ferhte	None
+gehydde	None
+
+gedræfnesse	None
+dogora	None
+gehwilce	None
+
+modes	None
+sines	None
+mæst	micel
+swiðost	swiðe
+
+hefinesse	None
+lichoman	None
+
+bisgum	bisig
+breostum	None
+styreð	None
+
+mon	mann
+mode	None
+mæla	None
+gehwylce	gehwylc
+##	None
+la	la
+eorðan	eorþ
+ælces	None
+ðinges	None
+
+gesælig	None
+mon	mann
+gesion	None
+mæge	mæge
+
+hlutrestan	None
+heofontorhtan	None
+stream	None
+
+æðelne	æðele
+æwelm	None
+ælces	None
+goodes	None
+
+selfum	self
+sweartan	sweart
+mist	None
+
+modes	None
+þiostro	None
+aweorpan	None
+
+sculon	sculan
+gita	None
+godes	god
+fylste	None
+
+ealdum	eald
+leasum	leas
+ingeðonc	None
+
+betan	None
+bispellum	None
+bet	wel
+mæge	mæge
+
+aredian	None
+rodorum	rodor
+rihte	rihte
+stige	stigan
+
+ecan	None
+eard	None
+ussa	None
+saula	None
+##	None
+hæbbe	habban
+fiðru	None
+fugle	fugol
+swiftran	swift
+
+fleogan	None
+feor	feor
+eorðan	eorþ
+
+heane	None
+hrof	hrof
+heofones	heofon
+
+moste	None
+mod	None
+gefeðran	None
+
+ferðlocan	None
+feðrum	None
+
+meahte	magan
+middangeard	middangeard
+
+eorðlic	None
+ðing	None
+eallunga	None
+forsion	None
+
+meahtes	None
+rodorum	rodor
+gereclice	None
+
+feðerum	feðer
+lacan	None
+feor	feor
+
+wolcnu	wolcen
+windan	windan
+wlitan	None
+
+meahtes	None
+faran	faran
+
+fyre	fyr
+geara	gear
+
+lange	lange
+lyfte	lyft
+rodere	None
+
+frymðe	frymþ
+fæder	fæder
+getiode	None
+
+meahtest	magan
+sunnan	sunne
+
+faran	faran
+tunglum	tungol
+
+meahtest	magan
+full	full
+recen	recen
+rodere	None
+
+weorðan	None
+samtenges	None
+
+ælcealdan	None
+steorran	steorra
+
+yfmest	None
+eallra	eall
+tungla	tungol
+
+saturnus	None
+sundbuende	None
+
+hatað	None
+heofonum	heofon
+cealda	cealdian
+
+eallisig	None
+tungl	None
+yfemest	None
+wandrað	None
+
+steorrum	steorra
+
+a	hosp
+hafast	hafian
+
+oferfarenne	oferfaran
+meaht	magan
+feorsian	feorsian
+
+sona	sona
+uppan	None
+
+rodere	None
+ryneswiftum	None
+riht	riht
+færest	faran
+
+hehstan	None
+heofon	heofon
+behindan	behindan
+lætst	None
+
+meaht	magan
+soðes	soþes
+leohtes	None
+
+dæl	dæl
+ðonan	None
+cyning	cyning
+
+rume	None
+ricsað	None
+roderum	None
+
+same	same
+eallra	eall
+gesceafta	None
+
+weorulde	None
+waldeð	None
+wis	None
+cyning	cyning
+
+waldeð	None
+giond	None
+werðioda	None
+
+oðra	oðer
+eorðan	eorþ
+cyninga	cyning
+
+bridle	None
+ymbebæted	None
+hæfð	None
+
+ymbhwyrft	None
+ealne	eal
+eorðan	eorþ
+heofones	heofon
+
+gewaldleðer	None
+wel	wel
+gemetgað	None
+
+stioreð	None
+a	hosp
+þurg	None
+strongan	None
+meaht	magan
+
+hrædwæne	None
+heofones	heofon
+eorðan	eorþ
+
+dema	dema
+gestæððig	None
+
+unawendendlic	None
+wlitig	None
+mære	mære
+
+weorðest	None
+wege	wegan
+rihtum	riht
+
+earde	eard
+æðele	æðele
+stow	stow
+
+geta	None
+forgiten	None
+hæbbe	habban
+
+cymest	None
+
+wilt	willan
+sona	sona
+cweðan	None
+:	None
+
+"	None
+eallunga	None
+agen	ongeagn
+cyð	cyðan
+
+eard	None
+eðel	None
+hionan	None
+
+cumen	cuman
+acenned	acennan
+cræftgan	cræftig
+meaht	magan
+
+nylle	None
+hionan	None
+witan	witan
+
+symle	simble
+softe	None
+wille	willan
+
+fæder	fæder
+stondan	None
+"	None
+
+geweorðeð	None
+
+wilt	willan
+most	None
+weorolde	None
+ðiostro	None
+
+fandian	fandian
+meaht	magan
+eaðe	None
+gesion	None
+
+unrihtwise	None
+eorðan	eorþ
+cyningas	cyning
+
+ofermodan	None
+rican	None
+
+werige	werian
+folc	folc
+wyrst	None
+tuciað	None
+
+symle	simble
+bioð	None
+earme	earm
+
+unmehtige	None
+ælces	None
+ðinges	None
+
+emne	None
+ilcan	ilca
+earme	earm
+folc	folc
+
+swiðost	swiðe
+ondrædæð	None
+##	None
+geher	None
+spell	None
+ofermodum	None
+
+unrihtwisum	unrihtwis
+eorðan	eorþ
+cyningum	cyninge
+
+manegum	manig
+mislicum	None
+
+wædum	wæd
+wlitebeorhtum	None
+wundrum	wundor
+scinað	None
+
+heahsetlum	None
+hrofe	None
+getenge	None
+
+golde	gold
+gegerede	None
+gimcynnum	None
+
+utan	utan
+ymbestandne	None
+unrime	None
+
+ðegna	None
+eorla	eorl
+bioð	None
+gehyrste	None
+
+heregeatwum	None
+hildetorhtum	None
+
+sweordum	None
+fetelum	None
+geglengde	None
+
+þegniað	None
+ðrymme	None
+
+
+ðonan	None
+ðrymme	None
+þreatiað	None
+gehwider	None
+
+ymbsittenda	None
+oðra	oðer
+ðeoda	None
+
+hlaford	None
+scrifð	None
+here	herian
+waldeð	None
+
+freonde	None
+feonde	None
+feore	None
+æhtum	None
+
+reðigmod	None
+ræst	None
+gehwilcne	gehwylc
+
+wedehunde	None
+wuhta	None
+gelicost	None
+
+ahæfen	None
+inne	inne
+mode	None
+
+anwalde	None
+anra	an
+gehwilc	None
+
+tirwina	None
+fultemað	None
+
+mon	mann
+wolde	willan
+awindan	None
+
+cynegerelan	None
+claða	None
+gehwilcne	gehwylc
+
+oftion	None
+ðegnunga	None
+
+anwaldes	None
+hæfde	habban
+
+meaht	magan
+gesion	None
+
+sumum	sum
+gumena	guma
+geornost	None
+
+ðegnungum	None
+ðringað	None
+ymbeutan	None
+
+wyrsa	None
+wene	None
+na	na
+beteran	None
+
+unmendlinga	None
+
+weas	None
+geberede	None
+wurde	weorþan
+oftogen	ofteon
+
+þrymmes	þrymm
+wæda	None
+þegnunga	None
+
+anwaldes	None
+sprecað	None
+
+ofhende	None
+wyrð	weorþ
+
+wat	witan
+þynceð	None
+
+becropen	None
+carcern	carcern
+coðlice	None
+
+racentan	racente
+geræped	None
+gereccan	None
+
+ungemete	None
+ælces	None
+ðinges	None
+
+wiste	witan
+wæda	None
+wingedrinces	None
+
+swetmettum	None
+swiðost	swiðe
+weaxað	None
+
+wrænnesse	None
+wodðrag	None
+
+gedræfð	None
+sefan	None
+ingehygd	ingehygd
+
+monna	mann
+gehwelces	None
+mæst	micel
+
+yfla	yfel
+ofermetta	None
+unnetta	None
+saca	None
+
+gebolgene	None
+weorðað	None
+wyrð	weorþ
+breostum	None
+inne	inne
+
+beswungen	None
+sefa	None
+hraðre	None
+swiðan	None
+welme	None
+
+hatheortnesse	hatheortnes
+hreðe	None
+
+unrotnesse	None
+geræped	None
+
+hearde	heard
+gehæfted	None
+onginð	None
+
+tohopa	None
+leogan	None
+
+gewinnes	None
+wræce	wræc
+wilnað	None
+irre	irre
+
+anes	an
+oðres	None
+gehæt	None
+
+recelest	None
+rihtes	None
+scrifeð	None
+
+sæde	sæd
+selfan	None
+bec	None
+
+sumes	None
+goodes	None
+sidra	None
+gesceafta	None
+
+anlepra	None
+a	hosp
+wilnode	wilnian
+
+agenum	agen
+ealdgecynde	None
+
+unrihtwise	None
+eorðan	eorþ
+cyningas	cyning
+
+magon	magan
+þurhtion	None
+awuht	None
+goodes	None
+
+yfle	yfel
+sæde	sæd
+
+nan	nan
+wundor	wundor
+willað	None
+
+unðeawum	None
+nemde	nemnan
+
+anra	an
+gehwelcum	None
+a	hosp
+underðeodan	None
+
+sceal	sculan
+nede	None
+nearwe	nearo
+gebugan	gebugan
+
+hlaforda	None
+hæftedome	None
+
+eallunga	None
+underþiodde	None
+
+wyrse	None
+get	None
+winnan	winnan
+nyle	None
+
+anwalde	None
+stunde	None
+
+wolde	willan
+a	hosp
+winnan	winnan
+onginnan	onginnan
+
+gewinne	gewinnan
+þurhwunian	þurhwunian
+
+næfde	nabban
+nane	nan
+scylde	None
+
+oferwunnen	oferwinnan
+weorðan	None
+sceolde	sculan
+##	None
+eaðe	None
+ealdum	eald
+leasum	leas
+
+spellum	None
+andreccan	None
+spræce	None
+gelice	gelice
+
+efne	efne
+ilcan	ilca
+sprecað	None
+
+gesælde	None
+gio	None
+tide	tid
+
+aulixes	None
+hæfde	habban
+
+casere	casere
+cynericu	None
+
+þracia	None
+ðioda	None
+aldor	None
+
+retie	None
+rices	None
+hirde	None
+
+freadrihtnes	None
+folccuð	None
+nama	nama
+
+agamemnon	None
+ealles	eall
+weold	None
+
+creca	None
+rices	None
+cuð	None
+wide	None
+
+tide	tid
+troia	None
+gewin	gewin
+
+wearð	None
+wolcnum	wolcen
+wiges	None
+heard	heard
+
+creca	None
+campsted	None
+secan	None
+
+aulixes	None
+scipa	scip
+
+lædde	None
+lagustream	None
+sæt	sittan
+longe	lange
+
+tyn	tin
+winter	winter
+full	full
+tid	tid
+gelomp	None
+
+rice	romana
+geræht	None
+hæfdon	habban
+
+diore	None
+gecepte	None
+creca	None
+
+troia	None
+burg	cantwara
+tilum	None
+gesiðum	None
+
+aulixes	None
+leafe	leaf
+hæfde	habban
+
+ðracia	None
+cining	None
+moste	None
+
+let	None
+behindan	behindan
+hyrnde	None
+ciolas	None
+
+hundnigontig	None
+nænigne	None
+
+merehengesta	None
+ma	micel
+ænne	an
+
+ferede	ferian
+fifelstream	None
+famigbordon	None
+
+ðriereðre	None
+ceol	None
+mæste	micel
+
+creciscra	None
+scipa	scip
+wearð	None
+ceald	None
+weder	weder
+
+stearc	None
+storma	None
+gelac	None
+stunede	None
+brune	None
+
+yð	None
+feor	feor
+adraf	adrifan
+
+wendelsæ	None
+wigendra	None
+scola	scolu
+
+igland	None
+apolines	None
+
+dohtor	dohtor
+wunode	wunian
+dægrimes	None
+worn	None
+
+apollinus	None
+æðeles	æðele
+cynnes	cynn
+
+iobes	None
+eafora	None
+gio	None
+cyning	cyning
+
+licette	None
+litlum	None
+miclum	micel
+
+gumena	guma
+gehwylcum	gehwylc
+good	None
+
+hehst	None
+halgost	None
+hlaford	None
+
+dysige	dysig
+folc	folc
+gedwolan	None
+lædde	None
+
+gelyfde	gelifan
+leoda	None
+unrim	None
+
+rihte	rihte
+rices	None
+hirde	None
+
+cynecynnes	None
+cuð	None
+wide	None
+
+tide	tid
+þeoda	None
+æghwilc	None
+
+hæfdon	habban
+hlaford	None
+hehstan	None
+god	god
+
+weorðodon	None
+wuldres	wuldor
+cining	None
+
+rice	romana
+rihte	rihte
+boren	beran
+
+iobes	None
+fæder	fæder
+god	god
+
+saturnus	None
+sundbuende	None
+
+heton	None
+hæleða	None
+bearn	beirnan
+hæfdon	habban
+mægða	None
+
+ælcne	None
+ecne	None
+god	god
+
+sceolde	sculan
+apollines	None
+
+dohtor	dohtor
+diorboren	None
+dysiges	dysig
+folces	folc
+
+gumrinca	None
+gyden	None
+cuðe	None
+galdra	galdor
+
+drifan	None
+drycræftas	None
+gedwolan	None
+fylgde	None
+
+manna	mann
+swiðost	swiðe
+manegra	manig
+þioda	None
+
+cyninges	cyning
+dohtor	dohtor
+circe	None
+
+haten	None
+herigum	here
+ricsode	None
+
+iglonde	None
+aulixes	None
+
+cining	None
+þracia	None
+ane	an
+
+ceole	None
+liðan	None
+cuð	None
+sona	sona
+
+eallre	eall
+mænige	None
+wunode	wunian
+
+æþelinges	None
+sið	None
+ungemete	None
+
+lissum	None
+lufode	lufian
+liðmonna	None
+frean	None
+
+same	same
+mægne	None
+
+efne	efne
+sefan	None
+lufode	lufian
+
+earde	eard
+nyste	nytan
+
+modes	None
+mynlan	None
+mægð	mægþ
+giunge	None
+
+wife	wif
+wunode	wunian
+
+meahte	magan
+monna	mann
+
+ðegna	None
+sinra	None
+
+yrmðum	None
+eardes	None
+lyste	None
+
+mynton	myntan
+forlætan	None
+leofne	None
+hlaford	None
+
+ongunnon	onginnan
+wercan	None
+werðeoda	None
+spell	None
+
+sædon	None
+sceolde	sculan
+scinlace	None
+
+beornas	beorn
+forbredan	None
+balocræftum	None
+
+wraðum	None
+weorpan	weorpan
+wildra	None
+lic	lic
+
+cyninges	cyning
+þegnas	þegen
+cyspan	None
+
+racentan	racente
+ræpan	None
+mænigne	None
+
+wulfum	wulf
+wurdon	wurdon
+meahton	magan
+forðbringan	None
+
+þragmælum	None
+ðioton	None
+ongunnon	onginnan
+
+eaforas	None
+a	hosp
+grymetedon	None
+
+sares	None
+siofian	None
+scioldon	None
+
+leon	None
+ongunnon	onginnan
+laðlice	None
+
+yrrenga	None
+ryn	None
+a	hosp
+sceoldon	sculan
+
+clipian	clipian
+corðre	None
+cnihtas	cniht
+wurdon	wurdon
+
+ealde	eald
+giunge	None
+forhwerfde	None
+
+sumum	sum
+diore	None
+swelcum	None
+æror	None
+
+lifdagum	None
+gelicost	None
+
+cyninge	cyninge
+cwen	None
+lufode	lufian
+
+oþra	None
+onbitan	None
+
+mennisces	mennisc
+metes	mete
+ma	micel
+lufedon	None
+
+diora	None
+drohtað	None
+gedefe	None
+
+næfdon	nabban
+mare	micel
+monnum	mann
+gelices	None
+
+eorðbuendum	None
+ingeþonc	None
+
+hæfde	habban
+anra	an
+agen	ongeagn
+mod	None
+
+sorgum	sorh
+gebunden	gebunden
+
+earfoðum	None
+sæton	None
+
+dysegan	None
+men	mann
+ðysum	þes
+drycræftum	None
+
+longe	lange
+gelyfdon	gelifan
+leasum	leas
+spellum	None
+
+wisson	None
+hwæðre	None
+gewit	gewitan
+
+mod	None
+onwendan	onwendan
+monna	mann
+
+drycræftum	None
+gedon	gedon
+meahte	magan
+
+lichoman	None
+lange	lange
+
+onwend	onwendan
+wurdon	wurdon
+wundorlic	wundorlic
+
+mægencræft	mægencræft
+moda	None
+gehwilces	None
+
+lichoman	None
+lænne	None
+sænne	None
+
+swylcum	swilc
+swylcum	swilc
+meaht	magan
+sweotole	sweotol
+ongitan	None
+
+lichoman	None
+listas	None
+cræftas	cræft
+
+mode	None
+cumað	None
+monna	mann
+gehwylcum	gehwylc
+
+anlepra	None
+meaht	magan
+eaðe	None
+ongitan	None
+
+ma	micel
+dereð	None
+monna	mann
+gehwelcum	None
+
+modes	None
+unðeaw	None
+mettrymnes	None
+
+lænes	None
+lichoman	None
+þearf	þurfan
+leoda	None
+nan	nan
+
+wenan	None
+wyrde	wyrd
+werige	werian
+flæsc	flæsc
+
+mod	None
+mæge	mæge
+monna	mann
+æniges	ænig
+
+eallunga	None
+onwendan	onwendan
+
+unðeawas	None
+ælces	None
+modes	None
+
+ingeþonc	None
+ælces	None
+monnes	None
+
+lichoman	None
+lit	None
+þider	þider
+wile	wil
+##	None
+scylen	sculan
+unrihtfioungum	None
+
+mod	None
+drefan	None
+mereflodes	None
+
+yþa	None
+hrerað	None
+iscalde	None
+sæ	sæ
+
+wecggað	None
+winde	windan
+oðwite	None
+
+wyrde	wyrd
+geweald	geweald
+nafað	None
+
+deaðes	None
+gesceop	gesceppan
+
+gebidan	None
+magon	magan
+bitres	biter
+gecyndes	gecynd
+
+ælce	ælc
+dæg	dæg
+onet	None
+toweard	None
+
+magon	magan
+gesion	None
+symle	simble
+spyreð	None
+
+æghwelcum	None
+eorðan	eorþ
+tudre	tudor
+
+diorum	None
+fuglum	fugol
+deað	None
+same	same
+
+moncynne	None
+middangeard	middangeard
+
+egeslic	None
+hunta	huntian
+a	hosp
+waðe	None
+
+nyle	None
+swæð	None
+forlætan	None
+
+gehede	None
+
+spyrede	None
+earmlic	None
+þing	þingan
+
+gebidan	None
+magon	magan
+burgsittende	None
+
+ungesælige	None
+men	mann
+willað	None
+
+foran	foran
+sciotan	None
+fugla	fugol
+cyn	None
+
+wildu	None
+dior	None
+winnað	None
+betwuh	betweoh
+
+æghwylc	None
+wolde	willan
+acwellan	acwellan
+
+unriht	None
+æghwelcum	None
+men	mann
+
+oðerne	oðer
+inwitþoncum	None
+
+fioge	None
+færðe	None
+fugl	None
+dior	None
+
+rihtost	None
+rinca	rinc
+
+gulde	gieldan
+edlean	None
+riht	riht
+
+weorc	weorc
+geweorhtum	None
+weoruldbuendum	None
+
+þinga	þingian
+gehwilces	None
+lufige	lufian
+
+godra	god
+gehwilcne	gehwylc
+geornost	None
+mæge	mæge
+
+mildsige	None
+yflum	yfel
+spræcon	None
+
+sceal	sculan
+monnan	None
+mode	None
+lufian	lufian
+
+unþeawas	None
+hatian	hatian
+
+ofsniðan	None
+swiðost	swiðe
+mæge	mæge
+##	None
+eorðan	eorþ
+unlærdra	None
+
+wundrige	wundrian
+wolcna	wolcen
+færeldes	None
+
+rodres	None
+swifto	None
+ryne	ryne
+tunglo	None
+
+ælce	ælc
+dæge	dæg
+utan	utan
+ymbhwerfeð	None
+
+eallne	eall
+middangeard	middangeard
+moncynnes	None
+
+wundrie	wundrian
+wlitegan	None
+tungl	None
+
+habbað	None
+
+scyrtran	None
+ymbehwerft	None
+scriðað	None
+leng	leng
+
+utan	utan
+tungla	tungol
+
+woruldmen	None
+hatað	None
+wænes	None
+þisla	None
+
+habbað	None
+scyrtran	None
+scriðe	None
+færelt	None
+
+ymbhwerft	None
+læssan	None
+oðru	oðer
+tungl	None
+
+eaxe	None
+utan	utan
+ymbhweorfeð	None
+
+norðende	None
+nean	None
+ymbcerreð	None
+
+ilcan	ilca
+eaxe	None
+hwerfeð	None
+
+ruma	None
+rodor	rodor
+recene	recen
+scriðeð	None
+
+suðheald	None
+swifeð	None
+swift	None
+untiorig	None
+
+weorulde	None
+wafige	None
+
+ane	an
+wisson	None
+
+mænig	manig
+tungul	None
+maran	micel
+ymbhwyrft	None
+
+hafað	None
+heofonum	heofon
+
+læsse	None
+geliðað	None
+lacað	None
+
+eaxe	None
+
+mare	micel
+geferað	None
+middre	midd
+
+þearle	þearle
+þrægeð	None
+gehaten	gehatan
+
+saturnus	None
+hæfð	None
+
+wintergerimes	None
+weoruld	None
+ymbcirred	None
+
+boetes	None
+beorhte	beorht
+scineð	None
+
+steorra	steorra
+efne	efne
+same	same
+
+ilcan	ilca
+stede	stede
+
+geargerimes	None
+gio	None
+
+weoruldmonna	None
+wafige	None
+
+steorran	steorra
+sæ	sæ
+farað	None
+
+merestreamas	None
+monnum	mann
+ðincð	None
+
+wenað	None
+sunne	sunne
+
+wena	wenian
+wuhte	None
+soðra	None
+
+æfen	None
+ærmorgen	None
+
+merestreame	None
+near	None
+midne	None
+dæg	dæg
+
+monnum	mann
+þyncð	None
+mere	mere
+gange	gangan
+
+sæswife	None
+setl	setl
+glideð	None
+
+weorulde	None
+wundrige	wundrian
+
+fulles	full
+monan	None
+færinga	færinga
+
+wyrð	weorþ
+wolcnum	wolcen
+wlites	None
+bereafad	None
+
+beþeaht	beþeccan
+þiostrum	None
+þegna	þegnian
+mæge	mæge
+
+wafian	wafian
+ælces	None
+stiorran	None
+
+scinen	scinan
+scirum	None
+wederum	None
+
+sunnan	sunne
+symle	simble
+doð	None
+
+middelnihtum	None
+monan	None
+foran	foran
+
+hadrum	None
+heofone	heofon
+hæleða	None
+
+swelces	None
+swelces	None
+wundrað	None
+
+wundriað	None
+wuhta	None
+gehwilc	None
+
+men	mann
+netenu	None
+micelne	micelne
+habbað	None
+
+unnetne	None
+andan	anda
+betweoh	None
+
+singalne	None
+sellic	None
+þincg	None
+
+wundriað	None
+wolcnum	wolcen
+
+þearle	þearle
+þunrað	None
+þragmælum	None
+
+anforlæteð	None
+same	same
+
+yð	None
+lande	land
+ealneg	None
+winneð	None
+
+wind	windan
+wæge	None
+wundrað	None
+
+oþres	oðer
+hwi	hwy
+mæge	mæge
+
+weorðan	None
+wætere	wæter
+wlitetorht	None
+scineð	None
+
+sunna	None
+swegle	swegl
+hat	None
+sona	sona
+gecerreð	None
+
+ismere	None
+ænlic	None
+agen	ongeagn
+gecynd	gecynd
+
+weorðeð	None
+wætre	None
+þincð	None
+wundor	wundor
+
+monna	mann
+ænegum	ænig
+mægge	None
+gesion	None
+
+dogora	None
+gehwilce	None
+dysie	None
+folc	folc
+
+seldnor	None
+gesihð	gesiht
+swiðor	swiðe
+wundrað	None
+
+wisra	None
+gehwæm	None
+wundor	wundor
+ðince	None
+
+modsefan	None
+læsse	None
+
+unstaðolfæste	unstaþolfæst
+ealneg	None
+wenað	None
+
+ealdgesceaft	None
+
+seldon	None
+gesioð	None
+swiðor	swiðe
+giet	git
+
+weoruldmen	None
+wenað	None
+weas	None
+come	come
+
+niwan	None
+gesælde	None
+nængum	None
+
+oðeowde	None
+earmlic	None
+þinc	None
+
+weorðeð	None
+
+firwetgeorn	None
+onginð	None
+
+leornian	leornian
+lista	list
+weard	weard
+
+mode	None
+abrit	None
+dysig	dysig
+
+oferwrigen	None
+wunode	wunian
+lange	lange
+
+wæt	None
+geare	geare
+wundriað	None
+
+mæniges	None
+þinges	þing
+monnum	mann
+
+wæfðo	None
+wunder	None
+welhwær	welhwær
+þynceð	None
+##	None
+wilnige	wilnian
+weorulddrihtnes	None
+
+heane	None
+anwald	anweald
+hlutre	None
+mode	None
+
+ongitan	None
+giorne	None
+gem	None
+almægene	None
+
+heofones	heofon
+tunglu	tungol
+healdað	None
+betwuh	betweoh
+
+sibbe	sibb
+singale	None
+dydon	don
+lange	lange
+
+gewenede	None
+wuldres	wuldor
+aldor	None
+
+frumsceafte	None
+fyrene	fyren
+mot	None
+
+sunne	sunne
+gesecan	None
+snawcealdes	None
+weg	wegan
+
+monan	None
+gemæro	None
+mæran	mære
+tungl	None
+
+auðer	None
+oðres	None
+rene	None
+a	hosp
+gehrineð	None
+
+gewiteð	gewitan
+
+huru	huru
+stiorra	None
+gestigan	None
+wile	wil
+
+westdæl	None
+wolcna	wolcen
+wise	None
+men	mann
+
+ursa	None
+nemnað	None
+stiorran	None
+
+sigað	None
+sunnan	sunne
+samod	samod
+rodere	None
+
+eorðan	eorþ
+grund	grund
+stent	standan
+
+nan	nan
+wundor	wundor
+wundrum	wundor
+fæst	fæstan
+
+upende	None
+neah	neah
+eaxe	None
+roderes	None
+
+steorra	steorra
+beorht	beorht
+
+eastan	eastan
+sunne	sunne
+
+monna	mann
+bearn	beirnan
+morgenstiorra	None
+
+hatað	None
+heofonum	heofon
+hæleþum	hæle
+dæg	dæg
+
+bodað	None
+burgum	burh
+brengeð	None
+
+swegeltorht	None
+sunne	sunne
+samad	None
+dæg	dæg
+
+forrynel	None
+fæger	fæger
+sciene	None
+
+eastan	eastan
+sunnan	sunne
+
+sunnan	sunne
+setl	setl
+glideð	None
+
+west	west
+weorulde	None
+werðioda	None
+
+noman	None
+onwendað	None
+niht	niht
+
+hatað	None
+æfenstiorra	None
+
+sunnan	sunne
+swiftra	None
+setl	setl
+gewitað	gewitan
+
+ofirneð	None
+æþele	æþelu
+tungol	tungol
+eastan	eastan
+weorðeð	None
+
+eldum	None
+oðewed	None
+sunne	sunne
+
+habbað	None
+æðele	æðele
+tungol	tungol
+emne	None
+gedæled	None
+
+dæg	dæg
+nihte	niht
+drihtnes	drihten
+meahtum	None
+
+sunna	None
+mona	mona
+geþwære	None
+
+frymþe	None
+fæder	fæder
+getiohhode	None
+
+þearft	þurfan
+wenan	None
+wlitegan	None
+tungl	None
+
+þeowdomes	None
+aðroten	None
+weorðe	None
+
+domes	None
+dæge	dæg
+deð	None
+
+moncynnes	None
+fruma	None
+gemet	None
+þinceð	None
+
+healfe	healf
+heofones	heofon
+
+ane	an
+læt	læt
+ælmihtig	None
+god	god
+
+læs	læs
+oðra	oðer
+fordyden	fordon
+æþela	æþelu
+gesceafta	None
+
+eca	None
+god	god
+gemetgað	None
+
+sida	sidu
+gesceafta	None
+softa	None
+geþwerað	None
+
+drige	None
+drifð	None
+wætan	None
+
+hwylum	None
+gemengeð	None
+metodes	metod
+cræfte	cræft
+
+cile	None
+hæto	None
+cerreð	None
+
+uprodor	None
+ælbeorhta	None
+leg	None
+
+leoht	sunnan
+lyfte	lyft
+ligeð	None
+behindan	behindan
+
+hefig	hefig
+hrusan	hruse
+dæl	dæl
+hwilan	None
+
+eorðe	eorþ
+cealde	None
+oninnan	None
+
+heold	None
+hydde	None
+haliges	None
+meahtum	None
+
+cyninges	cyning
+gebode	gebod
+geara	gear
+gehwæt	None
+
+eorðe	eorþ
+bringeð	None
+æghwylc	None
+tudor	None
+
+hata	hatian
+sumor	sumer
+hæleða	None
+bearnum	bearn
+
+geara	gear
+gehwilce	None
+giereð	None
+drigeð	None
+
+sidne	None
+grund	grund
+sæd	sæd
+bleda	None
+
+hærfest	hærfest
+honda	None
+herbuendum	None
+
+ripa	None
+receð	None
+ren	None
+
+hagal	None
+snaw	None
+hrusan	hruse
+leccað	None
+
+wintres	winter
+tid	tid
+weder	weder
+unhiore	None
+
+eorðe	eorþ
+onfehð	None
+sædum	None
+
+gedeð	None
+growað	None
+geara	gear
+gehwilce	None
+
+lenctentid	None
+leaf	leaf
+spryttað	None
+
+milda	None
+metod	metod
+monna	mann
+bearnum	bearn
+
+eorðan	eorþ
+fet	fot
+groweð	None
+
+wæstmas	None
+weorolde	None
+wel	wel
+forðbrengeð	None
+
+wile	wil
+heofona	heofon
+waldend	None
+
+eowað	None
+eorðbuendum	None
+
+nimð	None
+wile	wil
+nergende	None
+god	god
+
+hehste	None
+good	None
+heahsetle	None
+
+siteð	None
+cyning	cyning
+þios	None
+side	None
+gesceaft	None
+
+þenað	None
+ðiowað	None
+waldeð	None
+
+geweltleðrum	None
+weoruldgesceafta	None
+
+nan	nan
+wundor	wundor
+weroda	werod
+god	god
+
+cyning	cyning
+cwucera	None
+gehwelces	None
+
+æwelm	None
+fruma	None
+eallra	eall
+gesceafta	None
+
+wyrhta	wyrhta
+sceppend	None
+weorulde	None
+
+wisdom	None
+æ	None
+woruldbuendra	None
+
+gesceafta	None
+ærendo	None
+
+hionane	None
+sendeð	None
+hæt	None
+
+gestæððig	None
+staðolade	None
+
+gesceafta	None
+æghwylc	None
+
+wraðe	None
+tostencte	None
+weorðan	None
+sceolden	sculan
+
+æghwilc	None
+nauhte	None
+
+weorðan	None
+sceoldon	sculan
+wraðe	None
+toslopena	None
+
+ane	an
+lufe	lufu
+gesceafta	None
+
+heofones	heofon
+eorðan	eorþ
+hæbben	habban
+gemæne	gemæne
+
+þiowien	None
+swilcum	None
+þiodfruman	None
+
+fægniað	None
+fæder	fæder
+wealdeð	None
+
+nan	nan
+wundor	wundor
+wuhta	None
+nan	nan
+
+meahte	magan
+elles	elles
+wunian	wunian
+
+eallmægene	None
+ordfruman	None
+
+þiowoden	None
+þeodne	None
+mærum	None
+##	None
+æala	None
+grimmum	grim
+grundleasum	None
+
+seaðe	None
+swinceð	None
+sweorcende	sweorcan
+mod	None
+
+strongan	None
+stormas	None
+beatað	None
+
+weoruldbisgunga	None
+winnende	winnan
+
+agen	ongeagn
+leoht	sunnan
+forlæteð	None
+
+uua	None
+forgit	None
+ecan	None
+gefean	None
+
+ðringð	None
+ðiostro	None
+worulde	weorold
+
+sorgum	sorh
+geswenced	None
+
+mode	None
+gelumpen	limpan
+mare	micel
+wat	witan
+
+gode	god
+godes	god
+gnornunge	None
+
+fremdre	fremde
+worulde	weorold
+frofre	None
+ðearf	None
+##	None
+omerus	None
+east	None
+crecum	None
+
+leodscipe	None
+leoða	None
+cræftgast	None
+
+firgilies	None
+freond	None
+lareow	None
+
+mæran	mære
+sceope	None
+magistra	None
+betst	wel
+
+omerus	None
+gelome	gelome
+
+sunnan	sunne
+wlite	wlite
+herede	herian
+
+æðelo	None
+cræftas	cræft
+gelome	gelome
+
+leoðum	None
+spellum	None
+leodum	None
+reahte	reccan
+
+gescinan	None
+scir	scir
+beorht	beorht
+
+ahwærgen	None
+neah	neah
+gesceafta	None
+
+furðum	None
+gesceafta	None
+gescinan	None
+
+endemes	endemes
+geondlihtan	None
+
+innan	innan
+utan	utan
+ælmihtega	None
+
+waldend	None
+wyrhta	wyrhta
+weorulde	None
+gesceafta	None
+
+agen	ongeagn
+weorc	weorc
+geondwliteð	None
+
+endemes	endemes
+þurhsyhð	None
+gesceafta	None
+
+soðe	None
+sunne	sunne
+rihte	rihte
+
+magon	magan
+singan	singan
+lease	leas
+##	None
+meaht	magan
+ongitan	None
+geman	gemunan
+lyst	None
+
+mislice	None
+manega	manig
+wuhta	None
+
+eorðan	eorþ
+farað	None
+ungelice	None
+
+habbað	None
+blioh	None
+fær	None
+bu	None
+ungelice	None
+
+mægwlitas	None
+manegra	manig
+cynna	cynn
+
+cuð	None
+uncuð	uncuþ
+creopað	None
+snicað	None
+
+lichoma	None
+eorðan	eorþ
+getenge	None
+
+nabbað	None
+fiðrum	None
+fultum	fultum
+magon	magan
+fotum	fot
+gangan	gangan
+
+eorðan	eorþ
+brucan	None
+eaden	None
+
+fotum	fot
+foldan	folde
+peððað	None
+
+fierfete	None
+fleogende	None
+
+windað	None
+wolcnum	wolcen
+wuhta	None
+
+onhnigen	None
+hrusan	hruse
+hnipað	None
+dune	None
+
+weoruld	None
+wliteð	None
+wilnað	None
+eorðan	eorþ
+
+nedþearfe	None
+neodfræce	None
+
+man	mann
+metodes	metod
+gesceafta	None
+
+andwlitan	andwlita
+gerihte	gerihte
+
+getacnod	None
+treowa	treow
+sceal	sculan
+
+modgeþonc	None
+ma	micel
+niðer	None
+
+heofonum	heofon
+læs	læs
+hige	None
+wende	wendan
+
+niðer	None
+nyten	nytan
+gedafenlic	None
+
+modsefa	None
+monna	mann
+æniges	ænig
+
+niðerheald	None
+wese	None
+neb	None
+upweard	None
+##	None
+æala	None
+scippend	None
+scirra	None
+tungla	tungol
+
+hefones	None
+eorðan	eorþ
+heahsetle	None
+
+ecum	None
+ricsast	None
+ealne	eal
+hræðe	None
+
+hefon	None
+ymbhwearfest	None
+halige	None
+miht	miht
+
+tunglu	tungol
+genedest	None
+herað	None
+
+sunne	sunne
+sweartra	sweart
+nihta	niht
+
+ðiostro	None
+adwæsceð	None
+meht	None
+
+blacum	blæc
+leohte	leoht
+beorhte	beorht
+steorran	steorra
+
+mona	mona
+gemetgað	None
+ðinra	None
+meahta	None
+sped	None
+
+sunnan	sunne
+sines	None
+bereafað	None
+
+beorhtan	beorht
+leohtes	None
+gebyrigan	None
+
+geneahsne	None
+nede	None
+weorðað	None
+
+swelce	None
+mæran	mære
+morgensteorran	None
+
+naman	naman
+æfensteorra	None
+
+nemnan	nemnan
+herað	None
+genedest	None
+
+sunnan	sunne
+sið	None
+bewitige	None
+
+geara	gear
+gehwelce	None
+gongan	None
+sceal	sculan
+
+feran	None
+fæder	fæder
+wercest	None
+
+sumurlange	None
+dagas	dæg
+hate	hat
+
+winterdagum	None
+wundrum	wundor
+sceorta	None
+
+tida	None
+getiohhast	None
+treowum	treow
+selest	None
+
+suðan	None
+westan	westan
+swearta	sweart
+storm	None
+
+norðan	norþan
+eastan	eastan
+benumen	beniman
+hæfde	habban
+
+leafa	None
+gehwelces	None
+laðran	None
+wind	windan
+
+eorðan	eorþ
+gesceafta	None
+
+hyrað	None
+hæse	hæs
+doð	None
+heofonum	heofon
+some	None
+
+mode	None
+mægne	None
+men	mann
+
+wyrceð	None
+oftost	None
+
+wel	wel
+la	la
+eca	None
+ælmihtiga	eallmihtig
+
+gesceafta	None
+sceppend	None
+reccend	None
+
+ara	ar
+earmum	earm
+eorðan	eorþ
+tudre	tudor
+
+monna	mann
+cynne	cynn
+ðinra	None
+mehta	None
+sped	None
+
+hwi	hwy
+ece	ece
+god	god
+wolde	willan
+
+wyrd	wyrd
+gewill	gewil
+wendan	wendan
+sceolde	sculan
+
+yflum	yfel
+monnum	mann
+ealles	eall
+
+ful	None
+dereð	None
+unscyldegum	None
+
+sittað	None
+yfele	yfele
+men	mann
+giond	None
+eorðricu	None
+
+heahsetlum	None
+halige	None
+þriccað	None
+
+fotum	fot
+firum	None
+uncuð	uncuþ
+
+hwi	hwy
+wyrd	wyrd
+wo	None
+wendan	wendan
+sceolde	sculan
+
+gehydde	None
+worulde	weorold
+
+burga	burh
+beorhte	beorht
+cræftas	cræft
+
+unrihtwise	None
+tidum	tid
+
+habbað	None
+hospe	hosp
+
+rihtes	None
+wisran	None
+rices	None
+wyrðran	None
+
+lease	leas
+lot	None
+lange	lange
+
+bewrigen	None
+wrencum	wrenc
+worulde	weorold
+
+monnum	mann
+deriað	None
+mane	None
+aðas	aþ
+
+waldend	None
+wilt	willan
+wirde	None
+steoran	None
+
+selfwille	None
+sigan	None
+lætest	None
+
+wat	witan
+wile	wil
+woruldmen	None
+tweogan	None
+
+foldan	folde
+sceat	None
+fea	None
+ane	an
+
+ofersihst	None
+
+worulde	weorold
+gesceafta	None
+wlit	None
+moncyn	None
+
+mildum	None
+eagum	None
+monegum	None
+
+worulde	weorold
+yðum	None
+wynnað	None
+swincað	None
+
+earme	earm
+eorðwaran	None
+ara	ar
+##	None
+meaht	magan
+sunnan	sunne
+sweotole	sweotol
+geþencean	None
+
+æghwelcum	None
+steorran	steorra
+
+burgum	burh
+beorhtost	None
+scineð	None
+
+wan	None
+wolcen	wolcen
+hangað	None
+
+mægen	mægen
+leohtne	None
+leoman	None
+ansendan	None
+
+þicca	þicce
+mist	None
+þynra	None
+weorðe	None
+
+smylte	None
+sæ	sæ
+suðerne	None
+wind	windan
+
+græge	None
+glashlutre	None
+grimme	grimman
+gedrefeð	None
+
+gemengað	None
+micla	micel
+ysta	None
+
+onhrerað	None
+hronmere	None
+hrioh	None
+
+gladu	glæd
+onsiene	None
+
+æspringe	None
+awealleð	None
+
+clife	None
+harum	hara
+col	col
+hlutor	None
+
+gereclice	None
+rihte	rihte
+floweð	None
+
+irneð	None
+eardes	None
+innan	innan
+felð	None
+
+muntes	munt
+mægenstan	None
+middan	midde
+geligeð	None
+
+atrendlod	None
+torre	torr
+
+tosceaden	None
+wyrð	weorþ
+scir	scir
+gedrefed	gedrefan
+
+burna	None
+geblonden	None
+broc	None
+onwended	onwendan
+
+rihtryne	None
+ryðum	None
+toflowen	None
+
+þiostro	None
+heortan	heorte
+
+willað	None
+minre	minre
+leohtan	None
+lare	lar
+wiðstondan	None
+
+modgeþonc	None
+miclum	micel
+gedrefan	gedrefan
+
+wilnast	wilnian
+wel	wel
+mæge	mæge
+
+soðe	None
+leoht	sunnan
+sweotole	sweotol
+oncnawan	oncnawan
+
+leohte	leoht
+geleafan	geleafa
+forlætan	None
+scealt	sculan
+
+idle	None
+ofersælða	None
+unnytne	None
+gefean	None
+
+scealt	sculan
+yfelne	yfel
+ege	ege
+forlætan	None
+
+woruldearfoða	None
+most	None
+
+ealles	eall
+ormod	None
+læt	læt
+
+wlenca	wlencu
+gewæcan	None
+læs	læs
+weorðe	None
+
+ofermettum	None
+gescended	None
+
+ahafen	None
+orsorgum	None
+
+woruldgesælðum	None
+waclice	None
+
+geortreowe	None
+æniges	ænig
+godes	god
+
+worulde	weorold
+wiðerwearda	None
+mæsð	None
+
+þinga	þingian
+þreage	þreagan
+selfum	self
+
+swiðost	swiðe
+onsitte	onsittan
+simle	simble
+
+modsefa	None
+miclum	micel
+gebunden	gebunden
+
+gedrefnesse	None
+dreccean	None
+mot	None
+
+þissa	None
+yfla	yfel
+hwæðer	hwæðer
+innan	innan
+swencan	None
+
+tregan	None
+teoð	None
+tosomne	tosamne
+
+mod	None
+foran	foran
+mistes	None
+dwoleman	None
+
+ece	ece
+mot	None
+innan	innan
+geondscinan	None
+
+sunne	sunne
+sweartum	sweart
+mistum	None
+ærðæm	None
+geswiðrad	None
+weorðen	None
+##	None
+wisdom	None
+wordhord	wordhord
+onleac	None
+
+sang	singan
+soðcwidas	None
+:	None
+
+sunne	sunne
+sweotolost	None
+scineð	None
+
+hadrost	None
+hefone	None
+hræðe	None
+bioð	None
+aðistrod	None
+
+ofir	None
+eorðan	eorþ
+steorran	steorra
+
+birhtu	birhtu
+auht	None
+
+gesettane	None
+sunnan	sunne
+leoht	sunnan
+
+smolte	None
+blæwð	None
+suðan	None
+westan	westan
+
+wind	windan
+wolcnum	wolcen
+weaxeð	None
+hraðe	None
+
+feldes	None
+blostman	None
+fægen	fægen
+moton	None
+
+stearca	None
+storm	None
+strong	None
+cymð	None
+
+norðan	norþan
+eastan	eastan
+genimeð	None
+hraðe	None
+
+rosan	rose
+wlite	wlite
+ruman	None
+sæ	sæ
+
+norðerne	None
+yst	None
+nede	None
+gebædeð	None
+
+strange	strang
+geondstyred	geondstyrian
+staðu	None
+beateð	None
+
+eorðan	eorþ
+auht	None
+fæstlices	None
+
+weorces	weorc
+worulde	weorold
+wunað	None
+##	None
+ongon	None
+wisdom	None
+gewunan	gewuna
+fylgan	None
+
+gliowordum	None
+gol	None
+gyd	None
+spelle	None
+
+song	None
+soðcwida	None
+sumne	sum
+geta	None
+
+herde	None
+heane	None
+munt	munt
+
+monna	mann
+meahte	magan
+asettan	None
+
+healle	heall
+hroffæste	None
+þearf	þurfan
+hæleða	None
+nan	nan
+
+wenan	None
+weorces	weorc
+wisdom	None
+mæge	mæge
+
+ofermetta	None
+gemengan	gemengan
+
+herdes	None
+mon	mann
+
+sondbeorgas	None
+settan	settan
+meahte	magan
+
+healle	heall
+fira	None
+nan	nan
+
+wisdom	None
+timbran	timbran
+woruldgitsung	None
+
+beorg	beorg
+oferbrædeð	None
+baru	bær
+sond	None
+willað	None
+
+ren	None
+forswelgan	forswelgan
+deð	None
+ricra	None
+
+grundleas	None
+gitsung	None
+gilpes	None
+æhta	None
+
+gedrinceð	None
+dryggum	None
+dreosendne	None
+welan	wela
+
+þearfan	þearfa
+þurst	None
+aceled	None
+
+hæleþa	hæle
+gehwæm	None
+hus	None
+munte	munt
+
+lange	lange
+gelæstan	None
+lungre	None
+
+swift	None
+wind	windan
+swapeð	None
+sond	None
+ma	micel
+
+micelne	micelne
+ren	None
+manna	mann
+
+huses	None
+hirde	None
+hreosan	None
+wile	wil
+
+sigan	None
+sond	None
+rene	None
+bioð	None
+anra	an
+
+monna	mann
+modsefan	None
+miclum	micel
+awegede	None
+
+stede	stede
+styrede	styrian
+strong	None
+dreceð	None
+
+wind	windan
+wolcnum	wolcen
+woruldearfoða	None
+
+reða	None
+ren	None
+onhrereð	None
+
+sumes	None
+ymbhogan	None
+ungemet	None
+gemen	None
+
+ecan	None
+agan	aginnan
+wille	willan
+
+soðan	None
+gesælða	None
+sceal	sculan
+flion	None
+
+worulde	weorold
+wlite	wlite
+wyrce	None
+
+modes	None
+hus	None
+mæge	mæge
+findan	findan
+
+eaðmetta	None
+stan	None
+unigmet	None
+fæstne	fæst
+
+grundweal	None
+gearone	gearu
+toglidan	None
+þearf	þurfan
+
+wecge	None
+wind	windan
+woruldearfoða	None
+
+ymbhogena	None
+ormete	None
+ren	None
+
+forþæm	forðam
+dene	denu
+
+eadmetta	None
+eardfæst	None
+wunigað	None
+
+wisdom	None
+a	hosp
+wunað	None
+gemyndum	gemynd
+
+orsorg	None
+lif	None
+ealnig	None
+lædað	None
+
+woruldmen	None
+wise	None
+wendinge	None
+
+forsihð	None
+eorðlicu	None
+good	None
+
+yfela	yfel
+orsorh	None
+wunað	None
+
+hopað	None
+ecum	None
+cumað	None
+
+æghwonan	None
+ælmihtig	None
+good	None
+
+singallice	None
+simle	simble
+gehealdeð	None
+
+anwunigendne	None
+agenum	agen
+
+modes	None
+gesælðum	None
+metodes	metod
+gife	gifu
+
+wind	windan
+woruldearfoða	None
+
+swence	None
+singale	None
+
+gemen	None
+gæle	gælan
+grimme	grimman
+
+woruldsælða	None
+wind	windan
+wraðe	None
+blaweð	None
+
+ealneg	None
+ymbhoga	None
+
+ðyssa	None
+woruldsælða	None
+wraðe	None
+drecce	dreccan
+##	None
+sona	sona
+wisdom	None
+hæfde	habban
+
+swetole	None
+areahte	None
+ongan	onginnan
+
+singan	singan
+soðcwidas	None
+:	None
+
+forme	None
+eld	None
+foldbuendum	None
+
+eorðan	eorþ
+sceat	None
+æghwam	None
+dohte	dugan
+
+anra	an
+gehwæm	None
+eorðwæstmum	None
+
+genoh	genoh
+ðuhte	None
+swelc	None
+
+næron	None
+weorulde	None
+welige	welig
+hamas	None
+
+mislice	None
+mettas	None
+drincas	None
+
+hrægla	None
+huru	huru
+gemdon	None
+
+drihtguman	None
+diorost	None
+lætað	None
+
+gieta	None
+
+gesawon	None
+sundbuende	None
+
+ymbutan	ymbutan
+awer	None
+herdon	None
+
+firenlusta	None
+frece	frec
+
+meahton	magan
+gemetlicost	None
+
+gecynd	gecynd
+began	beginnan
+crist	None
+gesceop	gesceppan
+
+æne	None
+dæge	dæg
+æton	None
+symle	simble
+
+æfentid	None
+eorðan	eorþ
+wæstmas	None
+
+wudes	None
+wyrta	wyrtian
+win	win
+druncon	drincan
+
+scir	scir
+steape	None
+scealca	None
+nan	nan
+
+mete	mete
+drinc	drincan
+mængan	None
+cuðe	None
+
+wæter	wæter
+hunige	None
+wæda	None
+ma	micel
+
+sioloce	None
+siowian	None
+siarocræftum	None
+
+godweb	None
+giredon	None
+gimreced	None
+
+setton	settan
+searolice	None
+simle	simble
+
+tidum	tid
+ute	ute
+slepon	None
+
+beamsceade	None
+druncon	drincan
+burnan	None
+wæter	wæter
+
+calde	None
+wyllan	willa
+cepa	None
+seah	seon
+
+eargeblond	None
+ellendne	None
+wearod	None
+
+huru	huru
+sciphergas	None
+scealcas	None
+herdon	None
+
+furðum	None
+fira	None
+nan	nan
+gefeoht	gefeoht
+sprecan	sprecan
+
+eorðe	eorþ
+besmiten	besmitan
+awer	None
+geta	None
+
+beornes	beorn
+blode	None
+bill	None
+rude	rudu
+
+furðum	None
+wundne	None
+wer	wer
+weoruldbuende	None
+
+gesawan	None
+sunnan	sunne
+
+weorð	None
+weorulde	None
+mon	mann
+ongeat	ongitan
+
+yfelne	yfel
+eldum	None
+æghwæm	None
+lað	None
+
+wurde	weorþan
+wolde	willan
+god	god
+
+eorðan	eorþ
+ussa	None
+tida	None
+
+widan	None
+weoruld	None
+æghwæs	None
+
+swelce	None
+sunnan	sunne
+sæmre	None
+
+gitsunc	None
+hafað	None
+gumena	guma
+gehwelces	None
+
+mod	None
+amerred	None
+maran	micel
+recð	None
+
+witte	None
+weallende	None
+byrnð	None
+
+efne	efne
+gitsung	None
+nænne	nan
+grund	grund
+hafað	None
+
+swearte	sweart
+swæfeð	None
+sumes	None
+onlice	None
+
+efne	efne
+munte	munt
+monna	mann
+bearn	beirnan
+
+etne	None
+hatað	None
+iglonde	None
+
+sicilia	None
+swefle	swefl
+byrneð	None
+
+mon	mann
+helle	hel
+fyr	fyr
+hateð	None
+wide	None
+
+forþæm	forðam
+symle	simble
+sinbyrnende	None
+
+ymbutan	ymbutan
+oðra	oðer
+stowa	stow
+
+blate	None
+forbærnð	None
+biteran	biter
+lege	lecgan
+
+forma	None
+feohgitsere	None
+
+worulde	weorold
+wongstedas	None
+
+grof	None
+golde	gold
+gimcynnum	None
+
+frecnu	None
+gestreon	None
+funde	findan
+mænegum	None
+
+bewrigen	None
+weorulde	None
+wætere	wæter
+eorðan	eorþ
+##	None
+witon	witan
+hwelce	hwilc
+ærleste	None
+
+neah	neah
+feor	feor
+neron	None
+worhte	wyrcan
+
+romwara	None
+cyning	cyning
+rice	romana
+
+hehst	None
+heofonum	heofon
+hryre	hryre
+monegum	None
+
+wælhreowes	None
+gewed	None
+ful	None
+wide	None
+cuð	None
+
+unrihthæmed	unrihthæmed
+arleasta	None
+
+man	mann
+morðor	None
+misdæda	None
+worn	None
+
+unrihtwises	None
+inwidþoncas	None
+
+het	het
+gamene	gamen
+geara	gear
+forbærnan	None
+
+romana	None
+burig	None
+rices	None
+
+ealles	eall
+eðelstol	None
+unsnyttrum	None
+
+wolde	willan
+fandian	fandian
+fyr	fyr
+meahte	magan
+
+lixan	None
+leohte	leoht
+longe	lange
+
+read	None
+rasettan	None
+romane	None
+
+geherde	None
+tide	tid
+
+troia	None
+burg	cantwara
+ofertogen	oferteon
+hæfde	habban
+
+lega	None
+leohtost	None
+lengest	lange
+burne	birnan
+
+hama	None
+hefonum	None
+herlic	None
+dæd	None
+
+swelces	None
+gamenes	gamen
+gilpan	None
+lyste	None
+
+earnade	None
+elles	elles
+wuhte	None
+
+wolde	willan
+werðiode	None
+
+anes	an
+huru	huru
+anwald	anweald
+cyðan	cyþan
+
+gesælde	None
+sumum	sum
+cierre	None
+
+ilca	ilca
+het	het
+acwellan	acwellan
+
+ricostan	None
+romana	None
+witan	witan
+
+æþelestan	None
+eorlgebyrdum	None
+
+folce	folc
+gefrigen	None
+hæfde	habban
+
+uppan	None
+agene	agen
+broðor	broðor
+
+modor	modor
+meca	None
+ecgum	None
+
+billum	bil
+ofbeatan	None
+bryde	None
+ofslog	ofslean
+
+sweorde	sweord
+symle	simble
+
+bliðra	None
+breostcofan	None
+
+swylces	None
+morðres	None
+mæst	micel
+gefremede	gefremian
+
+sorgode	sorgian
+hwæðer	hwæðer
+a	hosp
+
+mihtig	mihtig
+ametan	None
+wolde	willan
+
+wrece	wrecan
+gewyrhtum	None
+wohfremmendum	None
+
+ferðe	None
+fægn	None
+facnes	None
+searuwa	None
+
+wælriow	None
+wunode	wunian
+wiold	None
+emne	None
+
+ealles	eall
+mæran	mære
+middangeardes	middangeard
+
+lagu	lagu
+land	land
+ymbclyppað	None
+
+garsecg	None
+embegyrt	None
+gumena	guma
+rice	romana
+
+secgea	None
+sitlu	None
+suð	suþ
+east	None
+west	west
+
+norðmestan	None
+næssan	None
+eorðan	eorþ
+
+nerone	None
+nede	None
+lustum	None
+
+heaðorinca	None
+gehwilc	None
+heran	None
+sceolde	sculan
+
+hæfde	habban
+gamene	gamen
+gylp	None
+astag	None
+
+eorðcyningas	None
+yrmde	None
+cwelmde	None
+
+wenst	None
+anwald	anweald
+eaðe	None
+meahte	magan
+
+godes	god
+ælmihtiges	None
+gelpscaðan	None
+
+rice	romana
+berædan	None
+bereafian	bereafian
+
+anwaldes	None
+ecan	None
+meaht	magan
+
+yfeles	yfel
+elles	elles
+gestioran	None
+
+wolde	willan
+wel	wel
+meahte	magan
+
+unriht	None
+eaðe	None
+forbiodan	None
+
+eawla	None
+hlaford	None
+hefig	hefig
+gioc	None
+slepte	None
+
+sware	None
+swyran	None
+sinra	None
+ðegena	None
+
+hæleða	None
+tidum	tid
+
+lænan	None
+worold	None
+liban	None
+sceoldon	sculan
+
+unscyldgum	None
+eorla	eorl
+blode	None
+
+sweord	None
+selede	None
+gelome	gelome
+
+sweotol	sweotol
+sædon	None
+
+anwald	anweald
+deð	None
+awiht	None
+godes	god
+
+wel	wel
+nele	None
+geweald	geweald
+hafað	None
+##	None
+ælfred	None
+ealdspell	None
+reahte	reccan
+
+cyning	cyning
+westsexna	None
+cræft	cræft
+meldode	None
+
+leoðwyrhta	None
+list	list
+lust	None
+
+ðiossum	None
+leodum	None
+leoð	None
+spellode	None
+
+monnum	mann
+myrgen	None
+mislice	None
+cwidas	cwide
+
+læs	læs
+ælinge	None
+adrife	adrifan
+
+selflicne	None
+swelces	None
+lyt	None
+
+gymð	None
+gilpe	None
+sceal	sculan
+giet	git
+sprecan	sprecan
+
+fon	None
+fitte	fitt
+folccuðne	None
+ræd	None
+
+hæleðum	None
+secgean	None
+hliste	None
+wille	willan
 

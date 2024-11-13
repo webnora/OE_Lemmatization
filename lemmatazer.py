@@ -32,7 +32,7 @@ class Lemmatazer:
         if w[0] == '#':
           f.write('\n')
         else:
-          f.write(f'{w[0]} -> {w[1]}\n')
+          f.write(f'{w[0]}\t{w[1]}\n')
 
   def save_text(self, fileName = path_out + 'text.txt'):
     print(f'save text to: {fileName}')
@@ -62,21 +62,21 @@ class Lemmatazer:
 
 
 if __name__ == "__main__":
-  # lm = Lemmatazer(fileStop = "")
-  # lm.parse()
-  # lm.stat()
+  lm = Lemmatazer(fileStop = "")
+  lm.parse()
+  lm.stat()
 
-  # print()
-  # lm = Lemmatazer()
-  # lm.parse()
-  # lm.stat()
-  # # lm.save_debug()
-  # # lm.save_text()
+  print()
+  lm = Lemmatazer()
+  lm.parse()
+  lm.stat()
+  lm.save_debug()
+  lm.save_text()
 
-  from lemmas import Lemmas
-  lm2 = Lemmatazer('', Lemmas.file_out_norm)
-  lm2.parse('d/iswoc/forms.txt')
-  lm2.stat()
-  lm2.save_debug('d/p_read/debug2.txt')
-  lm2.save_text('d/p_read/text2.txt')
+  # from lemmas import Lemmas
+  # lm2 = Lemmatazer('', Lemmas.file_out_norm)
+  # lm2.parse('d/iswoc/forms.txt')
+  # lm2.stat()
+  # lm2.save_debug('d/p_read/debug2.txt')
+  # lm2.save_text('d/p_read/text2.txt')
 
