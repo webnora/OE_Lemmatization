@@ -5,6 +5,7 @@ class Lemmatazer:
   def __init__(self, 
                fileStop = path_in + 'stop.txt', 
                fileDict = path_in + 'dict.tsv'):
+    self.eq = 0
     self.form = {}
     with open(fileDict, 'r') as f:
       for lemma in f.read().split('\n\n'):
@@ -23,16 +24,28 @@ class Lemmatazer:
 
   def parse(self, fileName = path_in + 'calgary/allMeters.txt'):
     with open(fileName, 'r') as f:
-      self.words = [(w, self.form.get(w)) for w in f.read().split(' ') if w not in self.stops]
+      self.words = [(w, self.form.get(w)) for w in f.read().split() if w not in self.stops]
 
-  def save_debug(self, fileName = path_out + 'debug.tsv'):
+  def save_debug(self, fileName = path_out + 'debug.tsv', diff = None):
     print(f'save debug to: {fileName}')
+    if diff and len(diff) != len(self.words):
+      print(f'wrong diff len: {len(diff)}')
     with open(fileName, 'w') as f:
-      for w in self.words:
+      add = ""
+      for i, w in enumerate(self.words):
         if w[0] == '#':
           f.write('\n')
         else:
-          f.write(f'{w[0]}\t{w[1]}\n')
+          lemmas = w[1]
+          if diff:
+            lemma = diff[i][0]
+            if lemma in '&' or (lemmas and lemma.lower() in lemmas.split('|')):
+              add = '+'
+              self.eq += 1
+            else:
+              add = '-'              
+            add += f'\t{lemma}\t'
+          f.write(f'{add}{w[0]}\t{lemmas}\n')
 
   def save_text(self, fileName = path_out + 'text.txt'):
     print(f'save text to: {fileName}')
@@ -59,24 +72,43 @@ class Lemmatazer:
     print(f'All words: {all}')
     print(f'Forms not found: {nf} ({nf/all*100:.2f}%)')
     print(f'Lemms not found: {nl} ({nl/all*100:.2f}%)')
+    if self.eq:
+      print(f'Found in diff: {self.eq} ({(self.eq)/all*100:.2f}%)')
 
 
 if __name__ == "__main__":
-  lm = Lemmatazer(fileStop = "")
-  lm.parse()
-  lm.stat()
+  lm0 = Lemmatazer()
+  lm0.parse()
+  lm0.stat()
+  lm0.save_debug()
+  lm0.save_text()
 
-  print()
-  lm = Lemmatazer()
-  lm.parse()
-  lm.stat()
-  lm.save_debug()
-  lm.save_text()
+  from lemmas import Lemmas
+  lm1 = Lemmatazer('', Lemmas.file_out_norm)
+  lm1.parse('d/iswoc/lemmas.txt')
+  lm2 = Lemmatazer('', Lemmas.file_out_norm)
+  lm2.parse('d/iswoc/forms.txt')
+  lm2.save_debug(Lemmatazer.path_out + 'diff.tsv', diff = lm1.words)
+  lm2.stat()
 
-  # from lemmas import Lemmas
+  # lm2 = Lemmatazer('', Lemmas.file_out_norm)
+  # lm2.parse('d/iswoc/forms.txt')
+  # lm2.save_debug(diff = lm1.words)
+  # lm2.stat()
+
+
   # lm2 = Lemmatazer('', Lemmas.file_out_norm)
   # lm2.parse('d/iswoc/forms.txt')
   # lm2.stat()
   # lm2.save_debug('d/p_read/debug2.tsv')
   # lm2.save_text('d/p_read/text2.txt')
 
+  # from lemmas import Lemmas
+  # diff = Lemmatazer('', Lemmas.file_out_norm)
+  # diff = Lemmatazer('', Lemmas.file_out_norm)
+  # diff.parse('d/iswoc/lemmas.txt')
+
+  # lm = Lemmatazer('', Lemmas.file_out_norm)
+  # lm.parse('d/iswoc/forms.txt')
+  # lm.save_debug(diff = diff.words)
+  # lm.stat()
