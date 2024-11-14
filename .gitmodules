@@ -13,3 +13,6 @@
 [submodule "unimorph-ang"]
 	path = s/unimorph-ang
 	url = https://github.com/unimorph/ang.git
+[submodule "syntacticus-treebank-data"]
+	path = s/syntacticus-treebank-data
+	url = https://github.com/syntacticus/syntacticus-treebank-data
