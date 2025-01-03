@@ -1,0 +1,7 @@
+Сможешь лемматизировать текст на древнеанглийском?
+
+Mæg gehyran se ðe wyle be þam halgan mædene Eugenian Philyppus dæhter hu heo ðurh mægðhad mærlice þeah and þurh martyrdom þisne middaneard oferswað
+Sum æþelboren þægn wæs Philippus gehaten ðone asende se casere Commodus þe on ðam dagum rixode fram Rome.byrig to ðære byrig ðe is gehaten Alexandria
+
+mag gehyran se þe willan be se halig mægden Eugenia Philippus dohtor hu heo þurh mægþhad mærlice þeon and þurh martyrdom þes middangeard oferswiðan
+sum æþelboren þegen wesan Philippus gehatan se asendan se Casere Commodus þe on se dæg ricsian fram Romeburh to se burh þe wesan gehatan Alexandria

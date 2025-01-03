@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "llama-index-llms-ollama>=0.5.0",
     "pandas>=2.2.3",
     "zimply>=1.1.4",
 ]

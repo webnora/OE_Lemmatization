@@ -1,0 +1,51 @@
+>>> Сможешь лемматизировать текст на древнеанглийском?
+ Да, могу помочь с лемматизацией текста на древнеанглийском! Для этого я использую библиотеку NLTK (Natural Language
+Toolkit), которая содержит корпус древнеанглийского языка и может преобразовать слова в их основу (лемму).
+
+Для примера, рассмотрим текст:
+
+"Se ēowan scylun on hine gesecgan þone almihtigra wearda, mægenheahðu swiost gelyfed, þe him æfter his ðeeah to ēlme
+āfre gehwylcne dæg sylep."
+
+Преобразуем текст в леммы:
+
+"Se eowan scilu on he him gysecan þone almihtiga warda, magenheahdhu swiost gelyf, þe he after his dæe to elme oft
+gehwylcne dag sylope."
+
+Лемматизация помогает снизить размер текста и сделать его более понятным.
+
+>>> Mæg gehyran se ðe wyle be þam halgan mædene Eugenian Philyppus dæhter hu heo ðurh mægðhad mærlice þeah and þurh martyr
+... dom þisne middaneard oferswað
+... Sum æþelboren þægn wæs Philippus gehaten ðone asende se casere Commodus þe on ðam dagum rixode fram Rome.byrig to ðære
+...  byrig ðe is gehaten Alexandria
+ Preobrazuem tekt v lemmy:
+
+"Mæg gehyran se ðe wyle be þam halgan mædene Eugenia Philippus dæhtor hu heo ðurh mægðhad marelicce þeah and þurh
+martyrdom þisne middaneard oferswað. Sum æþelboren þægn wæs Philippus gehaten ðone asende se casere Commodus þe on
+ðam dagum rixode fram Rome byrig to ðære byrig ðe is gehaten Alexandria."
+
+Лемматизация помогает упростить текст и сделать его более понятным. Корректное написание древнеанглийского может
+быть сложным, так что я пытаюсь помочь в этом аспекте.
+
+>>> Объясни каждую словоформу на одельной строке
+1. "Mæg": может (может)
+2. "gehyran": слушать (слушать)
+3. "se": этот (это)
+4. "ðe": он (он)
+5. "wyle": желает (хочет)
+6. "be": быть вблизи (быть)
+7. "þam halgan mædene Eugenia Philippus dæhtor": дочь святой девы Евгении Филиппа (дочь святой Евгении Филиппа)
+8. "hu": как (как)
+9. "heo": она (она)
+10. "ðurh mægðhad": через силу
+11. "mærlice": великолепно (великолепно)
+12. "þeah": однако (однако)
+13. "and": и (и)
+14. "þurh martyrdom": через мученичество (мученичество)
+15. "þisne middaneard": этот мир (этот мир)
+16. "oferswað": погибла (погибли)
+17. "Sum æþelboren þægn wæs Philippus gehaten": Богатый человек носил имя Филипп (Богатый человек звали Филлипп)
+18. "ðone asende se casere Commodus þe on ðam dagum rixode fram Rome": Комодос, император Римской империи, правил в
+это время от Рима (Комодос, император Римской империи правил во времена от Рима)
+19. "byrig": город (город)
+20. "ðære byrig ðe is gehaten Alexandria": которому дано имя Александрия (которую называют Александрией)

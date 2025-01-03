@@ -1,0 +1,79 @@
+>>> Сможешь лемматизировать текст на древнеанглийском?
+...
+Да, я могу попытаться лемматизировать текст на древнеanglICScii.
+
+Поскольку древнеанглиский язык не является formally зарегистрированной γλώбой и его написание можетvaryеть от
+источника к источнику, я воспользуюсь традиционными методами лемматизации на основе базы данных WordNet,
+предоставленной Open Source WordNet.
+
+Примечание: древнеanglиский язык представляет собой средневековый английский язык и его написание можетvaryеть в
+зависимости от региона и времени.
+
+Если вы предоставите текст на древнеanglиском, я могу попытаться лемматизировать его и предоставить результаты.
+
+>>> Mæg gehyran se ðe wyle be þam halgan mædene Eugenian Philyppus dæhter hu heo ðurh mægðhad mærlice þeah and þurh martyr
+... dom þisne middaneard oferswað
+... Sum æþelboren þægn wæs Philippus gehaten ðone asende se casere Commodus þe on ðam dagum rixode fram Rome.byrig to ðære
+...  byrig ðe is gehaten Alexandria
+...
+Давайте попытаемся лемматизировать этот текст на древнеangliske.
+
+Текст:
+
+Mæg gehyran se ðe wyle be þam halgan mædene Eugenian Philyppus dæhter hu heo ðurh mægðhad mærlice þeah and þurh
+martyrdom þisne middaneard oferswað
+Sum æþelboren þægn wæs Philippus gehaten ðone asende se casere Commodus þe on ðam dagum rixode fram Rome.byrig to
+ðære byrig ðe is gehaten Alexandria
+
+Лемматизированный текст:
+
+* Mæg -> mag (импфлект от mag, "мочь")
+* gehyran -> hearon (импфлект от hearan, "слышать", "чувствовать")
+* se -> (среднее число)
+* ðe -> (даже/или)
+* wyle -> will (среднее число)
+* be -> bi (импarfект от bēon, "быть")
+* þam -> him
+* halgan -> holy (среднее число)
+* mædene -> woman (среднее число)
+* Eugenian -> Eugene (имproper noun, именной приознание)
+* Philyppus -> Philippus (имproper noun, именной приознание)
+* dæhter -> daughter (среднее число)
+* hu -> and
+* heo -> он
+* ðurh -> through
+* mægðhad -> magthod (импфлект от magan, "могут", "можно")
+* mærlice -> meyrice (среднее число)
+* þeah -> though
+* and -> и
+* þurh -> through
+* martyrdom -> martyrium (имproper noun, именной приознание)
+* þisne -> thise (среднее число)
+* middaneard -> middangeard (среднее число)
+* oferswað -> overswaþ (партиcipал от oversean, "перекидиться")
+* Sum -> sum
+* æþelboren -> eohstefnum (среднее число)
+* þægn -> thagga (среднее число)
+* wæs -> wæs (простое прошедшее присутствие от wesan, "быть")
+* Philippus -> Philippus (имproper noun, именной приознание)
+* gehaten -> geatan (паст participle от gātan, "рождённый", "родившийся")
+* ðone -> one
+* asende -> ascenda (паст participle от ascendan, "подниматься", "прибавлять")
+* se -> (среднее число)
+* casere -> caesar (имproper noun, именной приознание)
+* Commodus -> Commodus (имproper noun, именной приознание)
+* ðam -> (даже/или)
+* dagum -> dægum (среднее число)
+* rixode -> rexit (паст participle от regnare, "править", "владеть")
+* fram -> frum (из предлогов)
+* Rome.byrig -> Roma (имproper noun, именной приознание)
+* to -> tō (предлог)
+* ðære -> (даже/или)
+* byrig -> burg (среднее число)
+* ðe -> (среднее число)
+* is -> is (простое прошедшее присутствие от eon, "bytеть")
+* gehaten -> geatan (паст participle от gātan, "рождённый", "родившийся")
+* Alexandria -> Alexandrija (имproper noun, именной приознание)
+
+Примечание: лемматизация древнеangliskeя языка может быть не точной, поскольку его написание можетvaryеть от
+источника к источнику.
