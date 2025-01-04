@@ -13,7 +13,11 @@ CREATE TABLE doc (
 CREATE TABLE line (
 	id INTEGER NOT NULL, 
 	doc_id INTEGER NOT NULL, 
+	num INTEGER NOT NULL, 
+	line VARCHAR NOT NULL, 
+	lemmas VARCHAR, 
 	PRIMARY KEY (id), 
+	CONSTRAINT uq_doc_num UNIQUE (doc_id, num), 
 	FOREIGN KEY(doc_id) REFERENCES doc (id)
 );
 CREATE TABLE form (
@@ -52,8 +56,8 @@ CREATE TABLE predictraw (
 	id INTEGER NOT NULL, 
 	promt VARCHAR NOT NULL, 
 	content VARCHAR NOT NULL, 
-	forms VARCHAR NOT NULL, 
-	lemmas VARCHAR NOT NULL, 
+	forms VARCHAR, 
+	lemmas VARCHAR, 
 	tool_calls VARCHAR, 
 	PRIMARY KEY (id), 
 	FOREIGN KEY(id) REFERENCES predict (id)
@@ -70,11 +74,11 @@ CREATE TABLE lemma (
 );
 CREATE TABLE lemmaraw (
 	id INTEGER NOT NULL, 
-	en VARCHAR NOT NULL, 
-	ru VARCHAR NOT NULL, 
-	morph VARCHAR NOT NULL, 
-	syntax VARCHAR NOT NULL, 
-	raw VARCHAR NOT NULL, 
+	en VARCHAR, 
+	ru VARCHAR, 
+	morph VARCHAR, 
+	syntax VARCHAR, 
+	raw VARCHAR, 
 	PRIMARY KEY (id), 
 	FOREIGN KEY(id) REFERENCES lemma (id)
 );
