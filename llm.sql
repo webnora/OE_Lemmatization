@@ -1,11 +1,11 @@
 CREATE TABLE corpus (
 	id INTEGER NOT NULL, 
-	name VARCHAR NOT NULL, 
+	corpus VARCHAR NOT NULL, 
 	PRIMARY KEY (id)
 );
 CREATE TABLE doc (
 	id INTEGER NOT NULL, 
-	name VARCHAR NOT NULL, 
+	doc VARCHAR NOT NULL, 
 	corpus_id INTEGER NOT NULL, 
 	PRIMARY KEY (id), 
 	FOREIGN KEY(corpus_id) REFERENCES corpus (id)
@@ -23,11 +23,12 @@ CREATE TABLE form (
 	form VARCHAR NOT NULL, 
 	lemma VARCHAR NOT NULL, 
 	PRIMARY KEY (id), 
+	CONSTRAINT uq_line_num UNIQUE (line_id, num), 
 	FOREIGN KEY(line_id) REFERENCES line (id)
 );
 CREATE TABLE model (
 	id INTEGER NOT NULL, 
-	name VARCHAR NOT NULL, 
+	model VARCHAR NOT NULL, 
 	PRIMARY KEY (id)
 );
 CREATE TABLE predict (
