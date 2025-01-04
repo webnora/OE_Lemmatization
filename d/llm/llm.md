@@ -11,6 +11,7 @@
 - https://ollama.com/library/phi3:14b
 - https://ollama.com/library/phi3.5:3.8b
 - https://ollama.com/library/mistral:7b
+- https://ollama.com/library/qwen2.5-coder:7b
 
 ```sh
 uv init
