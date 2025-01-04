@@ -57,7 +57,7 @@ CREATE TABLE predictraw (
 	PRIMARY KEY (id), 
 	FOREIGN KEY(id) REFERENCES predict (id)
 );
-CREATE TABLE llm (
+CREATE TABLE lemma (
 	id INTEGER NOT NULL, 
 	predict_id INTEGER NOT NULL, 
 	form_id INTEGER NOT NULL, 
@@ -67,7 +67,7 @@ CREATE TABLE llm (
 	FOREIGN KEY(predict_id) REFERENCES predict (id), 
 	FOREIGN KEY(form_id) REFERENCES form (id)
 );
-CREATE TABLE llmraw (
+CREATE TABLE lemmaraw (
 	id INTEGER NOT NULL, 
 	en VARCHAR NOT NULL, 
 	ru VARCHAR NOT NULL, 
@@ -75,5 +75,5 @@ CREATE TABLE llmraw (
 	syntax VARCHAR NOT NULL, 
 	raw VARCHAR NOT NULL, 
 	PRIMARY KEY (id), 
-	FOREIGN KEY(id) REFERENCES llm (id)
+	FOREIGN KEY(id) REFERENCES lemma (id)
 );

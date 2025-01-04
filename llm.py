@@ -4,7 +4,7 @@ from datetime import datetime
 from typing import Type
 import pandas as pd
 from sqlalchemy.schema import CreateTable
-# from sqlalchemy import text
+import os
 
 
 class Corpus(SQLModel, table=True):
@@ -33,7 +33,7 @@ class Form(SQLModel, table=True):
     num: int
     form: str
     lemma: str
-    llms: List["LLM"] = Relationship(back_populates="form")
+    lemmas: List["Lemma"] = Relationship(back_populates="form")
 
 class Model(SQLModel, table=True):
     id: int = Field(default=None, primary_key=True, nullable=False)
@@ -55,7 +55,7 @@ class Predict(SQLModel, table=True):
     prompt_tokens: int
     completion_tokens: int
     temperature: float
-    llms: List["LLM"] = Relationship(back_populates="predict")
+    lemmas: List["Lemma"] = Relationship(back_populates="predict")
 
 class PredictRaw(SQLModel, table=True):
     id: int = Field(default=None, primary_key=True, nullable=False, foreign_key="predict.id")
@@ -65,17 +65,17 @@ class PredictRaw(SQLModel, table=True):
     lemmas: str
     tool_calls: Optional[str]
 
-class LLM(SQLModel, table=True):
+class Lemma(SQLModel, table=True):
     id: int = Field(default=None, primary_key=True, nullable=False)
     predict_id: int = Field(foreign_key="predict.id")
     form_id: int = Field(foreign_key="form.id")
     lemma: str
     eq: bool
-    predict: Predict = Relationship(back_populates="llms")
-    form: Form = Relationship(back_populates="llms")
+    predict: Predict = Relationship(back_populates="lemmas")
+    form: Form = Relationship(back_populates="lemmas")
 
-class LLMRaw(SQLModel, table=True):
-    id: int = Field(default=None, primary_key=True, nullable=False, foreign_key="llm.id")
+class LemmaRaw(SQLModel, table=True):
+    id: int = Field(default=None, primary_key=True, nullable=False, foreign_key="lemma.id")
     en: str
     ru: str
     morph: str
@@ -84,10 +84,13 @@ class LLMRaw(SQLModel, table=True):
 
 
 class DB():
-    engine = create_engine("sqlite:///d/llm/llm.db")
+    db_path = "d/llm/llm.db"
+    engine = create_engine("sqlite:///" + db_path)
 
     def init(self):
-        SQLModel.metadata.drop_all(self.engine)
+        if os.path.exists(DB.db_path):
+            os.remove(DB.db_path)
+        # SQLModel.metadata.drop_all(self.engine)
         SQLModel.metadata.create_all(self.engine)
         self.ddl()
 
@@ -112,14 +115,6 @@ class DB():
             results = session.exec(statement)
             items = [item.model_dump() for item in results]
             return pd.DataFrame(items)
-
-    # def truncate_all(self):
-    #     with Session(self.engine) as session:
-    #         session.exec(text("PRAGMA foreign_keys = OFF;"))  # Отключаем проверки внешних ключей
-    #         for table in SQLModel.metadata.tables.values():
-    #             session.exec(text(f"DELETE FROM {table.name};"))  # Удаление всех данных
-    #         session.exec(text("PRAGMA foreign_keys = ON;"))  # Включаем обратно проверки
-    #         session.commit()
 
 
 if __name__ == "__main__":
