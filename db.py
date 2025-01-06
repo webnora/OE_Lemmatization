@@ -136,7 +136,7 @@ class DB():
       # s.commit()
 
   def ddl(self):
-    with open("llm.sql", "w") as file:
+    with open("db.sql", "w") as file:
       for table in SQLModel.metadata.tables.values():
         file.write(f"{str(CreateTable(table).compile(self.engine)).strip()};\n")        
 
