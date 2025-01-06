@@ -50,6 +50,9 @@ ollama run qwen2.5:72b
 ollama run mistral:7b
 ollama run mistral-nemo:12b
 ollama run mistral-small:22b
+
+brew install sqlite3_analyzer
+sqlite3_analyzer d/llm/llm.db
 ```
 
 ## tables
@@ -59,8 +62,6 @@ ollama run mistral-small:22b
 - https://github.com/fastapi/sqlmodel
   - https://chatgpt.com/share/6777e7cf-7af0-800a-8f38-4ce368a12bb3
   - https://chatgpt.com/share/6777e7a5-ae4c-800a-a529-776174d53f36
-
-Нужно выбрать простой для быстрого изучения ORM для SQLlite в python, скорость его работы значения не имеет. Предварительно остановился на SQLModel, хороший выбор? Для работы вот с такой схемой данных:
 
 - corpus  
   - id: 1

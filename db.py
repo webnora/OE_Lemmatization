@@ -4,7 +4,7 @@ from datetime import datetime
 from pandas import DataFrame as df
 from sqlalchemy.schema import CreateTable
 import os
-from sqlalchemy import Column, JSON, func
+from sqlalchemy import Column, JSON, func, text
 
 
 class Corpus(SQLModel, table=True):
@@ -106,6 +106,29 @@ class DB():
     SQLModel.metadata.create_all(self.engine)
     self.ddl()
 
+  def ddl(self):
+    with open("db.sql", "w") as file:
+      for table in SQLModel.metadata.tables.values():
+        file.write(f"{str(CreateTable(table).compile(self.engine)).strip()};\n")        
+  
+  def stat(self):
+    for v in self.s.exec(text("SELECT name FROM sqlite_master WHERE type='table'")): # type: ignore
+      print(f"{self.s.exec(text(f"SELECT COUNT(*) FROM {v[0]}")).one()[0]}: {v[0]}") # type: ignore
+
+  def tbl(self, table: Type[SQLModel] = Doc):
+    return self.s.exec(select(table))
+
+  def df(self, tbl: Type[SQLModel] = Doc):
+    return df([r.model_dump() for r in self.tbl(tbl)], columns=tbl.model_fields)
+
+  def get_doc(self):
+    return self.s.exec(select(Doc.id, Doc.doc, Corpus.corpus).where(Corpus.id == Doc.corpus_id))
+  
+  def get_lemma(self, lemma = 'mag'):
+    return self.s.exec(select(LemmaRaw.raw).where(
+      func.json_extract(LemmaRaw.raw, '$.lemma') == lemma)).first()
+
+  def add_test(self):
     with self.s as s:
       # Mæg gehyran se ðe wyle be þam halgan mædene Eugenian Philyppus dæhter hu heo ðurh mægðhad mærlice þeah and þurh martyrdom þisne middaneard oferswað
       # mag gehyran se þe willan be se halig mægden Eugenia Philippus dohtor hu heo þurh mægþhad mærlice þeon and þurh martyrdom þes middangeard oferswiðan
@@ -126,43 +149,26 @@ class DB():
                           "morph_analysis": "pronoun, 3rd person singular present subjunctive of magan (can)",
                           "syntax_analysis": "subject"}))
       s.commit()
-
       # corpus = Corpus(corpus="iswoc")
       # s.add(corpus)
       # s.commit()
       # s.refresh(corpus)      
-      # doc = Doc(doc="forms.txt", corpus_id=corpus.id)
-      # s.add(doc)
+      # s.add(Doc(doc="forms.txt", corpus_id=corpus.id))
       # s.commit()
 
-  def ddl(self):
-    with open("db.sql", "w") as file:
-      for table in SQLModel.metadata.tables.values():
-        file.write(f"{str(CreateTable(table).compile(self.engine)).strip()};\n")        
-
-  def tbl(self, table: Type[SQLModel] = Doc):
-    return self.s.exec(select(table))
-
-  def df(self, tbl: Type[SQLModel] = Doc):
-    return df([r.model_dump() for r in self.tbl(tbl)], columns=tbl.model_fields)
-
-  def get_doc(self):
-    return self.s.exec(select(Doc.id, Doc.doc, Corpus.corpus).where(Corpus.id == Doc.corpus_id))
-  
-  def get_lemma(self, lemma = 'mag'):
-    return self.s.exec(select(LemmaRaw.raw).where(
-      func.json_extract(LemmaRaw.raw, '$.lemma') == lemma)).first()
 
 if __name__ == "__main__":
   db = DB()
-  db.init()
+  # db.init()
+  # db.add_test()
+  db.stat()
   # print(db.df(Corpus))
   # print(db.df())
-  print(df(db.get_doc()))
-  print(db.df(Model))
-  print(db.df(Line))
-  print(db.df(Form))
-  print(db.df(Predict))
-  print(db.df(Lemma))
-  print(db.df(LemmaRaw))
-  print(db.get_lemma())
+  # print(df(db.get_doc()))
+  # print(db.df(Model))
+  # print(db.df(Line))
+  # print(db.df(Form))
+  # print(db.df(Predict))
+  # print(db.df(Lemma))
+  # print(db.df(LemmaRaw))
+  # print(db.get_lemma())
