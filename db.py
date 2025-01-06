@@ -40,17 +40,18 @@ class Form(SQLModel, table=True):
   lemmas: List["Lemma"] = Relationship(back_populates="form")
   __table_args__ = (UniqueConstraint("line_id", "num", name="uq_line_num"),)
 
-class Model(SQLModel, table=True):
-  id: int = Field(default=None, primary_key=True, nullable=False)
-  model: str
-  predictions: List["Predict"] = Relationship(back_populates="model")
+# class Model(SQLModel, table=True):
+#   id: str = Field(primary_key=True, nullable=False)
+#   # model: str
+#   predictions: List["Predict"] = Relationship(back_populates="model")
 
 class Predict(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True, nullable=False)
-  model_id: int = Field(foreign_key="model.id")
   line_id: int = Field(foreign_key="line.id")
-  model: Model = Relationship(back_populates="predictions")
   line: Line = Relationship(back_populates="predictions")
+  # model: Model = Relationship(back_populates="predictions")
+  # model_id: int = Field(foreign_key="model.id")
+  model: str
   done: bool
   no_eq: int
   at: datetime # = Field(default_factory=datetime.utcnow)
@@ -137,8 +138,8 @@ class DB():
       s.add(Line(id=1, doc_id=1, num=1, line="Mæg gehyran se ðe", lemmas="mag gehyran se þe"))
       s.add(Form(id=1, line_id=1, num=1, form="Mæg", lemma="mag"))
       s.add(Form(id=4, line_id=1, num=4, form="ðe", lemma="þe"))
-      s.add(Model(id=1, model="mistral:7b"))
-      s.add(Predict(id=1, model_id=1, line_id=1, done=True, no_eq=0, temperature=0.0, at=datetime.fromisoformat('2025-01-03T10:23:28.830015Z'),
+      # s.add(Model(id=1, model="mistral:7b"))
+      s.add(Predict(id=1, line_id=1, model="mistral:7b", done=True, no_eq=0, temperature=0.0, at=datetime.fromisoformat('2025-01-03T10:23:28.830015Z'),
         load_duration=21163667, prompt_eval_duration=261000000, eval_duration=551000000, prompt_tokens=30, completion_tokens=31))
       s.add(Lemma(id=1, predict_id=1, form_id=1, lemma="mag", eq=True))
       s.add(LemmaRaw(id=1, en="can", ru="может", morph="pronoun", syntax="subject", 
@@ -159,7 +160,7 @@ class DB():
 
 if __name__ == "__main__":
   db = DB()
-  # db.init()
+  # db.init(1)
   # db.add_test()
   db.stat()
   # print(db.df(Corpus))

@@ -30,15 +30,10 @@ CREATE TABLE form (
 	CONSTRAINT uq_line_num UNIQUE (line_id, num), 
 	FOREIGN KEY(line_id) REFERENCES line (id)
 );
-CREATE TABLE model (
-	id INTEGER NOT NULL, 
-	model VARCHAR NOT NULL, 
-	PRIMARY KEY (id)
-);
 CREATE TABLE predict (
 	id INTEGER NOT NULL, 
-	model_id INTEGER NOT NULL, 
 	line_id INTEGER NOT NULL, 
+	model VARCHAR NOT NULL, 
 	done BOOLEAN NOT NULL, 
 	no_eq INTEGER NOT NULL, 
 	at DATETIME NOT NULL, 
@@ -49,7 +44,6 @@ CREATE TABLE predict (
 	completion_tokens INTEGER NOT NULL, 
 	temperature FLOAT NOT NULL, 
 	PRIMARY KEY (id), 
-	FOREIGN KEY(model_id) REFERENCES model (id), 
 	FOREIGN KEY(line_id) REFERENCES line (id)
 );
 CREATE TABLE predictraw (

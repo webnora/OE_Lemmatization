@@ -19,37 +19,37 @@ uv add --dev pip
 uv add llama-index-llms-ollama
 
 ollama start
-# США
-# Meta
+# США 1
+# Meta 11
 ollama run llama3.2:1b
 ollama run llama3.2:3b
 ollama run llama3.1:8b 
 ollama run llama3.3:70b
 
-# Google
+# Google 12
 ollama run gemma2:2b
 ollama run gemma2:9b
 ollama run gemma2:27b 
 
-# Microsoft
+# Microsoft 13
 ollama run phi3.5:3.8b
 ollama run phi3:14b
 
-## Канада - Cohere
+## Франция - Mistral 20
+ollama run mistral:7b
+ollama run mistral-nemo:12b
+ollama run mistral-small:22b
+
+## Канада - Cohere 30
 ollama run command-r:35b
 
-## Китай - Alibaba
+## Китай - Alibaba 40
 ollama run qwen2.5:0.5b
 ollama run qwen2.5:1.5b
 ollama run qwen2.5:3b 
 ollama run qwen2.5:14b
 ollama run qwen2.5:32b
 ollama run qwen2.5:72b
-
-## Франция - Mistral
-ollama run mistral:7b
-ollama run mistral-nemo:12b
-ollama run mistral-small:22b
 
 brew install sqlite3_analyzer
 sqlite3_analyzer d/llm/llm.db
