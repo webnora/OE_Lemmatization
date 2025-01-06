@@ -58,7 +58,7 @@ CREATE TABLE predictraw (
 	content VARCHAR NOT NULL, 
 	forms VARCHAR, 
 	lemmas VARCHAR, 
-	tool_calls VARCHAR, 
+	tool_calls JSON, 
 	PRIMARY KEY (id), 
 	FOREIGN KEY(id) REFERENCES predict (id)
 );
@@ -78,7 +78,7 @@ CREATE TABLE lemmaraw (
 	ru VARCHAR, 
 	morph VARCHAR, 
 	syntax VARCHAR, 
-	raw VARCHAR, 
+	raw JSON, 
 	PRIMARY KEY (id), 
 	FOREIGN KEY(id) REFERENCES lemma (id)
 );
