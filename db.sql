@@ -1,6 +1,7 @@
 CREATE TABLE corpus (
 	id INTEGER NOT NULL, 
 	corpus VARCHAR NOT NULL, 
+	path VARCHAR, 
 	PRIMARY KEY (id)
 );
 CREATE TABLE doc (
