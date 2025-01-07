@@ -5,7 +5,6 @@ from pandas import DataFrame as df
 from sqlalchemy.schema import CreateTable
 import os
 from sqlalchemy import Column, JSON, func, text
-from iswoc import ISWOC
 
 class Corpus(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True, nullable=False)
@@ -130,19 +129,19 @@ class DB():
     return self.s.exec(select(LemmaRaw.raw).where(
       func.json_extract(LemmaRaw.raw, '$.lemma') == lemma)).first()
 
-  def add_corpus(self):
-    with self.s as s:
-      iswoc = ISWOC()
-      s.add(Corpus(id=1, corpus="iswoc", path=iswoc.path_in))
-      s.add(Doc(id=1, doc="forms.txt", corpus_id=1))
-      s.commit()
+  # def add_corpus(self):
+  #   with self.s as s:
+  #     iswoc = ISWOC()
+  #     s.add(Corpus(id=1, corpus="iswoc", path=iswoc.path_in))
+  #     s.add(Doc(id=1, doc="forms.txt", corpus_id=1))
+  #     s.commit()
 
   def add_test(self):
     with self.s as s:
       # Mæg gehyran se ðe wyle be þam halgan mædene Eugenian Philyppus dæhter hu heo ðurh mægðhad mærlice þeah and þurh martyrdom þisne middaneard oferswað
       # mag gehyran se þe willan be se halig mægden Eugenia Philippus dohtor hu heo þurh mægþhad mærlice þeon and þurh martyrdom þes middangeard oferswiðan
-      # s.add(Corpus(id=1, corpus="iswoc", path=""))
-      # s.add(Doc(id=1, doc="forms.txt", corpus_id=1))
+      s.add(Corpus(id=1, corpus="iswoc", path=""))
+      s.add(Doc(id=1, doc="forms.txt", corpus_id=1))
       s.add(Line(id=1, doc_id=1, num=1, line="Mæg gehyran se ðe", lemmas="mag gehyran se þe"))
       s.add(Form(id=1, line_id=1, num=1, form="Mæg", lemma="mag"))
       s.add(Form(id=4, line_id=1, num=4, form="ðe", lemma="þe"))
@@ -168,14 +167,13 @@ class DB():
 
 if __name__ == "__main__":
   db = DB()
-  db.init(1)
-  db.add_corpus()
+  # db.init(1)
+  # db.add_corpus()
   # db.add_test()
   db.stat()
-  print(db.df(Corpus))
+  # print(db.df(Corpus))
   # print(db.df())
   # print(df(db.get_doc()))
-  # print(db.df(Model))
   # print(db.df(Line))
   # print(db.df(Form))
   # print(db.df(Predict))
