@@ -25,6 +25,7 @@ ollama run llama3.2:1b
 ollama run llama3.2:3b
 ollama run llama3.1:8b 
 ollama run llama3.3:70b
+ollama run firefunction-v2:70b # function calling
 
 ## Google
 ollama run gemma2:2b
