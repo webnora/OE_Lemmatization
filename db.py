@@ -1,10 +1,12 @@
 from sqlmodel import SQLModel, Field, Relationship, UniqueConstraint, create_engine, Session, select
-from typing import Type, Optional, List, Dict
+from typing import Type, TypeVar, Optional, List, Dict
 from datetime import datetime
 from pandas import DataFrame as df
 from sqlalchemy.schema import CreateTable
 import os
 from sqlalchemy import Column, JSON, func, text
+from sqlalchemy.engine.result import Result, ScalarResult, TupleResult
+
 
 class Corpus(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True)
@@ -92,6 +94,8 @@ class LemmaRaw(SQLModel, table=True):
   raw: Dict = Field(default_factory=dict, sa_column=Column(JSON))
   lemma: Lemma = Relationship(back_populates="raw")
 
+T = TypeVar("T", bound=SQLModel)  # Тип T ограничен подклассами SQLModel
+
 class DB():
   db_path = "db/llm.db"
 
@@ -119,7 +123,7 @@ class DB():
     for v in self.s.exec(text("SELECT name FROM sqlite_master WHERE type='table'")): # type: ignore
       print(f"{self.s.exec(text(f"SELECT COUNT(*) FROM {v[0]}")).one()[0]}: {v[0]}") # type: ignore
 
-  def tbl(self, table: Type[SQLModel] = Doc, limit=-1):
+  def tbl(self, table: Type[T] = Doc, limit=-1) -> ScalarResult[T]:
     return self.s.exec(select(table).limit(limit))
 
   def df(self, tbl: Type[SQLModel] = Doc, limit=-1):
@@ -163,6 +167,18 @@ class DB():
       # print(line.forms[0].lemmas[0].raw)
       # print(line.predictions[0].raw)         
 
+  def get_test_line(self):
+    return self.s.exec(
+        # select(Line.id, Line.line, func.count(Form.id).label('num_forms')) \
+        select(Line) \
+        .join(Line.forms) \
+        .group_by(Line.id) \
+        # .group_by(Line.id, Line.line) \
+        .having(func.count(Form.id) == 2) \
+        # .order_by(func.count(Form.id)) \
+        .limit(1)
+      ).one()
+
 
 if __name__ == "__main__":
   db = DB()
@@ -180,3 +196,5 @@ if __name__ == "__main__":
   # print(db.df(LemmaRaw))
   # print(db.get_lemma())
   # print(db.tbl(limit=2).all())
+  # print(df(db.get_forms_count()))
+  print(db.get_test_line())

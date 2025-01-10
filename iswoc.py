@@ -72,5 +72,5 @@ if __name__ == "__main__":
   o.save_lemmas()
   o.lemmatize()
 
-  import pandas as pd
-  print(pd.DataFrame(o.files_desc))
+  from pandas import DataFrame as df
+  print(df(o.files_desc))
