@@ -119,11 +119,11 @@ class DB():
     for v in self.s.exec(text("SELECT name FROM sqlite_master WHERE type='table'")): # type: ignore
       print(f"{self.s.exec(text(f"SELECT COUNT(*) FROM {v[0]}")).one()[0]}: {v[0]}") # type: ignore
 
-  def tbl(self, table: Type[SQLModel] = Doc):
-    return self.s.exec(select(table))
+  def tbl(self, table: Type[SQLModel] = Doc, limit=-1):
+    return self.s.exec(select(table).limit(limit))
 
-  def df(self, tbl: Type[SQLModel] = Doc):
-    return df([r.model_dump() for r in self.tbl(tbl)], columns=tbl.model_fields)
+  def df(self, tbl: Type[SQLModel] = Doc, limit=-1):
+    return df([r.model_dump() for r in self.tbl(tbl, limit)], columns=tbl.model_fields)
 
   def get_doc(self):
     return self.s.exec(select(Doc.id, Doc.doc, Corpus.corpus).where(Corpus.id == Doc.corpus_id))
@@ -168,7 +168,7 @@ if __name__ == "__main__":
   db = DB()
   # db.init()
   # db.add_test()
-  db.stat()
+  # db.stat()
   # print(db.df(Corpus))
   # print(db.df())
   # print(df(db.get_doc()))
@@ -179,3 +179,4 @@ if __name__ == "__main__":
   # print(db.df(Lemma))
   # print(db.df(LemmaRaw))
   # print(db.get_lemma())
+  # print(db.tbl(limit=2).all())
