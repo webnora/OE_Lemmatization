@@ -7,6 +7,7 @@ import os
 from sqlalchemy import Column, JSON, func, text
 from sqlalchemy.engine.result import Result, ScalarResult, TupleResult
 
+T = TypeVar("T", bound=SQLModel)  # Тип T ограничен подклассами SQLModel
 
 class Corpus(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True)
@@ -94,8 +95,6 @@ class LemmaRaw(SQLModel, table=True):
   syntax: Optional[str]
   raw: Dict = Field(default_factory=dict, sa_column=Column(JSON))
   lemma: Lemma = Relationship(back_populates="raw")
-
-T = TypeVar("T", bound=SQLModel)  # Тип T ограничен подклассами SQLModel
 
 class DB():
   db_path = "db/llm.db"
@@ -186,8 +185,9 @@ class DB():
 
   def del_test(self):
     self.delete([self.one()])
-    self.s.exec(delete(Predict).where(Predict.test == True))
-    self.s.commit()
+    self.delete(self.get_test_predict())
+    # self.s.exec(delete(Predict).where(Predict.test == True))
+    # self.s.commit()
 
   def get_test_line(self):
     return self.s.exec(
@@ -208,7 +208,7 @@ if __name__ == "__main__":
   # db.init()
   # db.add_test()
   # print(db.one())
-  # db.del_test()
+  db.del_test()
   db.stat()
   # print(db.get_test_predict())
   # print(db.df(Corpus))
