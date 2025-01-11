@@ -5,7 +5,7 @@ from dataclasses import dataclass, astuple, fields
 from db import DB, Corpus, Doc, Line, Form, Predict, PredictRaw, Lemma, LemmaRaw
 from pandas import DataFrame as df
 from datetime import datetime
-from textwrap import dedent
+from textwrap import dedent, wrap
 
 @dataclass
 class Model:
@@ -41,13 +41,17 @@ class LLM:
       os.makedirs(self.path)
     self.db = DB()
 
-  def log(self):
-    with open(f'{self.path}/raw.json', 'w') as f:
+  def log(self, line_id = ''):
+    with open(f'{self.path}/raw{line_id}.json', 'w') as f:
       f.write(self.response.model_dump_json(indent=2))
 
-  def log_json(self):
-    with open(f'{self.path}/data.json', 'w') as f:
+  def log_json(self, line_id = ''):
+    with open(f'{self.path}/data{line_id}.json', 'w') as f:
       json.dump(self.json, f, indent=2, ensure_ascii=False)
+
+  def log_err(self, line_id = ''):
+    with open(f'{self.path}/err{line_id}.json', 'w') as f:
+      f.write(self.response.text)
 
   def complete(self, query=query):
     r = self.llm.complete(query)
@@ -60,7 +64,12 @@ class LLM:
   def complete_json(self, text=text):
     content = self.complete(text)
     if content:
-      self.json = json.loads(content)
+      try:
+        self.json = json.loads(content)
+        content = self.complete_json(promt)
+      except Exception as e:
+        self.log_err()
+        return f"json load ERR: {content[:100]}"
       self.log_json()
       return content
     print('ERR: lemmatize')
@@ -90,10 +99,12 @@ class LLM:
       line = self.db.get_test_line()
       test = True
     promt = self.promt_v1(line.line)
-    content = self.complete_json(promt)
+    try:
+      content = self.complete_json(promt)
+    except Exception as e:
+      return f"line: {line.id} ERR: {str(e)[:100]}"
     if not content:
-      print('ERR: lemmatize_test')
-      return
+      return f"line: {line.id} ERR: not content"
     json = self.json
     model = self.llm
     raw = self.response.raw

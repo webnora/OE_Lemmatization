@@ -203,12 +203,15 @@ class DB():
         .limit(1)
       ).one()
 
+  def get_line(self):
+    return self.s.exec(select(Line).where(~Line.predictions.any()))
+
 if __name__ == "__main__":
   db = DB()
   # db.init()
   # db.add_test()
   # print(db.one())
-  db.del_test()
+  # db.del_test()
   db.stat()
   # print(db.get_test_predict())
   # print(db.df(Corpus))
