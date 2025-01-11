@@ -14,7 +14,7 @@ class ISWOC:
     self.text = []
     self.path_in = path_in
     self.path_out = path_out
-    self.corpus = Corpus(id=0, corpus="iswoc", path=path_in, docs=self.read_docs())
+    self.corpus = Corpus(id=1, corpus="iswoc", path=path_in, docs=self.read_docs())
 
   def read_docs(self):
     return [self.read_doc(file) for file in self.files]

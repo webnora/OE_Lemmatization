@@ -1,4 +1,4 @@
-from sqlmodel import SQLModel, Field, Relationship, UniqueConstraint, create_engine, Session, select
+from sqlmodel import SQLModel, Field, Relationship, UniqueConstraint, create_engine, Session, select, delete
 from typing import Type, TypeVar, Optional, List, Dict
 from datetime import datetime
 from pandas import DataFrame as df
@@ -12,14 +12,14 @@ class Corpus(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True)
   corpus: str
   path: Optional[str]
-  docs: List["Doc"] = Relationship(back_populates="corpus")
+  docs: List["Doc"] = Relationship(back_populates="corpus", cascade_delete=True)
 
 class Doc(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True)
   doc: str
   corpus_id: int = Field(foreign_key="corpus.id")
   corpus: Corpus = Relationship(back_populates="docs")
-  lines: List["Line"] = Relationship(back_populates="doc")
+  lines: List["Line"] = Relationship(back_populates="doc", cascade_delete=True)
 
 class Line(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True)
@@ -28,8 +28,8 @@ class Line(SQLModel, table=True):
   doc: Doc = Relationship(back_populates="lines")
   line: str
   lemmas: Optional[str]
-  forms: List["Form"] = Relationship(back_populates="line")
-  predictions: List["Predict"] = Relationship(back_populates="line")
+  forms: List["Form"] = Relationship(back_populates="line", cascade_delete=True)
+  predictions: List["Predict"] = Relationship(back_populates="line", cascade_delete=True)
   __table_args__ = (UniqueConstraint("doc_id", "num", name="uq_doc_num"),)
 
 class Form(SQLModel, table=True):
@@ -63,8 +63,9 @@ class Predict(SQLModel, table=True):
   prompt_tokens: int
   completion_tokens: int
   temperature: float
-  lemmas: List["Lemma"] = Relationship(back_populates="predict")
-  raw: Optional["PredictRaw"] = Relationship(back_populates="predict")
+  test: Optional[bool]
+  lemmas: List["Lemma"] = Relationship(back_populates="predict", cascade_delete=True)
+  raw: Optional["PredictRaw"] = Relationship(back_populates="predict", cascade_delete=True)
 
 class PredictRaw(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True, foreign_key="predict.id")
@@ -83,7 +84,7 @@ class Lemma(SQLModel, table=True):
   eq: bool
   predict: Predict = Relationship(back_populates="lemmas")
   form: Form = Relationship(back_populates="lemmas")
-  raw: Optional["LemmaRaw"] = Relationship(back_populates="lemma")
+  raw: Optional["LemmaRaw"] = Relationship(back_populates="lemma", cascade_delete=True)
 
 class LemmaRaw(SQLModel, table=True):
   id: int = Field(default=None, primary_key=True, foreign_key="lemma.id")
@@ -139,14 +140,14 @@ class DB():
   def add_test(self):
     with self.s as s:
       form = Form(num=0, form="Mæg", lemma="mag") # type: ignore
-      corpus = Corpus(corpus="iswoc", path="", docs=[
+      corpus = Corpus(id=0, corpus="iswoc", path="", docs=[
         Doc(doc="forms.txt", 
           lines=[Line(num=0, line="Mæg gehyran se ðe", lemmas="mag gehyran se þe", 
             forms=[form],  
             predictions=[Predict(model="mistral:7b", done=True, no_eq=0, temperature=0.0, 
               at=datetime.fromisoformat('2025-01-03T10:23:28.830015Z'),
               load_duration=21163667, prompt_eval_duration=261000000, eval_duration=551000000, 
-              prompt_tokens=30, completion_tokens=31, 
+              prompt_tokens=30, completion_tokens=31, test=True, 
               raw=PredictRaw(promt="", content=""), # type: ignore
               lemmas=[Lemma(form=form, lemma="mag", eq=True,
                 raw=LemmaRaw(id=1, en="can", ru="может", morph="pronoun", syntax="subject", 
@@ -162,29 +163,54 @@ class DB():
         )]
       )
       s.add(corpus)
-      s.commit() # s.refresh(corpus)
+      s.commit()
+      # s.refresh(corpus)
       # line = corpus.docs[0].lines[0]
       # print(line.forms[0].lemmas[0].raw)
       # print(line.predictions[0].raw)         
 
+  def one(self, table: Type[T] = Corpus, id=0) -> ScalarResult[T]:
+    return self.s.exec(select(table).where(table.id==id)).one_or_none()
+
+  def get_test_predict(self):
+    return self.s.exec(select(Predict).where(Predict.test == True))
+
+  def delete(self, rows):
+    commit = False
+    for row in rows:
+      if row:
+        self.s.delete(row)
+        commit = True
+    if commit:
+      self.s.commit()
+
+  def del_test(self):
+    self.delete([self.one()])
+    self.s.exec(delete(Predict).where(Predict.test == True))
+    self.s.commit()
+
   def get_test_line(self):
     return self.s.exec(
         # select(Line.id, Line.line, func.count(Form.id).label('num_forms')) \
+        # select(Line, func.count(Form.id).label('num_forms')) \
         select(Line) \
         .join(Line.forms) \
         .group_by(Line.id) \
-        # .group_by(Line.id, Line.line) \
-        .having(func.count(Form.id) == 2) \
-        # .order_by(func.count(Form.id)) \
+        .group_by(Line.id, Line.line) \
+        .group_by(Line) \
+        .having(func.count(Form.id) < 3) \
+        .order_by(func.count(Form.id).desc()) \
         .limit(1)
       ).one()
-
 
 if __name__ == "__main__":
   db = DB()
   # db.init()
   # db.add_test()
-  # db.stat()
+  # print(db.one())
+  # db.del_test()
+  db.stat()
+  # print(db.get_test_predict())
   # print(db.df(Corpus))
   # print(db.df())
   # print(df(db.get_doc()))
@@ -197,4 +223,4 @@ if __name__ == "__main__":
   # print(db.get_lemma())
   # print(db.tbl(limit=2).all())
   # print(df(db.get_forms_count()))
-  print(db.get_test_line())
+  # print(db.get_test_line())

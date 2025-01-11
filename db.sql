@@ -44,6 +44,7 @@ CREATE TABLE predict (
 	prompt_tokens INTEGER NOT NULL, 
 	completion_tokens INTEGER NOT NULL, 
 	temperature FLOAT NOT NULL, 
+	test BOOLEAN, 
 	PRIMARY KEY (id), 
 	FOREIGN KEY(line_id) REFERENCES line (id)
 );

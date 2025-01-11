@@ -57,23 +57,28 @@ class LLM:
     print()
     print(self.response.raw)
 
-  def lemmatize_old_english(self, text=text):
-      prompt = f"""
-      Perform lemmatization of the following Old English text:
-      {text}
+  def lemmatize(self, text=text):
+    prompt = f"""
+    Perform lemmatization of the following Old English text:
+    {text}
 
-      Return the result as a JSON array where each item contains:
-      - word_form: the original word form
-      - lemma: the lemma of the word
-      - translation_en: the English translation of the lemma
-      - translation_ru: the Russian translation of the lemma
-      - morph_analysis: morphological analysis
-      - syntax_analysis: syntactic analysis
-      The result should be just json without formatting and text descriptions.
-      """
-      self.json = json.loads(self.complete(prompt).text)
-      self.log_json()
-      return self.json
+    Return the result as a JSON array where each item contains:
+    - word_form: the original word form
+    - lemma: the lemma of the word
+    - translation_en: the English translation of the lemma
+    - translation_ru: the Russian translation of the lemma
+    - morph_analysis: morphological analysis
+    - syntax_analysis: syntactic analysis
+    The result should be just json without formatting and text descriptions.
+    """
+    self.json = json.loads(self.complete(prompt).text)
+    self.log_json()
+    return self.json
+
+  def lemmatize_test(self):
+    line = self.db.get_test_line()
+    json = self.lemmatize()
+    return json
 
 class LLM_Stream(LLM):
   def stream_complete(self, query = LLM.query):
