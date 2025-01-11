@@ -2,8 +2,10 @@ import os
 from llama_index.llms.ollama import Ollama
 import json
 from dataclasses import dataclass, astuple, fields
-from db import DB, Corpus, Doc, Line, Form, Predict, Lemma, LemmaRaw
+from db import DB, Corpus, Doc, Line, Form, Predict, PredictRaw, Lemma, LemmaRaw
 from pandas import DataFrame as df
+from datetime import datetime
+from textwrap import dedent
 
 @dataclass
 class Model:
@@ -48,37 +50,79 @@ class LLM:
       json.dump(self.json, f, indent=2, ensure_ascii=False)
 
   def complete(self, query=query):
-    self.response = self.llm.complete(query)
-    self.log()
-    return self.response
+    r = self.llm.complete(query)
+    self.response = r
+    if r:
+      self.log()
+      return r.text
+    print(f'ERR: {r}')
+
+  def complete_json(self, text=text):
+    content = self.complete(text)
+    if content:
+      self.json = json.loads(content)
+      self.log_json()
+      return content
+    print('ERR: lemmatize')
 
   def debug(self):
     print(self.response.text)
     print()
     print(self.response.raw)
 
-  def lemmatize(self, text=text):
-    prompt = f"""
-    Perform lemmatization of the following Old English text:
-    {text}
+  def promt_v1(self, text=text):
+    return dedent(f"""
+      Perform lemmatization of the following Old English text:
+      {text}
 
-    Return the result as a JSON array where each item contains:
-    - word_form: the original word form
-    - lemma: the lemma of the word
-    - translation_en: the English translation of the lemma
-    - translation_ru: the Russian translation of the lemma
-    - morph_analysis: morphological analysis
-    - syntax_analysis: syntactic analysis
-    The result should be just json without formatting and text descriptions.
-    """
-    self.json = json.loads(self.complete(prompt).text)
-    self.log_json()
-    return self.json
+      Return the result as a JSON array where each item contains:
+      - word_form: the original word form
+      - lemma: the lemma of the word
+      - translation_en: the English translation of the lemma
+      - translation_ru: the Russian translation of the lemma
+      - morph_analysis: morphological analysis
+      - syntax_analysis: syntactic analysis
+      The result should be just json without formatting and text descriptions.
+    """).strip()
 
-  def lemmatize_test(self):
-    line = self.db.get_test_line()
-    json = self.lemmatize()
-    return json
+  def lemmatize(self, line=None, test = False):
+    if not line:
+      line = self.db.get_test_line()
+      test = True
+    promt = self.promt_v1(line.line)
+    content = self.complete_json(promt)
+    if not content:
+      print('ERR: lemmatize_test')
+      return
+    json = self.json
+    model = self.llm
+    raw = self.response.raw
+    prediction = Predict(
+      line_id = line.id, # line = line,
+      test = test,
+      model = model.model,
+      temperature = model.temperature, 
+      done = raw["done"], 
+      at = datetime.fromisoformat(raw["created_at"]),
+      **{k:raw[k] for k in ["load_duration", "prompt_eval_duration", "eval_duration"]},
+      **{k:raw["usage"][k] for k in ["prompt_tokens", "completion_tokens"]},
+      no_eq = 0,
+      raw=PredictRaw(promt=promt, content=content), # type: ignore
+    )
+    for form in line.forms:
+      d = json[form.num]
+      if form.form != d["word_form"]:
+        print(f"ERR: {form} != {d}")
+        return 
+      lemma = d["lemma"]
+      eq = (form.lemma == lemma)
+      prediction.no_eq += int(not eq)
+      prediction.lemmas.append(Lemma(form=form, lemma=lemma, eq=eq,
+        raw=LemmaRaw(raw=d, en=d["translation_en"], ru=d["translation_ru"], morph=d["morph_analysis"], syntax=d["syntax_analysis"])
+      ))
+    self.db.s.add(prediction)
+    self.db.s.commit()
+    return line.id, prediction.no_eq
 
 class LLM_Stream(LLM):
   def stream_complete(self, query = LLM.query):
@@ -98,7 +142,8 @@ if __name__ == "__main__":
     llm = LLM()
     # llm.complete()
     # llm.debug()
-    print(llm.lemmatize_old_english())
+    print(llm.lemmatize())
+    # print(llm.promt_v1())
   def test_model():
     print(astuple(Model()))
     print([f.default for f in fields(Model)])
