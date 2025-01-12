@@ -6,6 +6,7 @@ from db import DB, Corpus, Doc, Line, Form, Predict, PredictRaw, Lemma, LemmaRaw
 from pandas import DataFrame as df
 from datetime import datetime
 from textwrap import dedent, wrap
+import re
 
 @dataclass
 class Model:
@@ -40,6 +41,7 @@ class LLM:
     if not os.path.exists(self.path):
       os.makedirs(self.path)
     self.db = DB()
+    self.json_array = re.compile(r'\[\s*\{.*?\}\s*\]', re.DOTALL)
 
   def log(self, line_id = ''):
     with open(f'{self.path}/raw{line_id}.json', 'w') as f:
@@ -64,14 +66,18 @@ class LLM:
   def complete_json(self, text=text):
     content = self.complete(text)
     if content:
+      match = self.json_array.search(content)
+      if not match:
+        print(f"json array search ERR: {content[:100]}")
+      json_array = match.group()
       try:
-        self.json = json.loads(content)
-        content = self.complete_json(promt)
+        self.json = json.loads(json_array)
       except Exception as e:
         self.log_err()
-        return f"json load ERR: {content[:100]}"
+        print(f"json load ERR: {json_array[:100]}")
+        return 
       self.log_json()
-      return content
+      return json_array
     print('ERR: lemmatize')
 
   def debug(self):
@@ -120,10 +126,12 @@ class LLM:
       no_eq = 0,
       raw=PredictRaw(promt=promt, content=content), # type: ignore
     )
+    if len(json) < len(line.forms):
+      return f"line: {line.id} ERR: {len(json)} < {len(line.forms)}"
     for form in line.forms:
       d = json[form.num]
       if form.form != d["word_form"]:
-        print(f"ERR: {form} != {d}")
+        print(f"line: {line.id} ERR: {form} != {d}")
         return 
       lemma = d["lemma"]
       eq = (form.lemma == lemma)
@@ -133,7 +141,7 @@ class LLM:
       ))
     self.db.s.add(prediction)
     self.db.s.commit()
-    return line.id, prediction.no_eq
+    return line.id, prediction.no_eq, len(line.forms)
 
 class LLM_Stream(LLM):
   def stream_complete(self, query = LLM.query):

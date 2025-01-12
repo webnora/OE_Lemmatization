@@ -203,8 +203,18 @@ class DB():
         .limit(1)
       ).one()
 
-  def get_line(self):
-    return self.s.exec(select(Line).where(~Line.predictions.any()))
+  def get_line(self, limit=-1):
+    return self.s.exec(
+      # select(Line.id, Line.line, func.count(Form.id).label('count_forms')) \
+      select(Line) \
+      .join(Line.forms) \
+      .group_by(Line.id) \
+      .group_by(Line.id, Line.line) \
+      .group_by(Line) \
+      .order_by(func.count(Form.id)) \
+      .where(~Line.predictions.any())
+      .limit(limit=limit)
+    )
 
 if __name__ == "__main__":
   db = DB()
@@ -212,7 +222,7 @@ if __name__ == "__main__":
   # db.add_test()
   # print(db.one())
   # db.del_test()
-  db.stat()
+  # db.stat()
   # print(db.get_test_predict())
   # print(db.df(Corpus))
   # print(db.df())
@@ -227,3 +237,5 @@ if __name__ == "__main__":
   # print(db.tbl(limit=2).all())
   # print(df(db.get_forms_count()))
   # print(db.get_test_line())
+  # print(df(db.get_line(3).all()))
+  print(df(db.get_line(2).all()))
