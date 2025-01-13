@@ -63,12 +63,12 @@ class LLM:
       return r.text
     print(f'ERR: {r}')
 
-  def complete_json(self, text=text):
-    content = self.complete(text)
+  def parse_json(self, content):
     if content:
       match = self.json_array.search(content)
       if not match:
         print(f"json array search ERR: {content[:100]}")
+        return 
       json_array = match.group()
       try:
         self.json = json.loads(json_array)
@@ -78,7 +78,10 @@ class LLM:
         return 
       self.log_json()
       return json_array
-    print('ERR: lemmatize')
+    print('ERR: not content')
+
+  def complete_json(self, text=text):
+    return self.parse_json(self.complete(text))
 
   def debug(self):
     print(self.response.text)
@@ -105,8 +108,9 @@ class LLM:
       line = self.db.get_test_line()
       test = True
     promt = self.promt_v1(line.line)
+    content = self.complete(promt)
     try:
-      content = self.complete_json(promt)
+      content = self.parse_json(content)
     except Exception as e:
       return f"line: {line.id} ERR: {str(e)[:100]}"
     if not content:
