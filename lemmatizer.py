@@ -1,6 +1,6 @@
-class Lemmatazer:
+class Lemmatizer:
   path_in  = 'd/in/'
-  path_out = 'd/lemmatazer/'
+  path_out = 'd/Lemmatizer/'
 
   def __init__(self, 
                fileStop = path_in + 'stop.txt', 
@@ -77,38 +77,38 @@ class Lemmatazer:
 
 
 if __name__ == "__main__":
-  lm0 = Lemmatazer()
+  lm0 = Lemmatizer()
   lm0.parse()
   lm0.stat()
   lm0.save_debug()
   lm0.save_text()
 
   from lemmas import Lemmas
-  lm1 = Lemmatazer('', Lemmas.file_out_norm)
+  lm1 = Lemmatizer('', Lemmas.file_out_norm)
   lm1.parse('d/iswoc/lemmas.txt')
-  lm2 = Lemmatazer('', Lemmas.file_out_norm)
+  lm2 = Lemmatizer('', Lemmas.file_out_norm)
   lm2.parse('d/iswoc/forms.txt')
-  lm2.save_debug(Lemmatazer.path_out + 'diff.tsv', diff = lm1.words)
+  lm2.save_debug(Lemmatizer.path_out + 'diff.tsv', diff = lm1.words)
   lm2.stat()
 
-  # lm2 = Lemmatazer('', Lemmas.file_out_norm)
+  # lm2 = Lemmatizer('', Lemmas.file_out_norm)
   # lm2.parse('d/iswoc/forms.txt')
   # lm2.save_debug(diff = lm1.words)
   # lm2.stat()
 
 
-  # lm2 = Lemmatazer('', Lemmas.file_out_norm)
+  # lm2 = Lemmatizer('', Lemmas.file_out_norm)
   # lm2.parse('d/iswoc/forms.txt')
   # lm2.stat()
   # lm2.save_debug('d/p_read/debug2.tsv')
   # lm2.save_text('d/p_read/text2.txt')
 
   # from lemmas import Lemmas
-  # diff = Lemmatazer('', Lemmas.file_out_norm)
-  # diff = Lemmatazer('', Lemmas.file_out_norm)
+  # diff = Lemmatizer('', Lemmas.file_out_norm)
+  # diff = Lemmatizer('', Lemmas.file_out_norm)
   # diff.parse('d/iswoc/lemmas.txt')
 
-  # lm = Lemmatazer('', Lemmas.file_out_norm)
+  # lm = Lemmatizer('', Lemmas.file_out_norm)
   # lm.parse('d/iswoc/forms.txt')
   # lm.save_debug(diff = diff.words)
   # lm.stat()

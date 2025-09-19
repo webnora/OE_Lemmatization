@@ -2,9 +2,9 @@ Stop words: 495
 All words: 7269
 Forms not found: 5000 (68.79%)
 Lemms not found: 2115 (29.10%)
-save debug to: d/lemmatazer/debug.tsv
-save text to: d/lemmatazer/text.txt
-save debug to: d/lemmatazer/diff.tsv
+save debug to: d/Lemmatizer/debug.tsv
+save text to: d/Lemmatizer/text.txt
+save debug to: d/Lemmatizer/diff.tsv
 Stop words: 0
 All words: 15802
 Forms not found: 1225 (7.75%)

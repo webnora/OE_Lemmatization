@@ -1,4 +1,4 @@
-from lemmatazer import Lemmatazer
+from Lemmatizer import Lemmatizer
 from db import DB, Corpus, Doc, Line, Form
 
 class ISWOC:
@@ -51,7 +51,7 @@ class ISWOC:
     self.save(file, "lemmas")
 
   def lemmatize(self, file = path_out + file_forms, file_out = path_out + 'lemmatize.txt'):
-    lm = Lemmatazer("")
+    lm = Lemmatizer("")
     lm.parse(file)
     lm.stat()
     lm.save_text(file_out)

@@ -1,11 +1,11 @@
 from os import listdir
-from lemmatazer import Lemmatazer
+from Lemmatizer import Lemmatizer
 
 class Corpus:
   path = 'd/in/calgary/'
   file_out = 'd/corpus/out.txt'
 
-  def __init__(self, path = path, lm = Lemmatazer()):
+  def __init__(self, path = path, lm = Lemmatizer()):
     self.path = path
     self.files = (f for f in listdir(path) if f.endswith('.txt'))
     self.lm = lm
