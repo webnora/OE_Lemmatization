@@ -1,6 +1,6 @@
 class Lemmatizer:
   path_in  = 'd/in/'
-  path_out = 'd/Lemmatizer/'
+  path_out = 'd/lemmatizer/'
 
   def __init__(self, 
                fileStop = path_in + 'stop.txt', 
@@ -75,6 +75,13 @@ class Lemmatizer:
     if self.eq:
       print(f'Found in diff: {self.eq} ({(self.eq)/all*100:.2f}%)')
 
+  def save_not_found(self, fileName='d/lemmatizer/not_found.txt'):
+    print(f'Saving not found words to: {fileName}')
+    notFound_forms = [w[0] for w in self.words if not w[1]]
+    unique_notFound = sorted(list(set(notFound_forms)))
+    with open(fileName, 'w') as f:
+      f.write('\n'.join(unique_notFound))
+
 
 if __name__ == "__main__":
   lm0 = Lemmatizer()
@@ -90,6 +97,7 @@ if __name__ == "__main__":
   lm2.parse('d/iswoc/forms.txt')
   lm2.save_debug(Lemmatizer.path_out + 'diff.tsv', diff = lm1.words)
   lm2.stat()
+  lm2.save_not_found(f'{Lemmatizer.path_out}not_found.txt')
 
   # lm2 = Lemmatizer('', Lemmas.file_out_norm)
   # lm2.parse('d/iswoc/forms.txt')
